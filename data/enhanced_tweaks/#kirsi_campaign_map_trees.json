@@ -1,0 +1,44 @@
+{
+	"Campaign Map Trees": [
+		{
+			"[CTree] Min sparse size": [
+				0.4
+			]
+		},
+		{
+			"[CTree] Max sparse size": [
+				0.7
+			]
+		},
+		{
+			"[CTree] Min dense size": [
+				0.4
+			]
+		},
+		{
+			"[CTree] Max dense size": [
+				0.7
+			]
+		},
+		{
+			"[CTree] Min canopy size": [
+				0.4
+			]
+		},
+		{
+			"[CTree] Max canopy size": [
+				0.7
+			]
+		},
+		{
+			"[CTree] Hue variation": [
+				-0.1
+			]
+		},
+		{
+			"[CTree] Sheer scale": [
+				1
+			]
+		},
+	],
+}

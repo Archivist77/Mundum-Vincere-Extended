@@ -1,0 +1,42 @@
+------DONE:
+paeonia
+bessi
+caeni
+krobyzi
+palmyra
+hadhramaut
+saba
+qataban
+lihyan
+mascat
+
+
+
+------HARD LIGHT SETTINGS 
+---40 opacity (logo)
+lihyan  (0 for primary, 40 for secondary)
+
+---60 opacity (logo)
+hadhramaut  (0 for primary, 100 for secondary)
+saba  (0 for primary, 80 for secondary)
+qataban  (100 for primary, 35 for secondary)
+
+---80 opacity (logo)
+paeonia  (100 for primary, 20 for secondary)
+caeni  (100 for primary, 20 for secondary)
+krobyzi  (100 for primary, 0 for secondary)
+palmyra  (0 for primary, 80 for secondary)
+
+---100 opacity (logo)
+bessi  (100 for primary, 20 for secondary)
+
+
+
+------LOGO SIZE SETTINGS (besides default)
+saba 890x890 for logo size
+lihyan 972x972 for logo size
+
+
+
+------UNUSUAL UNIQUE SETTINGS
+mascat uses HSL color at 80% opacity for middle logo layer instead of HSV sat.

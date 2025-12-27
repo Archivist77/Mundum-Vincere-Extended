@@ -1,0 +1,204 @@
+I'm going to need you to make building descriptions for shrines dedicated to certain gods for cultures in my mod for Rome Total War remastered.
+I want them to be made similar to the ones already in the base game.
+
+What I want you to do:
+From the examples, take into account their length, style, tense, and historicity
+Stay consistent with the examples, though small occasional deviances are permitted
+Use reputable online resources
+Use 2 sentences, no more and no less
+No more than 350 characters
+No less than 150 characters
+Try to include historical references
+
+What I do NOT want you to do:
+Do not write in the past-tense as if looking back
+Do not refer to modern locations
+Do not make up false information
+Do not write descriptions as if writing them back to back (e.g. saying a god is a "god of war" in one description, and saying "another god of war" in the next)
+Do not copy the info in the parentheses next to the god's name word-for-word (e.g. saying a god is a "sky father god". make it sound natural, "God of the sky")
+Do not make descriptions for gods that I haven't asked for
+Do not write repetitive sentences
+
+The biggest thing I want you to take out of this is that they need to be consistent with the base game, like the examples I'm about to show you.
+
+The following examples are from several factions and cultures in the game:
+
+(
+"This Shrine is dedicated to Vahagan, the God of Thunder, Clouds and Fire. He is a metalworker and smith to the other gods, a maker of weapons. It is in this capacity that he is honoured by warriors."
+
+"This Shrine is dedicated to Anahit, once the Goddess of War, but also Goddess of Fertility and Birth. She is the chief of all the Armenian pantheon. As such, she is widely worshipped and respected for he influence in all areas of life."
+
+"This Shrine is dedicated to Armazd, the Father of all Gods, and the Creator of heaven and earth. He is the source of all light and growth. The chief celebration in his honour is always held on the Spring equinox."
+
+"This Shrine is dedicated to Zoroastra, the founder and creator of the Avesta. A sacred fire is kept burning at all times within the shrine. Zoroastra teaches that Ozmud, the creator and angel of good will triumph over Ahriman, the angel of evil, and that a man's fate depends on the good and evil in his life."
+
+"This Shrine is dedicated to Baal, the Ruler of the Universe and the Rider of the Clouds. He is the source of life, and a powerful god of war. He is the god on which all others depend, and a wielder of thunderbolts. Worship of Baal also includes child sacrifice and holy prostitution among its other observances."
+
+"This Shrine is dedicated to Melqart, the son of Baal and the Ruler of the Underworld."
+
+"This Large Temple is dedicated to Tanit, the Queen of Heaven and Mother Goddess. Prayers are offered to her to ensure children, good harvests and tranquility in people's homes. She was Astarte to the Phoenicians, the original settlers of Carthage."
+)
+
+
+Those are the examples. Here are the cultures and names of gods I want you to make descriptions for, as well as internet sources for you to find information about them.
+
+
+
+Source for Arabian gods:
+https://en.wikipedia.org/wiki/List_of_pre-Islamic_Arabian_deities
+https://www.britannica.com/topic/Arabian-religion/Pre-Islamic-deities
+
+Al-Lat (Goddess of War and Peace) (daughter of Allah)
+Al-Uqaysir (God of Agriculture) 
+Atarsamain (God of the Morning Star) (in trinity with Ruda and Nuha)
+Qaynan (God of Smithcraft)
+Manaf (God of the Sun)
+Al-Kutbay (Nabataean God of Writing)
+Dushara (Nabataean God of the Sky, Mountains, Fertility, and Justice) (main nabataean god)
+Dhu-Samawi (God of the Sky) (protector of camels)
+Dhu-Ghabat (God of the Hunt and the Forest) (chief god of the lihyanites)
+Manat (Goddess of Destiny and Death) (oldest daughter of Allah)
+Nuha (Goddess of the Sun) (in trinity with Ruda and Atarsamain)
+Ruda (God of the Moon) (in trinity with Nuha and Satarsamain)
+Al-Uzza (Goddess of Might, Protection, and Love) (daughter of Allah)
+Gad (God of Fortune)
+Hubal (God of Divinity and Victory)
+Al-Qaum (God of War and the Night) (guardian of caravans)
+Almaqah (God of the Moon and Irrigation) (chief god of the sabaeans)
+Athtart (Goddess of Love and Fertility) (in trinity with Shams and Wadd)
+Amm (God of the Moon and Weather) (main god of Qataban)
+Basamum (God of Healing)
+Athtar (God of the Hunt)
+Shams (Goddess of the Sun) (in trinity with Athtart and Wadd)
+Wadd (God of the Moon) (in trinity with Athtart and Shams)
+Yaghuth (God of War)
+
+
+
+Source for Carthaginian gods:
+https://en.wikipedia.org/wiki/Canaanite_religion
+https://en.wikipedia.org/wiki/Punic_religion
+https://www.reddit.com/r/PhoeniciaHistoryFacts/comments/192suz5/in_carthage_a_vast_array_of_gods_and_goddesses/
+
+Baal Hadad (God of the Sky and War)
+Kothar (God of Craftsmanship)
+Shadrap (God of Healing and Festivity)
+Kusor (God of Knowledghe)
+Eshmun (God of Healing)
+Anath (Goddess of the Hunt, wife of Hadad)
+Semes (Goddess of the Sun)
+Sakkun (God of Administration)
+Astarte (Goddess of Love)
+Baal Saphon (God of the Sea and Rivers)
+Hawot (Goddess of the Dead)
+Reshef (God of War and Disease)
+
+
+
+Source for Numidian gods:
+https://www.temehu.com/imazighen/tamazight-mythology.htm
+https://en.wikipedia.org/wiki/Traditional_Berber_religion
+https://en.wikipedia.org/wiki/History_of_early_Tunisia#Berber_language_history
+https://libyanheritagehouse.org/religion/amazigh-religion-in-libya#:~:text=Ifri%20was%20an%20important%20war,as%20in%20North%20Africa%2027.
+https://www.livius.org/articles/place/numidia/
+https://pdfcoffee.com/between-sand-and-sea-mythic-africa-2-pdf-free.html
+
+Ifri (Goddess of War and Fertility)
+Anti (God of Strength, Greek Antaeus)
+Anzar (God of Rain)
+Atlas (God of the Mountains) (known for holding up the skies)
+Macurgum (God of Healing)
+Iunam (God of the Moon) (depicted as a horseman)
+Varsutina (Chief Goddess of the Mauri)
+Ammon (King of the Gods) (has horns of a ram)
+Mastinam (God associated with Jupiter)
+Libya (Patron Goddess of Libya)
+Vihina (Goddess of Childbirth)
+Motmanius (God of Trade and Communication)
+Macurtan (God of the Sea) (depicted with a bucket)
+Sinifere (God of War)
+Gurzil (God of War) (takes form of a bull)
+
+Other gods:
+Ieru
+Baccax
+Eraoranzan
+Moneyba
+Idafe
+Imbarken (wind spirits)
+Tenunbia
+
+Bocax
+Auliswa
+Mona
+Mathamos
+Draco
+Lilleus
+Abaddir
+
+Masiden
+Thililva
+Suggan
+Iesdan
+Masiddica
+
+Bonchar 
+Vihina 
+Macurgum 
+Varsissima 
+Matilam 
+Macurtan 
+Iunam 
+
+Motmanius
+Gilva
+Iocolon
+
+
+
+
+
+Source for Armenian gods:
+https://en.wikipedia.org/wiki/Armenian_mythology
+https://www.h-pem.com/en/in-pictures/2020/03/12/armenian-pagan-gods-mythology-anahit-vahagn-mihr/28
+https://anahitoferebuni.wordpress.com/2017/11/28/astghik-and-vardavar-the-festival-of-roses/
+https://armenian-history.com/armenian_epic_heroes.htm#:~:text=Aram%20(%D4%B1%D6%80%D5%A1%D5%B4),Mades%20with%20his%20big%20army.
+
+Nane (Goddess of War and Wisdom)
+Spandaramet (Goddess of Agriculture and the Underworld)
+Amanor (God of the New Year and Harvests)
+Mihr (God of the Sun and Light) (son of Armazd)
+Vanatur (God of Hospitality)
+Anadatus (God of Immortality and Health)
+Hayk (Founder of Armenia)
+Omanos (God of Wisdom and Virtue)
+Barsamin (God of the Sky and Weather)
+Astghik (Goddess of Love and Beauty)
+Tsovinar (Goddess of the Sea and Rain)
+Tir (God of Literature and the Arts)
+Angel (God of War and the Underworld)
+Tork Angegh (God of Strength and Courage)
+
+
+
+
+Source for Georgian/Kartvelian gods:
+https://en.wikipedia.org/wiki/Georgian_mythology
+https://www.reddit.com/r/Sakartvelo/comments/p4s863/pagan_gods_and_goddesses_of_georgian_pagan/
+https://paganpages.org/emagazine/2017/08/01/she-who-is-all-the-goddess-of-ten-thousand-names-30/
+
+Georgi (God of War and Protection)
+Zaden (God of Fertility and Agriculture)
+Ainina (Goddess of War and Fertility)
+Pirkusha (God of the Forge)
+Aguna (God of Wine and Viticulture)
+Lamaria (Goddess of Fertility and the Hearth)
+Barbale (Goddess of Healing and Fertility)
+Tevdore (God of Agriculture and Horses)
+Dali (Goddess of the Hunt and Nature)
+Bochi (God of the Forest and Animals)
+Ghmerti (Supreme God of the Sky, Creator)
+Samdzimari (Goddess of Fertility and Oracles)
+Agdilis Deda (Goddess of the Community and Fertility)
+Amirani (Demi-god of Metallurgy and Resilience)
+Kopala (Demi-god of War and Lightning)

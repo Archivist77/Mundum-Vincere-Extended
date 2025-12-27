@@ -1,0 +1,5 @@
+color:
+hsl color
+
+logo:
+x2 soft light layers, 2nd soft light -127 hue

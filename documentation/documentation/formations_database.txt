@@ -1,0 +1,19 @@
+greek_cities, achea, aetolia, agyrion, akragas, argos, athens, boetia, byzantion, corinth, croton, elis, epirus, emporion, gortyn, knossos, kydonia, massalia, melos, rhegion, rhodes, syracuse, taras, thessaly, greek_f_1, greek_f_2, greek_f_3, greek_f_4, greek_f_5, greek_f_6, greek_f_7, greek_f_8, greek_f_9, greek_f_10, greek_f_11, aritim, felathri, tarchuna, veii, viesul, italic_f_1, italic_f_2, balkan_f_1, balkan_f_10, east_f_5
+
+spain, iberian_f_1, iberian_f_2, iberian_f_3, iberian_f_4, iberian_f_5, iberian_f_6, iberian_f_7, iberian_f_8, iberian_f_9, iberian_f_10, iberian_f_11, iberian_f_12, iberian_f_13, iberian_f_14, iberian_f_15, iberian_f_16, nuragic_f_1, nuragic_f_2, nuragic_f_3
+
+gauls, allobroges, boii, cenomanni, carni, insubres, leponti, ligures, senones, raeti, gallic_f_1, gallic_f_2, gallic_f_3, gallic_f_4, gallic_f_5, gallic_f_6, gallic_f_7, gallic_f_8, gallic_f_9, gallic_f_10, gallic_f_11, gallic_f_12, gallic_f_13, gallic_f_14, gallic_f_15, gallic_f_16, gallic_f_17, gallic_f_18, gallic_f_19, gallic_f_20, gallic_f_21, gallic_f_22, gallic_f_23, gallic_f_24, gallic_f_25, gallic_f_26, gallic_f_27, gallic_f_28, gallic_f_29, gallic_f_30, gallic_f_31, gallic_f_32, gallic_f_33, belgic_f_1, belgic_f_2, belgic_f_3, belgic_f_4, belgic_f_5, belgic_f_6, belgic_f_7, belgic_f_8, belgic_f_9, belgic_f_10, belgic_f_11, balkan_f_8
+
+dacia, veneti, histri, daunians, messapians, peucitans, balkan_f_2, balkan_f_3, balkan_f_4, balkan_f_5, balkan_f_6, balkan_f_7, balkan_f_9, balkan_f_11
+
+britons, brit_f_1, brit_f_2, brit_f_3, brit_f_4, brit_f_5, brit_f_6, brit_f_7, brit_f_8
+
+germans, germanic_f_1, germanic_f_2, germanic_f_3, germanic_f_5, germanic_f_6, germanic_f_7, germanic_f_8, germanic_f_9, germanic_f_10, germanic_f_11, germanic_f_12, germanic_f_13, germanic_f_14, germanic_f_15, germanic_f_16, germanic_f_17, germanic_f_18, germanic_f_19, germanic_f_20, germanic_f_21, germanic_f_22, germanic_f_23, germanic_f_24, germanic_f_25, germanic_f_26
+
+scythia, germanic_f_4
+
+numidia, desert_f_1, desert_f_2, desert_f_3, desert_f_4, desert_f_5, desert_f_6, arab_f_1, arab_f_2, arab_f_3, arab_f_4
+
+parthia, east_f_1, east_f_2, east_f_3, east_f_4, east_f_6, east_f_7, east_f_8, east_f_9
+
+brutii, frentani, lucani, picentes, sabines, samnites, umbri, volsci

@@ -1,0 +1,5 @@
+color:
+hsl color
+logo:
+x2 layers of overlay, 100 opacty
+x1 layer of dodge, 60 opacity, -127 brightness, -127 contract

@@ -1,0 +1,11 @@
+these factions should've had their secondary color set to 150, 20, 50
+anglii
+chauci
+fosi
+geati
+juti
+bructeri
+sciri
+sugambri
+tencteri
+ubii

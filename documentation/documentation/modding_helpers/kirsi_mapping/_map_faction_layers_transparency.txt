@@ -1,0 +1,4 @@
+bottom layer: as is
+middle layer: main factions, 200 transparency
+layer above: protectorates, 150 transparency
+top layer: outline, 180 transpareancy

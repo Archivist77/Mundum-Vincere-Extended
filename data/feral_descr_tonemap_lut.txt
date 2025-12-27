@@ -1,0 +1,579 @@
+;;;;;;;;
+;
+;	Edits by Swagger for RIS
+;
+;	split several climate_types and sandstorm is now its own weather_type
+;
+; feral_descr_tonemap_lut - Maps all the pertutations of weather and climate to a texture name that contains 
+; 							the hue shift that should be done in mentioned contidions
+;
+; Syntax: name 		<texture_name>
+;         map       <map_name>
+;		  climate	<climate_type>, [optional]<climate_type>...
+;		  season	<season_type>,  [optional]<season_type>...
+;		  weather	<weather_type>, [optional]<weather_type>...
+;		  daytime 	<daytime>,		[optional]<daytime>...
+;
+; Notes: - The LUT assignment is done in the order they are described here, so a lower LUT assignment will overwrite previous ones
+;
+;        - The LUT map determines if the LUT is used for the campaign or 3d battles / settlement view
+;
+;		 - In the campaign we only use season and daytime to pick the LUT
+;
+;        - Assinging multiple climates/weathers to a LUT will make it so that LUT is used for all combinations of climates/weathers
+;
+;		 - climate_types, weather_types, daytime_types can be defines as shorthand for any set of climates/weather/daytimes
+;
+;		 - Weather types that can be used: calm, hazy, dense_fog, light_fog, rain_drizzle, rain_storm, sand_storm, snow_falling, blizzard
+;
+;		 - Daytimes that can be used: midnight, sunrise, mid_morning, morning, midday, sunset, mid_evening, night
+;
+;		 - If you DON'T mention one of the parameters for a texture then ALL the posibilities are being assigned
+;
+;		 - Make sure to use Windows line endings, it massively messes up stuff if you don't
+;
+;;;;;;;;;
+
+;;; Climate/Weather/Daytime groups
+
+climate_types
+
+vibrant	default, temperate_grassland_fertile, test_climate
+
+blue	temperate_grassland_infertile, swamp
+
+red		semi_arid
+
+woods	temperate_forest_open, temperate_forest_deep
+
+cold	highland, alpine, sub_arctic
+
+desert	sandy_desert, rocky_desert
+
+weather_types
+
+sands	sand_storm
+
+clear	calm, hazy
+
+cloudy	light_fog, dense_fog
+
+rainy	rain_drizzle, rain_storm
+
+snow 	snow_falling, blizzard
+
+daytime_types
+
+day_summer 		mid_morning, morning, midday, 
+
+day_winter 		mid_morning, morning, midday
+
+night_summer 	sunrise, midnight, night, mid_evening, sunset
+
+night_winter 	sunrise, midnight, night, mid_evening, sunset
+
+;;; LUTs
+
+; Summer
+
+; Campaign map
+
+name      campaign_summer.tga
+map       campaign
+season    summer
+daytime   day_summer
+
+name      campaign_summer_night.tga
+map       campaign
+season    summer
+daytime   night_summer
+
+; 3D Battles
+
+;vibrant
+
+name 	  battle_hot.tga
+map       battle
+climate   vibrant
+season    summer
+weather   clear, sands
+daytime   day_summer
+
+name      battle_desaturated.tga
+map       battle
+climate   vibrant
+season    summer
+weather   cloudy
+daytime   day_summer
+
+name      battle_rain.tga
+map       battle
+climate   vibrant
+season    summer
+weather   rainy
+daytime   day_summer
+
+name      battle_frosty.tga
+map       battle
+climate   vibrant
+season    summer
+weather   snow
+daytime   day_summer
+
+name      battle_night.tga
+map       battle
+climate   vibrant
+season    summer
+weather   clear, cloudy, rainy, snow, sands
+daytime   night_summer
+
+;blue
+
+name      battle_mild.tga
+map       battle
+climate   blue
+season    summer
+weather   clear, sands
+daytime   day_summer
+
+name      battle_desaturated.tga
+map       battle
+climate   blue
+season    summer
+weather   cloudy
+daytime   day_summer
+
+name      battle_rain.tga
+map       battle
+climate   blue
+season    summer
+weather   rainy
+daytime   day_summer
+
+name      battle_frosty.tga
+map       battle
+climate   blue
+season    summer
+weather   snow
+daytime   day_summer
+
+name      battle_night.tga
+map       battle
+climate   blue
+season    summer
+weather   clear, cloudy, rainy, snow, sands
+daytime   night_summer
+
+;red
+
+name 	  arid_hot.tga
+map       battle
+climate   red
+season    summer
+weather   clear, sands
+daytime   day_summer
+
+name      arid_foggy.tga
+map       battle
+climate   red
+season    summer
+weather   cloudy
+daytime   day_summer
+
+name      arid_rainy.tga
+map       battle
+climate   red
+season    summer
+weather   rainy
+daytime   day_summer
+
+name      battle_frosty.tga
+map       battle
+climate   red
+season    summer
+weather   snow
+daytime   day_summer
+
+name 	  desert_sandstorm.tga
+map       battle
+climate   red
+season    summer
+weather   sands
+daytime   day_summer
+
+name      battle_night.tga
+map       battle
+climate   red
+season    summer
+weather   clear, cloudy, rainy, snow, sands
+daytime   night_summer
+
+;woods
+
+name      woods_hot.tga
+map       battle
+climate   woods
+season    summer
+weather   clear, sands
+daytime   day_summer
+
+name      woods_foggy.tga
+map       battle
+climate   woods
+season    summer
+weather   cloudy
+daytime   day_summer
+
+name      woods_rain.tga
+map       battle
+climate   woods
+season    summer
+weather   rainy
+daytime   day_summer
+
+name      woods_storm.tga
+map       battle
+climate   woods
+season    summer
+weather   snow
+daytime   day_summer
+
+name      battle_night.tga
+map       battle
+climate   woods
+season    summer
+weather   clear, cloudy, rainy, snow, sands
+daytime   night_summer
+
+;cold
+
+name      cold_clear.tga
+map       battle
+climate   cold
+season    summer
+weather   clear, sands
+daytime   day_summer
+
+name      cold_foggy.tga
+map       battle
+climate   cold
+season    summer
+weather   cloudy
+daytime   day_summer
+
+name      cold_storm.tga
+map       battle
+climate   cold
+season    summer
+weather   rainy
+daytime   day_summer
+
+name      cold_blizzard.tga
+map       battle
+climate   cold
+season    summer
+weather   snow
+daytime   day_summer
+
+name      battle_night.tga
+map       battle
+climate   cold
+season    summer
+weather   clear, cloudy, rainy, snow, sands
+daytime   night_summer
+
+;desert
+
+name 	  desert_hot.tga
+map       battle
+climate   desert
+season    summer
+weather   clear
+daytime   day_summer
+
+name 	  desert_sandstorm.tga
+map       battle
+climate   desert
+season    summer
+weather   sands
+daytime   day_summer
+
+name      desert_desaturated.tga
+map       battle
+climate   desert
+season    summer
+weather   cloudy
+daytime   day_summer
+
+name      arid_storm.tga
+map       battle
+climate   desert
+season    summer
+weather   rainy
+daytime   day_summer
+
+name      arid_haze.tga
+map       battle
+climate   desert
+season    summer
+weather   snow
+daytime   day_summer
+
+name      battle_night.tga
+map       battle
+climate   desert
+season    summer
+weather   clear, cloudy, rainy, snow, sands
+daytime   night_summer
+
+; Winter
+
+; Campaign map
+
+name      campaign_winter.tga
+map       campaign
+season    winter
+daytime   day_winter
+
+name      campaign_winter_night.tga
+map       campaign
+season    winter
+daytime   night_winter
+
+; 3D Battles
+
+;vibrant
+
+name 	  battle_mild.tga
+map       battle
+climate   vibrant
+season    winter
+weather   clear, sands
+daytime   day_winter
+
+name      battle_desaturated.tga
+map       battle
+climate   vibrant
+season    winter
+weather   cloudy
+daytime   day_winter
+
+name      battle_rain.tga
+map       battle
+climate   vibrant
+season    winter
+weather   rainy
+daytime   day_winter
+
+name      battle_frosty.tga
+map       battle
+climate   vibrant
+season    winter
+weather   snow
+daytime   day_winter
+
+name      battle_night_winter.tga
+map       battle
+climate   vibrant
+season    winter
+weather   clear, cloudy, rainy, snow, sands
+daytime   night_winter
+
+;blue
+
+name      battle_cold.tga
+map       battle
+climate   blue
+season    winter
+weather   clear, sands
+daytime   day_winter
+
+name      battle_desaturated.tga
+map       battle
+climate   blue
+season    winter
+weather   cloudy
+daytime   day_winter
+
+name      battle_rain.tga
+map       battle
+climate   blue
+season    winter
+weather   rainy
+daytime   day_winter
+
+name      battle_frosty.tga
+map       battle
+climate   blue
+season    winter
+weather   snow
+daytime   day_winter
+
+name      battle_night_winter.tga
+map       battle
+climate   blue
+season    winter
+weather   clear, cloudy, rainy, snow, sands
+daytime   night_winter
+
+;red
+
+name 	  battle_hot.tga
+map       battle
+climate   red
+season    winter
+weather   clear, sands
+daytime   day_winter
+
+name      battle_desaturated.tga
+map       battle
+climate   red
+season    winter
+weather   cloudy
+daytime   day_winter
+
+name      battle_rain.tga
+map       battle
+climate   red
+season    winter
+weather   rainy
+daytime   day_winter
+
+name      battle_frosty.tga
+map       battle
+climate   red
+season    winter
+weather   snow
+daytime   day_winter
+
+name 	  desert_sandstorm.tga
+map       battle
+climate   red
+season    summer
+weather   sands
+daytime   day_summer
+
+name      battle_night_winter.tga
+map       battle
+climate   red
+season    winter
+weather   clear, cloudy, rainy, snow, sands
+daytime   night_winter
+
+;woods
+
+name      woods_cold.tga
+map       battle
+climate   woods
+season    winter
+weather   clear, sands
+daytime   day_winter
+
+name      woods_foggy.tga
+map       battle
+climate   woods
+season    winter
+weather   cloudy
+daytime   day_winter
+
+name      woods_rain.tga
+map       battle	
+climate   woods
+season    winter
+weather   rainy
+daytime   day_winter
+
+name      woods_storm.tga
+map       battle
+climate   woods
+season    winter
+weather   snow
+daytime   day_winter
+
+name      battle_night_winter.tga
+map       battle
+climate   woods
+season    winter
+weather   clear, cloudy, rainy, snow, sands
+daytime   night_winter
+
+;cold
+
+name      cold_clear.tga
+map       battle
+climate   cold
+season    winter
+weather   clear, sands
+daytime   day_winter
+
+name      cold_foggy.tga
+map       battle
+climate   cold
+season    winter
+weather   cloudy
+daytime   day_winter
+
+name      cold_storm.tga
+map       battle
+climate   cold
+season    winter
+weather   rainy
+daytime   day_winter
+
+name      cold_blizzard.tga
+map       battle
+climate   cold
+season    winter
+weather   snow
+daytime   day_winter
+
+name      battle_night_winter.tga
+map       battle
+climate   cold
+season    winter
+weather   clear, cloudy, rainy, snow, sands
+daytime   night_winter
+
+;desert
+
+name 	  desert_hot.tga
+map       battle
+climate   desert
+season    winter
+weather   clear
+daytime   day_winter
+
+name 	  desert_sandstorm.tga
+map       battle
+climate   desert
+season    winter
+weather   sands
+daytime   day_winter
+
+name      desert_desaturated.tga
+map       battle
+climate   desert
+season    winter
+weather   cloudy
+daytime   day_winter
+
+name      arid_storm.tga
+map       battle
+climate   desert
+season    winter
+weather   rainy
+daytime   day_winter
+
+name      arid_haze.tga
+map       battle
+climate   desert
+season    winter
+weather   snow
+daytime   day_winter
+
+name      battle_night.tga
+map       battle
+climate   desert
+season    winter
+weather   clear, cloudy, rainy, snow, sands
+daytime   night_winter

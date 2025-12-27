@@ -1,0 +1,297 @@
+2167	Come home with this shield or upon it.	spartan_woman
+2174	Let them hate, as long as they fear.	accius
+2182	Against danger it pays to be prepared.	aesop
+2189	The Spartans do not ask how many but where they are.	agis
+2197	Brave men are a city's strongest tower of defence.	alcaeus
+2206	The corpse of an enemy always smells sweet.	vitellius
+2208	War spares not the brave but the cowardly.	anacreon
+2210	Necessity is the mother of invention.	apuleius
+2213	It is the noblest and safest thing for a great army to be visibly animated by one spirit.	archidamus
+2217	If we begin the war in haste, we'll have many delays before we end it, owing to our lack of preparation.	archidamus
+2223	We should not build our hopes on the belief that they will make mistakes, but on our own careful foresight.	archidamus
+2232	Remembering how great this city is which you are attacking, and what a fame you will bring on your ancestors and yourselves for good or evil according to the result, follow whithersoever you are led.	archidamus
+2234	When invading an enemy's country, men should always be confident in spirit, but they should fear too, and take measures of precaution; and thus they will be at once most valorous in attack and impregnable in defence.	archidamus
+2241	Give me somewhere to stand, and I will move the earth.	archimedes
+2244	Do not disturb my circles.	archimedes_last
+2254	Ah! The generals! They are numerous but not good for much!	aristophanes
+2264	War, as the saying goes, is full of false alarms.	aristotle
+2272	We make war so that we may live in peace.	aristotle
+2275	The wise man speaks because he has something to say, the fool speaks because he has to say something.	aristotle
+2283	A friend to all is a friend to none.	aristotle
+2284	All men by nature desire knowledge.	aristotle
+2290	Bad men are full of repentance.	aristotle
+2294	It is the mark of an educated mind to be able to entertain a thought without accepting it.	aristotle
+2303	No one loves the man whom he fears.	aristotle
+2308	I think the slain care little if they sleep or rise again.	aeschylus
+2312	A people's voice is dangerous when charged with wrath.	aeschylus
+2313	In war, truth is the first casualty.	aeschylus
+2315	If a man does not strike first, he will be the first struck.	athenagoras
+2321	Make haste cautiously.	augustus
+2323	Better a cautious commander, and not a rash one.	augustus
+2333	Varus, give me back my legions.	augustus_teutobergerwald
+2334	And into eternity, brother, hail and farewell.	catullus
+2339	If one is strong be also merciful, so that one's neighbours may respect one rather than fear one.	chilon
+2342	O happy Rome, born when I was consul!	cicero
+2345	The sinews of war are infinite money.	cicero
+2351	Armed forces abroad are of little value unless there is prudent counsel at home.	cicero
+2358	Laws are silent in times of war.	cicero
+2360	Danger gleams like sunshine to a brave man's eyes.	cicero
+2367	The god of war hates those who hesitate.	cicero
+2371	A large army is always disorderly.	cicero
+2378	Nothing is so fortified that it can't be conquered with money.	cicero
+2387	You'll reap what you sow.	cicero
+2390	By this sign you will conquer.	constantine
+2393	Only the brave enjoy noble and glorious deaths.	cicero
+2395	I found Rome a city of bricks and left it a city of marble.	augustus
+2401	Young men, hear an old man to whom old men hearkened when he was young.	augustus
+2404	If I've done well, give loud applause, shouts of joy in this actor's cause.	augustus_last
+2406	Every individual is the architect of his own fortune.	claudius
+2411	Say not always what you know, but always know what you say.	claudius
+2414	To do no evil is good, to intend none better.	claudius
+2420	No one is free who does not lord over himself.	claudius
+2422	I've made a mess of it.	claudius_last
+2425	What are you doing comrades? I am yours, and you are mine.	galba
+2426	Cowards die many times before their actual deaths.	caesar
+2429	Experience is the teacher of all things. 	caesar
+2435	As a rule, men worry more about what they can't see than about what they can.	caesar
+2441	If you must break the law, do it to seize power: in all other cases observe it.	caesar
+2449	It is easier to find men who will volunteer to die, than to find those who are willing to endure pain with patience.	caesar
+2453	It is not these well-fed long-haired men that I fear, but the pale and the hungry-looking.	caesar
+2461	Anger cannot be dishonest.	marcus_aurelius
+2463	A man's worth is no greater than his ambitions.	marcus_aurelius
+2472	Confine yourself to the present.	marcus_aurelius
+2482	Despise not death, but welcome it, for nature wills it like all else.	marcus_aurelius
+2488	Do every act of your life as if it were your last.	marcus_aurelius
+2489	It is not death that a man should fear, but he should fear never beginning to live.	marcus_aurelius
+2494	That which is not good for the bee-hive cannot be good for the bees.	marcus_aurelius
+2501	The secret of all victory lies in the organization of the non-obvious.	marcus_aurelius
+2506	To refrain from imitation is the best revenge.	marcus_aurelius
+2509	Hidden talent counts for nothing.	nero
+2511	What an artist dies with me!	nero_last
+2515	It is the duty of a good shepherd to shear his sheep, not to skin them.	tiberius
+2520	Power has no limits.	tiberius
+2522	To have command is to have all the power you will ever need. To have all the power you will ever need, is to have the world in the palm of your hand.	tiberius
+2532	An emperor ought to die standing.	vespasian_last
+2533	To an imperial city nothing is inconsistent which is expedient.	euphemus
+2539	Courage may be taught as a child is taught to speak.	euripides
+2544	We give you war; and in the same spirit we will fight it to the end.	fabius_vs_carthage
+2549	Let me have war, say I; It exceeds peace as far as day does night; It's spritely, waking, audible, and full of vent.	shakespeare_coriolanus
+2559	You blocks, you stones, you worse than senseless things! O you hard hearts, you cruel men of Rome! Knew you not Pompey?	shakespeare_caesar
+2564	Beware the Ides of March.	shakespeare_caesar
+2566	Poor Brutus, with himself at war, forgets the shows of love to other men.	shakespeare_caesar
+2574	Ambition's debt is paid.	shakespeare_caesar
+2578	Cry, 'Havoc!' and let slip the dogs of war.	shakespeare_caesar
+2584	Romans, countrymen, and lovers! Hear me for my cause, and be silent that you may hear.	shakespeare_caesar
+2589	As he was valiant, I honour him: but, as he was ambitious, I slew him.	shakespeare_caesar
+2599	I had rather have such men my friends than enemies.	shakespeare_caesar
+2607	Sweet mercy is nobility’s true badge.	shakespeare_titus
+2612	After the war is over, make alliances.	proverb_greek
+2618	Divide and rule.	proverb_greek
+2622	Summer, harvest, war.	proverb_greek
+2632	From a bad crow, a bad egg.	proverb_greek
+2635	I swear so soon as age will permit... I will use fire and steel to arrest the destiny of Rome.	hannibal
+2642	The gods have given to man no sharper spur to victory than contempt of death.	hannibal
+2647	We will either find a way, or make one.	hannibal
+2649	There is only one omen, to fight for one's country.	homer
+2659	The true contempt of an invader is shown by deeds of valour in the field.	hermocrates
+2660	When there is mutual fear, men think twice before they make aggression upon one another.	hermocrates
+2663	They have an abundance of gold and silver, and these make war, like other things, go smoothly.	hermocrates
+2673	Nobody is driven in to war by ignorance, and no one who thinks he will gain anything from it is deterred by fear.	hermocrates
+2679	In peace, sons bury their fathers; in war, fathers bury their sons.	herodotus
+2686	Far better it is to have a stout heart always and suffer one's share of evils, than to be ever fearing what may happen.	herodotus
+2692	Force has no place where there is need of skill.	herodotus
+2702	Great deeds are usually wrought at great risks.	herodotus
+2710	Haste in every business brings failures.	herodotus
+2713	In soft regions are born soft men.	herodotus
+2718	Even the bravest cannot fight beyond his strength.	homer
+2720	Ye gods, what dastards would our host command? Swept to the war, the lumber of the land.	homer
+2722	Noble and manly music invigorates the spirit, strengthens the wavering man, and incites him to great and worthy deeds.	homer
+2723	He serves me most, who serves his country best.	homer
+2728	To those that flee comes neither power nor glory.	homer
+2730	Men grow tired of sleep, love, singing and dancing sooner than war.	homer
+2731	The blade itself incites to violence.	homer
+2734	So ends the bloody business of the day.	homer
+2737	A glorious death is his who for his country falls.	homer
+2744	In Rome you long for the country; in the country oh inconstant you praise the distant city to the stars.	horace
+2748	Adversity reveals the genius of a general; good fortune conceals it.	horace
+2751	A wise man in times of peace prepares for war.	horace
+2752	Wars are the dread of mothers.	horace
+2753	It is a sweet and seemly thing to die for one's country.	horace
+2758	What coast knows not our blood?	horace
+2767	Seize the day.	horace
+2777	Anger is brief insanity.	horace
+2778	Senators should not have to suffer abuse or foul language, but it is a proper and lawful response if the senator uses it first.	imperial
+2780	As you are, I was. As I am, you will be.	inscription
+2781	A wise captain does not let passengers aboard until the cargo is in the hold.	julia
+2790	I would rather be first in a little village in Gaul than second in Rome.	caesar
+2791	War gives the right of the conquerors to impose any conditions they please upon the vanquished.	caesar
+2799	I came, I saw, I conquered.	caesar
+2800	In war important events result from trivial causes.	caesar
+2803	The die has been cast.	caesar
+2811	Even you Brutus?	caesar_last
+2813	This town is full of violent drunks who can't sleep until they have beaten someone up.	juvenal
+2814	These are Sparta's walls.	agesilaus
+2824	The conquered mourns, the conqueror is undone.	proverb_latin
+2830	A coward's mother does not weep.	proverb_latin
+2837	Arms keep peace.	proverb_latin
+2840	A brave man may fall, but he cannot yield.	proverb_latin
+2841	To blunder twice is not allowed in war.	proverb_latin
+2844	Victory loves prudence.	proverb_latin
+2848	Learn as if you will live forever, live as if you will die tomorrow.	proverb_latin
+2856	The poison is in the tail.	proverb_latin
+2865	It is a bad plan that cannot be changed.	proverb_latin
+2873	Remember you will die.	proverb_latin
+2876	Laws are silent in times of war	proverb_latin
+2886	All roads lead to Rome.	proverb_latin
+2893	Rome wasn't built in a day.	proverb_french
+2899	Come and take them!	leonidas
+2908	To a good general luck is important.	livy
+2915	The outcome corresponds less to expectations in war than in any other case whatsoever.	livy
+2918	Woe to the vanquished.	livy
+2922	War was coming, and it would have to be fought in Italy, in defence of the walls of Rome, and against the world in arms.	livy_punic
+2929	Never was one and the same spirit more skillful to meet opposition, to obey, or to command…	livy_hannibal
+2934	While stands the Coliseum, Rome shall stand; When falls the Coliseum, Rome shall fall; And when Rome falls - the World.	byron
+2942	To brave men, the prizes that war offers are liberty and fame.	lycurgus
+2950	You know how to win victory, Hannibal, you do not know how to use it.	maharbal_cannae
+2957	They will know that you are come before they know you are coming.	maharbal_rome
+2963	I am dying, Egypt, dying.	marc_antony
+2965	Every instant of time is a pinprick of eternity.	marcus_aurelius
+2970	Time is a violent torrent; no sooner is a thing brought to sight than it is swept by and another takes its place.	marcus_aurelius
+2971	Nothing happens to anybody which he is not fitted by nature to bear.	marcus_aurelius
+2976	Mankind have been created for the sake of one another. Either instruct them, therefore, or endure them.	marcus_aurelius
+2978	We do not hesitate to dutifully perform services for those whom we hope will assist us in the future.	cicero
+2985	A home without books is a body without soul.	cicero
+2991	Ability without honour is useless.	cicero
+3000	An unjust peace is better than a just war.	cicero
+3009	Any man can make mistakes, but only an idiot persists in his error.	cicero
+3010	Before beginning, plan carefully. 	cicero
+3014	Glory follows virtue as if it were its shadow.	cicero
+3019	I am not ashamed to confess that I am ignorant of what I do not know.	cicero
+3026	I prefer tongue-tied knowledge to ignorant loquacity.	cicero
+3027	May the earth be light upon you… so that dogs can more easily dig you up.	martial
+3033	The man who runs away will fight again.	menander
+3041	A small country cannot contend with a great; the few cannot contend with the many; the weak cannot contend with the strong.	mencius
+3046	March divided and fight concentrated.	maxim_military
+3047	Food of the gods.	nero_mushrooms
+3051	Soldiers do not like being under the command of one who is not of noble birth.	onosander
+3060	It is convenient that there be gods, and, as it is convenient, let us believe that there are.	ovid
+3066	Time, the devourer of everything.	ovid
+3076	It is right to learn, even from the enemy.	ovid
+3083	All things may corrupt when minds are prone to evil.	ovid
+3091	Tears at times have all the weight of speech.	ovid
+3094	Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish.	ovid
+3095	I am more afraid of our own mistakes than of our enemies' designs.	pericles
+3097	Men of Athens, I do not have much time for exhortation, but to the brave few words are as good as many…	pericles
+3100	Wait for that wisest of all counsellors, time.	pericles
+3104	He conquers who endures.	persius
+3107	An alliance with the powerful is never to be trusted.	phaedrus
+3110	Men in however high a station ought to fear the humble.	phaedrus
+3113	The mind ought sometimes to be diverted that it may return the better to thinking.	phaedrus
+3114	Aggression unchallenged is aggression unleashed.	phaedrus
+3123	In the moment of action remember the value of silence and order.	phormio
+3132	War is sweet to those who have never experienced it.	pindar
+3134	The rulers of the State are the only ones who should have the privilege of lying.	plato
+3138	Every care must be taken that our auxiliaries, being stronger than our citizens, may not grow too much for them and become savage beasts.	plato
+3145	Be kind, for everyone you meet is fighting a hard battle.	plato
+3146	Only the dead have seen the end of war.	plato
+3148	Wise men talk because they have something to say; fools, because they have to say something.	plato
+3149	Ignorance, the root and the stem of every evil.	plato
+3153	The valiant profit more their country than the finest, cleverest speakers.	plautus
+3162	Conquered, we conquer.	plautus
+3166	In these matters the only certainty is that nothing is certain.	pliny_elder
+3168	There is always something new out of Africa.	pliny_elder
+3172	When collapse is imminent, the little rodents flee.	pliny_elder
+3175	The best plan is to profit from the folly of others.	pliny_elder
+3184	An object in possession seldom retains the same charm that it had in pursuit.	pliny_younger
+3190	Extraordinary rains pretty generally fall after great battles.	plutarch
+3197	Know how to listen and you will profit even from those who talk badly.	plutarch
+3206	No beast is more savage than man when possessed with power answerable to his rage.	plutarch
+3212	A good general not only sees the way to victory, he also knows when victory is impossible.	polybius
+3215	In war we must always leave room for strokes of fortune, and accidents that cannot be foreseen.	polybius
+3223	The cruelty of war makes for peace.	publius_syrus
+3232	Pardon one offence and you encourage the commission of many.	publius_syrus
+3240	We should provide in peace what we need in war.	publius_syrus
+3250	Necessity knows no law except to conquer.	publius_syrus
+3253	It is a bad plan that cannot be altered.	publius_syrus
+3258	He is best secure from dangers who is on his guard even when he seems safe.	publius_syrus
+3262	The wounds of love can only be healed by the one who made them.	publius_syrus
+3270	Few men are born brave; many become so through training and force of discipline.	vegetius
+3271	A general is not easily overcome who can form a true judgement of his own and the enemy's forces.	vegetius
+3278	What can a warrior do who charges when out of breath?	vegetius
+3282	Valour is superior to numbers.	vegetius
+3287	Let him who desires peace prepare for war.	vegetius
+3291	An ambush, if discovered and promptly surrounded, will repay the intended mischief with interest.	vegetius
+3297	An adversary is more hurt by desertion than by slaughter.	vegetius
+3303	We die today not only for our friends and family but for our gods and for our forefathers and men before them so pray to them to make us victorious.	vegetius
+3304	I detest that man who hides one thing in the depths of his heart, and speaks another.	homer
+3314	A multitude of rulers is not a good thing. Let there be one ruler, one king.	homer
+3317	The single best augury is to fight for one's country.	homer
+3326	A small rock holds back a great wave.	homer
+3334	Of all that breathes and crawls across the earth, our mother earth breeds nothing feebler than a man.	homer
+3335	Hail Caesar! Those who are about to die salute you!	gladiator
+3342	When in Rome, live as the Romans do; when elsewhere, live as they live elsewhere.	ambrose
+3348	I am convinced that life is 10% what happens to me and 90% how I react to it.	scipio
+3349	If a man does not know to what port he is sailing, no wind is favourable.	seneca
+3353	The fortunes of war are always doubtful.	seneca
+3355	Constant exposure to dangers will breed contempt for them.	seneca
+3356	It is crueller to be always afraid of dying than to die.	seneca
+3366	To rule yourself is the ultimate power.	seneca
+3371	He who has much desires more.	seneca
+3375	The cause of fear is ignorance.	seneca
+3383	Such a variety of structures, carrying water from so many places. Compare this, please, with the pointless pyramids, or the useless (though decorative) constructions of the Greeks!	sextus
+3385	Not even the gods fight necessity.	simonides
+3391	A disorderly mob is no more an army than a heap of building materials is a house.	socrates
+3397	I know one thing, that I know nothing.	socrates
+3405	An honest man is always a child.	socrates
+3406	Be slow to fall into friendship; but when thou art in, continue firm and constant.	socrates
+3409	Learn to obey before you command.	solon
+3417	Quick decisions are unsafe decisions.	sophocles
+3420	It is the brave man's part to live with glory, or with glory die.	sophocles
+3421	All things atrocious and shameless flock from all parts to Rome.	tacitus
+3426	It is part of human nature to hate the man you have hurt.	tacitus
+3436	The gods are on the side of the stronger.	tacitus
+3446	Even the bravest are frightened by sudden terrors.	tacitus
+3456	The proper arts of a general are judgment and prudence.	tacitus
+3461	A bad peace is even worse than war.	tacitus
+3466	The desire for safety stands against every great and noble enterprise.	tacitus
+3473	Valour is the contempt of death and pain.	tacitus
+3475	Great empires are not maintained by timidity.	tacitus
+3483	To theft, slaughter, and rapine they deceitfully name Empire; and even where they make a desert, they call it peace.	tacitus
+3493	Nothing distressed our troops so much as the scarcity of supplies.	tacitus
+3500	Fortune favours the bold.	terence
+3503	War is not so much a matter of weapons as of money.	thucydides
+3504	Self-control is the chief element in self-respect, and self-respect is the chief element in courage.	thucydides
+3509	The strong did what they could, and the weak suffered what they must.	thucydides
+3510	For illustrious men have the whole earth for their tomb.	thucydides
+3516	Who was the first that forged the deadly blade? Of rugged steel his savage soul was made.	tibullus
+3517	Rome has grown since its humble beginnings that it is now overwhelmed by its own greatness.	livy
+3518	Try to appear unimportant - the enemy might be low on ammunition.	proverb_latin
+3524	Woe is me. I think I am becoming a god.	vespasian
+3530	Wars, horrid wars!	virgil
+3535	Let all be present and expect the palm, the prize of victory.	virgil
+3537	A fault is fostered by concealment.	virgil
+3540	They are able because they think they are able.	virgil
+3550	Age carries all things away, even the mind.	virgil
+3560	As the twig is bent the tree inclines.	virgil
+3562	Fear is proof of a degenerate mind.	virgil
+3569	It never troubles the wolf how many the sheep may be.	virgil
+3570	Passion and strife bow down the mind.	virgil
+3574	When one side goes against the enemy with the gods' gift of stronger morale, then their adversaries, as a rule, cannot withstand them.	xenophon
+3579	Willing obedience always beats forced obedience.	xenophon
+3588	Death is no different from life.	thales
+3594	It is pleasant, when the sea is high and the winds are dashing the waves about, to watch from the shores the struggles of another.	lucretius
+3598	Deep are the wounds that civil strife inflicts.	lucan
+3603	One more such victory, and we shall be undone.	pyrrhus
+3606	The reign of Aurelian lasted only four years and about nine months, but every instant of that short period was filled by some memorable achievement.	ed_gibbon
+3607	Aurelian expected that his soldiers should be modest, frugal, and laborious, that their armour should be constantly kept bright, their weapons sharp.	ed_gibbon
+3616	Zenobia is perhaps the only female whose superior genius broke through the servile indolence imposed on her sex by the climate and manners of Asia.	ed_gibbon
+3623	Nor is there any temple or shrine seen in their country, nor even any cabin thatched with straw, their only idea of religion being to plunge a naked sword into the ground with barbaric ceremonies, and then they worship that with great respect.	ammianus_alani
+3624	It is said that this nation of the Taifali was so profligate, and so immersed in the foulest obscenities of life, that they indulged in all kinds of unnatural lusts, exhausting the vigour both of youth and manhood in the most polluted defilements of debauchery.	ammianus
+3630	The various nations of Germany and Sarmatia who fought under the Gothic standard had already collected an armament more formidable than any which had yet issued from the Euxine.	ed_gibbon
+3635	Tetricus reigned four or five years over Gaul, Spain, and Britain, the slave and sovereign of a licentious army, whom he dreaded, and by whom he was despised.	ed_gibbon
+3637	That man was not unlike Alexander the Great or Caesar the Dictator, for in the space of three years he retook the Roman world from invaders.	aurelius_victor
+3644	The Goths must be crushed, they must be driven from Thrace. For large numbers of them are ravaging Haemimontum and Europe, those very ones who fled when you fought against them.	claudius_aurelian
+3648	When the war with the Marcomanni was ended, Aurelian, over-violent by nature, and now filled with rage, advanced to Rome eager for the revenge which the bitterness of the revolts had prompted.	historia_aug
+3652	Whatever must be accomplished in matters of war must be done by valour alone. You demand my surrender as though you were not aware that Cleopatra preferred to die a Queen rather than remain alive, however high her rank.	historia_aug_zenobia_aurelian
+3658	The enemy purposely put sheep and cattle in front of the soldiers for them to seize, in order that they might be lured on still further until they were worn out, for in fact the water caused great suffering to the Romans, and when they became scattered, they would be attacked.	cassius_dio_caledones
+3661	Her face was dark and of a swarthy hue, her eyes were black and powerful beyond the usual wont, her spirit divinely great, and her beauty incredible. So white were her teeth that many thought that she had pearls in place of teeth.	historia_aug_zenobia

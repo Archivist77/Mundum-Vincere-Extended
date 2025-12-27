@@ -1,0 +1,281 @@
+romans_julii
+imperator
+short_campaign outlive_factions
+boii veneti ligures cenomanni massalia
+
+romans_brutii
+imperator
+short_campaign outlive_factions
+macedon epirus
+
+romans_scipii
+imperator
+short_campaign outlive_factions
+carthage numidia
+
+macedon
+hold_regions Rome Larissa Pella Thessalonica
+take_regions 50
+short_campaign outlive_factions 
+thrace romans_brutii epirus
+
+egypt
+take_rome
+short_campaign outlive_factions 
+seleucid
+
+seleucid
+take_rome
+short_campaign outlive_factions 
+egypt
+
+carthage
+take_rome 
+short_campaign outlive_factions
+romans_scipii
+;;romans_unified
+
+parthia
+take_rome
+short_campaign outlive_factions 
+seleucid
+
+pontus
+take_rome
+short_campaign outlive_factions 
+sinope colchis
+
+gauls
+take_rome
+short_campaign outlive_factions 
+aedui bituriges
+
+germans
+take_rome
+short_campaign outlive_factions 
+cherusci varini
+
+britons
+take_rome
+short_campaign outlive_factions 
+brigantes dumnonii
+
+armenia
+take_rome
+short_campaign outlive_factions 
+pontus colchis
+
+dacia
+take_rome
+short_campaign outlive_factions 
+thrace tylis
+
+acarnania
+hold_regions Rome Sparta Messene
+take_regions 50
+short_campaign outlive_factions 
+athens boetia epirus
+
+numidia
+take_rome
+short_campaign outlive_factions 
+carthage
+
+scythia
+take_rome
+short_campaign outlive_factions 
+dacia thrace
+
+spain
+take_rome
+short_campaign outlive_factions 
+vaccaei ilercavones
+
+thrace
+take_rome
+short_campaign outlive_factions 
+macedon
+
+athens
+take_rome
+short_campaign outlive_factions 
+boetia acarnania
+
+greek_cities
+hold_regions Rome Ambracia Pella Sparta
+take_regions 80
+short_campaign outlive_factions 
+boetia acarnania
+
+epirus
+hold_regions Rome Ambracia Pella Sparta
+take_regions 50
+short_campaign outlive_factions 
+acarnania macedon romans_brutii 
+
+massalia
+take_rome
+short_campaign outlive_factions 
+gauls vocontii volcae
+
+syracuse
+take_rome
+short_campaign outlive_factions 
+mamertines acarnania
+
+boii
+take_rome
+short_campaign outlive_factions 
+quadi veneti
+
+ardiaei
+take_rome
+;;hold_regions Rome Rhizon Apollonia Iader Salona Scodra
+;;take_regions 50
+short_campaign outlive_factions 
+delmatae dardania
+
+nabataea
+take_rome
+short_campaign outlive_factions 
+egypt
+
+tylis
+take_rome
+short_campaign outlive_factions 
+thrace
+
+nervii
+take_rome
+short_campaign outlive_factions 
+parisii treverii
+
+colchis
+take_rome
+short_campaign outlive_factions 
+armenia iberia
+
+galatia
+take_rome
+short_campaign outlive_factions 
+paphlagonia pontus
+
+helisii
+take_rome
+short_campaign outlive_factions 
+germans
+
+marcomanni
+take_rome
+short_campaign outlive_factions 
+boii
+
+pergamon
+take_rome
+short_campaign outlive_factions 
+paphlagonia messene
+
+bosporus
+take_rome
+short_campaign outlive_factions 
+scythia colchis
+
+bactria
+take_rome
+short_campaign outlive_factions 
+parthia chorasmia
+
+celtiberia
+take_rome
+short_campaign outlive_factions 
+celtici gallaeci
+
+saxons
+take_rome
+short_campaign outlive_factions 
+anglii cimbri
+
+etruscans
+take_rome
+short_campaign outlive_factions 
+romans_julii
+
+taras
+take_rome
+short_campaign outlive_factions 
+romans_brutii
+
+veneti
+take_rome
+short_campaign outlive_factions 
+insubres boii
+
+insubres
+take_rome
+short_campaign outlive_factions 
+veneti ligures
+
+iolei
+take_rome
+short_campaign outlive_factions 
+carthage
+
+boetia
+take_rome
+short_campaign outlive_factions 
+macedon athens
+
+cyrene
+take_rome
+short_campaign outlive_factions 
+egypt
+
+caledonia
+take_rome
+short_campaign outlive_factions 
+catuvellauni britons
+
+saba
+take_rome
+short_campaign outlive_factions 
+hadhramaut thamud
+
+kush
+take_rome
+short_campaign outlive_factions 
+egypt saba
+
+chola
+take_rome
+short_campaign outlive_factions 
+chera pandya
+
+anuradhapura
+take_rome
+short_campaign outlive_factions 
+chola pandya
+
+massagetae
+take_rome
+short_campaign outlive_factions 
+chorasmia thyssagetae
+
+india
+take_rome
+short_campaign outlive_factions 
+seleucid chola chera pandya
+
+illyria
+take_rome
+short_campaign outlive_factions 
+ardiaei epirus
+
+libya
+take_rome
+short_campaign outlive_factions 
+cyrene garamantes
+
+saka
+take_rome
+short_campaign outlive_factions 
+massagetae huns

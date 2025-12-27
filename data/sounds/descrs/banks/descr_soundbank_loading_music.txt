@@ -1,0 +1,202 @@
+;; Last updated by The Frankster on 2022/06/25
+
+"default sound parameters":
+{
+	"3d": false,				;;is the sound 3D (DO NOT CHANGE THIS)
+	"Probability": 100.0,		;;the chance the sound will play when triggered
+	"Volume": 30,				;;the volume of the sample as a percentage of the base file's
+	"Min pitch": 100.0,			;;the random pitch of the sample (0-200%)
+	"Max pitch": 100.0,			
+	"Priority": 9999,			;;sound with high priority will replace lower priority sounds if all soundchannels are used
+	"Fade in": 0.0,				;;the time, in seconds, for the sound to fade in and out
+	"Fade out": 0.0,							
+	"Looped": true,				;;should the sound loop?
+	"Random volume": 0,			;;the random adjustment applied to the volume (must be negative)
+	"Start delay": 0.0,			;;the constant delay before the sound should play when triggered
+	"Random delay": 0.0,		;;the maximum random delay added to the constant delay
+	"Pref type": "Music",		;;the slider the sound should be attached to
+	"Ignore pause": false,		;;should this sound ignore being paused?
+	"Streamed": true,			;;should this sound be streamed from disk?
+	"Pan": 0.5,					;;direction the sound should come from (nonfunctional as of writing this)
+	"Dry level": 1.0,			;; ???
+	"Wet level": 0.0,			;; ???
+},
+
+"soundbank_static_music":
+{
+	"entries":
+	[
+		{
+			;;the music state these tracks are tied to
+			"state": "campaign_loading",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "all", "-eastern", "-anatolian", "-arab", "-caucasian", "-indian", "-tamil", "-tibetan", "-tocharian", "-greek", "-thracian", "-paeonian", "-dacian", "-illyrian", "-barbarian", "-brittonic", "-baltic", "-germanic", "-nomad", "-iberian", "-nuragic", "-carthaginian", "-egyptian", "-nubian", "-numidian", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Frontend2-Rome_HQ.opus",
+				"data/sounds/music/(tyler_c_g_camp)_pax_romana.opus",
+				"data/sounds/music/(stw_battle)_battle_in_the_shade.opus",
+				"data/sounds/music/(stw_battle)_save_electra.opus",
+				"data/sounds/music/(stw_battle)_the_last_stand.opus",
+				"data/sounds/music/(0ad_load)_forging_a_city-state.opus",
+				"data/sounds/music/(0ad_load)_alba_longa_burns.opus",
+				{
+					"Volume": 65,				;;the volume of the sample as a percentage of the base file's		
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "campaign_loading",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "eastern", "anatolian", "arab", "caucasian", "indian", "tamil", "tibetan", "tocharian", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Frontend2-Rome_HQ.opus",
+				"data/sounds/music/(tyler_c_g_camp)_pax_romana.opus",
+				"data/sounds/music/(0ad_load)_eastern_dreams.opus",
+				{
+					"Volume": 65,				;;the volume of the sample as a percentage of the base file's		
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "campaign_loading",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "greek", "thracian", "paeonian", "dacian", "illyrian", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Frontend2-Rome_HQ.opus",
+				"data/sounds/music/(tyler_c_g_camp)_pax_romana.opus",
+				"data/sounds/music/(0ad_load)_forging_a_city-state.opus",
+				"data/sounds/music/(0ad_load)_expedition.opus",
+				{
+					"Volume": 65,				;;the volume of the sample as a percentage of the base file's		
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "campaign_loading",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "barbarian", "brittonic", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Frontend2-Rome_HQ.opus",
+				"data/sounds/music/(tyler_c_g_camp)_pax_romana.opus",
+				"data/sounds/music/(0ad_load)_celtic_pride.opus",
+				{
+					"Volume": 65,				;;the volume of the sample as a percentage of the base file's		
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "campaign_loading",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "baltic", "germanic", "nomad", "iberian", "nuragic", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Frontend2-Rome_HQ.opus",
+				"data/sounds/music/(tyler_c_g_camp)_pax_romana.opus",
+				"data/sounds/music/(0ad_load)_northern_frontier.opus",
+				{
+					"Volume": 65,				;;the volume of the sample as a percentage of the base file's		
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "campaign_loading",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "carthaginian", "egyptian", "nubian", "numidian", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Frontend2-Rome_HQ.opus",
+				"data/sounds/music/(tyler_c_g_camp)_pax_romana.opus",
+				"data/sounds/music/(0ad_east_load)_ammon-ra.opus",
+				{
+					"Volume": 65,				;;the volume of the sample as a percentage of the base file's		
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "battle_loading",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "all", "-barbarian", "-nomad", "-baltic", "-brittonic", "-dacian", "-germanic", "-iberian", "-nuragic", "-carthaginian", "-eastern", "-anatolian", "-egyptian", "-nubian", "-numidian", "-indian", "-tamil", "-tibetan", "-tocharian", "-arab", ],
+
+			"sounds":
+			[
+				;;"data/sounds/music/(hbo_loading)_battle_sfx_a.opus",
+				"data/sounds/music/(stw_loading_g)_a_legend_is_born.opus",
+				"data/sounds/music/(stw_loading_g)_confidence.opus",
+				"data/sounds/music/(stw_loading_g)_sejanus.opus",
+				"data/sounds/music/(stw_loading_g)_the_eye_of_apollo.opus",
+				"data/sounds/music/(stw_loading_g)_the_storm_breaks.opus",
+				"data/sounds/music/(stw_loading_r)_sejanus_is_dead.opus",
+				"data/sounds/music/(stw_loading_r)_the_coliseum.opus",
+				"data/sounds/music/(stw_loading_r)_the_east_gate.opus",
+				"data/sounds/music/(stw_loading_r)_the_praetorian.opus",
+				{	
+					"Fade out": 5.0,	
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "battle_loading",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "barbarian", "nomad", "baltic", "brittonic", "dacian", "germanic", "iberian", "nuragic", ],
+
+			"sounds":
+			[
+				;;"data/sounds/music/(hbo_loading)_battle_sfx_a.opus",
+				"data/sounds/music/(stw_loading_b)_barbie_tension.opus",
+				{	
+					"Fade out": 5.0,	
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "battle_loading",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "carthaginian", "eastern", "anatolian", "egyptian", "nubian", "numidian", "indian", "tamil", "tibetan", "tocharian", "arab", ],
+
+			"sounds":
+			[
+				;;"data/sounds/music/(hbo_loading)_battle_sfx_a.opus",
+				"data/sounds/music/(stw_loading_e)_ambush.opus",
+				{	
+					"Fade out": 5.0,	
+				},
+			],
+		},
+	],
+}, ;;soundbank_loading_music

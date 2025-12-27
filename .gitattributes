@@ -1,23 +1,8 @@
-# Auto detect text files and perform LF normalization
 * text=auto
-git lfs track "*.psd"
-git lfs track "*.png"
-git lfs track "*.txt"
-git lfs track "*.json"
-git lfs track "*.tga.dds"
-git lfs track "*.dds"
-git lfs track "*.pos"
-git lfs track "*.cas"
-git lfs track "*.item"
-git lfs track "*.idx"
-git lfs track "*.pack"
-git lfs track "*.feral"
-git lfs track "*.dat"
+
+# Binary mod assets
 *.psd filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
-*.txt filter=lfs diff=lfs merge=lfs -text
-*.json filter=lfs diff=lfs merge=lfs -text
-*.tga.dds filter=lfs diff=lfs merge=lfs -text
 *.tga filter=lfs diff=lfs merge=lfs -text
 *.dds filter=lfs diff=lfs merge=lfs -text
 *.pos filter=lfs diff=lfs merge=lfs -text
@@ -27,4 +12,3 @@ git lfs track "*.dat"
 *.pack filter=lfs diff=lfs merge=lfs -text
 *.feral filter=lfs diff=lfs merge=lfs -text
 *.dat filter=lfs diff=lfs merge=lfs -text
-*.tga.dds filter=lfs diff=lfs merge=lfs -text

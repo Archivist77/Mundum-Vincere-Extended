@@ -1,0 +1,24 @@
+1: Select regions owned by the faction in map_regions, make sure to select city and port dots too
+2: Make new image the size of map_regions, paste selected regions in so that it's in exact spot it would be in regular map_regions (just everything else is transparent)
+3: Give the regions faction color from descr_sm_factions
+3b: Make a new layer, outline the faction area
+4: Save the image
+4b: Save the outline as a separate image
+5: Open it in GIMP
+6a: Alpha to selection
+6b: Shrink selection by 1 pixel
+6c: Invert selection
+6d: Apply 1.50 gaussian blur
+6e: Alpha to selection
+6f: Apply 1.50 gaussian blur (to whole thing now)
+6g: Open the outline in GIMP, select all and apply 1.5 gaussian blur
+6: EITHER THAT OR Just gaussian blur the whole selection
+7: Resize images to 2879 x 1761
+8: Paste into mapping file as a layer
+8b: Paste the outline, should be outlining the faction area
+9: Put whichever selection is appropriate over the capital or the central point of the faction
+10: Crop to selection
+11: Save image a map_faction.tga, be sure to resize correctly
+
+If adding a protector or protectorate,
+outline them with 166, 221, 251

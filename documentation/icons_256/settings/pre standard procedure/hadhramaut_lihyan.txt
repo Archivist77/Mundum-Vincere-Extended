@@ -1,0 +1,10 @@
+color:
+hsl color
+
+logo:
+x1 overlay layer
+x1 lch color layer, 90% opacity, 30% brightness & contrast
+x1 hard light layer, 45% opacity
+
+grey:
+0% opacity for hard light

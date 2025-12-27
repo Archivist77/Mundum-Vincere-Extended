@@ -1,0 +1,108 @@
+Please like to support!
+
+https://discord.gg/3fzBeTEpXd
+
+Mundum Vincere Extended; a World to Conquer.
+[b]This mod is still a WIP.[/b]
+
+[h1]DO NOT PLAY WITH VIBRANT COLORING, SHOW_ERR/ENABLE_LOGGING, AND PAUSE GAME ON SUSPEND FOR MAX PERFORMANCE[/h1]
+
+[h1]GRAND CAMPAIGN // EURASIA MAP IS NOT PLAYABLE YET DO NOT USE IT[/h1]
+
+[h1]Important![/h1]
+Mod is made to be played on [u][b]English[/b][/u] version of the game with [u][b]unit variation ON[/b][/u], and [u][b]Vibrant color scheme ON.[/b][/u] Advice can be turned on if you want scripted faction intros for Macedon and Sparta.
+
+This mod is an overhaul for Rome Remastered, featuring Kirsi's Bigger Map, new units, new character names, and nearly 200 new factions, 16 of them playable.
+
+[h1]Old Features[/h1]
+[b]272 BC start date[/b]
+[b]Danymok's Units[/b]
+[b]Barbarian buildings from BI[/b]
+[b]Nearly 200 new factions[/b]
+[b]Massive campaign map[/b]
+[b]New music[/b]
+[b]Recruitable generals[/b]
+
+[h1]New Features on the Private Build[/h1]
+[b]Early Work in Progress (Grand Campaign) Eurasia Map[/b]
+[b]More content in the extended version[/b]
+[b]More units and factions in the extended version[/b]
+[b]Anatolian/Late Luwian namelist and Anatolian Culture group[/b]
+[b]Various new added names to pre-existing factions/cultures-namelists[/b]
+[b]Imported Icons from Barbarian Empires and older mods and Tales of Antiquity[/b]
+[b]Hundreds of new settlements and counting on the Eurasia map[/b]
+[b]Work in Progress Tukhara, Qin, Dioscourides/Socotra, Khotan, Loulan, Mycenae*, Han, Achaean Leauge, Lydia, Indo-Greeks, West Amazons*, House Valerii*[/b]
+[b]Tens of new music files and counting for the Music Expansion[/b]
+[b]W.I.P Religion System[/b]
+[b]Returned vanilla factions to original faction colors[/b]
+[b]Expanded Traits[/b]
+[b]Returned support for classic colored vibrant units and unit cards[/b]
+
+Only vanilla factions have access to Danymok's new units at the moment.
+
+[h1]Playable Factions[/h1]
+[b]---Vanilla---[/b]
+[b]Romans[/b] (Julii, Brutii, Scipii)
+[b]Lusitani[/b] (Spain)
+[b]Armenia[/b]
+[b]Arverni[/b] (Gauls)
+[b]Carthage[/b]
+[b]Ptolemaic Egypt[/b]
+[b]Getae[/b] (Dacia)
+[b]Iceni[/b] (Britons)
+[b]Macedon[/b]
+[b]Masaesyli[/b] (Numidia)
+[b]Odrysian Kingdom[/b] (Thrace)
+[b]Parthia[/b]
+[b]Pontus[/b]
+[b]Seleucid Empire[/b]
+[b]Sparta[/b] (Greek Cities)
+[b]Suebi Confederation[/b] (Germans)
+[b]---New---[/b]
+[b]Ardiaei[/b]
+[b]Athens[/b]
+[b]Bactria[/b]
+[b]Boii[/b]
+[b]Celtiberi Confederation[/b]
+[b]Cimmerian Bosporus[/b]
+[b]Colchis[/b]
+[b]Epirus[/b]
+[b]Galatia[/b]
+[b]Marcomanni[/b]
+[b]Massalia[/b]
+[b]Nabataeans[/b]
+[b]Nervii[/b]
+[b]Pergamon[/b]
+[b]Syracuse[/b]
+[b]Tylis[/b]
+
+Since there are many new factions on the campaign map, you might find yourself besieged much more often, making the campaign a lot harder. It is recommended to play on easier difficulties
+
+Most of the new factions have generic rosters due to the sheer number of factions, but there are some new units to fit the needs of certain regional factions. Most new factions lack unique faction colors.
+
+[h1]Submods[/h1]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3174251629]Less Aggressive Minor Factions[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2988974806]Rome 2 Music Mod[/url]
+
+
+[h1]Credits[/h1]
+AI Battle Formations 7.0 by Sinuhet
+Capital hidden resource and garrison scripts by [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2487698001]RTR:IS[/url] dev team
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2857630157]Enhanced Sounds[/url] by Ganim
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2818425162]Ganim's UI[/url] by Ganim (slightly modified to allow advice)
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3068854272]Even Bigger Map[/url] by Kirsi (modified with a few additional regions)
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2471724790]Original Loading Screens[/url] by Ganim
+[b]-Thanks to these talented modders for open sourcing there work for the modding scene-[/b]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2930968353]Danymok's Ptolemaic Egypt[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2799858239]Danymok's Rosters Expanded[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2597862038]Imperial Truth - Name List Extension[/url] by Corythus
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2739515556]Tale of Antiquity[/url] by EduardoSousa  
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2487698001]RTR: Imperium Surrectum 0.67[/url] by RTR:IS Team, Ahowl, Swagger, NakedSpur, AmyClaraRose, Moscaflaca  
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3019789188]Barbarian Empires: Open Beta 2[/url] by Lanjane, Chaz, Skynet Bunker  
+[url=https://steamcommunity.com/workshop/filedetails/?id=2856497654]Imperator Rome: Terra Indomita[/url] by T.I Team and World's Smuggiest Detective  
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3263242994]Dark UI 2.0[/url] by Dementive  
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2866202220]Scourge of God[/url] by LyreCryer  
+New music by Tyler Cunningham
+Pharaoh: Dynastes, T3K, Rome Total War 2, Attila Total War, and Thrones of Britannia for icons
+
+Credits to Gfront for the base :)

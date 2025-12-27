@@ -1,0 +1,141 @@
+romans_unified
+hold_regions Rome Arretium Asculum Capua Croton Luceria Tarentum Tarquini 
+take_regions 50
+short_campaign outlive_factions 
+aritim samnites sabines tarchuna taras
+
+macedon
+hold_regions Athens Larissa Thebes2 Sparta Ancyra Antioch Seleucia Babylon Bactra Damascus Jerusalem Perga Pergamum Persopolis Alexandria Tarsus
+take_regions 100
+short_campaign outlive_factions 
+east_f_8
+
+egypt
+take_rome
+short_campaign outlive_factions 
+seleucid
+
+seleucid
+take_rome
+short_campaign outlive_factions 
+egypt
+
+carthage
+take_rome
+short_campaign outlive_factions 
+romans_unified
+
+parthia
+take_rome
+short_campaign outlive_factions 
+seleucid
+
+pontus
+take_rome
+short_campaign outlive_factions 
+greek_f_4 east_f_5
+
+gauls
+take_rome
+short_campaign outlive_factions 
+gallic_f_1 gallic_f_3
+
+germans
+take_rome
+short_campaign outlive_factions 
+germanic_f_5  germanic_f_26
+
+britons
+take_rome
+short_campaign outlive_factions 
+brit_f_1 brit_f_7
+
+armenia
+take_rome
+short_campaign outlive_factions 
+pontus east_f_5
+
+dacia
+take_rome
+short_campaign outlive_factions 
+thrace balkan_f_8
+
+greek_cities
+take_rome
+short_campaign outlive_factions 
+athens boetia
+
+numidia
+take_rome
+short_campaign outlive_factions 
+carthage
+
+scythia
+take_rome
+short_campaign outlive_factions 
+dacia thrace
+
+spain
+take_rome
+short_campaign outlive_factions 
+iberian_f_14 iberian_f_9
+
+thrace
+take_rome
+short_campaign outlive_factions 
+macedon
+
+athens
+take_rome
+short_campaign outlive_factions 
+boetia greek_cities
+
+epirus
+take_rome
+short_campaign outlive_factions 
+aetolia balkan_f_1
+
+massalia
+take_rome
+short_campaign outlive_factions 
+gauls gallic_f_31 gallic_f_32
+
+syracuse
+take_rome
+short_campaign outlive_factions 
+italic_f_2 greek_cities
+
+boii
+take_rome
+short_campaign outlive_factions 
+germanic_f_14 veneti
+
+balkan_f_1
+take_rome
+short_campaign outlive_factions 
+balkan_f_6 balkan_f_9
+
+balkan_f_8
+take_rome
+short_campaign outlive_factions 
+thrace
+
+belgic_f_11
+take_rome
+short_campaign outlive_factions 
+belgic_f_7 belgic_f_10
+
+gallic_f_7
+take_rome
+short_campaign outlive_factions 
+east_f_9 pontus
+
+greek_f_6
+take_rome
+short_campaign outlive_factions 
+east_f_9 greek_f_5
+
+east_f_8
+take_rome
+short_campaign outlive_factions 
+romans_julii athens carthage macedon greek_cities thrace 

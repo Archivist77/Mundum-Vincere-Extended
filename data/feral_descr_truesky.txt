@@ -1,0 +1,137 @@
+;;;;;;;;
+;
+; edited by Swagger for RIS
+;
+; feral_descr_truesky - all the pertutations of weather and climate to a truesky sequence file
+;                       Follows similar format to "feral_descr_tonemap_lut"
+;
+; Syntax: name 		<sequence_file> <% chance>,	[optional]<sequence_file> <% chance>...
+;climate	<climate_type>, 			[optional]<climate_type>...
+;season	<season_type>,  			[optional]<season_type>...
+;weather	<weather_type>, 			[optional]<weather_type>...
+;daytime 	<daytime>,					[optional]<daytime>...
+;
+; Notes: - The sequence assignment is done in the order they are described here, so a lower sequence assignment will overwrite previous ones
+;
+;		 - If multiple .sq files are assigned to a sequence, one will be chosen at random using the %'s provided
+;
+;		 - Assinging multiple climates/weathers to a sequence will make it so that sequence is used for all combinations of climates/weathers
+;
+;		 - climate_types, weather_types, daytime_types can be defines as shorthand for any set of climates/weather/daytimes
+;
+;		 - Weather types that can be used: calm, hazy, dense_fog, light_fog, rain_drizzle, rain_storm, sand_storm, snow_falling, blizzard
+;
+;		 - Daytimes that can be used: midnight, sunrise, mid_morning, morning, midday, sunset, mid_evening, night
+;
+;		 - If you DON'T mention one of the parameters for a sequence then ALL the posibilities are being assigned
+;
+;		 - Make sure to use Windows line endings, it massively messes up stuff if you don't
+;
+;;;;;;;;
+
+;;; Climate/Weather/Daytime groups
+
+climate_types
+
+vibrant	default, semi_arid, temperate_grassland_fertile
+
+blue	temperate_grassland_infertile, temperate_forest_open, temperate_forest_deep, swamp, highland, alpine, sub_arctic
+
+red 	sandy_desert, rocky_desert
+
+weather_types
+
+clear	calm
+
+hazes	hazy, sand_storm
+
+cloudy	light_fog, dense_fog
+
+rainy	rain_drizzle, rain_storm
+
+snow 	snow_falling, blizzard
+
+daytime_types
+
+day_summer 				sunrise, mid_morning, morning, sunset
+
+day_midday_summer 		midday
+
+day_winter 				sunrise, mid_morning, morning, sunset, mid_evening
+
+day_midday_winter 		midday
+
+night_summer 			midnight, night, mid_evening
+
+night_winter 			midnight, night
+
+;;; sequences
+;summer
+name 	 sunshine_calm.sq 46, sunshine_calm_hazy.sq 8, sunshine_calm_cloudy_var1_summer.sq 9, sunshine_calm_cloudy_var2.sq 9, sunshine_calm_cloudy_var3.sq 9, sunshine_calm_cloudy_var4.sq 9, sunshine_calm_cloudy_var5.sq 9, sunshine_calm_cloudy_var6.sq 9
+climate	vibrant, red, blue
+season	summer
+weather	clear
+daytime 	day_summer, day_midday_summer, night_summer
+
+;winter
+name 	 sunshine_calm.sq 25, sunshine_calm_hazy.sq 15, sunshine_calm_cloudy_var1_winter.sq 15, sunshine_calm_cloudy_var2.sq 9, sunshine_calm_cloudy_var3.sq 9, sunshine_calm_cloudy_var4.sq 9, sunshine_calm_cloudy_var5.sq 9, sunshine_calm_cloudy_var6.sq 9
+climate	vibrant, red, blue
+season	winter
+weather	clear
+daytime 	day_winter, day_midday_winter, night_winter
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; FIX FOR RED HAZY WEATHER - APPEARS IN DESERTS ONLY ;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;; summer
+
+;vibrant, blue
+name	sunshine_hazy_low.sq 16, sunshine_hazy_low_few_clouds.sq 20, sunshine_hazy_medium.sq 16, sunshine_hazy_medium_low_hanging.sq 16,  sunshine_hazy_high.sq 16, sunshine_hazy_high_low_hanging.sq 16
+climate	vibrant, blue
+season	summer
+weather	hazy
+daytime	day_summer, day_midday_summer, night_summer
+
+;red
+name	sunshine_hazy_low_desert.sq 16, sunshine_hazy_low_few_clouds_desert.sq 20, sunshine_hazy_medium_desert.sq 16, sunshine_hazy_medium_low_hanging_desert.sq 16,  sunshine_hazy_high_desert.sq 16, sunshine_hazy_high_low_hanging_desert.sq 16
+climate	red
+season	summer
+weather	hazy
+daytime	day_summer, day_midday_summer, night_summer
+
+;;;;; winter
+
+;vibrant, blue
+name	sunshine_calm.sq 10, sunshine_hazy_low.sq 15, sunshine_hazy_low_few_clouds.sq 18, sunshine_hazy_medium.sq 15, sunshine_hazy_medium_low_hanging.sq 14,  sunshine_hazy_high.sq 14, sunshine_hazy_high_low_hanging.sq 14
+climate	vibrant, blue
+season	winter
+weather	hazy
+daytime	day_winter, day_midday_winter, night_winter
+
+;red
+name	sunshine_calm_desert.sq 10, sunshine_hazy_low_desert.sq 15, sunshine_hazy_low_few_clouds_desert.sq 18, sunshine_hazy_medium_desert.sq 15, sunshine_hazy_medium_low_hanging_desert.sq 14,  sunshine_hazy_high_desert.sq 14, sunshine_hazy_high_low_hanging_desert.sq 14
+climate	red
+season	winter
+weather	hazy
+daytime	day_winter, day_midday_winter, night_winter
+
+name 	 fog_dense.sq 100
+weather   dense_fog
+
+name 	 fog_light.sq 100
+weather   light_fog
+
+name 	 rain_drizzle.sq 100
+weather   rain_drizzle
+
+name 	 rain_storm.sq 100
+weather   rain_storm
+
+name 	 sand_storm.sq 100
+weather   sand_storm
+
+name 	 snow_falling.sq 100
+weather   snow_falling
+
+name 	 snow_blizzard.sq 100
+weather   blizzard

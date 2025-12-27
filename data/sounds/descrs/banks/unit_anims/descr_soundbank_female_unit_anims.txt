@@ -1,0 +1,280 @@
+;; Last updated by Ganim on 07/10/2023
+;; DESCR file generated via RTW Amber pack editor
+
+"default sound parameters":
+{
+	"3d": true,					;;is the sound 3D (DO NOT CHANGE THIS)
+	"Probability": 48.235,		;;the chance the sound will play when triggered
+	"Volume": 100,				;;the volume of the sample as a percentage of the base file's
+	"Min pitch": 89.999,		;;the random pitch of the sample (0-200%)
+	"Max pitch": 100.0,			
+	"Priority": 120,			;;sound with high priority will replace lower priority sounds if all soundchannels are used
+	"Fade in": 0.0,				;;the time, in seconds, for the sound to fade in and out
+	"Fade out": 0.0,			
+	"Looped": false,			;;should the sound loop?
+	"Random volume": -20,		;;the random adjustment applied to the volume (must be negative)
+	"Start delay": 0.0,			;;the constant delay before the sound should play when triggered
+	"Random delay": 0.742,		;;the maximum random delay added to the constant delay
+	"Pref type": "SFX",			;;the slider the sound should be attached to
+	"Ignore pause": false,		;;should this sound ignore being paused?
+	"Min dist": 3.0,			;;attenuation parameters (n.b. Kraken uses a modified attenuation curve such that V will always equal 0 at the maxdist)
+	"Max dist": -1.0,			;;setting max dist to -1 will mean the sound will autocalculate the max dist
+	"Dist priority": -2.0,		;;how much should the priority be reduced per meter of distance
+	"Prob radius": 0.0,			;;the range within which the probability will be overridden to be 100%
+	"Effect level": 0.5,		;;??? I think this has something to do with the EAX parameters?
+},
+
+"soundbank_unit_anims":
+{
+	"entries":
+	[
+		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+		;;;                           combat noises                           ;;
+		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+		
+		;;grunts
+		{
+			;;the ID of this sound event
+			"sound ID": "attack grunt",
+
+			;;which voice cultures is this valid for
+			"cultures":
+				[ "all", ],
+
+			;;which unit voice types is this valid for
+			"voice types":
+				[ "female", ],
+
+			;;the specific IDs of units
+			"IDs":
+			[
+			],
+
+			"sounds":
+			[
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Attack_Grunt_3.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Attack_Grunt_2.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Attack_Grunt_1.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Attack_Scream_3.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Attack_Scream_2.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Attack_Scream_1.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Unit_Attack_4.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Unit_Attack_3.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Unit_Attack_2.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Attack_Grunt_3.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Attack_Grunt_2.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Attack_Grunt_1.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Attack_Scream_3.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Attack_Scream_2.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Attack_Scream_1.wav",
+				{
+					"Probability": 40.0,		;;the chance the sound will play when triggered
+					"Volume": 95,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+
+		;;screams
+		{
+			;;the ID of this sound event
+			"sound ID": "attack scream",
+
+			;;which voice cultures is this valid for
+			"cultures":
+				[ "all", ],
+
+			;;which unit voice types is this valid for
+			"voice types":
+				[ "female", ],
+
+			;;the specific IDs of units
+			"IDs":
+			[
+			],
+
+			"sounds":
+			[
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Attack_Scream_3.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Attack_Scream_2.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Attack_Scream_1.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Unit_Attack_4.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Unit_Attack_3.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Unit_Attack_2.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Attack_Grunt_3.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Attack_Grunt_2.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Attack_Grunt_1.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Attack_Scream_3.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Attack_Scream_2.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Attack_Scream_1.wav",
+				{
+					"Probability": 25.0,		;;the chance the sound will play when triggered
+					"Prob radius": 7.0,			;;the range within which the probability will be overridden to be 100%
+				},
+			],
+		},
+
+		;;charging
+		{
+			;;the ID of this sound event
+			"sound ID": "charge",
+
+			;;which voice cultures is this valid for
+			"cultures":
+				[ "all", ],
+
+			;;which unit voice types is this valid for
+			"voice types":
+				[ "female", ],
+
+			;;the specific IDs of units
+			"IDs":
+			[
+			],
+
+			"sounds":
+			[
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Charge_3.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Charge_2.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Charge_1.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Attack_Scream_3.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Attack_Scream_2.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Attack_Scream_1.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Unit_Attack_Fast_3.wav",
+				{
+					"Probability": 100.0,		;;the chance the sound will play when triggered
+					"Priority": 110,			;;sound with high priority will replace lower priority sounds if all soundchannels are used
+					"Min dist": 6.0,			;;attenuation parameters (n.b. Kraken uses a modified attenuation curve such that V will always equal 0 at the maxdist)
+					"Prob radius": 4.0,			;;the range within which the probability will be overridden to be 100%
+					"Random delay": 5.0,		;;the maximum random delay added to the constant delay
+				},
+			],
+		},
+
+		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+		;;;                            celebration                            ;;
+		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+		
+		{
+			;;the ID of this sound event
+			"sound ID": "celebrate",
+
+			;;which voice cultures is this valid for
+			"cultures":
+				[ "all", ],
+
+			;;which unit voice types is this valid for
+			"voice types":
+				[ "female", ],
+
+			;;the specific IDs of units
+			"IDs":
+			[
+			],
+
+			"sounds":
+			[
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Celebrate_3.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Celebrate_2.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Celebrate_1.wav",
+				{
+					"Probability": 100.0,		;;the chance the sound will play when triggered
+					"Priority": 100,			;;sound with high priority will replace lower priority sounds if all soundchannels are used
+					"Random delay": 5.0,		;;the maximum random delay added to the constant delay
+				},
+			],
+		},
+
+		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+		;;;                             taunting                              ;;
+		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+		
+		;;voices
+		{
+			;;the ID of this sound event
+			"sound ID": "taunt",
+
+			;;which voice cultures is this valid for
+			"cultures":
+				[ "all", ],
+
+			;;which unit voice types is this valid for
+			"voice types":
+				[ "female", ],
+
+			;;the specific IDs of units
+			"IDs":
+			[
+			],
+
+			"sounds":
+			[
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Taunt_4.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Taunt_3.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Taunt_2.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Taunt_1.wav",
+				{
+					"Probability": 20.0,		;;the chance the sound will play when triggered
+					"Priority": 100,			;;sound with high priority will replace lower priority sounds if all soundchannels are used
+					"Prob radius": 7.0,			;;the range within which the probability will be overridden to be 100%
+				},
+			],
+		},
+
+		{
+			;;the ID of this sound event
+			"sound ID": "death cry",
+
+			;;which voice cultures is this valid for
+			"cultures":
+				[ "all", ],
+
+			;;which unit voice types is this valid for
+			"voice types":
+				[ "female", ],
+
+			;;the specific IDs of units
+			"IDs":
+			[
+			],
+
+			"sounds":
+			[
+				"data/sounds/Voice/Human/Generic/women_deaths_24.wav",
+				"data/sounds/Voice/Human/Generic/women_deaths_23.wav",
+				"data/sounds/Voice/Human/Generic/women_deaths_22.wav",
+				"data/sounds/Voice/Human/Generic/women_deaths_21.wav",
+				"data/sounds/Voice/Human/Generic/women_deaths_20.wav",
+				"data/sounds/Voice/Human/Generic/women_deaths_19.wav",
+				"data/sounds/Voice/Human/Generic/women_deaths_18.wav",
+				"data/sounds/Voice/Human/Generic/women_deaths_17.wav",
+				"data/sounds/Voice/Human/Generic/women_deaths_16.wav",
+				"data/sounds/Voice/Human/Generic/women_deaths_15.wav",
+				"data/sounds/Voice/Human/Generic/women_deaths_14.wav",
+				"data/sounds/Voice/Human/Generic/women_deaths_13.wav",
+				"data/sounds/Voice/Human/Generic/women_deaths_12.wav",
+				"data/sounds/Voice/Human/Generic/women_deaths_11.wav",
+				"data/sounds/Voice/Human/Generic/women_deaths_10.wav",
+				"data/sounds/Voice/Human/Generic/women_deaths_09.wav",
+				"data/sounds/Voice/Human/Generic/women_deaths_08.wav",
+				"data/sounds/Voice/Human/Generic/women_deaths_07.wav",
+				"data/sounds/Voice/Human/Generic/women_deaths_06.wav",
+				"data/sounds/Voice/Human/Generic/women_deaths_05.wav",
+				"data/sounds/Voice/Human/Generic/women_deaths_04.wav",
+				"data/sounds/Voice/Human/Generic/women_deaths_03.wav",
+				"data/sounds/Voice/Human/Generic/women_deaths_02.wav",
+				"data/sounds/Voice/Human/Generic/women_deaths_01.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Death_3.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Death_2.wav",
+				"data/sounds/Voice/Human/Localized/Battle_Map/Barbarian_Female_1_Individual_Death_1.wav",
+				{
+					"Probability": 100.0,		;;the chance the sound will play when triggered
+					"Volume": 70,				;;the volume of the sample as a percentage of the base file's
+					"Min pitch": 69.997,		;;the random pitch of the sample (0-200%)
+					"Priority": 130,			;;sound with high priority will replace lower priority sounds if all soundchannels are used
+					"Start delay": 0.243,		;;the constant delay before the sound should play when triggered
+					"Random delay": 1.0,		;;the constant delay before the sound should play when triggered
+				},
+			],
+		},
+	],
+}, ;;soundbank_unit_anims

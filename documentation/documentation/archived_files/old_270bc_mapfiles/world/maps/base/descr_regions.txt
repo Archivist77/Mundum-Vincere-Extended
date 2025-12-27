@@ -1,0 +1,5773 @@
+;	This file contains a variety of region information, in this format:
+;	
+;	region tag
+;		settlement tag
+;		default culture tag
+;		map RGB value
+;		comma-seperated resource list
+;		triumph point value
+;		base farm level
+;
+
+Britannia_Inferior				
+	Eburacum				
+	britons				
+	Briton_Generic				
+	232 41 198				
+	none	
+	5
+	5
+
+Tribus_Saxones				
+	Bordesholm				
+	germans				
+	German_Generic				
+	232 41 55				
+	none	
+	5
+	5
+
+Locus_Gepidae				
+	Domus_Dulcis_Domus				
+	germans				
+	Gepids				
+	58 177 95				
+	none		
+	5
+	3
+
+Hyperboria				
+	Themiskyra				
+	scythia				
+	Amazons				
+	58 89 177				
+	none		
+	5
+	5
+
+Tribus_Alanni				
+	Campus_Alanni				
+	scythia				
+	Alans				
+	177 170 58				
+	none		
+	5
+	5
+
+Sarmatia				
+	Saka				
+	scythia				
+	Sarmatians				
+	248 255 122				
+	none		
+	5
+	5
+
+Tribus_Sarmatae				
+	Campus_Sarmatae				
+	scythia				
+	Sarmatians				
+	255 92 86						
+	none	
+	5
+	5
+
+Scirii				
+	Solaka				
+	scythia				
+	Roxolani				
+	177 58 83				
+	none		
+	5
+	5
+
+Maeotis				
+	Tanais				
+	scythia				
+	Maeotae				
+	255 50 35				
+	none		
+	5
+	5
+
+Tribus_Roxolani				
+	Budini				
+	scythia				
+	Roxolani				
+	131 89 33				
+	none		
+	5
+	5
+
+Coistoboci				
+	Theodosia				
+	scythia				
+	Amazons				
+	131 33 125				
+	none	
+	5
+	5
+
+Tribus_Venedae				
+	Locus_Venedae				
+	dacia				
+	Venedae				
+	250 255 127						
+	none	
+	5
+	5
+
+Hvnni				
+	Aorsi				
+	scythia				
+	Amazons				
+	109 252 255				
+	none		
+	5
+	2
+
+Hervli				
+	Vtii				
+	scythia				
+	Amazons				
+	124 255 246				
+	none	
+	5
+	4
+
+Gerrhos				
+	Solokha				
+	scythia				
+	Roxolani				
+	255 53 35				
+	none	
+	5
+	5
+
+Thyssagetae				
+	Paradraya				
+	scythia				
+	Sarmatians				
+	255 99 122				
+	none	
+	5
+	5
+
+Sauromatae				
+	Gelani				
+	scythia				
+	Roxolani				
+	255 248 150				
+	none		
+	5
+	6
+
+Vandali				
+	Helonus				
+	scythia				
+	Roxolani				
+	94 255 118				
+	none	
+	5
+	6
+
+Scythia				
+	Campus_Scythii				
+	scythia				
+	Roxolani				
+	33 131 116				
+	none	
+	5
+	6
+
+Bastarnae				
+	Gonoska				
+	scythia				
+	Roxolani				
+	179 117 255				
+	none	
+	5
+	5
+
+Tribus_Aestii				
+	Locus_Aestii				
+	germans				
+	German_Generic				
+	255 84 84				
+	none	
+	5
+	4
+
+Dahae				
+	Maracanda				
+	scythia				
+	Roxolani				
+	255 66 63				
+	none		
+	5
+	5
+
+Chorasmia				
+	Nisa				
+	scythia				
+	Roxolani				
+	68 112 255				
+	none	
+	5
+	5
+
+Messagetae				
+	Tyras				
+	scythia				
+	Roxolani				
+	82 255 76				
+	none		
+	5
+	5
+
+Atropatene				
+	Phraaspa
+	parthia
+	Medes
+	58 177 75				
+	none	
+	5
+	6
+
+Hibernia				
+	Tara				
+	britons				
+	Briton_Generic				
+	212 232 41						
+	none	
+	5
+	5
+
+Tribus_Silurii				
+	Deva				
+	britons				
+	Briton_Generic				
+	41 232 63				
+	none	
+	5
+	5
+
+Tribus_Varini				
+	Virunum				
+	germans				
+	German_Generic				
+	203 41 232				
+	none		
+	5
+	6
+
+Britannia_Superior				
+	Londinium				
+	britons				
+	Briton_Generic				
+	232 41 46				
+	none	
+	5
+	5
+
+Germania_Inferior				
+	Batavodurum				
+	germans				
+	German_Generic				
+	41 162 232				
+	none	
+	5
+	5
+
+Tribus_Chattii				
+	Mattium				
+	germans				
+	German_Generic				
+	232 198 41				
+	none		
+	5
+	5
+
+Regnum_Marcomannii				
+	Vicus_Marcomannii				
+	germans				
+	German_Generic				
+	177 78 58				
+	none		
+	5
+	5
+
+Belgica				
+	Samarobriva				
+	britons				
+	Briton_Generic				
+	232 90 41				
+	none	
+	5
+	5
+
+Agri_Decumates				
+	Mogontiacum				
+	germans				
+	German_Generic				
+	63 232 41				
+	none	
+	5
+	5
+
+Armorica				
+	Condate_Redonum				
+	gauls				
+	Gauls_Generic				
+	232 41 135				
+	none	
+	5
+	6
+
+Germania_Superior				
+	Trier				
+	germans				
+	Belgic_Generic				
+	72 41 232						
+	none	
+	5
+	6
+
+Boihaemum				
+	Lovosice				
+	gauls				
+	Celtic_Generic				
+	58 150 177				
+	none	
+	5
+	5
+
+Tribus_Tevrisci				
+	Campus_Tevrisci				
+	dacia				
+	Iazyges				
+	33 100 131						
+	none	
+	5
+	6
+
+Central_Gaul
+	Avaricum
+	gauls
+	Gauls_Generic
+	31 75 37
+	none	
+	5
+	6
+
+Tribus_Iazyges				
+	Campus_Iazyges				
+	dacia				
+	German_Generic			
+	72 177 58				
+	none		
+	5
+	6
+
+Noricum				
+	Iuvavum				
+	gauls				
+	Gauls_Generic			
+	230 41 232						
+	none	
+	5
+	5
+
+Tribus_Getae				
+	Campus_Getae				
+	thrace				
+	Dacian_Generic				
+	131 33 38				
+	none	
+	5
+	4
+
+Pannonia				
+	Marsonia				
+	dacia				
+	Dacian_Generic			
+	131 61 33				
+	none	
+	5
+	4
+
+Bosphorus				
+	Chersonesos				
+	macedon				
+	Greek_Generic				
+	17 74 202				
+	none	
+	5
+	6
+
+Aquitania				
+	Lemonum				
+	gauls				
+	Gauls_Generic				
+	68 232 41				
+	none	
+	5
+	6
+
+Lugdinensis				
+	Lugdunum				
+	gauls				
+	Gauls_Generic			
+	85 114 141				
+	none	
+	5
+	6
+
+Colchis				
+	Kotais				
+	armenia				
+	Colchians				
+	199 31 143				
+	none	
+	5
+	6
+
+Albania				
+	Gangara				
+	armenia				
+	Colchians				
+	61 239 246
+	none	
+	5
+	6
+
+Cisalpine_Gaul				
+	Mediolanum				
+	gauls				
+	Gauls_Generic			
+	221 232 41						
+	none	
+	5
+	8
+
+Venetia				
+	Patavium				
+	gauls				
+	Celtic_Generic			
+	13 198 117				
+	italy		
+	5
+	7
+
+Transalpine_Gaul				
+	Massilia				
+	gauls				
+	Gauls_Generic				
+	117 198 13				
+	italy		
+	5
+	9
+
+Illyria				
+	Salona				
+	greek_cities				
+	Illyrian_Generic				
+	61 177 58				
+	none	
+	5
+	5
+
+Moesia				
+	Odessus				
+	thrace				
+	Picensians				
+	218 246 61				
+	none	
+	5
+	6
+
+Gallaecia				
+	Lugo				
+	spain				
+	Iberian_Generic				
+	13 157 198				
+	none	
+	5
+	5
+
+Armenia				
+	Artaxarta				
+	armenia				
+	Armenian_Generic				
+	202 61 17				
+	none		
+	5
+	7
+
+Dalmatia				
+	Segestica				
+	greek_cities				
+	Illyrian_Generic				
+	58 173 177				
+	none	
+	5
+	5
+
+Narbonensis				
+	Narbo_Martius				
+	gauls				
+	Gauls_Generic			
+	196 13 198				
+	none		
+	5
+	5
+
+Celtiberia				
+	Ilerda				
+	gauls				
+	Iberian_Generic				
+	198 13 35				
+	none	
+	5
+	5
+
+Liguria				
+	Segesta				
+	gauls				
+	Gauls_Generic				
+	157 13 198				
+	italy	
+	5
+	5
+
+Paphlagonia				
+	Sinope				
+	pontus				
+	Paphlagonians				
+	202 156 17				
+	none		
+	5
+	6
+
+Phrygia				
+	Apanea				
+	macedon
+	Lycians
+	239 104 4				
+	none	
+	5
+	6
+
+Paionia				
+	Naissus				
+	macedon				
+	Paionians				
+	131 33 100						
+	none	
+	5
+	5
+
+Etruria				
+	Arretium				
+	romans_julii				
+	Etruscans				
+	157 198 13				
+	rome, italy	
+	5
+	7
+
+Media				
+	Arsakia				
+	parthia				
+	Medes				
+	58 167 177				
+	none	
+	5
+	8
+
+Ilergetes				
+	Tarraco				
+	spain				
+	Iberian_Generic				
+	13 196 198				
+	none	
+	5
+	6
+
+Umbria				
+	Ariminum				
+	romans_julii				
+	Umbrians				
+	198 43 13				
+	italy		
+	5
+	6
+
+Lusitania				
+	Scallabis				
+	spain				
+	Iberian_Generic				
+	13 198 30						
+	none	
+	5
+	7
+
+Sardinia				
+	Caralis				
+	carthage				
+	Beronicensis				
+	198 35 13				
+	none	
+	5
+	5
+
+Latium				
+	Rome				
+	romans_julii				
+	Latins				
+	52 13 198						
+	rome, italy	
+	5
+	10
+
+Cappadocia				
+	Mazaka				
+	pontus				
+	Cappadocians				
+	177 58 148				
+	none	
+	5
+	6
+
+Propontis				
+	Byzantium				
+	macedon				
+	Byzantions				
+	118 131 33				
+	none	
+	5
+	8
+
+Bithynia				
+	Nicomedia				
+	macedon				
+	Bithynians				
+	202 17 122				
+	none	
+	5
+	6
+
+Epirus				
+	Apollonia				
+	epirus				
+	Epirots				
+	83 58 177						
+	none	
+	5
+	6
+
+Macedonia				
+	Pella				
+	macedon				
+	Edones				
+	177 58 145				
+	none		
+	5
+	7
+
+Galatia				
+	Ancyra				
+	gauls				
+	Gauls_Generic				
+	17 165 202				
+	none	
+	5
+	6
+
+Carpetani				
+	Saguntum				
+	spain				
+	Greek_Generic				
+	187 198 13				
+	none	
+	5
+	5
+
+Apulia				
+	Cannae				
+	romans_julii				
+	Calabrians				
+	33 196 58				
+	italy	
+	5
+	6
+
+Campania				
+	Capua				
+	romans_julii				
+	Campanians				
+	198 13 174				
+	rome, italy		
+	5
+	6
+
+Assyria				
+	Ninive				
+	seleucid				
+	Syrians				
+	175 171 244				
+	none	
+	5
+	7
+
+Baetica				
+	Corduba				
+	spain				
+	Iberian_Generic				
+	17 13 198				
+	none	
+	5
+	6
+
+Cilicia				
+	Tarsus				
+	seleucid				
+	Cilicians				
+	17 202 52				
+	none	
+	5
+	10
+
+Thessalia				
+	Larissa				
+	macedon				
+	Thessalians				
+	177 83 58						
+	none	
+	5
+	8
+
+Baliares				
+	Palma				
+	spain				
+	Iberian_Generic				
+	41 232 225				
+	none		
+	5
+	6
+
+Bruttium				
+	Croton				
+	romans_julii				
+	Lucanians				
+	13 170 198				
+	italy	
+	5
+	7
+
+Lydia				
+	Sardis				
+	seleucid				
+	Ionians				
+	149 109 127				
+	none	
+	5
+	10
+
+Mysia				
+	Pergamum				
+	macedon				
+	Lesbians				
+	33 59 131				
+	none		
+	5
+	10
+
+Babylonia				
+	Babylon				
+	seleucid				
+	Syrians				
+	177 58 167				
+	none		
+	5
+	12
+
+Syria				
+	Antioch				
+	seleucid				
+	Syrians				
+	13 244 165				
+	none	
+	5
+	6
+
+Aetolia				
+	Thermon				
+	macedon				
+	Aetolians				
+	13 18 244						
+	none	
+	5
+	9
+
+Attica				
+	Athens				
+	macedon				
+	Athenians				
+	58 177 106				
+	none	
+	5
+	8
+
+Elymais				
+	Susa				
+	parthia				
+	Elamites				
+	72 58 177				
+	none	
+	5
+	9
+
+Lycia				
+	Xanthos				
+	macedon				
+	Lycians				
+	131 83 77				
+	none	
+	5
+	7
+
+Peloponnesus				
+	Corinth				
+	macedon				
+	Achaeans				
+	225 192 192				
+	none	
+	5
+	7
+
+Sicilia_Romanus				
+	Messana				
+	macedon				
+	Sicani				
+	177 142 58						
+	italy	
+	5
+	6
+
+Sicilia_Poeni			
+	Lilybaeum				
+	carthage				
+	Sicani				
+	65 17 202						
+	italy	
+	5
+	8
+
+Tingitana				
+	Tingi				
+	numidia				
+	Moors				
+	202 126 17				
+	none	
+	5
+	6
+
+Cyprus				
+	Salamis				
+	egypt				
+	Cypriots				
+	126 144 111				
+	none	
+	5
+	5
+
+Regnum_Palmyrae				
+	Palmyra				
+	seleucid				
+	Palmyrans				
+	244 122 13				
+	none		
+	5
+	5
+
+Phoenicia				
+	Sidon				
+	seleucid				
+	Phoenicians				
+	33 131 128				
+	none		
+	5
+	9
+
+Sinus_Numidicus				
+	Iol				
+	numidia				
+	Moors				
+	17 83 202				
+	none	
+	5
+	7
+
+Africa				
+	Kerash			; neapolis			
+	carthage				
+	African_Generic				
+	202 191 17				
+	none		
+	5
+	8
+
+Sicilia_Graecus				
+	Syracuse				
+	macedon				
+	Syracusans				
+	198 178 13				
+	italy		
+	5
+	8
+
+Laconia				
+	Sparta				
+	macedon				
+	Helots				
+	244 13 24				
+	sparta	
+	5
+	7
+
+Coele_Syria				
+	Damascus				
+	seleucid				
+	Syrians				
+	244 203 14				
+	none		
+	5
+	8
+
+Rhodos				
+	Rhodes				
+	macedon				
+	Rhodians				
+	131 33 77				
+	none		
+	5
+	6
+
+Arabia				
+	Dumatha				
+	parthia				
+	Nabataeans				
+	13 171 244				
+	none	
+	5
+	3
+
+Byzacium				
+	Thapsus				
+	carthage				
+	African_Generic				
+	31 202 17				
+	none	
+	5
+	8
+
+Crete				
+	Kydonia				
+	macedon				
+	Cretans				
+	193 162 206				
+	none		
+	5
+	6
+
+Judaea				
+	Jerusalem				
+	parthia				
+	Judaeans				
+	244 13 29				
+	none		
+	5
+	7
+
+Corduene				
+	Saphia				
+	armenia
+	Armenian_Generic
+	13 244 160				
+	none	
+	5
+	5
+
+Gaetulia				
+	Gemellae				
+	numidia				
+	African_Generic			
+	244 13 138				
+	none	
+	5
+	4
+
+Tripolitania				
+	Lepcis_Magna				
+	numidia				
+	African_Generic				
+	202 17 48				
+	none	
+	5
+	5
+
+Cyrenaica				
+	Cyrene				
+	greek_cities				
+	African_Generic				
+	244 171 13				
+	none		
+	5
+	6
+
+Nile_Delta				
+	Alexandria				
+	egypt				
+	Egypt_Generic			
+	244 13 214				
+	none	
+	5
+	11
+
+Sophene				
+	Amida				
+	parthia				
+	Nabataeans				
+	35 244 13				
+	none		
+	5
+	6
+
+Libya				
+	Ammon				
+	egypt				
+	African_Generic			
+	42 232 77				
+	none		
+	5
+	4
+
+Middle_Egypt				
+	Memphis				
+	egypt				
+	Egypt_Generic	
+	122 13 244				
+	none	
+	5
+	12
+
+Mauretania				
+	Icosium				
+	numidia				
+	African_Generic				
+	41 86 232				
+	none	
+	5
+	4
+
+Thebais				
+	Thebes				
+	egypt				
+	Egypt_Generic			
+	241 244 13				
+	none		
+	5
+	9
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+Helvetia				
+	Octodurum				
+	gauls				
+	Celtic_Generic				
+	99 255 127				
+	none	
+	5
+	4
+
+Caledonia				
+	Glaschu				
+	britons				
+	Briton_Generic				
+	66 72 255				
+	none	
+	5
+	4
+
+Bretonia				
+	Caerwent				
+	britons				
+	Briton_Generic				
+	253 147 255				
+	none		
+	5
+	5
+
+Sinai				
+	Pelusium				
+	egypt				
+	Egypt_Generic			
+	142 255 86				
+	none	
+	5
+	5
+
+Marmarika				
+	Plynus				
+	egypt				
+	African_Generic			
+	117 255 248				
+	none		
+	5
+	5
+
+Surt				
+	Sidrah				
+	numidia				
+	African_Generic		
+	73 98 255				
+	none		
+	5
+	5
+
+Qamini				
+	Zuwara				
+	numidia				
+	African_Generic				
+	120 75 10				
+	none	
+	5
+	4
+
+Pontus				
+	Sebasteia				
+	pontus				
+	Anatolian_Generic2				
+	255 91 119				
+	none		
+	5
+	7
+
+Lower_Colchis				
+	Trapezius				
+	pontus				
+	Anatolian_Generic2				
+	255 119 252				
+	none	
+	5
+	9
+
+Carenitide				
+	Kura				
+	scythia				
+	Sarmatians				
+	130 163 255				
+	none		
+	5
+	5
+
+Iberi				
+	Harmozica				
+	armenia				
+	Armenian_Generic				
+	125 255 86				
+	none	
+	5
+	6
+
+Hatlusus				
+	Lenkoran				
+	scythia				
+	Sarmatians				
+	234 255 50				
+	none	
+	5
+	5
+
+Tribus_Sakae				
+	Campus_Sakae				
+	scythia				
+	Roxolani				
+	57 35 255				
+	none	
+	5
+	5
+
+Samnium				
+	Apulania				
+	romans_julii				
+	Samnites				
+	242 255 127						
+	italy	
+	5
+	6
+
+Muntean				
+	Docidava				
+	dacia				
+	Carpi				
+	255 124 226				
+	none	
+	5
+	5
+
+Constanta				
+	Capidava				
+	dacia				
+	Carpi				
+	89 73 255				
+	none	
+	5
+	5
+
+Epiro				
+	Epidamnos				
+	macedon				
+	Epirots				
+	255 96 123						
+	none	
+	5
+	6
+
+Taraconenis				
+	Carthago_Nova				
+	spain				
+	Iberian_Generic				
+	255 160 177				
+	none		
+	5
+	7
+
+Turduli				
+	Avila				
+	spain				
+	Iberian_Generic				
+	255 145 244				
+	none	
+	5
+	6
+
+Hispania				
+	Numantia			
+	spain				
+	Iberian_Generic				
+	255 48 58				
+	none		
+	5
+	5
+
+Galli_Aquitania				
+	Burdigala				
+	gauls				
+	Gauls_Generic			
+	45 70 255				
+	none	
+	5
+	6
+
+Lugdenensis
+	Alesia
+	gauls
+	Gauls_Generic
+	255 61 77
+	none	
+	5
+	6
+
+Hercynia_Silva				
+	Reichenau				
+	germans				
+	German_Generic				
+	255 71 71				
+	none		
+	5
+	4
+
+Asculania				
+	Asculum				
+	romans_julii				
+	Umbrians				
+	61 255 50				
+	italy	
+	5
+	7
+
+Neopolitania				
+	Neopolis			
+	romans_julii				
+	Campanians				
+	255 68 75				
+	italy		
+	5
+	6
+
+Dardania				
+	Herma				
+	dacia				
+	Illyrian_Generic2				
+	252 255 102				
+	none	
+	5
+	5
+
+Numidia				
+	Lambaesis				
+	numidia				
+	African_Generic			
+	255 63 86				
+	none		
+	5
+	6
+
+Sahara				
+	Nepte				
+	numidia				
+	African_Generic				
+	103 255 61				
+	none	
+	5
+	3
+
+Dacia				
+	Napoca				
+	dacia				
+	Dacian_Generic				
+	255 251 58				
+	none		
+	5
+	5
+
+Tribus_Cimbri				
+	Helgo				
+	germans				
+	German_Generic				
+	53 70 255				
+	none	
+	5
+	6
+
+Varjager				
+	Ruserna				
+	germans				
+	German_Generic				
+	50 255 54				
+	none	
+	5
+	5
+
+Svealand				
+	Finia				
+	germans				
+	German_Generic				
+	255 255 63				
+	none	
+	5
+	6
+
+Tribus_Rugii				
+	Campus_Rugii				
+	germans				
+	German_Generic			
+	255 94 89				
+	none	
+	5
+	5
+
+Thrace				
+	Philippopolis			
+	thrace				
+	Moesians			
+	102 112 255				
+	none		
+	5
+	6
+
+Persis				
+	Persopolis				
+	parthia				
+	Medes				
+	255 81 90				
+	none		
+	5
+	10
+
+Utian				
+	Pasargadae				
+	parthia				
+	Elamites				
+	255 250 119				
+	none	
+	5
+	9
+
+Nabataea				
+	Petra				
+	egypt				
+	Arab_Generic			
+	248 255 124				
+	none	
+	5
+	7
+
+Lachmidi				
+	Hira				
+	parthia				
+	Arab_Generic				
+	255 34 30				
+	none		
+	5
+	5
+
+Characene				
+	Charax				
+	parthia				
+	Nabataeans				
+	91 255 91				
+	none	
+	5
+	5
+
+Hyrcania				
+	Telavi				
+	parthia				
+	Medes				
+	255 117 222
+	none	
+	5
+	6
+
+Cantabirl				
+	Asturica				
+	spain				
+	Iberian_Generic				
+	88 255 58				
+	none	
+	5
+	5
+
+Pamphylia				
+	Perga				
+	seleucid				
+	Lycians				
+	247 255 112				
+	none	
+	5
+	9
+
+Bactria				
+	Bactra				
+	parthia				
+	Elamites				
+	255 49 45				
+	none	
+	5
+	7
+
+Commagene				
+	AntiochA				
+	seleucid				
+	Syrian_Generic				
+	45 56 255				
+	none		
+	5
+	7
+
+Prydyn				
+	Cait				
+	britons				
+	Briton_Generic				
+	255 63 66				
+	none	
+	5
+	4
+
+Pictland				
+	Circinn				
+	britons				
+	Briton_Generic				
+	73 255 76				
+	none	
+	5
+	4
+
+Sviones				
+	Birka				
+	germans				
+	German_Generic				
+	255 66 245				
+	none		
+	5
+	4
+
+Arverni
+	Gergovia
+	gauls
+	Gauls_Generic
+	135 15 217
+	none	
+	5
+	7
+
+Sequani
+	Genava
+	gauls
+	Gauls_Generic
+	63 252 195
+	none	
+	5
+	6
+
+Helveti
+	Avruticum
+	gauls
+	Celtic_Generic
+	154 47 43
+	none	
+	5
+	5
+
+Nervi
+	Aduatica
+	gauls
+	Belgic_Generic
+	5 229 172
+	none	
+	5
+	5
+
+Erainn
+	Dun_beg
+	britons				
+	Briton_Generic				
+	79 209 97
+	none	
+	5
+	5
+
+Calabria				
+	Tarentum				
+	romans_julii				
+	Calabrians				
+	45 107 51				
+	rome, italy	
+	5
+	7
+
+Corsica
+	Aleria
+	carthage
+	Alerians
+	182 140 90
+	none	
+	5
+	5
+
+Tuath_Icenae
+	Dun_Cunabel
+	britons
+	Briton_Generic
+	153 166 111
+	none	
+	5
+	5
+
+Vindelicia
+	Augusta_Vindelicorum
+	gauls
+	Celtic_Generic
+	61 42 121
+	none	
+	5
+	6
+
+Mesopotamia
+	Nehardea
+	seleucid
+	Mesopotamian_Generic
+	47 87 4
+	none	
+	5
+	7
+
+Nabatei
+	Bostra				
+	parthia
+	Arab_Generic
+	134 19 42				
+	none	
+	5
+	8
+
+Euboae
+	Chalcis
+	macedon
+	Greek_Generic
+	191 149 147
+	none	
+	5
+	7
+
+Lesbos
+	Mytilene				
+	macedon
+	Lesbians
+	66 59 188
+	none		
+	5
+	5
+
+Gothi_Insulae
+	Muria				
+	germans
+	German_Generic
+	136 41 164
+	none	
+	5
+	6
+
+Karmania				
+	Karmana				
+	parthia				
+	Medes				
+	21 125 214				
+	none	
+	5
+	9
+
+Tribus_Chauci				
+	Burchana				
+	germans				
+	German_Generic				
+	173 204 217				
+	none	
+	5
+	5
+
+Tribus_Ubii				
+	Ubiorum				
+	germans				
+	German_Generic				
+	184 15 123				
+	none	
+	5
+	8
+
+Tribus_Cherusci				
+	Mogontiacum				
+	germans				
+	German_Generic				
+	156 96 126				
+	none		
+	5
+	6
+
+Tribus_Semnonae				
+	Vicus_Semnonae				
+	germans				
+	German_Generic			
+	228 122 104				
+	none	
+	5
+	7
+
+Lyncestis				
+	Astraion				
+	thrace			
+	Greek_Generic				
+	187 61 56				
+	none	
+	5
+	8
+
+Tuath_Ruteni		
+	Segodunum				
+	gauls				
+	Gauls_Generic			
+	211 21 32				
+	none	
+	5
+	5
+
+Tuath_Voconti				
+	Valencia				
+	gauls				
+	Gauls_Generic				
+	197 128 108				
+	none	
+	5
+	5
+
+;;;; even newer regions by frankster
+
+;; ITALY
+
+Sabinium			
+	Corfinium				
+	romans_julii				
+	Italic_Generic			
+	234 204 216					
+	italy	
+	5
+	6
+
+Cisalpine_Gaul2			
+	Ravena				
+	gauls				
+	Gauls_Generic		
+	204 125 46				
+	none	
+	5
+	8
+
+Umbria2			
+	Spoletum				
+	romans_julii				
+	Umbrians			
+	120 63 143				
+	italy	
+	5
+	6
+
+Samnium2			
+	Histonium				
+	romans_julii				
+	Samnites			
+	206 117 59				
+	italy	
+	5
+	6
+
+Luna_Region			
+	Luna				
+	romans_julii				
+	Etruscans			
+	49 59 191				
+	italy	
+	5
+	7
+
+Tarquini_Region			
+	Tarquini				
+	romans_julii				
+	Etruscans			
+	253 57 8				
+	italy	
+	5
+	7
+
+Luceria_Region			
+	Luceria				
+	romans_julii				
+	Italic_Generic			
+	184 90 209				
+	italy	
+	5
+	7
+
+Rhegium_Region			
+	Rhegium			
+	romans_julii				
+	Italic_Generic		
+	91 7 76				
+	italy	
+	5
+	6
+
+Altinum_Region		; venetia
+	Altinum		
+	gauls
+	Veneti
+	71 8 61		
+	none	
+	5
+	7
+
+Verona_Region		; cenomannia
+	Verona		
+	gauls
+	Cenomans
+	129 5 126		
+	none	
+	5
+	7
+
+Polai_Region		; histria
+	Polai		
+	dacia
+	Histrians
+	7 195 88	
+	none	
+	5
+	5
+
+Tridentum_Region		; rhaetia
+	Tridentum		
+	gauls
+	Raetians
+	74 71 230	
+	none	
+	5
+	4
+
+Clavenna_Region		; Lepontia
+	Clavenna		
+	gauls
+	Lepontians
+	32 177 18	
+	none	
+	5
+	5
+
+Taurasia_Region		; Gallia Transpadania
+	Taurasia		
+	gauls
+	Taurinians
+	8 52 129	
+	none	
+	5
+	7
+
+Heraclea_Region		; Magna Graecia
+	Heraclea	
+	romans_julii
+	Italic_Generic
+	6 82 9	
+	italy	
+	5
+	7
+
+
+Felathri_Region		; Tuscia
+	Felathri
+	romans_julii
+	Felathrians	
+	141 1 89	
+	italy	
+	5
+	7
+
+Vedinum_Region		; Carnia
+	Vedinum
+	gauls
+	Carnians	
+	9 252 39	
+	none	
+	5
+	5
+
+Brundisium_Region		; Campania
+	Brundisium
+	romans_julii
+	Calabrians	
+	245 138 159	
+	italy	
+	5
+	6
+
+Neapolis_Region		; Neapolitania
+	Neopolis2
+	romans_julii
+	Samnites	
+	70 48 53	
+	italy	
+	5
+	5
+
+Antium_Region		; Latium
+	Antium		; velitrae/velester
+	romans_julii
+	Latins	
+	119 253 141	
+	italy	
+	5
+	7
+
+Veii_Region		; Veia
+	Veii
+	romans_julii
+	Veians	
+	33 223 96	
+	italy	
+	5
+	7
+
+Cosentia_Region		; Bruttium
+	Cosentia	
+	romans_julii				
+	Italic_Generic				
+	151 163 156				
+	italy		
+	5
+	6
+
+Ravenna_Region		; Gallia Cispadana
+	Ravenna	
+	romans_julii				
+	Boii				
+	9 123 242				
+	italy		
+	5
+	7
+
+;; SARDINIA-CORSICA
+
+Nugoro_Region		; Ioelia
+	Nugoro
+	carthage
+	Ioelians
+	12 194 8	
+	none	
+	5
+	6
+
+Algarium_Region		; Balaria
+	Algarium
+	carthage
+	Beronicensis
+	125 120 65	
+	none	
+	5
+	6
+
+Terranoa_Region		; Balaria
+	Terranoa
+	carthage
+	Balarians
+	225 48 84	
+	none	
+	5
+	6
+
+Pallas_Region		; Corsica
+	Pallas
+	carthage
+	Corsians
+	14 91 85	
+	none	
+	5
+	5
+
+;; SICILY
+
+Katane_Region		; Katane
+	Katane	
+	greek_cities
+	Catanians
+	119 228 121	
+	none	
+	5
+	6
+
+Agyrion_Region		; Agyrion
+	Agyrion
+	greek_cities
+	Agyrians
+	102 141 255	
+	none	
+	5
+	5
+
+Gela_Region		; Gela
+	Gela
+	greek_cities
+	Gelians
+	221 121 239	
+	none	
+	5
+	6
+
+Akragas_Region		; Akragas
+	Akragas
+	carthage
+	Akragians
+	243 88 186	
+	none	
+	5
+	6
+
+Panormus_Region		; Panormus
+	Panormus
+	carthage
+	Panormians
+	46 242 221	
+	none	
+	5
+	6
+
+;;;;;;;;;; GREECE ;;;;;;;;;;
+
+Messana_Region		
+	Messana				
+	greek_cities			
+	Messanians			
+	60 240 158				
+	none	
+	5
+	7
+
+Megalopolis_Region	
+	Megalopolis			
+	greek_cities			
+	Arcadians			
+	86 123 40				
+	none	
+	5
+	5
+
+Argos_Region	
+	Argos			
+	greek_cities			
+	Argolians		
+	198 72 49				
+	none	
+	5
+	6
+
+Elis_Region		
+	Elis			
+	greek_cities			
+	Elisians		
+	143 163 189				
+	none	
+	5
+	6
+
+Aigion_Region		
+	Aigion			
+	greek_cities			
+	Achaeans		
+	143 19 233				
+	none	
+	5
+	7
+
+Thebes_Region	
+	Thebes2			
+	greek_cities			
+	Thebans		
+	16 65 122				
+	thebes
+	5
+	7
+
+Delphi_Region		
+	Delphi			
+	greek_cities			
+	Delphians		
+	149 171 96				
+	none	
+	5
+	5
+
+Thyrion_Region		
+	Thyrion			
+	greek_cities			
+	Acarnanians		
+	88 4 100				
+	none	
+	5
+	5
+
+Demetrias_Region		
+	Demetrias			
+	greek_cities			
+	Magnesians		
+	124 251 116				
+	none	
+	5
+	7
+
+Gortyna_Region		
+	Gortyna			
+	greek_cities			
+	Gortynians		
+	200 216 136				
+	none	
+	5
+	6
+
+Knossos_Region		
+	Knossos			
+	greek_cities			
+	Knossians		
+	64 133 13				
+	none	
+	5
+	6
+
+Melos_Region		
+	Melos			
+	greek_cities			
+	Melians		
+	218 56 180				
+	none	
+	5
+	5
+
+Thessalonica_Region		
+	Thessalonica			
+	macedon			
+	Edones		
+	164 77 91				
+	none	
+	5
+	6
+
+Amphipolis_Region		
+	Amphipolis			
+	macedon			
+	Greek_Generic		
+	44 203 123			
+	none	
+	5
+	6
+
+Abdera_Region		
+	Abdera			
+	macedon			
+	Greek_Generic		
+	104 246 86				
+	none	
+	5
+	5
+
+Passaron_Region		; Epirus
+	Passaron			
+	greek_cities		
+	Greek_Generic	
+	174 22 6				
+	none	
+	5
+	6
+
+ArgosO_Region		; pelagonia
+	ArgosO			
+	macedon		
+	Greek_Generic
+	167 30 228			
+	none	
+	5
+	5
+
+Coroneia_Region		; Boeotia
+	Coroneia			
+	greek_cities		
+	Greek_Generic		;
+	193 202 67				
+	none	
+	5
+	5
+
+Elateia_Region		; Achaea Phthiotis
+	Elateia			
+	greek_cities		
+	Greek_Generic		;
+	236 189 159				
+	none	
+	5
+	6
+
+Thorikos_Region		; Attica
+	Thorikos			
+	greek_cities		
+	Greek_Generic		;
+	236 55 167				
+	none	
+	5
+	5
+
+Asopos_Region		; Laconia
+	Asopos			
+	greek_cities		
+	Greek_Generic		;
+	121 229 12				
+	none	
+	5
+	5
+
+Patras_Region		; Achaea
+	Patras			
+	greek_cities		
+	Greek_Generic		;
+	53 93 165				
+	none	
+	5
+	5
+
+Pharsalos_Region		; Thessaly
+	Pharsalos			
+	greek_cities		
+	Greek_Generic		;
+	220 74 227				
+	none	
+	5
+	5
+
+Heraea_Region		; Arcadia
+	Heraea			
+	greek_cities		
+	Greek_Generic		;
+	124 248 238				
+	none	
+	5
+	4
+
+Ambracia_Region		; Thesprotia
+	Ambracia			
+	greek_cities		
+	Greek_Generic		;
+	179 49 182				
+	none	
+	5
+	5
+
+Phoenike_Region		; Chaonia
+	Phoenike			
+	greek_cities		
+	Greek_Generic		;
+	94 177 88				
+	none	
+	5
+	5
+
+Serrhai_Region		; Odomantike
+	Serrhai			
+	macedon		
+	Greek_Generic		;
+	54 63 79				
+	none	
+	5
+	5
+
+Morrylos_Region		; Krestonia
+	Morrylos			
+	macedon		
+	Greek_Generic		;
+	67 171 232				
+	none	
+	5
+	5
+
+Pythion_Region		; Perrhaebia
+	Pythion			
+	macedon		
+	Greek_Generic		;
+	179 119 135				
+	none	
+	5
+	5
+
+Styberra_Region		; Pelagonia
+	Styberra			
+	macedon		
+	Greek_Generic		;
+	240 84 76				
+	none	
+	5
+	4
+
+Scupi_Region		; Dardaniasaa
+	Scupi			
+	macedon		
+	Thracian_Generic		;
+	234 122 161				
+	none	
+	5
+	4
+
+Keirpara_Region		; Siropaionia
+	Keirpara			
+	macedon		
+	Thracian_Generic		;
+	226 175 66				
+	none	
+	5
+	4
+
+Pulpudeva_Region		; Bessia
+	Pulpudeva			
+	macedon		
+	Thracian_Generic		;
+	193 197 147				
+	none	
+	5
+	6
+
+Mycenae_Region	
+	Mycenae			
+	greek_cities			
+	Greek_Generic		
+	163 193 163				
+	none	
+	5
+	4
+
+Lindos_Region	
+	Lindos			
+	greek_cities			
+	Greek_Generic		
+	182 243 10				
+	none	
+	5
+	4
+
+;;;;;;;;;; CYPRUS ;;;;;;;;;;
+
+Amathus_Region				
+	Amathus				
+	greek_cities				
+	Cypriots				
+	1 89 230				
+	none	
+	5
+	5
+
+Paphos_Region				
+	Paphos				
+	greek_cities				
+	Cypriots				
+	168 5 227				
+	none	
+	5
+	5
+
+;;;;;;;;;; THRACE ;;;;;;;;;;
+
+Istrios_Region		; scythia minor
+	Istrios			
+	thrace		
+	Thracian_Generic2	
+	38 154 62				
+	none	
+	5
+	5
+
+Odessos_Region		; crobyzoia
+	Odessos			
+	thrace		
+	Thracian_Generic2	
+	41 162 202			
+	none	
+	5
+	6
+
+
+ApolloniaP_Region		; haemimontus
+	ApolloniaP			
+	thrace		
+	Thracian_Generic	
+	250 22 67			
+	none	
+	5
+	5
+
+Seuthopolis_Region		; Thracia
+	Seuthopolis		
+	thrace		
+	Thracian_Generic
+	197 159 151		
+	none	
+	5
+	6
+
+Lysimachia_Region		; propontis
+	Lysimachia			
+	thrace		
+	Thracian_Generic	
+	5 199 240			
+	none	
+	5
+	5
+
+Helis_Region		; Scythia Minor
+	Helis		
+	thrace		
+	Thracian_Generic2
+	28 98 76				
+	none	
+	5
+	5
+
+Panissus_Region		; Nipsaea
+	Panissus		
+	thrace		
+	Thracian_Generic2
+	219 64 34				
+	none	
+	5
+	5
+
+Authiparu_Region		; Astia
+	Authiparu		
+	thrace		
+	Thracian_Generic2
+	60 193 94				
+	none	
+	5
+	5
+
+Heraion_Region		; Caenia
+	Heraion		
+	thrace		
+	Thracian_Generic
+	159 13 254				
+	none	
+	5
+	5
+
+Oescus_Region		; Krobyzoia
+	Oescus		
+	thrace		
+	Thracian_Generic2
+	24 191 220				
+	none	
+	5
+	6
+
+Subzupara_Region		; Odrysia
+	Subzupara	
+	thrace		
+	Thracian_Generic
+	193 204 16				
+	none	
+	5
+	5
+
+Bizya_Region		; Astia
+	Bizya	
+	thrace		
+	Thracian_Generic
+	61 166 175				
+	none	
+	5
+	5
+
+Viminacium_Region		; Astia
+	Viminacium	
+	thrace		
+	Thracian_Generic2
+	102 246 4				
+	none	
+	5
+	5
+
+;; ILLYRIA
+
+Jader_Region		; Libernia
+	Jader	
+	dacia
+	Libernians
+	69 89 180	
+	none	
+	5
+	5
+
+Scodra_Region		; Labeatis
+	Scodra	
+	thrace
+	Illyrian_Generic
+	190 145 89	
+	none	
+	5
+	5
+
+Rhizon_Region		; Ardiaeia
+	Rhizon	
+	thrace
+	Illyrian_Generic
+	183 167 183	
+	none	
+	5
+	5
+
+Daorson_Region		; Daorsia
+	Daorson	
+	thrace
+	Illyrian_Generic
+	235 155 173	
+	none	
+	5
+	5
+
+Lopisca_Region		; Lapodia
+	Lopisca	
+	thrace
+	Illyrian_Generic2
+	33 75 69	
+	none	
+	5
+	4
+
+Metullum_Region		; Lapudia
+	Metullum
+	thrace
+	Illyrian_Generic2
+	99 182 7	
+	none	
+	5
+	5
+
+Virunum_Region		; Letobicia
+	Virunum		
+	dacia
+	Illyrian_Generic2
+	221 183 209	
+	none	
+	5
+	5
+
+Servitum_Region		; Deuria
+	Servitum		
+	dacia
+	Illyrian_Generic2
+	171 137 134	
+	none	
+	5
+	5
+
+Bersellum_Region		; Armistaea
+	Bersellum		
+	dacia
+	Illyrian_Generic2
+	198 125 179	
+	none	
+	5
+	5
+
+Delminion_Region		; Daorsia
+	Delminion	
+	thrace
+	Daorsians
+	116 121 6	
+	none	
+	5
+	5
+
+Risitia_Region		; Dindaria
+	Risitia
+	thrace
+	Dindarians
+	245 135 112	
+	none	
+	5
+	5
+
+Tylis_Region		; Triballia
+	Tylis
+	thrace
+	Triballians	
+	20 209 121	
+	none	
+	5
+	6
+
+;;;;;;;;;; GAUL ;;;;;;;;
+
+Darioritum_Region		; Venetia
+	Darioritum
+	gauls
+	Veneti	
+	215 26 12	
+	none	
+	5
+	5
+
+Vorgion_Region		; Osismia
+	Vorgion		; Vorgium roman
+	gauls
+	Gauls_Generic	
+	216 67 10	
+	none	
+	5
+	5
+
+Condate_Region		; Redonia
+	Condate
+	gauls
+	Gauls_Generic	
+	46 196 220	
+	none	
+	5
+	6
+
+Namnetum_Region		; Namnetia
+	Namnetum
+	gauls
+	Gauls_Generic	
+	40 167 73	
+	none	
+	5
+	6
+
+Crociatonum_Region		; Unellia
+	Crociatonum
+	gauls
+	Gauls_Generic	
+	233 229 69	
+	none	
+	5
+	5
+
+Lexovion_Region		; Lexovia
+	Lexovion
+	gauls
+	Gauls_Generic	
+	70 183 8	
+	none	
+	5
+	6
+
+Tarbelli_Region		; Tarbellia
+	Tarbelli
+	gauls
+	Aquitanian_Generic	
+	252 126 123	
+	none	
+	5
+	5
+
+Bigorra_Region		; Bigorronia
+	Bigorra
+	gauls
+	Aquitanian_Generic	
+	157 116 199	
+	none	
+	5
+	5
+
+Elimberrum_Region		; Auscia
+	Elimberrum
+	gauls
+	Aquitanian_Generic	
+	252 100 46	
+	none	
+	5
+	5
+
+Tolosa_Region		; Volcaea
+	Tolosa
+	gauls
+	Gauls_Generic	
+	168 106 31	
+	none	
+	5
+	5
+
+Sotium_Region		; Sotia
+	Sotium
+	gauls
+	Aquitanian_Generic	
+	142 215 187	
+	none	
+	5
+	5
+
+Elusa_Region		; Elusatia
+	Elusa
+	gauls
+	Aquitanian_Generic	
+	250 87 127	
+	none	
+	5
+	5
+
+Nemausus_Region		; Arecomicia
+	Nemausus
+	gauls
+	Gauls_Generic	
+	184 8 246	
+	none	
+	5
+	5
+
+Alba_Region		; Helvia
+	Alba
+	gauls
+	Gauls_Generic	
+	35 146 21	
+	none	
+	5
+	5
+
+Divona_Region		; Cadurcia
+	Divona
+	gauls
+	Gauls_Generic	
+	20 124 242	
+	none	
+	5
+	5
+
+Tarusco_Region		; Tectosagia
+	Tarusco
+	gauls
+	Gauls_Generic	
+	108 116 187	
+	none	
+	5
+	4
+
+Aginnon_Region		; Nitiobrogia
+	Aginnon
+	gauls
+	Gauls_Generic	
+	101 47 180	
+	none	
+	5
+	5
+
+Vesunna_Region		; Petrocoria
+	Vesunna
+	gauls
+	Gauls_Generic	
+	182 255 96	
+	none	
+	5
+	5
+
+Durotincum_Region		; Lemovicia
+	Durotincum
+	gauls
+	Gauls_Generic	
+	244 194 187	
+	none	
+	5
+	5
+
+Anderitum_Region		; Gabalia
+	Anderitum
+	gauls
+	Gauls_Generic	
+	47 250 165	
+	none	
+	5
+	4
+
+Santonum_Region		; Santonia
+	Santonum
+	gauls
+	Gauls_Generic	
+	14 178 231	
+	none	
+	5
+	5
+
+Ratiatum_Region		; Pictonia
+	Ratiatum
+	gauls
+	Gauls_Generic	
+	200 184 69	
+	none	
+	5
+	5
+
+Ambacia_Region		; Turonia
+	Ambacia
+	gauls
+	Gauls_Generic	
+	199 97 81	
+	none	
+	5
+	5
+
+Corseul_Region		; Coriosolita
+	Corseul		; Fanum Martis
+	gauls
+	Gauls_Generic	
+	65 134 142	
+	none	
+	5
+	5
+
+Vienna_Region		; Allobrogia
+	Vienna		; actually Solonion
+	gauls
+	Gauls_Generic	
+	186 230 137	
+	none	
+	5
+	5
+
+Geneva_Region		; Allobrogia
+	Geneva		; Genaua
+	gauls
+	Gauls_Generic	
+	80 124 143	
+	none	
+	5
+	5
+
+Cularo_Region		; Allobrogia
+	Cularo		
+	gauls
+	Gauls_Generic	
+	198 167 130	
+	none	
+	5
+	5
+
+Aventicum_Region		; Tigurinia
+	Aventicum		
+	gauls
+	Gauls_Generic	
+	123 103 129	
+	none	
+	5
+	5
+
+Raurica_Region		; Rauria
+	Raurica		; Augusta Raurica		
+	gauls
+	Gauls_Generic	
+	100 17 18	
+	none	
+	5
+	5
+
+Bibracte_Region		; Haeduia
+	Bibracte		
+	gauls
+	Gauls_Generic	
+	236 69 157	
+	none	
+	5
+	5
+
+Cebilionum_Region		; Haeduia
+	Cebilionum		
+	gauls
+	Gauls_Generic	
+	229 49 90	
+	none	
+	5
+	5
+
+Agedincum_Region		; Senonia
+	Agedincum		
+	gauls
+	Gauls_Generic	
+	195 248 23	
+	none	
+	5
+	5
+
+Lutetia_Region		; Parisia
+	Lutetia		
+	gauls
+	Belgic_Generic	
+	255 48 187	
+	none	
+	5
+	7
+
+Cenabum_Region		; Carnutia
+	Cenabum		
+	gauls
+	Gauls_Generic	
+	215 210 75	
+	none	
+	5
+	5
+
+Caracotinum_Region		; Calatia
+	Caracotinum		
+	gauls
+	Belgic_Generic	
+	104 247 85	
+	none	
+	5
+	5
+
+Bratuspantium_Region		; Bellovacia
+	Bratuspantium		
+	gauls
+	Belgic_Generic	
+	100 40 155	
+	none	
+	5
+	5
+
+Andematunnum_Region		; Lingonia
+	Andematunnum		
+	gauls
+	Gauls_Generic	
+	182 93 8	
+	none	
+	5
+	5
+
+Tullum_Region		; Leucia
+	Tullum		
+	gauls
+	Gauls_Generic	
+	109 218 215	
+	none	
+	5
+	5
+
+Divodurum_Region		; Mediomatrica
+	Divodurum		
+	gauls
+	Gauls_Generic	
+	240 210 130	
+	none	
+	5
+	5
+
+Treverorum_Region		; Frisia
+	Treverorum		
+	gauls
+	Gauls_Generic	
+	1 71 152	
+	none	
+	5
+	6
+
+Noviodunum_Region		; Suessiona
+	Noviodunum		
+	gauls
+	Belgic_Generic	
+	74 47 91	
+	none	
+	5
+	5
+
+Catalaunorum_Region		; Catalaunia
+	Catalaunorum		
+	gauls
+	Belgic_Generic	
+	76 178 38	
+	none	
+	5
+	5
+
+Bibrax_Region		; Remia
+	Bibrax		
+	gauls
+	Belgic_Generic	
+	249 51 95	
+	none	
+	5
+	5
+
+Samarobriva_Region		; Ambiana
+	Samarobriva		
+	gauls
+	Belgic_Generic
+	189 134 64	
+	none	
+	5
+	5
+
+Tervanna_Region		; Morinia
+	Tervanna		
+	gauls
+	Belgic_Generic	
+	8 236 132	
+	none	
+	5
+	5
+
+Nemetocennae_Region		; Atrebatia
+	Nemetocennae		
+	gauls
+	Belgic_Generic	
+	186 179 107	
+	none	
+	5
+	5
+
+Castellum_Region		; Menapia
+	Castellum		
+	gauls
+	Belgic_Generic
+	255 179 17	
+	none	
+	5
+	5
+
+Atuatuca_Region		; Frisia
+	Atuatuca		
+	gauls
+	German_Generic
+	80 105 218	
+	none	
+	5
+	5
+
+;; RAETIA/RHAETIA HELVETI
+
+Clunia_Region		; Vennonia
+	Clunia		
+	dacia
+	Celtic_Generic
+	74 81 60	
+	none	
+	5
+	5
+
+Aguntum_Region		; Laiancia
+	Aguntum		
+	dacia
+	Celtic_Generic
+	53 79 27	
+	none	
+	5
+	4
+
+;; PANNONIA
+
+Noreia_Region		; Noricia
+	Noreia		
+	dacia
+	Celtic_Generic
+	20 201 232	
+	none	
+	5
+	4
+
+Lauricum_Region		; Serretia
+	Lauricum		
+	dacia
+	Celtic_Generic
+	0 189 158	
+	none	
+	5
+	5
+
+Poidicum_Region		; Tauriscia
+	Poidicum		
+	dacia
+	Celtic_Generic
+	159 177 98	
+	none	
+	5
+	5
+
+Aquincum_Region		; Eraviscia
+	Aquincum		
+	dacia
+	Celtic_Generic
+	26 169 193	
+	none	
+	5
+	5
+
+Volgum_Region		; Cotinia
+	Volgum		
+	dacia
+	Celtic_Generic
+	61 93 19	
+	none	
+	5
+	5
+
+Cetium_Region		; Tauriscia
+	Cetium		
+	dacia
+	Celtic_Generic
+	24 253 160	
+	none	
+	5
+	5
+
+Poetovio_Region		; Breucia
+	Poetovio		
+	dacia
+	Celtic_Generic
+	48 114 0	
+	none	
+	5
+	5
+
+Limusa_Region		; Amantinia
+	Limusa		
+	dacia
+	Celtic_Generic
+	237 222 218	
+	none	
+	5
+	5
+
+Mursa_Region		; Celegeria
+	Mursa		
+	dacia
+	Celtic_Generic
+	66 6 200	
+	none	
+	5
+	5
+
+;; DACIA
+
+Vallum_Region		; Iazygia
+	Vallum		
+	dacia
+	Iazyges
+	38 96 252	
+	none	
+	5
+	5
+
+Partiscum_Region		; Pannonia
+	Partiscum		
+	dacia
+	Iazyges
+	215 185 138	
+	none	
+	5
+	5
+
+Bormanum_Region		; Pannonia
+	Bormanum		
+	dacia
+	Iazyges
+	168 49 218	
+	none	
+	5
+	5
+
+Sucidava_Region		; Potulatensia
+	Sucidava		
+	dacia
+	Dacian_Generic
+	128 177 225	
+	none	
+	5
+	5
+
+Pelendava_Region		; Potulatensia
+	Pelendava		
+	dacia
+	Dacian_Generic
+	131 230 69	
+	none	
+	5
+	5
+
+Buridava_Region		; Ordesia
+	Buridava		
+	dacia
+	Dacian_Generic
+	126 39 192	
+	none	
+	5
+	4
+
+Piephigica_Region		; Getaea
+	Piephigica		
+	dacia
+	Dacian_Generic
+	225 219 215	
+	none	
+	5
+	5
+
+Zusidava_Region		; Britolagia
+	Zusidava		
+	dacia
+	Dacian_Generic
+	38 123 255	
+	none	
+	5
+	5
+
+Nentidava_Region		; Sensia
+	Nentidava		
+	dacia
+	Dacian_Generic
+	86 8 235	
+	none	
+	5
+	5
+
+Tyras_Region		; Bastarnaea
+	Tyras		
+	dacia
+	Dacian_Generic
+	253 239 171	
+	none	
+	5
+	5
+
+Karsidava_Region		; Tyregetaea
+	Karsidava		; or Petrodava
+	dacia
+	Dacian_Generic
+	69 4 87	
+	none	
+	5
+	5
+
+Singidava_Region		; Tisia
+	Singidava		
+	dacia
+	Dacian_Generic
+	183 104 54	
+	none	
+	5
+	5
+
+Ulpianum_Region		; Biephia
+	Ulpianum		
+	dacia
+	Dacian_Generic
+	63 80 241	
+	none	
+	5
+	5
+
+Sarmisegetuza_Region	; Apulia
+	Sarmisegetuza
+	dacia
+	Dacian_Generic
+	74 104 5	
+	none	
+	5
+	5
+
+Marcodava_Region	; Caucoensia
+	Marcodava
+	dacia
+	Dacian_Generic
+	126 186 137	
+	none	
+	5
+	5
+
+Porolissum_Region	; Ansamensia
+	Porolissum
+	dacia
+	Dacian_Generic
+	71 28 240	
+	none	
+	5
+	5
+
+Cumidava_Region		; Serria
+	Cumidava	; or Cornidava
+	dacia
+	Dacian_Generic
+	91 222 4	
+	none	
+	5
+	5
+
+Tyragetica_Region		; Tyregetaea
+	Tyragetica		
+	dacia
+	Dacian_Generic
+	8 37 68	
+	none	
+	5
+	5
+
+;; southern gaul/spain
+
+Ruscino_Region		; Sordonia
+	Ruscino
+	spain
+	Iberian_Generic	
+	14 192 37	
+	none	
+	5
+	4
+
+
+;; CARTHAGE / NORTH AFRICA NUMIDIA
+
+Carthage_Region		; carthago		
+	Carthage			
+	carthage				
+	African_Generic				
+	112 183 29				
+	none		
+	5
+	12
+
+Thabraca_Region		; thabracania		
+	Thabraca		
+	carthage				
+	African_Generic				
+	146 15 13				
+	none		
+	5
+	8
+
+Rushikad_Region		; massylia		
+	Rushikad		
+	numidia				
+	African_Generic				
+	175 92 224				
+	none		
+	5
+	8
+
+Qartan_Region		; massaesylia		
+	Qartan	
+	numidia				
+	African_Generic				
+	66 162 3				
+	none		
+	5
+	7
+
+Cirta_Region		; cirtania
+	Cirta	
+	numidia				
+	African_Generic				
+	34 20 69				
+	none		
+	5
+	7
+
+Sitifis_Region		; sitifensia	
+	Sitifis
+	numidia				
+	African_Generic				
+	248 97 21				
+	none		
+	5
+	6
+
+Ammaedara_Region	; aurasius			
+	Ammaedara
+	numidia				
+	African_Generic				
+	215 100 49				
+	none		
+	5
+	7
+
+Mactaris_Region		; musulamia		
+	Mactaris
+	numidia				
+	African_Generic				
+	61 58 35				
+	none		
+	5
+	8
+
+Chullu_Region		; chullu	
+	Chullu
+	numidia				
+	African_Generic				
+	221 86 40				
+	none		
+	5
+	7
+
+Lepreon_Region		; lepreon	
+	Lepreon
+	greek_cities			
+	Achaeans				
+	29 227 228				
+	none		
+	5
+	5
+
+Tabira_Region		; Maxyesia
+	Tabira		; city is actually Capsa
+	numidia				
+	African_Generic				
+	186 162 7				
+	none		
+	5
+	7
+
+Thamugadi_Region		; zaba
+	Thamugadi	; actually Ad Majores
+	numidia				
+	African_Generic				
+	198 192 6				
+	none		
+	5
+	6
+
+Zucchabar_Region		; machuria
+	Zucchabar
+	numidia				
+	African_Generic				
+	236 36 40				
+	none		
+	5
+	7
+
+Regiae_Region		; Regiaea *
+	Regiae
+	numidia				
+	African_Generic				
+	55 102 226				
+	none		
+	5
+	6
+
+Casae_Region		; Nigria *
+	Casae		; Casae Nigrae
+	numidia				
+	African_Generic				
+	5 247 26				
+	none		
+	5
+	5
+
+Uzinaza_Region		; Uzinazia *
+	Uzinaza		
+	numidia				
+	African_Generic				
+	243 231 173				
+	none		
+	5
+	5
+
+Dimmidi_Region		; madethubadus
+	Dimmidi		
+	numidia				
+	African_Generic				
+	245 58 7				
+	none		
+	5
+	5
+
+Tenira_Region		; Tenira 
+	Tenira		; Kaputtasaccora	
+	numidia				
+	African_Generic				
+	99 60 147				
+	none		
+	5
+	5
+
+Utica_Region		; Attiq		
+	Utica		
+	carthage				
+	African_Generic				
+	187 129 4				
+	none		
+	5
+	8
+
+Tacape_Region		; emporia	
+	Tacape	
+	carthage				
+	African_Generic				
+	33 157 196				
+	none		
+	5
+	6
+
+Gigthis_Region		; gigthi *
+	Gigthis	
+	carthage				
+	African_Generic				
+	80 229 245				
+	none		
+	5
+	6
+
+Turris_Region		; tamallenia *
+	Turris		; turris tamalleni
+	numidia				
+	African_Generic				
+	180 126 5				
+	none		
+	5
+	5
+
+Gadiaufala_Region		; Gadania *
+	Gadiaufala		
+	numidia				
+	African_Generic				
+	70 36 41				
+	none		
+	5
+	5
+
+Segernes_Region		; Segernetica *
+	Segernes	
+	carthage				
+	African_Generic				
+	218 28 75				
+	none		
+	5
+	7
+
+Saldae_Region		; Sinus Numidicus
+	Saldae	
+	carthage				
+	African_Generic				
+	102 60 224				
+	none		
+	5
+	7
+
+Rusaddir_Region		; Rusadir
+	Rusaddir	; Rusadir
+	numidia				
+	African_Generic				
+	111 234 136				
+	none		
+	5
+	6
+
+Calchorychis_Region		; Calchorychia
+	Calchorychis	
+	numidia				
+	African_Generic				
+	203 254 34				
+	none		
+	5
+	4
+
+Mulucha_Region		; Mauretania
+	Mulucha	
+	numidia				
+	African_Generic				
+	169 86 135				
+	none		
+	5
+	6
+
+Volubilis_Region		; Mauretania
+	Volubilis	
+	numidia				
+	African_Generic				
+	213 27 123				
+	none		
+	5
+	6
+
+Oppidum_Region		; 
+	Oppidum		; Oppidum Novum
+	numidia				
+	African_Generic				
+	166 44 204				
+	none		
+	5
+	6
+
+Tiflet_Region		; Tadia
+	Tiflet	
+	numidia				
+	African_Generic				
+	29 90 237				
+	none		
+	5
+	6
+
+Sabratha_Region		; Tripolitania
+	Sabratha		
+	carthage			
+	African_Generic				
+	225 160 128				
+	none		
+	5
+	5
+
+Oea_Region		; Tripolitania
+	Oea		
+	carthage			
+	African_Generic				
+	87 223 123				
+	none		
+	5
+	7
+
+Lepcis_Region		; Tripolitania
+	Lepcis		
+	carthage			
+	African_Generic				
+	157 216 38				
+	none		
+	5
+	5
+
+Thubactis_Region		; Tripolitania
+	Thubactis		
+	carthage			
+	African_Generic				
+	242 85 35				
+	none		
+	5
+	5
+
+Tabalati_Region		; Deserta
+	Tabalati		
+	numidia			
+	African_Generic				
+	119 115 188				
+	none		
+	5
+	4
+
+Thenteos_Region		; Tripolitania
+	Thenteos		
+	numidia			
+	African_Generic				
+	211 160 138				
+	none		
+	5
+	4
+
+Mizda_Region		; Tripolitania
+	Mizda		
+	numidia			
+	African_Generic				
+	156 214 156				
+	none		
+	5
+	3
+
+Gholaia_Region		; Tripolitania
+	Gholaia		
+	numidia			
+	African_Generic				
+	100 11 90				
+	none		
+	5
+	3
+
+Charax_Region		; Syrtica
+	CharaxB		
+	numidia			
+	African_Generic				
+	131 198 22				
+	none		
+	5
+	5
+
+Boreum_Region		; Syrtica
+	Boreum		
+	numidia			
+	African_Generic				
+	55 236 35				
+	none		
+	5
+	5
+
+Maradah_Region		; Syrtica
+	Maradah		
+	numidia			
+	African_Generic				
+	206 183 72				
+	none		
+	5
+	4
+
+Macaeum_Region		; Syrtica
+	Macaeum		
+	numidia			
+	African_Generic				
+	24 131 186				
+	none		
+	5
+	3
+
+Migo_Region		; Syrtica
+	Migo		
+	numidia			
+	African_Generic				
+	160 115 184				
+	none		
+	5
+	3
+
+;; HISPANIA SPAIN
+
+Malaca_Region		; Malacitia
+	Malaca	
+	spain			
+	Iberian_Generic				
+	53 77 11				
+	none		
+	5
+	5
+
+Ukri_Region		; Bastetania
+	Ukri		; actually Abdera
+	spain			
+	Iberian_Generic				
+	5 232 28				
+	none		
+	5
+	5
+
+Imeroskopeion_Region		; contestania
+	Imeroskopeion	
+	greek_cities			
+	Iberian_Generic		; to be greeks	
+	220 144 137				
+	none		
+	5
+	6
+
+Kastilo_Region		; Oretania
+	Kastilo	
+	spain			
+	Iberian_Generic				
+	138 146 160				
+	none		
+	5
+	6
+
+Basti_Region		; Bastetania
+	Basti	
+	spain			
+	Iberian_Generic				
+	225 167 20				
+	none		
+	5
+	5
+
+Carmona_Region		; Turdetania
+	Carmona		; carmona or carissa
+	spain			
+	Iberian_Generic				
+	103 72 107				
+	none		
+	5
+	5
+
+Lauro_Region		; Turdetania
+	Lauro		; Astigi
+	spain			
+	Iberian_Generic				
+	215 184 84				
+	none		
+	5
+	5
+
+Segisa_Region		; Deitania
+	Segisa		
+	spain			
+	Iberian_Generic				
+	206 9 20				
+	none		
+	5
+	5
+
+Ebusus_Region		; Ibossim
+	Ebusus		
+	spain			
+	Iberian_Generic				
+	58 240 24				
+	none		
+	5
+	4
+
+Kartuba_Region		; Turdetania
+	Kartuba		
+	spain			
+	Iberian_Generic				
+	203 10 224				
+	none		
+	5
+	6
+
+Onoba_Region		; Tartessos
+	Onoba	
+	spain			
+	Iberian_Generic				
+	115 170 227				
+	none		
+	5
+	7
+
+Conistorgis_Region		; Couneia
+	Conistorgis	
+	spain			
+	Iberian_Generic				
+	24 135 99				
+	none		
+	5
+	6
+
+Sisapo_Region		; Turdulia
+	Sisapo	
+	spain			
+	Iberian_Generic				
+	153 143 123				
+	none		
+	5
+	6
+
+Orissia_Region		; Germania
+	Orissia	
+	spain			
+	Iberian_Generic				
+	112 133 45				
+	none		
+	5
+	6
+
+Setabi_Region		; Contestania
+	Setabi
+	spain			
+	Iberian_Generic				
+	117 157 136					
+	none		
+	5
+	5
+
+Mirobriga_Region		; Celticia
+	Mirobriga
+	spain			
+	Iberian_Generic				
+	83 221 209					
+	none		
+	5
+	6
+
+Serrobriga_Region		; Celticia
+	Serrobriga
+	spain			
+	Iberian_Generic				
+	169 31 13					
+	none		
+	5
+	5
+
+Tongobriga_Region		; Celticia
+	Tongobriga
+	spain			
+	Iberian_Generic				
+	159 79 189					
+	none		
+	5
+	5
+
+Alaba_Region		; Lobetania
+	Alaba
+	spain			
+	Iberian_Generic				
+	11 235 88					
+	none		
+	5
+	5
+
+Edeta_Region		; Edetania
+	Edeta
+	spain			
+	Iberian_Generic				
+	39 32 207					
+	none		
+	5
+	5
+
+Collipo_Region		; Turdulia Oppidanica
+	Collipo
+	spain			
+	Iberian_Generic				
+	15 60 101					
+	none		
+	5
+	6
+
+Langobriga_Region		; Turdulia Veterea
+	Langobriga
+	spain			
+	Iberian_Generic				
+	76 17 113					
+	none		
+	5
+	6
+
+Caliabriga_Region		; Lusitania
+	Caliabriga
+	spain			
+	Iberian_Generic				
+	195 78 48					
+	none		
+	5
+	6
+
+Talabriga_Region		; Lusitania
+	Talabriga
+	spain			
+	Iberian_Generic				
+	174 252 250					
+	none		
+	5
+	6
+
+Caperra_Region		; Vettonia
+	Caperra
+	spain			
+	Iberian_Generic				
+	67 197 191					
+	none		
+	5
+	5
+
+Toletum_Region		; Carpetania
+	Toletum
+	spain			
+	Iberian_Generic				
+	28 211 190					
+	none		
+	5
+	6
+
+Consabura_Region	; Carpetania
+	Consabura
+	spain			
+	Iberian_Generic				
+	223 205 56					
+	none		
+	5
+	5
+
+Redukena_Region		; Carpetania
+	Redukena
+	spain			
+	Iberian_Generic				
+	110 87 85					
+	none		
+	5
+	5
+
+Laxta_Region		; Olcadia
+	Laxta
+	spain			
+	Iberian_Generic				
+	101 247 129					
+	none		
+	5
+	5
+
+Lancia_Region		; Asturia
+	Lancia
+	spain			
+	Iberian_Generic				
+	26 140 130					
+	none		
+	5
+	4
+
+Aracillum_Region		; Cantabria
+	Aracillum
+	spain			
+	Iberian_Generic				
+	210 28 147					
+	none		
+	5
+	4
+
+Bracara_Region		; Gallaecia
+	Bracara
+	spain			
+	Iberian_Generic				
+	61 139 36					
+	none		
+	5
+	5
+
+Nemetobriga_Region		; Gallaecia
+	Nemetobriga
+	spain			
+	Iberian_Generic				
+	134 1 9					
+	none		
+	5
+	5
+
+Brigantium_Region		; Gallaecia
+	Brigantium
+	spain			
+	Iberian_Generic				
+	52 32 143					
+	none		
+	5
+	5
+
+Orippo_Region		; Turdetania
+	Orippo
+	spain			
+	Iberian_Generic				
+	230 195 145					
+	none		
+	5
+	5
+
+Rhoda_Region		; Indigetia
+	Rhoda
+	greek_cities			
+	Iberian_Generic				
+	84 176 140					
+	none		
+	5
+	4
+
+Emporion_Region		; Indigetia
+	Emporion
+	greek_cities			
+	Iberian_Generic				
+	170 81 177					
+	none		
+	5
+	4
+
+Hiberia_Region		; Ilercavonia
+	Hiberia
+	spain			
+	Iberian_Generic				
+	126 3 153					
+	none		
+	5
+	6
+
+Tenebri_Region		; Ilercavonia
+	Tenebri
+	spain			
+	Iberian_Generic				
+	64 164 103					
+	none		
+	5
+	5
+
+Barcino_Region		; Laietania
+	Barcino
+	spain			
+	Iberian_Generic				
+	135 223 232					
+	none		
+	5
+	6
+
+Iruna_Region		; Vardulia
+	Iruna		; Iruña
+	spain			
+	Iberian_Generic				
+	191 159 5					
+	none		
+	5
+	4
+
+Oiasso_Region		; Vasconia
+	Oiasso		
+	spain			
+	Iberian_Generic				
+	187 176 191					
+	none		
+	5
+	4
+
+Iaca_Region		; Iacetania
+	Iaca	
+	spain			
+	Iberian_Generic				
+	223 240 201					
+	none		
+	5
+	4
+
+Segovia_Region		; Vaccaeia
+	Segovia		; actually Cauca
+	spain			
+	Iberian_Generic				
+	229 116 178					
+	none		
+	5
+	5
+
+Pallantia_Region		; Vaccaeia
+	Pallantia
+	spain			
+	Iberian_Generic				
+	28 58 128					
+	none		
+	5
+	5
+
+Lesso_Region		; Lacetania
+	Lesso
+	spain			
+	Iberian_Generic				
+	147 144 35					
+	none		
+	5
+	5
+
+Itirkesken_Region		; Ausetania
+	Itirkesken
+	spain			
+	Iberian_Generic				
+	246 104 27					
+	none		
+	5
+	4
+
+Turba_Region		; Turboletia
+	Turba
+	spain			
+	Iberian_Generic				
+	88 127 230					
+	none		
+	5
+	4
+
+Turiasso_Region		; Lusonia
+	Turiasso
+	spain			
+	Iberian_Generic				
+	42 78 170					
+	none		
+	5
+	5
+
+Termantia_Region		; Arevacia
+	Termantia
+	spain			
+	Iberian_Generic				
+	19 54 116					
+	none		
+	5
+	5
+
+Calagurris_Region		; Vasconia
+	Calagurris
+	spain			
+	Iberian_Generic				
+	117 200 83					
+	none		
+	5
+	5
+
+;; BRITAIN
+
+Durovernum_Region		; Cantiaca
+	Durovernum		; Durovernum Cantiacorum
+	britons			
+	Briton_Generic				
+	121 15 1					
+	none		
+	5
+	5
+
+Noviomagus_Region		; Regnia
+	Noviomagus		; Noviomagus Reginorum
+	britons			
+	Briton_Generic				
+	168 226 50					
+	none		
+	5
+	5
+
+
+Durnovaria_Region		; Durotrigia
+	Durnovaria		
+	britons			
+	Briton_Generic				
+	194 217 31					
+	none		
+	5
+	5
+
+VentaB_Region		; Belgaea
+	VentaB		; Venta Belgarum		
+	britons			
+	Belgic_Generic				
+	111 161 28					
+	none		
+	5
+	5
+
+Verulamium_Region		; Catuvellaunia
+	Verulamium				
+	britons			
+	Briton_Generic				
+	130 88 168					
+	none		
+	5
+	5
+
+Corinium_Region		; Dobunnia
+	Corinium	; Corinium Dobunnorum			
+	britons			
+	Briton_Generic				
+	25 145 142					
+	none		
+	5
+	5
+
+Silurum_Region		; Siluria
+	Silurum		; Venta Silurum			
+	britons			
+	Briton_Generic				
+	61 205 1				
+	none		
+	5
+	4
+
+Moridunum_Region		; Demetaea
+	Moridunum			
+	britons			
+	Briton_Generic				
+	242 42 57				
+	none		
+	5
+	4
+
+Mona_Region		; Ordovicia
+	Mona			
+	britons			
+	Briton_Generic				
+	34 115 30				
+	none		
+	5
+	4
+
+Ratae_Region		; Corieltauvia
+	Ratae			
+	britons			
+	Briton_Generic				
+	181 10 94				
+	none		
+	5
+	5
+
+Brigantum_Region		; Brigantia
+	Brigantum		; Isurium Brigantum
+	britons			
+	Briton_Generic				
+	4 33 51				
+	none		
+	5
+	5
+
+Calatum_Region		; Brigantia
+	Calatum		
+	britons			
+	Briton_Generic				
+	176 70 16				
+	none		
+	5
+	5
+
+Luguvalium_Region		; Carvetia
+	Luguvalium		
+	britons			
+	Briton_Generic				
+	116 91 189				
+	none		
+	5
+	4
+
+Curia_Region		; Otadinia
+	Curia		
+	britons			
+	Briton_Generic				
+	21 95 138				
+	none		
+	5
+	4
+
+Vanduara_Region		; Damnonia
+	Vanduara		
+	britons			
+	Briton_Generic				
+	88 218 94				
+	none		
+	5
+	4
+
+Uxellum_Region		; Selgovaea
+	Uxellum		
+	britons			
+	Briton_Generic				
+	228 97 146				
+	none		
+	5
+	4
+
+Orrea_Region		; Veniconia
+	Orrea		
+	britons			
+	Briton_Generic				
+	155 118 200				
+	none		
+	5
+	4
+
+
+Pinnata_Region		; Vacomagia
+	Pinnata		; Pinnata Castra
+	britons			
+	Briton_Generic				
+	210 198 246				
+	none		
+	5
+	3
+
+;Lugia_Region		; Lugia
+;	Lugia		; Lugium
+;	britons			
+;	Briton_Generic				
+;	50 118 243				
+;	none		
+;	5
+;	3
+
+Rauatonium_Region		; Epidia
+	Rauatonium		
+	britons			
+	Briton_Generic				
+	237 72 57				
+	none		
+	5
+	3
+
+;;;;;;;;;; IRELAND ;;;;;;;;;
+
+;;;;;;;;;; ANATOLIA ;;;;;;;;;;
+
+Troy_Region		; Troas
+	Troy		; Ilion/um
+	seleucid				
+	Anatolian_Generic				
+	27 84 120				
+	none		
+	5
+	6
+
+Smyrna_Region		; Aeolia
+	Smyrna		
+	seleucid				
+	Anatolian_Generic				
+	9 232 197				
+	none		
+	5
+	6
+
+Adramyttion_Region		; Aeolia
+	Adramyttion		
+	seleucid				
+	Anatolian_Generic				
+	116 12 196				
+	none		
+	5
+	6
+
+Ephesus_Region		; Ionia
+	Ephesus		
+	seleucid				
+	Anatolian_Generic				
+	247 190 120				
+	none		
+	5
+	6
+
+Halicarnassus_Region		; Doris
+	Halicarnassus		
+	seleucid				
+	Anatolian_Generic				
+	191 17 202				
+	none		
+	5
+	6
+
+Aphrodisias_Region		; Caria
+	Aphrodisias		
+	seleucid				
+	Anatolian_Generic				
+	24 95 219				
+	none		
+	5
+	5
+
+Cyzicus_Region		; Mysia
+	Cyzicus		
+	seleucid				
+	Anatolian_Generic				
+	123 128 157				
+	none		
+	5
+	6
+
+Hadriania_Region		; Mysia
+	Hadriania		
+	seleucid				
+	Anatolian_Generic				
+	82 19 76				
+	none		
+	5
+	5
+
+Termessos_Region		; Pisidia
+	Termessos		
+	seleucid				
+	Anatolian_Generic				
+	165 49 8				
+	none		
+	5
+	6
+
+Dorylaeum_Region		; Phyrgia
+	Dorylaeum		
+	seleucid				
+	Anatolian_Generic				
+	28 100 218				
+	none		
+	5
+	5
+
+Gordium_Region		; Galatia
+	Gordium		
+	seleucid				
+	Anatolian_Generic				
+	210 206 100				
+	none		
+	5
+	6
+
+Gangra_Region		; Paphlagonia
+	Gangra		
+	seleucid				
+	Anatolian_Generic				
+	111 236 213				
+	none		
+	5
+	6
+
+Iconium_Region		; Lycaonia
+	Iconium		
+	seleucid				
+	Anatolian_Generic				
+	10 219 193				
+	none		
+	5
+	7
+
+HeracleaP_Region		; Mariandynia
+	HeracleaP		
+	seleucid				
+	Anatolian_Generic				
+	64 46 35				
+	none		
+	5
+	5
+
+Kaunos_Region		; Caria
+	Kaunos		
+	seleucid				
+	Anatolian_Generic				
+	110 134 107				
+	none		
+	5
+	5
+
+Isaura_Region		; Isauria
+	Isaura		; Isaura Palaea
+	seleucid				
+	Anatolian_Generic				
+	133 15 177				
+	none		
+	5
+	4
+
+Laranda_Region		; Lycaonia
+	Laranda		
+	seleucid				
+	Anatolian_Generic				
+	157 39 168				
+	none		
+	5
+	5
+
+Dadastana_Region		; Bithynia
+	Dadastana		
+	seleucid				
+	Anatolian_Generic				
+	136 110 107				
+	none		
+	5
+	4
+
+Cadi_Region		; Phyrgia
+	Cadi		; Kadoi	
+	seleucid				
+	Anatolian_Generic				
+	150 104 110				
+	none		
+	5
+	5
+
+Side_Region		; Pamphylia
+	Side		
+	seleucid				
+	Anatolian_Generic				
+	91 187 109				
+	none		
+	5
+	6
+
+SeleukiaP_Region		; Pamphylia
+	SeleukiaP		; Seleukia		
+	seleucid				
+	Anatolian_Generic				
+	104 23 31				
+	none		
+	5
+	6
+
+Claudia_Region		; Chammene
+	Claudia		; Garsaura--Archelaïs
+	seleucid				
+	Anatolian_Generic2				
+	164 138 124				
+	none		
+	5
+	6
+
+Tyana_Region		; Chammene
+	Tyana	
+	seleucid				
+	Anatolian_Generic2				
+	111 145 248				
+	none		
+	5
+	6
+
+Komana_Region		; Cataonia
+	Komana		
+	seleucid				
+	Anatolian_Generic2				
+	103 171 109				
+	none		
+	5
+	6
+
+Tavium_Region		; Galatia
+	Tavium		
+	seleucid				
+	Anatolian_Generic2				
+	33 156 9				
+	none		
+	5
+	5
+
+Anazarbos_Region		; Cilicia
+	Anazarbos	
+	seleucid				
+	Anatolian_Generic2				
+	202 152 55				
+	none		
+	5
+	9
+
+Melitene_Region		; Melitene
+	Melitene	
+	seleucid				
+	Anatolian_Generic2				
+	115 126 172				
+	none		
+	5
+	6
+
+Samosata_Region		; Commagene
+	Samosata	
+	seleucid				
+	Anatolian_Generic2				
+	111 158 230				
+	none		
+	5
+	6
+
+Amaseia_Region		; 
+	Amaseia	
+	pontus				
+	Anatolian_Generic2				
+	252 0 247				
+	none		
+	5
+	5
+
+Amisos_Region		; 
+	Amisos
+	pontus				
+	Anatolian_Generic2				
+	120 146 174				
+	none		
+	5
+	6
+
+Zela_Region		; 
+	Zela	
+	pontus				
+	Anatolian_Generic2				
+	252 73 185				
+	none		
+	5
+	5
+
+Kotyora_Region		; 
+	Kotyora	
+	pontus				
+	Anatolian_Generic2				
+	210 39 130				
+	none		
+	5
+	5
+
+Rhizos_Region		; 
+	Rhizos	
+	pontus				
+	Anatolian_Generic2				
+	145 75 232				
+	none		
+	5
+	5
+
+Setai_Region		; Mysia
+	Setai	
+	seleucid				
+	Anatolian_Generic				
+	94 229 156				
+	none		
+	5
+	5
+
+Callistratia_Region		; Paphlagonia
+	Callistratia	
+	seleucid				
+	Anatolian_Generic2				
+	54 189 169				
+	none		
+	5
+	5
+
+;;;;;;;;;; MESOPOTAMIA/ASSYRIA
+
+Edessa_Region		; Osroene
+	Edessa	
+	seleucid				
+	Syrian_Generic		
+	34 15 151				
+	none		
+	5
+	7
+
+AlexandriaT_Region		; Characene
+	AlexandriaT	
+	seleucid			
+	Mesopotamian_Generic			
+	42 223 158				
+	none		
+	5
+	7
+
+Uruk_Region		; Sumer
+	Uruk	
+	seleucid				
+	Mesopotamian_Generic			
+	120 186 21				
+	none		
+	5
+	9
+
+Ur_Region		; Chaldea
+	Ur		; Eridou
+	seleucid				
+	Mesopotamian_Generic			
+	242 87 139				
+	none		
+	5
+	7
+
+Der_Region		; Elymais
+	Der		; or Durum
+	seleucid				
+	Mesopotamian_Generic			
+	64 122 155				
+	none		
+	5
+	8
+
+Balagaria_Region	; Satrapene
+	Balagaria	; actually Apameia
+	seleucid				
+	Mesopotamian_Generic			
+	202 19 181				
+	none		
+	5
+	9
+
+Opis_Region		; Elymais
+	Opis	
+	seleucid				
+	Mesopotamian_Generic			
+	232 159 106				
+	none		
+	5
+	7
+
+Seleucia_Region		; Babylonia
+	Seleucia	
+	seleucid				
+	Mesopotamian_Generic			
+	69 115 154				
+	none		
+	5
+	11
+
+NeapolisE_Region	; Scenitia
+	NeapolisE	
+	seleucid				
+	Mesopotamian_Generic			
+	243 42 20				
+	none		
+	5
+	9
+
+Haradu_Region		; Patami
+	Haradu	
+	seleucid				
+	Mesopotamian_Generic			
+	242 85 120				
+	none		
+	5
+	6
+
+Dura_Region		; Tingene
+	Dura		; Dura Europos	
+	seleucid				
+	Mesopotamian_Generic			
+	80 191 145				
+	none		
+	5
+	6
+
+Sargonias_Region		; Sigraine
+	Sargonias		
+	seleucid				
+	Mesopotamian_Generic				
+	129 168 62				
+	none		
+	5
+	5
+
+Assur_Region		; Acabene
+	Assur		
+	seleucid				
+	Mesopotamian_Generic				
+	90 131 184				
+	none		
+	5
+	7
+
+Nisibis_Region		; Mygdonia
+	Nisibis		
+	seleucid				
+	Mesopotamian_Generic				
+	210 82 249				
+	none		
+	5
+	5
+
+Arbela_Region		; Arbelitis
+	Arbela		
+	seleucid				
+	Mesopotamian_Generic				
+	137 155 211				
+	none		
+	5
+	5
+
+;;;;;;;;;; ARMENIA ;;;;;;;;;;
+
+Tigranocerta_Region		; Arzanene
+	Tigranocerta		; Tigranocerta
+	armenia				
+	Armenian_Generic				
+	166 79 71				
+	none		
+	5
+	5
+
+Lusatarich_Region		; Bolbene
+	Lusatarich		; or Dadima?
+	armenia				
+	Armenian_Generic				
+	248 19 61				
+	none		
+	5
+	4
+
+Ani_Region		; Upper Armenia/Orbalisene
+	Ani		
+	armenia				
+	Armenian_Generic				
+	206 143 121				
+	none		
+	5
+	5
+
+Ashtishat_Region		; Taron/Astianene
+	Ashtishat		
+	armenia				
+	Armenian_Generic				
+	70 18 240				
+	none		
+	5
+	5
+
+Parsua_Region		; Persarmenia
+	Parsua		
+	armenia				
+	Armenian_Generic				
+	103 136 69				
+	none		
+	5
+	5
+
+Amedu_Region		; Sophanene
+	Amedu		
+	armenia				
+	Armenian_Generic				
+	44 254 246				
+	none		
+	5
+	5
+
+Ukhtik_Region		; Tayk
+	Ukhtik	
+	armenia				
+	Armenian_Generic				
+	0 227 235				
+	none		
+	5
+	4
+
+Ardahan_Region		; Gogarene
+	Ardahan	
+	armenia				
+	Armenian_Generic				
+	51 31 0				
+	none		
+	5
+	5
+
+Nersehapat_Region		; Vaspurakan
+	Nersehapat	
+	armenia				
+	Armenian_Generic				
+	140 165 67				
+	none		
+	5
+	5
+
+Philadelphia_Region		; Vaspurakan (or Bakean)
+	Philadelphia	
+	armenia				
+	Armenian_Generic				
+	16 221 33				
+	none		
+	5
+	5
+
+Paytakaran_Region		; Paytakaran
+	Paytakaran	
+	armenia				
+	Armenian_Generic				
+	162 152 194				
+	none		
+	5
+	5
+
+Alevan_Region		; Alevan
+	Alevan	
+	armenia				
+	Armenian_Generic				
+	203 120 182				
+	none		
+	5
+	4
+
+Baghaberd_Region		; Syunik
+	Baghaberd	
+	armenia				
+	Armenian_Generic				
+	127 187 11				
+	none		
+	5
+	5
+
+Atropatene_Region		; Atropatene
+	Atropatene_City		; Ganzak or Shiz	
+	armenia				
+	Armenian_Generic				
+	70 39 74				
+	none		
+	5
+	5
+
+Huranakert_Region		; Utik
+	Huranakert
+	armenia				
+	Armenian_Generic				
+	88 208 222				
+	none		
+	5
+	5
+
+Partav_Region		; Utik or Artsakh
+	Partav
+	armenia				
+	Armenian_Generic				
+	170 77 85				
+	none		
+	5
+	5
+
+Kuruschata_Region		; Atropatene
+	Kuruschata
+	seleucid			
+	Armenian_Generic				
+	131 149 119				
+	none		
+	5
+	5
+
+;;;;;;;;; CAUCUSUS caucausus ;;;;;;;;;;
+
+Phasis_Region		; Colchis
+	Phasis
+	armenia				
+	Armenian_Generic				
+	129 49 87				
+	none		
+	5
+	5
+
+Pityus_Region		; Abasgia
+	Pityus
+	armenia				
+	Armenian_Generic				
+	252 240 63				
+	none		
+	5
+	5
+
+;;;;;;;;;; CIMMERA ;;;;;;;;;
+
+Panticapaeum_Region		; Taurica
+	Panticapaeum
+	pontus				
+	Greek_Generic				
+	101 86 135				
+	none		
+	5
+	7
+
+Theodosia_Region		; Taurica
+	Theodosia
+	pontus				
+	Greek_Generic				
+	170 29 108				
+	none		
+	5
+	6
+
+Kerkentis_Region		; Taurica
+	Kerkentis
+	pontus				
+	Greek_Generic				
+	22 225 236				
+	none		
+	5
+	6
+
+Tazus_Region		; Taurica
+	Tazus
+	scythia				
+	Scythian_Generic				
+	91 202 173				
+	none		
+	5
+	5
+
+Badatium_Region		; Taurica
+	Badatium
+	scythia				
+	Scythian_Generic				
+	138 124 25				
+	none		
+	5
+	5
+
+Cimus_Region		; Taurica
+	Cimus
+	scythia				
+	Scythian_Generic				
+	6 2 254				
+	none		
+	5
+	5
+
+Phanagoria_Region		; Sindica
+	Phanagoria
+	pontus			
+	Bosphorans			
+	24 135 178				
+	none		
+	5
+	5
+
+Torik_Region		; Toretae
+	Torik
+	scythia			
+	Scythian_Generic		
+	93 70 26				
+	none		
+	5
+	5
+
+Labrys_Region		; Sindica
+	Labrys
+	scythia			
+	Scythian_Generic		
+	251 69 45				
+	none		
+	5
+	5
+
+Gorgippia_Region		; Sindica
+	Gorgippia
+	scythia			
+	Scythian_Generic		
+	203 169 56				
+	none		
+	5
+	5
+
+Olbia_Region		; Sindica
+	Olbia
+	scythia			
+	Scythian_Generic		
+	165 86 61				
+	none		
+	5
+	5
+
+Tanais_Region		; Maeotia
+	Tanais
+	scythia			
+	Scythian_Generic		
+	220 82 176				
+	none		
+	5
+	5
+
+;;;;;;;;;; SCYTHIA ;;;;;;;;;
+
+Akra_Region		; Tauroscythia
+	Akra
+	scythia			
+	Scythian2_Generic		
+	224 19 115				
+	none		
+	5
+	4
+
+Kanit_Region		; Tauroscythia
+	Kanit
+	scythia			
+	Scythian2_Generic		
+	201 198 58				
+	none		
+	5
+	4
+
+Ish_Region		; Tauroscythia
+	Ish
+	scythia			
+	Scythian2_Generic		
+	163 157 123				
+	none		
+	5
+	4
+
+Ghako_Region		; Tauroscythia
+	Ghako
+	scythia			
+	Scythian2_Generic		
+	18 73 234				
+	none		
+	5
+	4
+
+Pasyris_Region		; Tauroscythia
+	Pasyris
+	scythia			
+	Scythian2_Generic		
+	247 197 192				
+	none		
+	5
+	5
+
+;;;;;;;;;; ARABIA ;;;;;;;;;
+
+Gerrah_Region		; Dilmunia
+	Gerrah	
+	seleucid				
+	Arab_Generic		
+	80 37 21				
+	none		
+	5
+	5
+
+;;;;;;;;;; EGYPT ;;;;;;;;;;\
+
+Rosetta_Region		; A-ment
+	Rosetta			
+	egypt				
+	Egypt_Generic				
+	37 148 66				
+	none		
+	5
+	8
+
+Sais_Region		; Sap-Meh
+	Sais		; Buto	
+	egypt				
+	Egypt_Generic				
+	147 108 10				
+	none		
+	5
+	8
+
+Busiris_Region		; Ati
+	Busiris			
+	egypt				
+	Egypt_Generic				
+	144 76 18				
+	none		
+	5
+	8
+
+Tanis_Region		; Am-Pehu
+	Tanis			
+	egypt				
+	Egypt_Generic				
+	29 124 62				
+	none		
+	5
+	8
+
+Heliopolis_Region		; Heq-At
+	Heliopolis			
+	egypt				
+	Egypt_Generic				
+	117 137 151				
+	none		
+	5
+	8
+
+Tandata_Region		; Sapi-Res
+	Tandata			
+	egypt				
+	Egypt_Generic				
+	147 53 71				
+	none		
+	5
+	8
+
+Taposiris_Region		; Scetis
+	Taposiris		
+	egypt				
+	Egypt_Generic				
+	218 243 14				
+	none		
+	5
+	5
+
+Bubastis_Region		; Am-Khent
+	Bubastis		
+	egypt				
+	Egypt_Generic				
+	178 62 220				
+	none		
+	5
+	7
+
+Antinopolis_Region		; Saka
+	Antinopolis		
+	egypt				
+	Egypt_Generic				
+	15 157 199				
+	none		
+	5
+	7
+
+Abydos_Region		; Ta-wer
+	Abydos		
+	egypt				
+	Egypt_Generic				
+	141 98 26				
+	none		
+	5
+	8
+
+Parva_Region		; Oasis Magna
+	Parva		
+	egypt				
+	Egypt_Generic				
+	108 182 33				
+	none		
+	5
+	4
+
+Qubba_Region		; Porphyrites Mons
+	Qubba		
+	egypt				
+	Egypt_Generic				
+	243 31 48				
+	none		
+	5
+	6
+
+Drepanon_Region		; Porphyrites Mons
+	Drepanon		
+	egypt				
+	Egypt_Generic				
+	65 179 5				
+	none		
+	5
+	6
+
+Hibis_Region		; Oasis Magna
+	Hibis		
+	egypt				
+	Egypt_Generic				
+	196 220 151				
+	none		
+	5
+	5
+
+Nechesia_Region		; Porphyrites Mons
+	Nechesia		
+	egypt				
+	Egypt_Generic				
+	66 62 9				
+	none		
+	5
+	5
+
+Clysma_Region		; Saracena
+	Clysma		
+	egypt				
+	Egypt_Generic				
+	126 187 120				
+	none		
+	5
+	6
+
+Ostrakine_Region		; Barneatis
+	Ostrakine		
+	egypt				
+	Egypt_Generic				
+	60 188 132				
+	none		
+	5
+	6
+
+Lysa_Region		; Sinai
+	Lysa		
+	egypt				
+	Arab_Generic				
+	126 187 201				
+	none		
+	5
+	5
+
+Eilat_Region		; Sinai
+	Eilat		
+	egypt				
+	Arab_Generic				
+	180 164 241				
+	none		
+	5
+	5
+
+;;;;; CYRENAICA ;;;;;
+
+Serapeion_Region		; Cyrenaica
+	Serapeion			
+	greek_cities				
+	Greek_Generic				
+	208 139 185				
+	none		
+	5
+	6
+
+Lasamices_Region		; Cyrenaica
+	Lasamices			
+	greek_cities				
+	Greek_Generic				
+	203 227 0				
+	none		
+	5
+	5
+
+Eusperides_Region		; Cyrenaica
+	Eusperides			
+	greek_cities				
+	Greek_Generic				
+	21 120 44				
+	none		
+	5
+	6
+
+;;;;; MARMARICA ;;;;;
+
+Gonia_Region		; Marmarica
+	Gonia			
+	egypt				
+	African_Generic				
+	4 193 20				
+	none		
+	5
+	5
+
+Paraitonion_Region		; Marmarica
+	Paraitonion			
+	egypt				
+	African_Generic				
+	103 103 35				
+	none		
+	5
+	5
+
+Antiphrai_Region		; Marmarica
+	Antiphrai			
+	egypt				
+	African_Generic				
+	38 116 96				
+	none		
+	5
+	5
+
+Giarabub_Region		; Libya
+	Giarabub			
+	numidia				
+	African_Generic				
+	16 88 53				
+	none		
+	5
+	3
+
+Berdoa_Region		; Libya
+	Berdoa			
+	numidia				
+	African_Generic		
+	251 35 83				
+	none		
+	5
+	2
+
+;;;;;;;;; LEVANT ;;;;;;;; 
+
+Pharan_Region		; Sinai
+	Pharan		
+	egypt				
+	Arab_Generic				
+	206 205 187				
+	none		
+	5
+	4
+
+Gypsaria_Region		; Sinai
+	Gypsaria		
+	egypt				
+	Arab_Generic				
+	193 225 120				
+	none		
+	5
+	4
+
+Auara_Region		; Nabataea
+	Auara		
+	egypt				
+	Arab_Generic				
+	51 182 165				
+	none		
+	5
+	5
+
+Leuke_Region		; Nabataea
+	Leuke		
+	egypt				
+	Arab_Generic				
+	91 58 25				
+	none		
+	5
+	5
+
+Gaza_Region		
+	Gaza			
+	egypt				
+	Arab_Generic				
+	231 45 189				
+	none		
+	5
+	9
+
+Hebron_Region		; 
+	Hebron			
+	egypt				
+	Arab_Generic				
+	51 111 177				
+	none		
+	5
+	7
+
+Samaria_Region		; 
+	Samaria			
+	seleucid				
+	Arab_Generic				
+	246 154 151				
+	none		
+	5
+	8
+
+Rabbath_Region		; 
+	Rabbath			
+	seleucid				
+	Arab_Generic				
+	161 66 122				
+	none		
+	5
+	9
+
+Dibon_Region		; 
+	Dibon			
+	egypt				
+	Arab_Generic				
+	242 111 228				
+	none		
+	5
+	7
+
+Meggido_Region		; 
+	Meggido			
+	seleucid				
+	Arab_Generic				
+	232 192 232				
+	none		
+	5
+	7
+
+Kadasa_Region		;
+	Kadasa			
+	seleucid				
+	Arab_Generic				
+	106 41 204				
+	none		
+	5
+	7
+
+Gadara_Region		; 
+	Gadara			
+	seleucid				
+	Arab_Generic				
+	68 187 187				
+	none		
+	5
+	7
+
+Gadda_Region		; Nabataea
+	Gadda		
+	egypt				
+	Arab_Generic				
+	57 133 74				
+	none		
+	5
+	4
+
+Byblos_Region		; Phoenicia
+	Byblos			
+	seleucid				
+	Arab_Generic				
+	203 116 31				
+	none		
+	5
+	7
+
+Arados_Region		; Phoenicia
+	Arados			
+	seleucid				
+	Arab_Generic				
+	97 212 6				
+	none		
+	5
+	5
+
+Emesos_Region		; Emesiatis
+	Emesos			
+	seleucid				
+	Arab_Generic				
+	129 203 62				
+	none		
+	5
+	7
+
+Apamea_Region		; Apemene
+	Apamea			
+	seleucid				
+	Arab_Generic				
+	220 236 240				
+	none		
+	5
+	7
+
+Laodikea_Region		; Phoenicia
+	Laodikea			
+	seleucid				
+	Arab_Generic				
+	141 103 127				
+	none		
+	5
+	8
+
+
+Gabboula_Region		; Bambicene
+	Gabboula			
+	seleucid				
+	Arab_Generic				
+	253 45 81				
+	none		
+	5
+	8
+
+Cyrrhus_Region		; Casiotis
+	Cyrrhus			
+	seleucid				
+	Arab_Generic				
+	71 240 55				
+	none		
+	5
+	6
+
+ChalkisL_Region		; Casiotis
+	ChalkisL		
+	seleucid				
+	Arab_Generic				
+	20 129 101				
+	none		
+	5
+	6
+
+Amathe_Region		; Apamene
+	Amathe			
+	seleucid				
+	Arab_Generic				
+	211 142 254				
+	none		
+	5
+	6
+
+;;; GERMANY GERMANIA
+
+Fjon_Region		; Scandiae Insulae/Eutia
+	Fjon		; Odense
+	germans
+	German_Generic	
+	251 100 188	
+	none	
+	5
+	4
+
+Gudme_Region		; Gutland
+	Gudme		; Visby
+	germans
+	German_Generic	
+	214 244 124	
+	none	
+	5
+	4
+
+Jutlandan_Region		; Cimbria
+	Jutlandan		; Alabu
+	germans
+	German_Generic	
+	231 219 133	
+	none	
+	5
+	4
+
+Viborg_Region		; Hordalandan/Charudia
+	Viborg		;
+	germans
+	German_Generic	
+	32 165 15	
+	none	
+	5
+	4
+
+Kiel_Region		; Angelandan/Anglia
+	Kiel		;
+	germans
+	German_Generic	
+	148 55 79	
+	none	
+	5
+	4
+
+Rostock_Region		; Varnia
+	Rostock		;
+	germans
+	German_Generic	
+	151 90 20	
+	none	
+	5
+	5
+
+Tecelia_Region		; Amsivaria
+	Tecelia	
+	germans
+	German_Generic	
+	35 36 232	
+	none	
+	5
+	5
+
+Aliso_Region		; Chasauria
+	Aliso
+	germans
+	German_Generic	
+	95 219 155	
+	none	
+	5
+	5
+
+Nuitones_Region		; Nuitonia
+	Nuitones
+	germans
+	German_Generic	
+	130 110 179	
+	none	
+	5
+	5
+
+Langobards_Region		; Longobardia
+	Langobards
+	germans
+	German_Generic	
+	123 91 87	
+	none	
+	5
+	5
+
+Suardones_Region		; Suardonia
+	Suardones
+	germans
+	German_Generic	
+	196 255 179	
+	none	
+	5
+	5
+
+Sugambri_Region		; Sugambria
+	Sugambri
+	germans
+	German_Generic	
+	61 248 140	
+	none	
+	5
+	5
+
+Novimagus_Region		; Nemetia
+	Novimagus		; Novimagus (historial) or Bracomagus (location)
+	germans
+	German_Generic	
+	20 20 128	
+	none	
+	5
+	5
+
+Borbetomagus_Region		; Vangiona
+	Borbetomagus		
+	germans
+	German_Generic	
+	32 181 68	
+	none	
+	5
+	5
+
+Chatti_Region		; Cattia
+	Chatti		; Mattium
+	germans
+	German_Generic	
+	105 5 68	
+	none	
+	5
+	5
+
+Marcomanni_Region		; Marcomannia
+	Marcomanni		
+	germans
+	German_Generic	
+	84 103 81	
+	none	
+	5
+	5
+
+Hermunduri_Region		; Hermandulia
+	Hermunduri		; Uburzis
+	germans
+	German_Generic	
+	72 147 16	
+	none	
+	5
+	5
+
+Coridorgis_Region		; Baiohaemum
+	Coridorgis		
+	germans
+	Celtic_Generic
+	243 95 101	
+	none	
+	5
+	5
+
+Silingi_Region		; Silingia
+	Silingi		; 
+	germans
+	German_Generic	
+	129 128 104	
+	none	
+	5
+	5
+
+Semnones_Region		; Suebia
+	Semnones	 
+	germans
+	German_Generic	
+	145 94 7	
+	none	
+	5
+	5
+
+Susudata_Region		; Suebia
+	Susudata	 
+	germans
+	German_Generic	
+	108 188 45	
+	none	
+	5
+	5
+
+Meliodurum_Region		; Nahanarvalia
+	Meliodurum	 
+	germans
+	German_Generic	
+	7 139 197	
+	none	
+	5
+	5

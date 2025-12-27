@@ -1,0 +1,173 @@
+------DONE:
+paeonia
+bessi
+caeni
+krobyzi
+palmyra
+hadhramaut
+saba
+qataban
+lihyan
+mascat
+axum
+blemmyes
+kush
+ferghana
+kangar
+massagetae
+thyssagetae
+sanarai
+venedi
+buridenses
+biephi
+-all barbarian factions up to this point were done using the centerpoint for strat and old location for right logo
+daesitiates
+siraces
+oromouschi
+zhangzhung
+chola
+chera
+anuradhapura
+ay
+athiyaman
+kalinga
+kucha
+
+
+------HARD LIGHT SETTINGS 
+---40 opacity (logo)
+lihyan  (0 for primary, 40 for secondary)
+massagetae  (40 for primary)
+siraces  (0 for primary)
+
+---50 opacity (logo)
+oromouschi (20 for primary)
+ay (0 for primary, 40 for secondary)
+
+---60 opacity (logo)
+hadhramaut  (0 for primary, 100 for secondary)
+saba  (0 for primary, 80 for secondary)
+qataban  (100 for primary, 35 for secondary)
+mascat  (0 for primary, 60 for secondary)
+axum  (0 for primary, 40 for secondary)
+ferghana  (0 for primary, 40 for secondary)
+buridenses  (20 for primary)
+biephi  (0 for primary)
+zhangzhung (0 for primary, 40 for secondary)
+anuradhapura (0 for primary, 0 for secondary)
+kalinga (0 for primary, 100 for secondary)
+kroraina (0 for primary, 60 for secondary)
+kucha (0 for primary, 0 for secondary)
+
+---80 opacity (logo)
+paeonia  (100 for primary, 40 for secondary)
+caeni  (100 for primary, 20 for secondary)
+krobyzi  (100 for primary, 0 for secondary)
+palmyra  (0 for primary, 80 for secondary)
+blemmyes  (0 for primary, 0 for secondary)
+thyssagetae (40 for primary)
+sanarai (40 for primary)
+chola (0 for primary, 0 for secondary)
+
+---92.5 opacity (logo)
+athiyaman (0 for primary, 40 for secondary, used 48x48x48 for secondary)
+
+---100 opacity (logo)
+bessi  (100 for primary, 20 for secondary)
+kush  (0 for primary, 40 for secondary)
+kangar  (0 for primary, 40 for secondary)
+venedi (40 for primary)
+daesitiates (60 for primary)
+chera (0 for primary, 0 for secondary)
+pandya (0 for primary, 0 for secondary)		ADDITIONAL LAYER ABOVE HARD LIGHT: darken only, 90% opacity
+
+
+------LOGO SIZE SETTINGS (that arent 1280x1280 and 960x960)
+krobyzi 1216x1216 for right logo, 912x912 for left
+hadhramaut 1184x1184 for right logo, 888x888 for left
+saba 1152x1152 for right logo
+qataban 1152x1152 for right logo, 864x864 for left
+lihyan 1120x1120 for right logo, 816x816 for left
+mascat 932 for left logo
+axum 1120x1120 for right logo
+blemmyes 1152x1152 for right logo, 840x840 for left
+ferghana 914x914 for LEFT logo
+kangar 1248x1248 for right logo, 914x914 for left
+
+------LOGO SIZE SETTINGS (1024x1024 and 830x830)
+massagetae
+thyssagetae
+sanarai
+venedi
+buridenses
+biephi
+daesitiates
+siraces
+oromouschi
+chola (4 shrink selection on right, 1.00 gaussian, 3 shrink selection on left, 0.81 gaussian)
+chera (ditto above)
+pandya (ditto)
+anuradhapura (ditto)
+ay (ditto)
+athiyaman (ditto)
+kalinga
+kroraina
+kucha
+
+
+------LOGO SIZE SETTINGS (1024x1024 and 768x768)
+zhangzhung (4 shrink selection on right, 1.00 gaussian, 3 shrink selection on left, 0.75 gaussian)
+
+------MIDDLE LAYER SETTINGS (besides HSV sat.)
+mascat (HSL, 80%)
+blemmyes LCH
+kush (HSL, no HSL for primary color)
+ferghana LCH
+kangar (HSL, no HSL for primary color)
+massagetae HSL
+thyssagetae HSL
+daesitiates HSL
+oromouschi HSV hue
+zhangzhung LCH
+chola LCH
+chera HSV VALUE
+pandya HSL
+anuradhapura LCH
+athiyaman (HSV sat. and DOESN'T USE OVERLAY LAYER)
+kalinga LCH
+kroraina LCH
+kucha LCH
+
+
+
+------Danymok banners (assume 100% if not delineated)
+cyrene settings
+(mip0 -50 brightness, +80 contrast)
+(primary: 191.3, 122.3, 53.3, hard light 0%)
+(secondary: 3.3, 97.3, 85.1, hard light 40%, overlay 65%)
+(logo: hard light 90%, hsv value 30%)
+
+allied
+(logo reduce opacity by half for all logo layers except hard light, 67.5%)
+
+
+
+massalia settings
+(primary: default color, LCH color, -10 hue on hard light layer only)
+(secondary: default color, hsv saturation 75% (instead of hard light), overlay 50%)
+(logo: LCH color, soft light 100% (below hard light), hard light 25%)
+logo brightness increased by 75%
+
+allied
+(logo reduce opacity by half for all logo layers)
+
+
+
+syracuse settings
+(mip0 -70 brightness, +35 contrast)
+(primary: 194, 160, 35, HSL color, no overlay nor hard light)
+(secondary: 43, 45, 92, HSL, 15% hard light & overlay)
+(logo: LCH color, hard light 70%, HSV value 35%)
+
+allied
+(logo reduce opacity by half for all logo layers)

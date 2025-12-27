@@ -1,0 +1,243 @@
+I'm going to need you to make building descriptions for shrines dedicated to certain gods for cultures in my mod for Rome Total War remastered.
+I want them to be made similar to the ones already in the base game.
+
+What I want you to do:
+From the examples, take into account their length, style, tense, and historicity
+Stay consistent with the examples, though small occasional deviances are permitted
+Use reputable online resources
+Use 2 sentences for most minor gods or gods that don't have much information
+Use 3 sentences for the more major, important gods, maybe have the 3rd sentence be a unique characteristic, depiction, or backstory
+No more than 275 characters
+No less than 125 characters
+
+What I do NOT want you to do:
+Do not write in the past-tense as if looking back
+Do not refer to modern locations
+Do not make up false information
+Do not write descriptions as if writing them back to back (e.g. saying a god is a "god of war" in one description, and saying "another god of war" in the next)
+Do not copy the info in the parentheses next to the god's name word-for-word (e.g. saying a god is a "sky father god". make it sound natural, "God of the sky")
+Do not make descriptions for gods that I haven't asked for
+Do not make the descriptions based off of one example, take them all into account
+
+The biggest thing I want you to take out of this is that they need to be consistent with the base game, like the examples I'm about to show you.
+
+The following examples are for Barbarian factions:
+
+("This Shrine is dedicated to Teutatis, the Gallic war god. All peoples need to be inspired in times of war, and he sets a fine example for warriors."
+
+"This Shrine is dedicated to Epona, the Gallic goddess of horses and horsemanship, and a patron of all cavalrymen. She watches over the training of warriors."
+
+"This Shrine is dedicated to Abnoba, the Gallic goddess of the hunt. Hers is a bloody cult, well-suited to a warlike people."
+
+"This Shrine is dedicated to Esus, the Gallic god of rogues in one of his many aspects. Human sacrifices to Esus are hanged and then skewered before death. Esus is often shown as a woodcutter, a quiet image for such a potentially violent god."
+
+"This Shrine is dedicated to Hebeleyzis, the Dacian Sky and Thunder God, in his aspect of inspiring warriors in battle. Hebeleyzis is a particularly belligerent at striking down enemies, making him a worthy god for a fighting people."
+
+"This Shrine is dedicated to Bendis, the Dacian Goddess of in her aspect as a mother figure who supervises at births. Bendis in this aspect is a great comfort to farmers and all those concerned with living things."
+
+"This Shrine is dedicated to Zalmoxis, the Dacian Divine Defender of the People, here in an underworld aspect of forging weapons for his followers. Thus he helps bring them victory over their enemies."
+
+"This Shrine is dedicated to Frejya, the German goddess of fertility and prosperity. She is often seen as the most beautiful of all the Gods. Frejya is also considered to be the bride of all fallen heroes."
+
+"This Shrine is dedicated to Woden, the All-Father of the Germans' Gods. He is the source of all wisdom and magic in the world. Woden is often depicted a wanderer, an old man in search of knowledge but he also has a part to play as a warlike god of death."
+
+"This Shrine is dedicated to Donar, the German Thunder God. He is an angry god, vengeful and strong. He also has an almost insatiable appetite, and is one of the few to have ever beaten the giants in eating and drinking contests!"
+
+"This Shrine is dedicated to Papay, the Scythian All-Father, the eldest of the Gods. As a patriarch, he is also a lawgiver."
+
+"This Shrine is dedicated to Api, the Scythian Earth Mother, and the mother of the Gods. She is celebrated as a sexual being as much as a fertility goddess."
+
+"This Shrine is dedicated to Kolaksay, the demi-god and hero who founded the Scythian nation. He also seized the three golden treasures of a plough, a bowl and poleaxe from the sky."
+
+"This Shrine is dedicated to Brigantia, the British tribal Goddess of the Brigantes, one of the important tribal kingdoms. She is a goddess of war, healing and water. Brigantia also has some responsibilities for prosperity and fertility among her people."
+
+"This Shrine is dedicated to Britannia, the British deified personification of their homeland. She brings riches to her devoted followers."
+
+"This Shrine is dedicated to Andrasta, the 'Invincible One', the British goddess of War and patron of the Iceni tribe. Human sacrifices to Andrasta are not unknown.")
+
+
+Those are the examples. Here are the cultures and names of gods I want you to make descriptions for, as well as internet sources for you to find information about them.
+
+
+Source for gallic and brittonic dieties:
+https://en.wikipedia.org/wiki/List_of_Celtic_deities
+
+Gallic Culture:
+Cicolluis (God of war)
+Sucellus (God of agriculture and wine)
+Rosmerta (Goddess of abundance and fertility)
+Gobannus (God of the forge and craftsmanship)
+Cernunnos (God of the wilderness and animals)
+Sulevia (Goddess of governance and justice)
+Belenus (God of healing)
+Grannus (God of the sun and heaing)
+Taranis (God of thunder)
+Divona (Goddess of springs and rivers)
+Cissonius (God of trade and travel)
+Segomo (God of war and victory)
+Atepomarus (God of healing and horsemanship)
+Cathubodua (Goddess of war, depicted as crow)
+Loucetios (God of lightning and war)
+
+Brittonic Culture:
+Belatucadros (God of war)
+Coventina (Goddess of wells and springs)
+Maponus (God of youth and sonship)
+Nodens (God of heaing and hunting)
+Vinotonus (God of the wilderness)
+Vellaunus (God of leadership and victory)
+Tamesis (God of rivers (Thames))
+Cocidius (God of war and the wilderness)
+Verostonos (God of war, associated with alder-trees)
+
+
+Source for germanic dieties:
+https://en.wikipedia.org/wiki/List_of_Germanic_deities
+
+Germanic Culture:
+Baduhenna (Goddess of war)
+Tyr (God war and justice)
+Freyr (God of kingship and agriculture)
+Volund (God of the forge and craftsmanship)
+Nerthus (Goddess of peace)
+Tuisto (Divine ancestor of the Germanic people)
+Eir (Goddess of medicine and mercy)
+Skadi (Goddess of the hunt and winter)
+Baldr (God associated with light and wisdom)
+Forseti (God of justice and reconciliation)
+Hoder (God of winter and darkness)
+Frigg (Goddess of marriage and prophecy)
+Njord (God of the sea and wind)
+Hermod (God of messages and diplomacy)
+Hariasa (Goddess of war)
+
+
+Sources for iberian gods:
+https://en.wikipedia.org/wiki/Lusitanian_mythology
+https://en.wikipedia.org/wiki/List_of_Lusitanian_deities
+https://herminiusmons.wordpress.com/2020/02/06/lusitanian-deities-with-scarce-archaeological-evidence/
+https://goldentrail.wordpress.com/iberian-gods/ilurbeda/
+
+Iberian Culture:
+Bandua (God of war and protection)
+Cosus (God of the army and war)
+Ataegina (Goddess of agriculture and the underworld)
+Nabia (Goddess of freshwaters and fertility)
+Aetio (God of fire and smithcraft)
+Reo (God of the sky and waters)
+Munidis (Goddess of wisdom)
+Endovelicus (God of health and the afterlife)
+Erbina (Goddess of the hunt and the wilderness)
+Ilurbeda (Goddess of mountains and safe travel)
+Arentio (God of health and prosperity, often accompanied by goddess Arentia)
+Quangeio (God of spiritual rebirth, depicted as hound)
+Oipaengia (Goddess of beauty and fertility)
+Lugus (God of trade and prosperity)
+Cariocecus (God of war)
+Iccona (Goddess of horses and horsemanship)
+Trebaruna (Goddess of victory and protection)
+Neto (God of war and the sun)
+
+
+Sources for illyrian and iapygen gods:
+https://en.wikipedia.org/wiki/Illyrian_religion#Legends
+https://damirnadivanu.com/2018/07/13/illyrian-gods-and-goddesses/
+https://forum.paradoxplaza.com/forum/threads/illyrian-pantheon.1377735/
+
+Illyrian culture:
+Medaurus (God of war, guardian of Rhizon)
+Perendi	(God of the sky and thunder)
+Vidasus (God of agriculture and forestry)
+Anzotica (Liburnian goddess of love and fertility)
+Enji (God of fire)
+Dualos (Paeonian god of wine and spirits)
+Histria (Patron goddess of Histria)
+Sentona (Liburnian goddess of agriculture and fertility)
+Melosocus (Histrian god of men)
+Thana (Goddess of hunting and forestry)
+Andinus (Dardanian god of vegetation and fertility)
+Tadenus (God of culture and the sun)
+Dracon & Dracanea (Divine serpentine gods of the sea and protection)
+Prende (Goddess of love and beauty)
+Bindus (Iapodian god of the sea)
+Redon (God of travel and protection)
+Deipaturos (God of the sky)
+Armatus (God of war)
+
+Iapygen Culture:
+Damatura (Goddess of agriculture)
+Venas (Goddess of love and fertility)
+Lahona (Goddess of love and fertility)
+Zis (God of the sky)
+Podalirius (Greek god of healing and prophecy)
+Menzanas (God of horses and horsemanship)
+Taotor (God of the community)
+
+
+Source for nomad gods:
+https://en.wikipedia.org/wiki/Scythian_religion
+
+Nomad Culture (Scythian/Sarmatian):
+Goetosyrus (God of the sun and cattle)
+Artimpasa (Goddess of fertility and sovereignty)
+Tabiti (Goddess of the earth and fire)
+Borysthenes (God of rivers)
+Targitaos (Divine ancestor of the Scythians)
+Thagimasadas (God of the sea)
+Apatoura (Goddess of fertility and life, depicted as snake-legged)
+Verethragna (God of war and kingship)
+
+
+Source for nuragic gods:
+https://en.wikipedia.org/wiki/Nuragic_civilization
+
+Nuragic Culture:
+Babai (God of the sun and healing)
+Mamai (Goddess of the moon and fertility)
+Sardus (Divine ancestor of the Sardinians)
+Iolaos (Divine hero and friend of Hercules)
+Aristeus (Greek god of culture and craftsmanship)
+Norax (Divine hero and founder of Nora)
+
+
+Source for thracian and dacian dieties:
+https://en.wikipedia.org/wiki/Thracian_religion
+https://darkestheart666.wordpress.com/gods-and-goddesses-of-the-dacians/
+
+Thracian Culture:
+Pleistoros (God of war)
+Zibelthiurdos (God of the sky and storms)
+Derzelas (God of health and the underworld)
+Kotys (God of war)
+Heros (God of hunting and horsemanship)
+Kandaon (God of war)
+Dionysus (God of wine and pleasure)
+Semele (mother of Dionysus)
+Silenus (companion and tutor to Dionysus)
+
+
+Source for baltic and lithuanian dieties:
+https://en.wikipedia.org/wiki/List_of_Lithuanian_gods_and_mythological_figures
+https://balticpagan.wordpress.com/gods/
+
+Baltic Culture:
+Perkunas (God of thunder)
+Teliavelis (God of strength)
+Zemyna (Goddess of earth and agriculture)
+Laima (Goddess of fate and pregnant women)
+Dalia (Goddes of fate)
+Saule (Goddess of the sun)
+Dievas (The supreme god)
+Auslavis (God of healing)
+Ratainycia (Goddess of horses)
+Medeina (Goddess of forests and hunting)
+Gabija (Goddess of the household fire and protector of families)
+Ausrine (Goddess of the morning star)
+Vejopatis (God of the wind and master of Dausos)
+Milda (Goddess of love and freedom)
+Bangputys (God of the sea)
+Pilvyte (Goddess of money and good luck)
+Junda (Goddess of war)
+Kauriraris (God of war and war-horses)
+Andajus (Powerful god often called in battle)
+Kovas (God of war)

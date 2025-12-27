@@ -1,0 +1,51 @@
+african
+arabic
+berber
+berserker
+caucasian
+caucasiandark
+indian
+eastasian
+egyptian
+mediterranean
+north_african
+
+
+Standard unit regions
+
+Brittania_Superior			-britain
+Hibernia				-irish
+Dacia					-dacia
+Central_Gaul				-gallic
+Germania_Superior			-german
+Tribus_Saxones
+Scythia					-scythian
+Thrace					-thracian
+Taraconenis				-iberian
+Berserk
+Baliares				-balaeric islands
+Numidia					-desert
+Africa					-african
+Armenia					-armenian
+Pontus					-pontic
+Elymais				
+Colchis					-coclhian
+Syria					-syrian
+Cappadocia				-anatolian
+Nile_Delta				-egyptian
+Nubia					-east african
+Crete					-greek
+Macedonia				-macedonian
+Laconia					-peleoponesus
+Bruttium
+Etruria					-etruscan
+Campania
+Latium					-latin
+
+Media
+Aetolia
+Judaea
+Phoenicia
+Illyria
+Cilicia
+

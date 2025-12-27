@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Hittite Town Name Generator</title>
+<style>
+  body {
+    font-family: 'Georgia', serif;
+    background: #f8f1e4;
+    color: #4a3c31;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+  }
+  button {
+    margin-top: 1rem;
+    font-size: 1.2rem;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+  }
+  #nameOutput {
+    margin-top: 2rem;
+    font-size: 2rem;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: #7b4e27;
+    max-width: 90vw;
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
+<h1>Hittite Town Name Generator</h1>
+<button onclick="generateName()">Generate Town Name</button>
+<div id="nameOutput">-- Your Town Name --</div>
+
+<script>
+  // Consonants in Hittite/Syro-Hittite (focus on softer, common ones)
+  const consonants = [
+    "p","t","k","b","d","g",
+    "m","n","l","r","s","š","z","h","ḫ","w"
+  ];
+
+  // Vowels and diphthongs typical in Hittite
+  const vowels = [
+    "a","e","i","u","ā","ē","ī","ū","ai","au"
+  ];
+
+  // Generate syllables with CV or CVC (with soft endings)
+  function generateSyllables(count) {
+    const sylls = new Set();
+    while(sylls.size < count) {
+      const c1 = consonants[Math.floor(Math.random() * consonants.length)];
+      const v = vowels[Math.floor(Math.random() * vowels.length)];
+
+      // 80% CV, 20% CVC with soft consonants at end
+      let syll;
+      if (Math.random() < 0.8) {
+        syll = c1 + v;
+      } else {
+        const endingConsonants = ["m", "n", "l", "r", "s"];
+        const c2 = endingConsonants[Math.floor(Math.random() * endingConsonants.length)];
+        syll = c1 + v + c2;
+      }
+
+      sylls.add(syll);
+    }
+    return Array.from(sylls);
+  }
+
+  // Generate syllables for prefix, middle, suffix
+  const prefixSyllables = generateSyllables(500);
+  const middleSyllables = generateSyllables(500);
+  const suffixSyllables = generateSyllables(500);
+
+  // New authentic endings emphasizing Wilusa-like style
+  const endings = [
+    "sa", "a", "isa", "usa", "uwa", "unu", "u", "za", "la"
+  ];
+
+  // New patterns: emphasize 2 syllables + ending for Wilusa style
+  const patterns = [
+    // prefix + middle + ending (Wilusa style)
+    () => pickRandom(prefixSyllables) + pickRandom(middleSyllables) + pickRandom(endings),
+    // prefix + suffix + ending
+    () => pickRandom(prefixSyllables) + pickRandom(suffixSyllables) + pickRandom(endings),
+    // prefix + middle + suffix + optional ending (original style)
+    () => pickRandom(prefixSyllables) + pickRandom(middleSyllables) + pickRandom(suffixSyllables) + pickRandom(["", "um", "na", "ar", "as"]),
+    // prefix + middle + middle + suffix (original style)
+    () => pickRandom(prefixSyllables) + pickRandom(middleSyllables) + pickRandom(middleSyllables) + pickRandom(suffixSyllables),
+    // prefix + middle + suffix + middle + optional ending (original style)
+    () => pickRandom(prefixSyllables) + pickRandom(middleSyllables) + pickRandom(suffixSyllables) + pickRandom(middleSyllables) + pickRandom(["", "um", "na", "ar", "as"])
+  ];
+
+  function pickRandom(arr) {
+    return arr[Math.floor(Math.random() * arr.length)];
+  }
+
+  function generateName() {
+    const patternFunc = pickRandom(patterns);
+    let name = patternFunc();
+
+    // Capitalize first letter, lower the rest
+    name = name.charAt(0).toUpperCase() + name.slice(1).toLowerCase();
+
+    document.getElementById("nameOutput").textContent = name;
+  }
+</script>
+
+</body>
+</html>

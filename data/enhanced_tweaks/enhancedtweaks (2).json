@@ -1,0 +1,3050 @@
+{
+	"Additional Grunge Particles": [
+		{
+			"[AG] Additional Grunge Animation speed (fps)": [
+				24
+			]
+		},
+		{
+			"[AG] Additional Grunge Size Multiplier": [
+				1.05
+			]
+		},
+		{
+			"[AG] Additional Grunge Momentum Multiplier": [
+				1
+			]
+		}
+	],
+	"Antialiased Lines": [
+		{
+			"[AAL] Enable Antialiased Lines": true
+		},
+		{
+			"[AAL] Antialiased Lines Width": [
+				3
+			]
+		},
+		{
+			"[AAL] Antialiased Lines Filter": [
+				-2.7
+			]
+		}
+	],
+	"Battle Borders": [
+		{
+			"[BBrdr] Depth fade scale": [
+				2
+			]
+		},
+		{
+			"[BBrdr] Height offset": [
+				0.03
+			]
+		}
+	],
+	"Battle Camera": [
+		{
+			"[BCam] Lateral speed": [
+				1.5
+			]
+		},
+		{
+			"[BCam] Vertical speed": [
+				0.1
+			]
+		},
+		{
+			"[BCam] Rotate speed": [
+				1
+			]
+		},
+		{
+			"[BCam] Height speed modifier": [
+				15
+			]
+		},
+		{
+			"[BCam] Minimum height": [
+				1.1
+			]
+		},
+		{
+			"[BCam] Tactical map height": [
+				175
+			]
+		},
+		{
+			"[BCam] Maximum tactical map height": [
+				500
+			]
+		},
+		{
+			"[BCam] Minimum pitch": [
+				0.7
+			]
+		},
+		{
+			"[BCam] Maximum pitch": [
+				2.5
+			]
+		},
+		{
+			"[BCam] Minimum focus height": [
+				3
+			]
+		},
+		{
+			"[BCam] Maximum focus height": [
+				30
+			]
+		},
+		{
+			"[BCam] Minimum focus pitch": [
+				0.567232
+			]
+		},
+		{
+			"[BCam] Maximum focus pitch": [
+				1.256637
+			]
+		},
+		{
+			"[BCam] Minimum user speed modifier": [
+				0.2
+			]
+		},
+		{
+			"[BCam] Maximum user speed modifier": [
+				3
+			]
+		},
+		{
+			"[BCam] User speed modifier step": [
+				0.02
+			]
+		},
+		{
+			"[BCam] Tactical map threshold": [
+				100
+			]
+		},
+		{
+			"[BCam] Tactical map rate limit": [
+				180
+			]
+		},
+		{
+			"[BCam] Tactical map timeout": [
+				3
+			]
+		},
+		{
+			"[BCam] Tactical map enter pivot": [
+				200
+			]
+		},
+		{
+			"[BCam] Tactical map exit pivot": [
+				200
+			]
+		},
+		{
+			"[BCam] Tactical map exit pitch": [
+				25
+			]
+		},
+		{
+			"[BCam] Min height step width": [
+				2
+			]
+		},
+		{
+			"[BCam] Min height step subsamples": [
+				1
+			]
+		},
+		{
+			"[BCam] Min height disc radius": [
+				1.9
+			]
+		},
+		{
+			"[BCam] Notches to max normal height": [
+				21
+			]
+		},
+		{
+			"[BCam] Notches to Max Tactical height": [
+				14
+			]
+		},
+		{
+			"[BCam] Notches to Max Tactical height": [
+				14
+			]
+		},
+		{
+			"[BCam] Zoom Camera Max Speed": [
+				900
+			]
+		}
+	],
+	"Blizzard": [
+		{
+			"[brr] Override snow": false
+		},
+		{
+			"[brr] Snow level": [
+				0
+			]
+		},
+		{
+			"[brr] Max Spawn distance": [
+				100
+			]
+		},
+		{
+			"[brr] Spawn interval": [
+				1.333
+			]
+		},
+		{
+			"[brr] Blizzard particle lifetime": [
+				4
+			]
+		},
+		{
+			"[brr] Blizzard particle size": [
+				45
+			]
+		},
+		{
+			"[brr] Wind velocity multiplier": [
+				1
+			]
+		},
+		{
+			"[brr] Color": [
+				0.449308,
+				0.5225491,
+				0.5148394
+			]
+		}
+	],
+	"Bloom": [
+		{
+			"[Bloom] Enabled": true
+		},
+		{
+			"[Bloom] Threshold": [
+				0.666
+			]
+		},
+		{
+			"[Bloom] Scaling": [
+				1
+			]
+		},
+		{
+			"[Bloom] Max": [
+				9
+			]
+		},
+		{
+			"[Bloom] Num blur samples": [
+				10
+			]
+		},
+		{
+			"[Bloom] Blur standard deviation": [
+				0.4
+			]
+		},
+		{
+			"[Bloom] Inverse bloom strength": [
+				12.1
+			]
+		},
+		{
+			"[Bloom] Weighting 0": [
+				3
+			]
+		},
+		{
+			"[Bloom] Weighting 1": [
+				3
+			]
+		},
+		{
+			"[Bloom] Weighting 2": [
+				2
+			]
+		},
+		{
+			"[Bloom] Weighting 3": [
+				1
+			]
+		},
+		{
+			"[Bloom] Weighting 4": [
+				1
+			]
+		},
+		{
+			"[Bloom] Weighting 5": [
+				1
+			]
+		}
+	],
+	"Building": [
+		{
+			"[B] Light strength": [
+				0.875
+			]
+		},
+		{
+			"[B] Reflectance": [
+				0.56
+			]
+		},
+		{
+			"[B] Roughness": [
+				0.888
+			]
+		},
+		{
+			"[B] Wetness Enabled": true
+		},
+		{
+			"[B] WetnessFactor": [
+				0.25
+			]
+		},
+		{
+			"[B] Metalness": [
+				1
+			]
+		},
+		{
+			"[B] Normal strength": [
+				1.05
+			]
+		},
+		{
+			"[B] Ambient strength": [
+				1
+			]
+		},
+		{
+			"[B] PM algorithm": [
+				2
+			]
+		},
+		{
+			"[B] PM height map scale": [
+				0.01
+			]
+		},
+		{
+			"[B] PM min number of samples": [
+				8
+			]
+		},
+		{
+			"[B] PM max number of samples": [
+				32
+			]
+		},
+		{
+			"[B] PM number of steps": [
+				32
+			]
+		},
+		{
+			"[B] PM self-shadowing strength": [
+				0
+			]
+		},
+		{
+			"[B] Emissive Color 1": [
+				0.623,
+				0.341,
+				0.254
+			]
+		},
+		{
+			"[B] Emissive Color 2": [
+				0.607,
+				0.525,
+				0.266
+			]
+		},
+		{
+			"[B] Emissive Strength": [
+				10
+			]
+		},
+		{
+			"[B] Emissive Frequency": [
+				0.5
+			]
+		},
+		{
+			"[B] Emissive Amplitude": [
+				16
+			]
+		}
+	],
+	"Building Props": [
+		{
+			"[BP] Enable Props": true
+		}
+	],
+	"Campaign Map": [
+		{
+			"[CM] Light strength": [
+				0.925
+			]
+		},
+		{
+			"[CM] Ambient strength": [
+				0.925
+			]
+		},
+		{
+			"[CM] Debug normals": [
+				0
+			]
+		},
+		{
+			"[CM] Debug overlay normals": [
+				0
+			]
+		},
+		{
+			"[CM] Albedo strength": [
+				1
+			]
+		},
+		{
+			"[CM] Normal strength": [
+				0.5
+			]
+		},
+		{
+			"[CM] Geometry normal strength": [
+				0.75
+			]
+		},
+		{
+			"[CM] AO Map strength": [
+				1
+			]
+		},
+		{
+			"[CM] Overlay albedo strength": [
+				1
+			]
+		},
+		{
+			"[CM] Overlay normal strength": [
+				1
+			]
+		},
+		{
+			"[CM] Overlay geometry normal strength": [
+				1
+			]
+		},
+		{
+			"[CM] Overlay roughness strength": [
+				1
+			]
+		},
+		{
+			"[CM] Fog of war strength": [
+				0.5
+			]
+		},
+		{
+			"[CM] Winter override": false
+		},
+		{
+			"[CM] use values in quadtree": false
+		},
+		{
+			"[CM] use values in heightmap": true
+		},
+		{
+			"[CM] PM algorithm": [
+				1
+			]
+		},
+		{
+			"[CM] PM height map scale": [
+				0.1
+			]
+		},
+		{
+			"[CM] PM min number of samples": [
+				8
+			]
+		},
+		{
+			"[CM] PM max number of samples": [
+				32
+			]
+		},
+		{
+			"[CM] PM number of steps": [
+				32
+			]
+		},
+		{
+			"[CM] PM self-shadowing strength": [
+				0
+			]
+		},
+		{
+			"[CM] Quake depthmap offset": [
+				0,
+				-0.5
+			]
+		},
+		{
+			"[CM] Quake depthmap scale": [
+				0.125,
+				-0.125
+			]
+		}
+	],
+	"Campaign Map Trees": [
+		{
+			"[CTree] Min sparse size": [
+				0.666
+			]
+		},
+		{
+			"[CTree] Max sparse size": [
+				0.825
+			]
+		},
+		{
+			"[CTree] Min dense size": [
+				0.666
+			]
+		},
+		{
+			"[CTree] Max dense size": [
+				1.333
+			]
+		},
+		{
+			"[CTree] Min canopy size": [
+				0.85
+			]
+		},
+		{
+			"[CTree] Max canopy size": [
+				1.333
+			]
+		},
+		{
+			"[CTree] Hue variation": [
+				-0.08
+			]
+		},
+		{
+			"[CTree] Hue offset": [
+				0
+			]
+		},
+		{
+			"[CTree] Value variation sparse": [
+				0.2
+			]
+		},
+		{
+			"[CTree] Value offset sparse": [
+				-0.2
+			]
+		},
+		{
+			"[CTree] Value variation dense": [
+				0.2
+			]
+		},
+		{
+			"[CTree] Value offset dense": [
+				-0.13
+			]
+		},
+		{
+			"[CTree] Sheer scale": [
+				0.333
+			]
+		},
+		{
+			"[CTree] Alpha coverage": [
+				0.5
+			]
+		},
+		{
+			"[CTree] Two-sided rendering": true
+		},
+		{
+			"[CTree] Invert normals for two-sided rendering": false
+		}
+	],
+	"CSM": [
+		{
+			"[CSM] Use SDSM": false
+		},
+		{
+			"[CSM] Use compute shader": false
+		},
+		{
+			"[CSM] Use receiver plane depth bias": true
+		},
+		{
+			"[CSM] Bias": [
+				0
+			]
+		},
+		{
+			"[CSM] Split lambda": [
+				0.8337641
+			]
+		},
+		{
+			"[CSM] Minimum Range": [
+				1
+			]
+		},
+		{
+			"[CSM] Blend Threshold": [
+				0.1
+			]
+		},
+		{
+			"[CSM] Cull Spears": true
+		},
+		{
+			"[CSM] cascade blend offset": [
+				0.25
+			]
+		},
+		{
+			"[CSM] far shadows blend offset": [
+				0
+			]
+		},
+		{
+			"[CSM] 1st cascade extends shrink": [
+				0.9
+			]
+		},
+		{
+			"[CSM] Enable Debug CSMs Display": false
+		}
+	],
+	"Caustics": [
+		{
+			"[Caust] Caustics Enabled": true
+		},
+		{
+			"[Caust] Caustics Light Strength": [
+				1.25
+			]
+		},
+		{
+			"[Caust] Caustics Scale 1": [
+				-0.02,
+				0.02
+			]
+		},
+		{
+			"[Caust] Caustics Speed 1": [
+				0.02
+			]
+		},
+		{
+			"[Caust] Caustics Scale 2": [
+				0.03,
+				-0.03
+			]
+		},
+		{
+			"[Caust] Caustics2 Speed 2": [
+				0.01
+			]
+		},
+		{
+			"[Caust] Caustics2 blend threshold": [
+				4
+			]
+		}
+	],
+	"Chariots": [
+		{
+			"[C] Enabled": true
+		},
+		{
+			"[C] Fading distance": [
+				4.5
+			]
+		},
+		{
+			"[C] Fading speed": [
+				5
+			]
+		}
+	],
+	"Color grading": [
+		{
+			"[CG] Color grading enabled": true
+		},
+		{
+			"[CG] Color grading strength": [
+				60
+			]
+		},
+		{
+			"[CG] Override the LUT": false
+		},
+		{
+			"[CG] LUT index": [
+				0
+			]
+		}
+	],
+	"Depth of field": [
+		{
+			"[DoF] Focal plane distance": [
+				1000
+			]
+		},
+		{
+			"[DoF] Use angle for focal plane distance": false
+		},
+		{
+			"[DoF] Focal plane interp min": [
+				333
+			]
+		},
+		{
+			"[DoF] Focal plane interp max": [
+				10000
+			]
+		},
+		{
+			"[DoF] Use screen centre for focal plane distance": true
+		},
+		{
+			"[DoF] Focal length": [
+				50
+			]
+		},
+		{
+			"[DoF] Aperture diameter": [
+				10
+			]
+		},
+		{
+			"[DoF] Low focal plane adaption speed": [
+				8000
+			]
+		},
+		{
+			"[DoF] High focal plane adaption speed": [
+				16000
+			]
+		},
+		{
+			"[DoF] Adaption delay": [
+				0.5
+			]
+		}
+	],
+	"DynamicFog": [
+		{
+			"[DF] Enable": true
+		},
+		{
+			"[DF] Enable weather overriding": false
+		},
+		{
+			"[DF] Spawn distance": [
+				500
+			]
+		},
+		{
+			"[DF] Particles per spawn": [
+				4
+			]
+		},
+		{
+			"[DF] Spawn interval": [
+				0.17
+			]
+		},
+		{
+			"[DF] Scale forward - layer 1": [
+				0.7
+			]
+		},
+		{
+			"[DF] Scale forward - layer 2": [
+				0.7
+			]
+		},
+		{
+			"[DF] Scale forward - layer 3": [
+				3
+			]
+		},
+		{
+			"[DF] Begin range - layer 3": [
+				20
+			]
+		},
+		{
+			"[DF] Lifetime": [
+				9
+			]
+		},
+		{
+			"[DF] Particle size - layer 1": [
+				25
+			]
+		},
+		{
+			"[DF] Particle size - layer 2": [
+				25
+			]
+		},
+		{
+			"[DF] Particle size - layer 3": [
+				69
+			]
+		},
+		{
+			"[DF] Contrast power": [
+				0.96
+			]
+		},
+		{
+			"[DF] Particle scale": [
+				0.1
+			]
+		},
+		{
+			"[DF] Camera distance fading scale": [
+				75
+			]
+		},
+		{
+			"[DF] Ground offset - layer 1": [
+				0
+			]
+		},
+		{
+			"[DF] Ground offset - layer 2": [
+				15
+			]
+		},
+		{
+			"[DF] Ground offset - layer 3": [
+				0
+			]
+		},
+		{
+			"[DF] Particle width scale - layer 1": [
+				2.5
+			]
+		},
+		{
+			"[DF] Particle width scale - layer 2": [
+				3
+			]
+		},
+		{
+			"[DF] Particle width scale - layer 3": [
+				5
+			]
+		},
+		{
+			"[DF] Opacity - layer 1": [
+				0.25
+			]
+		},
+		{
+			"[DF] Opacity - layer 2": [
+				0.25
+			]
+		},
+		{
+			"[DF] Opacity - layer 3": [
+				0.25
+			]
+		},
+		{
+			"[DF] Ambient light strength": [
+				0.5
+			]
+		},
+		{
+			"[DF] Light strength": [
+				0.675
+			]
+		}
+	],
+	"FXAA": [
+		{
+			"[FXAA] Sub-pixel amount": [
+				0.75
+			]
+		},
+		{
+			"[FXAA] Edge threshold": [
+				0.166
+			]
+		},
+		{
+			"[FXAA] Edge threshold min": [
+				0.0833
+			]
+		}
+	],
+	"Fiery projectile lights": [
+		{
+			"[FL] Projectile Light Color": [
+				0.667,
+				0.313,
+				0.157
+			]
+		}
+	],
+	"Grass": [
+		{
+			"[G] Draws enabled": true
+		},
+		{
+			"[G] Debug Opacity": false
+		},
+		{
+			"[G] Drop off area ratio": [
+				2
+			]
+		},
+		{
+			"[G] Position blending": [
+				1
+			]
+		},
+		{
+			"[G] Wind Scale": [
+				1
+			]
+		},
+		{
+			"[G] Colour Mix": [
+				0.1
+			]
+		},
+		{
+			"[G] Grass scale": [
+				1.266
+			]
+		},
+		{
+			"[G] Direct light factor": [
+				1.05
+			]
+		},
+		{
+			"[G] Ambient light factor": [
+				1.05
+			]
+		},
+		{
+			"[G] Ambient occlusion resistence": [
+				-0.9
+			]
+		},
+		{
+			"[G] Override Wind": false
+		},
+		{
+			"[G] Override wind vector": [
+				0,
+				1
+			]
+		},
+		{
+			"[G] Wind low pass direction": [
+				-0.2706003,
+				-0.9626918
+			]
+		},
+		{
+			"[G] Wind low pass strength": [
+				1.391094
+			]
+		},
+		{
+			"[G] Wind offset 2D (billowing)": [
+				0.8529367,
+				0.5861125
+			]
+		},
+		{
+			"[G] Wind offset 1D (swaying)": [
+				0.944458
+			]
+		},
+		{
+			"[G] Wind sway strength": [
+				0.175
+			]
+		},
+		{
+			"[G] Wind sway speed": [
+				1.2
+			]
+		},
+		{
+			"[G] Wind billow strength": [
+				0.2
+			]
+		},
+		{
+			"[G] Wind billow speed": [
+				1
+			]
+		},
+		{
+			"[G] Wind billow scale": [
+				0.125
+			]
+		},
+		{
+			"[G] Wind lean strength": [
+				0.666
+			]
+		},
+		{
+			"[G] Enable Shadows": false
+		},
+		{
+			"[G] Enable Wetness": true
+		}
+	],
+	"Grass particles": [
+		{
+			"[GrP] Spawn points": [
+				5
+			]
+		},
+		{
+			"[GrP] Particles per spawn point": [
+				1
+			]
+		},
+		{
+			"[GrP] Spawn interval": [
+				1.5
+			]
+		},
+		{
+			"[GrP] Spawn distance": [
+				12
+			]
+		},
+		{
+			"[GrP] Grass particle lifetime": [
+				32
+			]
+		},
+		{
+			"[GrP] Grass particle size": [
+				0.033
+			]
+		},
+		{
+			"[GrP] Wind velocity multiplier": [
+				1.2
+			]
+		}
+	],
+	"Heat Haze": [
+		{
+			"[HH] World pos to noise UV scaling": [
+				2
+			]
+		},
+		{
+			"[HH] Local offset scale X": [
+				0.5
+			]
+		},
+		{
+			"[HH] Local offset scale Y": [
+				1
+			]
+		},
+		{
+			"[HH] Override objects' local distortion settings": false
+		},
+		{
+			"[HH] Local offset UV size": [
+				1
+			]
+		},
+		{
+			"[HH] Local UV to noise UV scaling": [
+				0.1
+			]
+		},
+		{
+			"[HH] Local noise drift speed": [
+				3
+			]
+		},
+		{
+			"[HH] Local world pos offset": [
+				0.15
+			]
+		},
+		{
+			"[HH] Local side uv border": [
+				0.4
+			]
+		},
+		{
+			"[HH] Local bottom uv border": [
+				0.1
+			]
+		},
+		{
+			"[HH] Local top uv border": [
+				0.3
+			]
+		},
+		{
+			"[HH] Local width": [
+				1
+			]
+		},
+		{
+			"[HH] Local height": [
+				2.5
+			]
+		},
+		{
+			"[HH] Global distortion enabled": false
+		},
+		{
+			"[HH] Offset UV size": [
+				0.15
+			]
+		},
+		{
+			"[HH] Noise drift speed": [
+				1.5
+			]
+		},
+		{
+			"[HH] Offset scale X": [
+				1
+			]
+		},
+		{
+			"[HH] Offset scale Y": [
+				0.5
+			]
+		},
+		{
+			"[HH] Cylinder height": [
+				2
+			]
+		},
+		{
+			"[HH] Cylinder angular scale": [
+				1
+			]
+		},
+		{
+			"[HH] Gaussian standard deviation": [
+				0.25
+			]
+		},
+		{
+			"[HH] Centre height of gaussian": [
+				-0.15
+			]
+		}
+	],
+	"Lens Flare": [
+		{
+			"[LF] Use manual sun direction": false
+		},
+		{
+			"[LF] Manual sun direction": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"[LF] Overall beam opacity": [
+				1.1
+			]
+		},
+		{
+			"[LF] Angle beam opacity max": [
+				1.1
+			]
+		},
+		{
+			"[LF] Angle beam opacity min": [
+				0
+			]
+		},
+		{
+			"[LF] Overall sprite scale 0": [
+				0.2
+			]
+		},
+		{
+			"[LF] Angle sprite scale max 0": [
+				1
+			]
+		},
+		{
+			"[LF] Angle sprite scale min 0": [
+				0.8
+			]
+		},
+		{
+			"[LF] Overall sprite opacity 0": [
+				0.1
+			]
+		},
+		{
+			"[LF] Angle sprite opacity max 0": [
+				1
+			]
+		},
+		{
+			"[LF] Angle sprite opacity min 0": [
+				1
+			]
+		},
+		{
+			"[LF] Overall sprite scale 1": [
+				0.5
+			]
+		},
+		{
+			"[LF] Angle sprite scale max 1": [
+				1
+			]
+		},
+		{
+			"[LF] Angle sprite scale min 1": [
+				0.4
+			]
+		},
+		{
+			"[LF] Overall sprite opacity 1": [
+				0.1
+			]
+		},
+		{
+			"[LF] Angle sprite opacity max 1": [
+				1
+			]
+		},
+		{
+			"[LF] Angle sprite opacity min 1": [
+				0.5
+			]
+		},
+		{
+			"[LF] Overall sprite scale 2": [
+				0.5
+			]
+		},
+		{
+			"[LF] Angle sprite scale max 2": [
+				0.333
+			]
+		},
+		{
+			"[LF] Angle sprite scale min 2": [
+				0.19
+			]
+		},
+		{
+			"[LF] Overall sprite opacity 2": [
+				0.2
+			]
+		},
+		{
+			"[LF] Angle sprite opacity max 2": [
+				1
+			]
+		},
+		{
+			"[LF] Angle sprite opacity min 2": [
+				0.5
+			]
+		},
+		{
+			"[LF] Alpha cutoff": [
+				0
+			]
+		}
+	],
+	"Light Manager": [
+		{
+			"[LM] Flicker Frequency": [
+				4
+			]
+		},
+		{
+			"[LM] Color Interpolation Factor": [
+				0.04
+			]
+		},
+		{
+			"[LM] Light Fade Range": [
+				0.775
+			]
+		},
+		{
+			"[LM] Light Radius Scale": [
+				2.333
+			]
+		},
+		{
+			"[LM] Light Brightness Scale": [
+				0.4666
+			]
+		}
+	],
+	"Model": [
+		{
+			"[M] Light strength": [
+				0.7
+			]
+		},
+		{
+			"[M] Reflectance": [
+				0.666
+			]
+		},
+		{
+			"[M] Roughness": [
+				1
+			]
+		},
+		{
+			"[M] Wetness Enabled": true
+		},
+		{
+			"[M] Wetness Factor": [
+				0.2
+			]
+		},
+		{
+			"[M] Metalness": [
+				1
+			]
+		},
+		{
+			"[M] Normal strength": [
+				2
+			]
+		},
+		{
+			"[M] Ambient strength": [
+				0.75
+			]
+		}
+	],
+	"Particles": [
+		{
+			"[P] Enable": true
+		},
+		{
+			"[P] Disable soft particles": false
+		},
+		{
+			"[P] RT scale": [
+				2
+			]
+		},
+		{
+			"[P] Override soft particle values": false
+		},
+		{
+			"[P] Contrast power": [
+				0.88
+			]
+		},
+		{
+			"[P] Particle scale": [
+				0.02
+			]
+		},
+		{
+			"[P] Override light values": false
+		},
+		{
+			"[P] Source strength": [
+				1
+			]
+		},
+		{
+			"[P] Ambient strength": [
+				1
+			]
+		},
+		{
+			"[P] fade distance strength": [
+				2e-06
+			]
+		},
+		{
+			"[P] Depth Aware Upsample": true
+		},
+		{
+			"[P] Upsample depth threshold": [
+				100
+			]
+		}
+	],
+	"Phalanx": [
+		{
+			"[Pha] Force spears": false
+		}
+	],
+	"Placed Model Water": [
+		{
+			"[PMW] Shallow extinction color": [
+				0.1311996,
+				0.3991177,
+				0.6372549
+			]
+		},
+		{
+			"[PMW] Shallow extinction strength": [
+				0.75
+			]
+		},
+		{
+			"[PMW] Deep extinction color": [
+				0.0751634,
+				0.2409827,
+				0.4509804
+			]
+		},
+		{
+			"[PMW] Deep extinction strength": [
+				0.75
+			]
+		},
+		{
+			"[PMW] Min/Max depth range": [
+				2.5,
+				10
+			]
+		},
+		{
+			"[PMW] Min/Max extinction transition range": [
+				4,
+				5
+			]
+		},
+		{
+			"[PMW] Detail normal tiling": [
+				0.4
+			]
+		},
+		{
+			"[PMW] Base normal tiling": [
+				0.05
+			]
+		},
+		{
+			"[PMW] Detail normal strength": [
+				0.2
+			]
+		},
+		{
+			"[PMW] base normal strength": [
+				0.25
+			]
+		},
+		{
+			"[PMW] Sky reflection strength": [
+				0.5
+			]
+		},
+		{
+			"[PMW] Specular strength": [
+				0.3
+			]
+		},
+		{
+			"[PMW] Ambient strength": [
+				0.5
+			]
+		},
+		{
+			"[PMW] SSR strength": [
+				0.5
+			]
+		},
+		{
+			"[PMW] Fresnel strength": [
+				1
+			]
+		},
+		{
+			"[PMW] Backscatter strength": [
+				0.25
+			]
+		},
+		{
+			"[PMW] Displacement strength": [
+				0
+			]
+		},
+		{
+			"[PMW] Flow speed": [
+				3.5
+			]
+		},
+		{
+			"[PMW] Base normal min/max weakening distance": [
+				0,
+				500
+			]
+		},
+		{
+			"[PMW] Detail normal min/max weakening distance": [
+				0,
+				100
+			]
+		}
+	],
+	"Prebattle speech debug": [
+		{
+			"[PBD] Disable restrictions": false
+		}
+	],
+	"Rain": [
+		{
+			"[Rain] Override rain": false
+		},
+		{
+			"[Rain] Level": [
+				0
+			]
+		},
+		{
+			"[Rain] Velocity multiplier": [
+				2
+			]
+		},
+		{
+			"[Rain] Raindrop length": [
+				1.5
+			]
+		},
+		{
+			"[Rain] Rain opacity": [
+				0.45
+			]
+		}
+	],
+	"Riverbanks": [
+		{
+			"[RB] Draw Ornaments": true
+		},
+		{
+			"[RB] Force LOD": false
+		},
+		{
+			"[RB] Forced LOD Index": [
+				0
+			]
+		},
+		{
+			"[RB] Use normal distribution": false
+		},
+		{
+			"[RB] Minimum group size": [
+				3
+			]
+		},
+		{
+			"[RB] Maximum group size": [
+				8
+			]
+		},
+		{
+			"[RB] Average ornament distance": [
+				60
+			]
+		},
+		{
+			"[RB] Minimum ornament distance": [
+				5
+			]
+		},
+		{
+			"[RB] Ornament distance standard deviation": [
+				15
+			]
+		},
+		{
+			"[RB] Minimum distance from bank for floaters": [
+				5
+			]
+		},
+		{
+			"[RB] Maximum distance from bank for floaters": [
+				17
+			]
+		},
+		{
+			"[RB] Max terrain steepness": [
+				0.8
+			]
+		},
+		{
+			"[RB] Max group spread": [
+				10
+			]
+		},
+		{
+			"[RB] Max ornament rotation": [
+				25
+			]
+		}
+	],
+	"SSAO": [
+		{
+			"[SSAO] Radius": [
+				1
+			]
+		},
+		{
+			"[SSAO] Shadow Multiplier": [
+				1
+			]
+		},
+		{
+			"[SSAO] Shadow Power": [
+				1.2
+			]
+		},
+		{
+			"[SSAO] Shadow Clamp": [
+				0.75
+			]
+		},
+		{
+			"[SSAO] Horizon Angle Threshold": [
+				0.25
+			]
+		},
+		{
+			"[SSAO] Fade Out From": [
+				50
+			]
+		},
+		{
+			"[SSAO] Fade Out To": [
+				300
+			]
+		},
+		{
+			"[SSAO] Adaptive Quality Limit": [
+				0.45
+			]
+		},
+		{
+			"[SSAO] Blur Passes": [
+				3
+			]
+		},
+		{
+			"[SSAO] Sharpness": [
+				0.98
+			]
+		},
+		{
+			"[SSAO] Detail Shadow Strength": [
+				0
+			]
+		},
+		{
+			"[SSAO] Detail Shadow Strength": [
+				1
+			]
+		},
+		{
+			"[SSAO] Tree AO Injection": true
+		},
+		{
+			"[SSAO] Tree Occlusion Power Scaling": [
+				1.0
+			]
+		},
+		{
+			"[SSAO] Tree Occlusion Linear Scaling": [
+				0.5
+			]
+		},
+		{
+			"[SSAO] Tree Occlusion Radius Scaling**": [
+				4
+			]
+		}
+	],
+	"SandStorm": [
+		{
+			"[SS] Spawn points - layer 1": [
+				60
+			]
+		},
+		{
+			"[SS] Spawn points - layer 2": [
+				11
+			]
+		},
+		{
+			"[SS] Particles per spawn point": [
+				1
+			]
+		},
+		{
+			"[SS] Spawn interval": [
+				1.5
+			]
+		},
+		{
+			"[SS] Sand particle lifetime": [
+				10
+			]
+		},
+		{
+			"[SS] Sand particle size - layer 1": [
+				45
+			]
+		},
+		{
+			"[SS] Sand particle size - layer 2": [
+				23
+			]
+		},
+		{
+			"[SS] Spawn distance - layer 1": [
+				300
+			]
+		},
+		{
+			"[SS] Spawn distance - layer 2": [
+				215
+			]
+		},
+		{
+			"[SS] Animation FPS": [
+				7.5
+			]
+		},
+		{
+			"[SS] Wind velocity multiplier": [
+				1.333
+			]
+		},
+		{
+			"[SS] Color": [
+				0.3235294,
+				0.2803317,
+				0.2410611
+			]
+		},
+		{
+			"[SS] Opacity": [
+				0.35
+			]
+		}
+	],
+	"Scene": [
+		{
+			"[S] Camera Fov (experimental - might lead to breakage, default value is 55.0f)": [
+				55
+			]
+		},
+		{
+			"[S] Override sun position": false
+		},
+		{
+			"[S] Sun Position": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"[S] Normal directional fade out sharpness": [
+				20
+			]
+		},
+		{
+			"[S] Shadow Depth Bias": [
+				20
+			]
+		},
+		{
+			"[S] Shadow Depth Bias Clamp": [
+				0.02
+			]
+		},
+		{
+			"[S] Shadow Slope Scaled Depth Bias": [
+				20
+			]
+		},
+		{
+			"[S] Far Shadow Depth Bias": [
+				7
+			]
+		},
+		{
+			"[S] Far Shadow Depth Bias Clamp": [
+				0.02
+			]
+		},
+		{
+			"[S] Far Shadow Slope Scaled Depth Bias": [
+				3
+			]
+		},
+		{
+			"[S] Enable Wetness debugging": false
+		},
+		{
+			"[S] Wetness Amount": [
+				0
+			]
+		}
+	],
+	"Screen Space Reflections": [
+		{
+			"[SSR] Enable Brute Force Fix": true
+		},
+		{
+			"[SSR] Min Traversal Occupancy (NOT USED) / Brute Force Fix Max Steps": [
+				4
+			]
+		},
+		{
+			"[SSR] Depth Buffer Thickness": [
+				10
+			]
+		},
+		{
+			"[SSR] Most Detailed Mip": [
+				1
+			]
+		},
+		{
+			"[SSR] Max Traversal Intersections": [
+				128
+			]
+		},
+		{
+			"[SSR] [SSR and SSPR Blend] Offset": [
+				2000
+			]
+		},
+		{
+			"[SSR] [SSR and SSPR Blend] Radius": [
+				10
+			]
+		},
+		{
+			"[SSR] [SSR and SSPR Blend] Enable Debug": false
+		}
+	],
+	"Shoreline Waves": [
+		{
+			"[SW] enable battle waves": true
+		},
+		{
+			"[SW] wave speed": [
+				0.4
+			]
+		},
+		{
+			"[SW] texcoord scale": [
+				0.05
+			]
+		},
+		{
+			"[SW] strip width": [
+				30
+			]
+		},
+		{
+			"[SW] check line strip self intersections": true
+		},
+		{
+			"[SW] update offset": true
+		},
+		{
+			"[SW] check projection line intersections": true
+		},
+		{
+			"[SW] check vertices adjacency": false
+		},
+		{
+			"[SW] vertices adjacency radius": [
+				1
+			]
+		},
+		{
+			"[SW] adjust head strip": false
+		},
+		{
+			"[SW] catmull-rom spline": false
+		},
+		{
+			"[SW] draw tringle list": false
+		},
+		{
+			"[SW] draw wireframe tringles": false
+		},
+		{
+			"[SW] noise freq": [
+				0.75
+			]
+		},
+		{
+			"[SW] noise amp": [
+				0.75
+			]
+		},
+		{
+			"[SW] noise scale": [
+				0.02
+			]
+		},
+		{
+			"[SW] wave head": [
+				15
+			]
+		},
+		{
+			"[SW] wave tail": [
+				30
+			]
+		},
+		{
+			"[SW] wave fade": [
+				1
+			]
+		},
+		{
+			"[SW] wave tail fade": [
+				0.75
+			]
+		},
+		{
+			"[SW] surf head": [
+				15
+			]
+		},
+		{
+			"[SW] surf tail": [
+				30
+			]
+		},
+		{
+			"[SW] surf max fade": [
+				0.75
+			]
+		},
+		{
+			"[SW] surf head fade": [
+				15
+			]
+		},
+		{
+			"[SW] surf tail fade": [
+				30
+			]
+		},
+		{
+			"[SW] surf noise freq": [
+				16
+			]
+		},
+		{
+			"[SW] surf noise step": [
+				0.25
+			]
+		},
+		{
+			"[SW] surf max height": [
+				1
+			]
+		},
+		{
+			"[SW] PM offset limiting": false
+		},
+		{
+			"[SW] PM strength": [
+				0.1
+			]
+		},
+		{
+			"[SW] PM bias": [
+				0.42
+			]
+		},
+		{
+			"[SW] wave fade in": [
+				1.5
+			]
+		},
+		{
+			"[SW] wave triangles": [
+				1
+			]
+		},
+		{
+			"[SW] triangle strip wireframe": false
+		},
+		{
+			"[SW] wave strips wireframe": false
+		},
+		{
+			"[SW] wave min length": [
+				20
+			]
+		},
+		{
+			"[SW] wave max length": [
+				200
+			]
+		},
+		{
+			"[SW] wave angle (degrees)": [
+				55
+			]
+		},
+		{
+			"[SW] wave side fade": [
+				1
+			]
+		},
+		{
+			"[SW] wave tail amp": [
+				8
+			]
+		},
+		{
+			"[SW] 2nd wave offset": [
+				0.85
+			]
+		},
+		{
+			"[SW] draw debug AABB": false
+		},
+		{
+			"[SW] AABB center": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"[SW] AABB scale": [
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"[SW] enable frustum culling": true
+		},
+		{
+			"[SW] draw waves AABB": false
+		},
+		{
+			"[SW] max camera distance": [
+				2000
+			]
+		},
+		{
+			"[SW] draw max camera distance": false
+		},
+		{
+			"[SW] wave speed boost 1": [
+				64
+			]
+		},
+		{
+			"[SW] wave speed boost 2": [
+				500
+			]
+		},
+		{
+			"[SW] wave speed boost 3": [
+				0.4
+			]
+		},
+		{
+			"[SW] wave speed boost 4": [
+				2
+			]
+		},
+		{
+			"[SW] light strength": [
+				0.5
+			]
+		},
+		{
+			"[SW] ambient strength": [
+				1
+			]
+		},
+		{
+			"[SW] shore foam 1": [
+				-0.35
+			]
+		},
+		{
+			"[SW] shore foam 2": [
+				200
+			]
+		},
+		{
+			"[SW] shore foam 3": [
+				20
+			]
+		},
+		{
+			"[SW] shore foam 4": [
+				0.5
+			]
+		},
+		{
+			"[SW] river fade start": [
+				15
+			]
+		},
+		{
+			"[SW] river fade end": [
+				20
+			]
+		}
+	],
+	"Siege Sap": [
+		{
+			"[SAP] Decal Offset": [
+				0.2
+			]
+		}
+	],
+	"Sky": [
+		{
+			"[sky] Use calculated direct light colour": true
+		},
+		{
+			"[sky] Use direct light occlusion": true
+		},
+		{
+			"[sky] Direct Sun lighting inverse strength": [
+				19
+			]
+		},
+		{
+			"[sky] Sun Intensity": [
+				22.25
+			]
+		},
+		{
+			"[sky] Moon Intensity": [
+				2
+			]
+		},
+		{
+			"[sky] Rayleigh Scattering Coeff (X,Y,Z)": [
+				5.5,
+				13,
+				22.4
+			]
+		},
+		{
+			"[sky] Rayleigh Scale": [
+				8000
+			]
+		},
+		{
+			"[sky] Mie Coeff": [
+				21
+			]
+		},
+		{
+			"[sky] Mie Scale": [
+				1200
+			]
+		},
+		{
+			"[sky] Mie Direction": [
+				0.76
+			]
+		},
+		{
+			"[sky] Lighting Strength (radiance)": [
+				0.9
+			]
+		},
+		{
+			"[sky] Convolution Strength (irradiance)": [
+				1
+			]
+		},
+		{
+			"[sky] Direct Light Tail (X,Y)": [
+				0.03,
+				0.026
+			]
+		},
+		{
+			"[sky] Night Sky Color": [
+				0.196,
+				0.274,
+				0.431
+			]
+		},
+		{
+			"[sky] Night Sky Luminance": [
+				0.025
+			]
+		}
+	],
+	"Spears": [
+		{
+			"[spr] Light strength": [
+				0.9
+			]
+		},
+		{
+			"[spr] Reflectance": [
+				0.25
+			]
+		},
+		{
+			"[spr] Roughness": [
+				1
+			]
+		},
+		{
+			"[spr] Wetness Enabled": true
+		},
+		{
+			"[spr] Wetness Factor": [
+				0.2
+			]
+		},
+		{
+			"[spr] Metalness": [
+				0.9
+			]
+		},
+		{
+			"[spr] Normal strength": [
+				1
+			]
+		},
+		{
+			"[spr] Ambient strength": [
+				1.1
+			]
+		},
+		{
+			"[spr] Constant Widening": [
+				0.9
+			]
+		},
+		{
+			"[spr] Distance Widening Scale": [
+				75
+			]
+		},
+		{
+			"[spr] Max Distance Widening": [
+				2.5
+			]
+		}
+	],
+	"Terrain": [
+		{
+			"[T] Shadow Depth Bias": [
+				240
+			]
+		},
+		{
+			"[T] Shadow Depth Bias Clamp": [
+				0.02
+			]
+		},
+		{
+			"[T] Shadow Sloped Scaled Depth Bias": [
+				7
+			]
+		},
+		{
+			"[T] Direct light strength": [
+				1.05
+			]
+		},
+		{
+			"[T] Ambient light strength": [
+				0.85
+			]
+		},
+		{
+			"[T] Normal strength": [
+				1
+			]
+		},
+		{
+			"[T] Roughness strength": [
+				1
+			]
+		},
+		{
+			"[T] Reflectance": [
+				0.5
+			]
+		},
+		{
+			"[T] Wetness Enabled": true
+		},
+		{
+			"[T] Wetness Factor": [
+				0.2
+			]
+		},
+		{
+			"[T] Tiling 0": [
+				1.25
+			]
+		},
+		{
+			"[T] Tiling 1": [
+				3.333
+			]
+		},
+		{
+			"[T] Maximum Mixing": [
+				0.75
+			]
+		},
+		{
+			"[T] Mixing Distance": [
+				100
+			]
+		},
+		{
+			"[T] Far Tiling": [
+				20
+			]
+		},
+		{
+			"[T] Coarse Normal Tiling": [
+				20
+			]
+		},
+		{
+			"[T] Coarse Normal Strength": [
+				0.125
+			]
+		},
+		{
+			"[T] Gradient Zero correction": [
+				0.05
+			]
+		},
+		{
+			"[T] Mask low-res Overlays": false
+		},
+		{
+			"[T] Masked overlay Tiling": [
+				0.03
+			]
+		},
+		{
+			"[T] Original Mask Strength": [
+				0.25
+			]
+		},
+		{
+			"[T] Show Grid (8x8m lod-0 terrain triangles)": [
+				0
+			]
+		},
+		{
+			"[T] Show Cells (2x2m physical grid buckets)": [
+				0
+			]
+		},
+		{
+			"[T] Show Planes (actual current terrain triangles)": [
+				0
+			]
+		},
+		{
+			"[T] Cull overlay sub-geometries": true
+		}
+	],
+	"Terrain LOD": [
+		{
+			"[TL] Fixed position LOD": false
+		},
+		{
+			"[TL] Exemplar maximum height change": [
+				3
+			]
+		},
+		{
+			"[TL] Exemplar width": [
+				8
+			]
+		},
+		{
+			"[TL] Exemplar distance from camera": [
+				600
+			]
+		}
+	],
+	"Standards": [
+		{
+			"[stds] Light strength": [
+				0.666
+			]
+		},
+		{
+			"[stds] Ambient strength": [
+				0.666
+			]
+		},
+		{
+			"[stds] Enable lights at night-time": true
+		},
+		{
+			"[stds] Override light offset, position and height": [
+				0.75,
+				1
+			]
+		}
+	],
+	"Tone mapping": [
+		{
+			"[TM] Enabled": true
+		},
+		{
+			"[TM] Enable Campaign Tonemapping": true
+		},
+		{
+			"[TM] Exposure bias": [
+				3.95
+			]
+		},
+		{
+			"[TM] Exposure boost factor": [
+				2
+			]
+		},
+		{
+			"[TM] Exposure boost exponent scale": [
+				11
+			]
+		},
+		{
+			"[TM] Minimum white point factor": [
+				1.275
+			]
+		},
+		{
+			"[TM] Lower percentage to discard": [
+				0.25
+			]
+		},
+		{
+			"[TM] Upper percentage to discard": [
+				0.925
+			]
+		},
+		{
+			"[TM] Max white point increase speed": [
+				50
+			]
+		},
+		{
+			"[TM] Max white point decrease speed": [
+				33.333
+			]
+		}
+	],
+	"Tree LOD": [
+		{
+			"[VL] Tree LOD Scale": [
+				0
+			]
+		},
+		{
+			"[VL] Enable forced LOD": false
+		},
+		{
+			"[VL] LOD index to force": [
+				0
+			]
+		},
+		{
+			"[VL] Enable manual LOD": false
+		},
+		{
+			"[VL] LOD 0 Stop Distance": [
+				25
+			]
+		},
+		{
+			"[VL] LOD 1 Stop Distance": [
+				150
+			]
+		},
+		{
+			"[VL] LOD 2 Stop Distance": [
+				500
+			]
+		}
+	],
+	"Unit": [
+		{
+			"[U] Enable Sub-Surface Scattering": true
+		},
+		{
+			"[U] Enable debug output": false
+		},
+		{
+			"[U] Enable forced LOD": false
+		},
+		{
+			"[U] LOD index to force": [
+				0
+			]
+		},
+		{
+			"[U] Shadow LOD Optimisation": false
+		},
+		{
+			"[U] Shadow Depth Bias": [
+				7
+			]
+		},
+		{
+			"[U] Shadow Depth Bias Clamp": [
+				0.02
+			]
+		},
+		{
+			"[U] Shadow Sloped Scaled Depth Bias": [
+				1
+			]
+		},
+		{
+			"[U] Light strength": [
+				1.1
+			]
+		},
+		{
+			"[U] Cloth reflectance": [
+				0.5
+			]
+		},
+		{
+			"[U] Skin reflectance": [
+				0.42
+			]
+		},
+		{
+			"[U] Base roughness": [
+				1
+			]
+		},
+		{
+			"[U] Skin roughness": [
+				0.7
+			]
+		},
+		{
+			"[U] Metal roughness": [
+				1.08
+			]
+		},
+		{
+			"[U] Normal strength": [
+				0.975
+			]
+		},
+		{
+			"[U] Ambient strength": [
+				0.96
+			]
+		},
+		{
+			"[U] Grunge enabled": true
+		},
+		{
+			"[U] Override grunges' strength": false
+		},
+		{
+			"[U] Dust strength": [
+				0
+			]
+		},
+		{
+			"[U] Mud strength": [
+				0
+			]
+		},
+		{
+			"[U] Additional grunge strength": [
+				0
+			]
+		},
+		{
+			"[U] Wetness enabled": true
+		},
+		{
+			"[U] Wetness Factor": [
+				0.4
+			]
+		},
+		{
+			"[U] Mud Color": [
+				0.137,
+				0.094,
+				0.055
+			]
+		},
+		{
+			"[U] Additional Grunge Color": [
+				0.674,
+				0.494,
+				0.301
+			]
+		},
+		{
+			"[U] Additional Grunge Roughness": [
+				0.35
+			]
+		},
+		{
+			"[U] Additional Grunge Cutoff": [
+				0.475
+			]
+		},
+		{
+			"[U] Fading enabled": false
+		},
+		{
+			"[U] Fading distance": [
+				0.01
+			]
+		},
+		{
+			"[U] Fading speed": [
+				5
+			]
+		},
+		{
+			"[U] Override variations": false
+		},
+		{
+			"[U] Hair color index": [
+				0
+			]
+		},
+		{
+			"[U] Hair style index": [
+				0
+			]
+		},
+		{
+			"[U] Facial hair style index": [
+				0
+			]
+		},
+		{
+			"[U] Face index": [
+				0
+			]
+		},
+		{
+			"[U] Body index": [
+				0
+			]
+		},
+		{
+			"[U] Tattoo index": [
+				0
+			]
+		},
+		{
+			"[U] Face tattoo": false
+		},
+		{
+			"[U] Limbs tattoo": false
+		},
+		{
+			"[U] Torso tattoo": false
+		},
+		{
+			"[U] Ethnicity index": [
+				0
+			]
+		},
+		{
+			"[U] Override angry": false
+		},
+		{
+			"[U] Min Spear SS size for shadows": [
+				0.003
+			]
+		}
+	],
+	"Unit highlights": [
+		{
+			"[UHL] Depth bias": [
+				-500
+			]
+		},
+		{
+			"[UHL] Distance standard scaling": [
+				0.35
+			]
+		},
+		{
+			"[UHL] Distance tactical scaling": [
+				0.35
+			]
+		},
+		{
+			"[UHL] Distance proxy scaling": [
+				0.35
+			]
+		},
+		{
+			"[UHL] Distance proxy_select scaling": [
+				0.35
+			]
+		},
+		{
+			"[UHL] Highlight unit size scaling": [
+				1
+			]
+		},
+		{
+			"[UHL] Use selection radius for proxies": true
+		},
+		{
+			"[UHL] Always include siege equipment": true
+		}
+	],
+	"Vegetation": [
+		{
+			"[V] Enable Sub-Surface Scattering": true
+		},
+		{
+			"[V] Vegetation world normal strength": [
+				1
+			]
+		},
+		{
+			"[V] Tree Light strength": [
+				1.25
+			]
+		},
+		{
+			"[V] Tree Ambient strength": [
+				1
+			]
+		},
+		{
+			"[V] Tree Roughness": [
+				1
+			]
+		},
+		{
+			"[V] Tree Normal strength": [
+				1
+			]
+		},
+		{
+			"[V] Tree Reflectance": [
+				0.25
+			]
+		},
+		{
+			"[V] Shrub Light strength": [
+				1
+			]
+		},
+		{
+			"[V] Shrub Ambient strength": [
+				1.1
+			]
+		},
+		{
+			"[V] Shrub Roughness": [
+				3
+			]
+		},
+		{
+			"[V] Shrub Normal strength": [
+				1
+			]
+		},
+		{
+			"[V] Shrub Reflectance": [
+				0.1
+			]
+		},
+		{
+			"[V] Enable Wetness": true
+		},
+		{
+			"[V] Fading speed": [
+				4
+			]
+		}
+	],
+	"Vignette": [
+		{
+			"[Vig] Vignette enabled": true
+		},
+		{
+			"[Vig] Vignette x axis distance": [
+				1
+			]
+		},
+		{
+			"[Vig] Vignette y axis distance": [
+				1
+			]
+		},
+		{
+			"[Vig] Vignette function power": [
+				3
+			]
+		},
+		{
+			"[Vig] Vignette distance scale percentage": [
+				7.8
+			]
+		},
+		{
+			"[Vig] Vignette inverse strength": [
+				25
+			]
+		}
+	],
+	"War Machines": [
+		{
+			"[WM] Enabled": true
+		},
+		{
+			"[WM] Fading distance": [
+				2.5
+			]
+		},
+		{
+			"[WM] Fading speed": [
+				5
+			]
+		}
+	],
+	"Water": [
+		{
+			"[W] Shallow extinction color": [
+				0.1294118,
+				0.4,
+				0.6392157
+			]
+		},
+		{
+			"[W] Shallow extinction strength": [
+				1
+			]
+		},
+		{
+			"[W] Deep extinction color": [
+				0.0627451,
+				0.2392157,
+				0.1764706
+			]
+		},
+		{
+			"[W] Deep extinction strength": [
+				2.66
+			]
+		},
+		{
+			"[W] Min/Max depth range": [
+				0,
+				10
+			]
+		},
+		{
+			"[W] Min/Max extinction transition range": [
+				0,
+				0
+			]
+		},
+		{
+			"[W] Detail normal tiling": [
+				0.06
+			]
+		},
+		{
+			"[W] Base normal tiling": [
+				0.01
+			]
+		},
+		{
+			"[W] Detail normal strength": [
+				0.25
+			]
+		},
+		{
+			"[W] base normal strength": [
+				0.333
+			]
+		},
+		{
+			"[W] Sky reflection strength": [
+				0.333
+			]
+		},
+		{
+			"[W] Specular strength": [
+				0.3
+			]
+		},
+		{
+			"[W] Ambient strength": [
+				0.5
+			]
+		},
+		{
+			"[W] SSR strength": [
+				0.25
+			]
+		},
+		{
+			"[W] SSR height fade scale": [
+				1
+			]
+		},
+		{
+			"[W] Fresnel strength": [
+				1.5
+			]
+		},
+		{
+			"[W] Backscatter Strength": [
+				0.25
+			]
+		},
+		{
+			"[W] Displacement strength": [
+				20
+			]
+		},
+		{
+			"[W] Overlay flow speed": [
+				1
+			]
+		},
+		{
+			"[W] Ocean/River flow speed scale": [
+				8
+			]
+		},
+		{
+			"[W] Ocean/River detail opposing flow speed": [
+				0.9013065
+			]
+		},
+		{
+			"[W] Ocean/River base opposing flow speed": [
+				1.99982
+			]
+		},
+		{
+			"[W] Ocean to River start blend height": [
+				0
+			]
+		},
+		{
+			"[W] Ocean to River end blend height": [
+				20
+			]
+		},
+		{
+			"[W] fade strenght": [
+				0.15
+			]
+		},
+		{
+			"[W] fade noise freq": [
+				1
+			]
+		},
+		{
+			"[W] fade noise amp": [
+				0.1
+			]
+		},
+		{
+			"[W] fade noise scale": [
+				3
+			]
+		},
+		{
+			"[W] fade noise size": [
+				0.2,
+				0.2
+			]
+		},
+		{
+			"[W] specular strength": [
+				10
+			]
+		}
+	]
+}

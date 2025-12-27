@@ -1,0 +1,26 @@
+{
+	"Campaign Camera": [
+		{
+			"[CCam] Minimum zoom": [
+				0.075
+			]
+		},
+		{
+			"[CCam] Maximum zoom": [
+				2.325
+			]
+		},
+		{
+			"[CCam] Max vertical": [
+				1.2
+			]
+		}
+	],
+	"Campaign Camera Config": [
+		{
+			"[CCamConf] Offset": [
+				35
+			]
+		}
+	]
+}

@@ -1,0 +1,263 @@
+---------default factions---------
+
+
+armenia
+britons		(iceni)
+carthage
+dacia		(getae)
+egypt
+gauls		(arverni)
+germans		(semnones)
+greek_cities	(sparta)
+macedon
+numidia		(masaesylii)
+parthia
+pontus
+romans_brutii
+romans_julii
+romans_scipii
+romans_senate
+scythia		(royal scythia)
+seleucid
+spain		(lusitani)
+thrace		(odrysian kingdom)
+
+
+---------new factions---------
+-----sorted-by-culture--------
+
+
+----------roman----------
+romans_unified				(unused)
+aritim					(unused)
+brutii					(unused)
+felathri				(unused)
+frentani				(unused)
+lucani					(unused)
+picentes				(unused)
+sabines					(unused)
+samnites				(unused)
+tarchuna				(unused)
+umbri					(unused)
+veii					(unused)
+viesul					(unused)
+volsci					(unused)
+italic_f_1		aleria		(unused)
+italic_f_2		mamertines	(aequi logo)
+
+
+
+
+
+---------greek----------
+balkan_f_1		ardiaei
+balkan_f_10		taulantii
+east_f_5		colchis			(greek/east roster)
+achea
+aetolia
+agyrion
+akragas
+argos
+athens
+boetia
+byzantion
+corinth
+croton
+elis
+emporion
+epirus
+gortyn
+knossos
+kydonia
+massalia
+melos
+rhegion
+rhodes
+syracuse
+taras
+thessaly
+greek_f_1		cyrenaica
+greek_f_2		cyprus
+greek_f_3		neapolis
+greek_f_4		trapezos/sinope
+greek_f_5		sardes
+greek_f_6		pergamon
+greek_f_7		bosporan kingdom
+greek_f_8		arcadian league		(ionianleague logo)
+greek_f_9		bactria		
+greek_f_10		heraclea pontica	(antonysrome logo)
+greek_f_11		gela			(sikelians logo)
+
+
+
+
+
+----------eastern----------
+arab_f_1		gerrha
+arab_f_2		ma'in
+arab_f_3		nabataea
+arab_f_4		qidri
+east_f_1		iberi		(ardhan logo)
+east_f_2		atropatene
+east_f_3		bithynia
+east_f_4		cappadocia
+east_f_6		kartli
+east_f_7		khorasmii	(nomadic)
+east_f_8		persia
+east_f_9		paphlagonia	(aria logo)
+
+
+
+
+---------carthaginian----------
+desert_f_1		gaetuli
+desert_f_2		garamantia
+desert_f_3		libya		(unused)
+desert_f_4		massylii
+desert_f_5		mauri
+desert_f_6		nasamones
+
+
+
+
+
+---------barbarian----------
+balkan_f_2		bastarnae
+balkan_f_3		apulii
+balkan_f_4		breuci
+balkan_f_5		daorsi
+balkan_f_6		dalmatae
+balkan_f_7		iazyges		(iranian)
+balkan_f_8		tylis		(gallic)
+balkan_f_9		dardania
+balkan_f_11		taurisci	(korkyra logo, unused)
+belgic_f_1		atrebartes
+belgic_f_2		belgae
+belgic_f_3		bellovaci
+belgic_f_4		eburones
+belgic_f_5		mediomatrici
+belgic_f_6		morini
+belgic_f_7		parisii
+belgic_f_8		remi
+belgic_f_9		suessetani
+belgic_f_10		treverii
+belgic_f_11		nervii
+brit_f_1		brigantes
+brit_f_2		caledoni
+brit_f_3		cantiaci
+brit_f_4		corieltauvi
+brit_f_5		ebdani
+brit_f_6		demetae
+brit_f_7		dumnonii
+brit_f_8		catuvellauni
+allobroges
+boii
+cenomanni
+carni
+insubres
+leponti
+ligures
+senones
+raeti
+veneti
+histri
+gallic_f_1		aedui
+gallic_f_2		ausci		(cavari placeholder)
+gallic_f_3		bituriges
+gallic_f_4		cadurci
+gallic_f_5		carnutes
+gallic_f_6		eravisci
+gallic_f_7		galatia
+gallic_f_8		helvetii
+gallic_f_9		lemovices
+gallic_f_10		lexovii
+gallic_f_11		mandubii
+gallic_f_12		namnetes
+gallic_f_13		nori
+gallic_f_14		osismii
+gallic_f_15		pictones
+gallic_f_16		lingones
+gallic_f_17		redones
+gallic_f_18		ruteni
+gallic_f_19		santones
+gallic_f_20		scordisci
+gallic_f_21		sequani
+gallic_f_22		elusates	
+gallic_f_23		tarbelli
+gallic_f_24		triballi
+gallic_f_25		segusavi
+gallic_f_26		turones
+gallic_f_27		unelli
+gallic_f_28		veneti_g
+gallic_f_29		vindelici
+gallic_f_30		petrocorii
+gallic_f_31		vocontii
+gallic_f_32		volcae
+gallic_f_33		taurini		(maruccini logo)
+germanic_f_1		aestii
+germanic_f_2		anartes		(celtic)
+germanic_f_3		arii
+germanic_f_4		matti		(chatti)
+germanic_f_5		cherusci
+germanic_f_6		cimbri
+germanic_f_7		frisii
+germanic_f_8		gutones
+germanic_f_9		lugii
+germanic_f_10		helveconae
+germanic_f_11		heruli
+germanic_f_12		marcomanni
+germanic_f_13		nemetes
+germanic_f_14		quadi
+germanic_f_15		rugii
+germanic_f_16		vangiones
+germanic_f_17		anglii			(alemanni logo)
+germanic_f_18		burgundii
+germanic_f_19		buri
+germanic_f_20		chamavii		(franci logo)
+germanic_f_21		suiones
+germanic_f_22		langobardi
+germanic_f_23		nahanarvali
+germanic_f_24		saxoni
+germanic_f_25		vandali
+germanic_f_26		varini
+germanic_f_27		cauci
+germanic_f_28		fosi
+germanic_f_29		geati
+germanic_f_30		batavi
+germanic_f_31		juti
+germanic_f_32		bructeri
+germanic_f_33		sciri
+germanic_f_34		sugambri
+germanic_f_35		tencteri
+germanic_f_36		ubii
+germanic_f_37		tribocci
+daunians
+messapians
+peucitans
+iberian_f_1		astures
+iberian_f_2		bastetani		(lepidusrome logo)
+iberian_f_3		cantabri
+iberian_f_4		carpetani
+iberian_f_5		celtici
+iberian_f_6		cessetani
+iberian_f_7		edetani
+iberian_f_8		gallaeci
+iberian_f_9		ilercavones
+iberian_f_10		ilergetes
+iberian_f_11		celtiberi
+iberian_f_12		oretani
+iberian_f_13		turdetani
+iberian_f_14		vaccaei
+iberian_f_15		vascones
+iberian_f_16		vettones
+nuragic_f_1		balari			(nurrensi logo)
+nuragic_f_2		corsi
+nuragic_f_3		iolei
+
+
+----------indian----------
+indian_f_1		magadha
+indian_f_2		chola			(unused)
+indian_f_3		chera			(unused)
+indian_f_4		pandya			(unused)
+indian_f_5		anuradhapura		(unused)

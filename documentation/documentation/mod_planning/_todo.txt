@@ -1,0 +1,41 @@
+-----general goals-----
+[ ] Rework faction start positions
+[ ] Add tribal surnames referencing tribes from Ptolemy and Strabo's geographies, and Herodotus' histories
+[ ] Redo all the tribal surnames to sound more natural (using -ius, -us, or other suffixes)
+[ ] Make Bithynia more Thracian
+[ ] Win conditions
+[ ] Allow choice between unified or splite Rome
+[ ] Add more factions in factions to add section
+[ ] Redo all of the faction icons to be in line with vanilla
+[ ] Return to vanilla icons and banners
+[ ] Change Taulantii symbol
+[ ] Change Dardania symbol
+[ ] Rename settlements in renamed regions if needed 
+[ ] Finish adding the new factions
+[ ] Redo descr_formations_ai
+[ ] Organize descr_strat
+[ ] Add post-Christian Axum names
+[ ] Redo the Arab names
+[ ] Re-sort all the name files with vanilla names on top, BI names in middle, and modded names below
+[ ] Fix settlement starting cultures in descr_strat for Indian cities
+
+[ ] Re-add Rise of Empires
+[ ] Major event for manipular reforms (ROE)
+[ ] Alexander units for Macedon (ROE)
+[ ] Major event for reforms to vanilla Macedon units
+[ ] Make a Persia super-faction with satraps (ROE)
+[ ] Add early Rome faction and add a script to form the Roman Republic (unified rome)
+
+
+-----descr_strat specific-----
+[ ] Redo family trees
+
+The following family trees need to be redone or further researched
+[ ] Bosporan tamily tree
+[ ] Macedon tamily tree
+[ ] Spartan tamily tree
+[ ] Thracian tamily tree
+
+The following family trees need to be done:
+[ ] Parthian tamily tree
+[ ] Scythian tamily tree

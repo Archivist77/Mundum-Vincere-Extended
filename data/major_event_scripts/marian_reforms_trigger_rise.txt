@@ -1,0 +1,83 @@
+script
+
+	declare_counter huge_cities_italy						;;declare counters
+    set_counter huge_cities_italy 0
+	
+	if MajorEventActive "polybian_reforms_rise"				;;if polybian reforms have been enacted
+															;;check every settlement owned by the 4 roman factions
+		for_each settlement in faction "romans_julii"
+            if  HasResource italy							;;if they have the right resource
+            ||  HasResource italy_north
+            ||  HasResource italy_greek
+            ||  HasResource etruria
+			||  HasResource sicily
+			||  HasResource sicily_greek
+                &&	I_SettlementLevel local >= huge_city	;;is a huge city
+				&&	not HasResource rome					;;the settlement isn't rome
+				
+				inc_counter huge_cities_italy 1				;;increment the counter
+            end_if
+        end_for
+		
+		for_each settlement in faction "romans_brutii"
+            if  HasResource italy
+            ||  HasResource italy_north
+            ||  HasResource italy_greek
+            ||  HasResource etruria
+			||  HasResource sicily
+			||  HasResource sicily_greek
+                &&	I_SettlementLevel local >= huge_city
+				&&	not HasResource rome
+				
+				inc_counter huge_cities_italy 1	
+            end_if
+        end_for
+		
+		for_each settlement in faction "romans_scipii"
+            if  HasResource italy
+            ||  HasResource italy_north
+            ||  HasResource italy_greek
+            ||  HasResource etruria
+			||  HasResource sicily
+			||  HasResource sicily_greek
+                &&	I_SettlementLevel local >= huge_city
+				&&	not HasResource rome
+				
+				inc_counter huge_cities_italy 1	
+            end_if
+        end_for
+		
+		for_each settlement in faction "romans_senate"
+            if  HasResource italy
+            ||  HasResource italy_north
+            ||  HasResource italy_greek
+            ||  HasResource etruria
+			||  HasResource sicily
+			||  HasResource sicily_greek
+                &&	I_SettlementLevel local >= huge_city
+				&&	not HasResource rome
+				
+				inc_counter huge_cities_italy 1	
+            end_if
+        end_for
+		
+		if I_CompareCounter huge_cities_italy >= 1				;;if the romans have this number of huge cities in those regions
+			return true 										;;trigger marian reforms
+		end_if
+		
+	end_if
+
+	return false 												;;don't trigger polybian reforms
+	
+end_script
+
+
+
+;;script	
+;;	if	I_TurnNumber >= 497
+;;		
+;;		return true
+;;	end_if
+;;	
+;;	return false
+;;end_script

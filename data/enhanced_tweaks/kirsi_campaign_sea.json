@@ -1,0 +1,34 @@
+{
+	"Water": [
+		{
+			"[Sea] Sky reflection strength": [
+				0.75
+			]
+		},
+		{
+			"[Sea] Specular strength": [
+				0.2
+			]
+		},
+		{
+			"[Sea] Ambient strength": [
+				0.25
+			]
+		},
+		{
+			"[Sea] Shallow fresnel strength": [
+				0.6
+			]
+		},
+		{
+			"[Sea] Ambient backscatter strength": [
+				0.125
+			]
+		},
+		{
+			"[Sea] Displacement strength": [
+				20
+			]
+		},
+	]
+}

@@ -1,0 +1,419 @@
+<!--Override for the New Campaign Menu
+
+	Original Screen Coordinates (OSC): (1024x768)
+	New UI Screen Coordinates (NUIC):	 ((768*aspect)x768)
+
+	If no feral options are specified below, the locations of items are simply
+		scaled between these two coordiantes, and the size of the objects is untouched*
+
+	To override this behaviour:
+		feral_anchor: Instead of scaling for OSC to NUIC, the coordinates here are interpreted as an offset from an anchor point.
+		feral_scale : scale_width or scale_by_width to stretch or scale the object with the aspect ratio.
+		feral_align : specify the point on the object stays fixed when scaling - defaults to text alignment if unspecified. Also,
+					if feral_align is specifically specified, then the x and y coordinates refer to that point on the object
+
+	*exception: textboxes are scaled so that they still contain their text - this corrects for a relative difference in font sizes
+   in phone/tablet ui. To override this behaviour set feral_scale to scale_none. You'll then have to manually increase their sizes to compensate
+-->
+
+
+<lpage>new_campaign_choose_faction
+<!-- Frames -->
+	<UI piece>submenu_frame
+		<identifier>UIP_FERAL_MAIN_FRAME</identifier>
+		<Parameters>
+			<x>0</x>
+			<y>-408</y>
+			<width>1125</width>
+			<height>895</height>
+			<feral_anchor>RIGHT_PNL</feral_anchor>
+			<feral_align>TC</feral_align>
+			<feral_border>true</feral_border>
+		</Parameters>
+		<object_id>empty_art</object_id>
+	</UI piece>
+<!--End Frames-->
+	<!-- Selected Faction -->
+	<UI piece>faction_name_title
+		<identifier>UIP_SELECT_FACTION_NAME</identifier>
+		<Parameters>
+			<x>748</x>
+			<y>36</y>
+			<width>996</width>
+			<height>43</height>
+			<feral_anchor>RIGHT_PNL</feral_anchor>
+			<feral_align>TR</feral_align>
+			<align>right</align>
+		</Parameters>
+		<object_id>empty_art</object_id>
+	</UI piece>
+
+	<UI piece>game_gold_bar
+		<identifier>UIP_FERAL_GOLD_BAR</identifier>
+		<Parameters>
+			<x>-507</x>
+			<y>-275</y>
+			<width>1012</width>
+			<height>13</height>
+			<feral_anchor>RIGHT_PNL</feral_anchor>
+			<feral_align>TL</feral_align>
+		</Parameters>
+		<object_id>empty_art</object_id>
+	</UI piece>
+
+	<UI piece>faction_map
+		<identifier>UIP_SELECT_FACTION_MAP</identifier>
+		<Parameters>
+			<x>0</x>
+			<y>-339</y>
+			<width>1080</width>
+			<height>357</height>
+			<feral_anchor>RIGHT_PNL</feral_anchor>
+			<feral_align>TC</feral_align>
+		</Parameters>
+		<object_id>empty_art</object_id>
+	</UI piece>
+	<!-- End Selected Faction -->
+<!-- Campaign options -->
+	<UI piece>win_conditions
+		<identifier>UIP_WIN_CONDITIONS_INDICATOR</identifier>
+		<Parameters>
+			<x>-264</x>
+			<y>380</y>
+			<width>293</width>
+			<height>12</height>
+			<feral_anchor>RIGHT_PNL</feral_anchor>
+			<feral_align>TR</feral_align>
+			<feral_font>verdana_sml</feral_font>
+		</Parameters>
+		<object_id>empty_art</object_id>
+	</UI piece>
+	<!-- Tutorial -->
+	<UI piece>tutorial_setting_text
+		<identifier>UIP_FERAL_CAMPAIGN_INTRODUCTION_TEXT</identifier>
+		<Parameters>
+			<x>-9999</x>
+			<y>440</y>
+			<width>267</width>
+			<height>35</height>
+			<feral_anchor>RIGHT_PNL</feral_anchor>
+			<feral_align>TL</feral_align>
+			<UI text>UI_FERAL_CAMPAIGN_INTRODUCTION_TEXT
+				<font_id>arial_split_CAF</font_id>
+				<align>left</align>
+				<feral_font>verdana_med</feral_font>
+			</UI text>
+		</Parameters>
+		<object_id>empty_art</object_id>
+	</UI piece>
+	<UI piece>tutorial_setting_toggle
+		<identifier>UIP_FERAL_CAMPAIGN_INTRODUCTION_CHECK</identifier>
+		<Parameters>
+			<x>-9999</x>
+			<y>432</y>
+			<width>36</width>
+			<height>36</height>
+			<feral_anchor>RIGHT_PNL</feral_anchor>
+			<feral_align>TL</feral_align>
+			<hitbox_extend_previous>true</hitbox_extend_previous>
+			<tool_tip_id>UI_FERAL_CAMPAIGN_INTRODUCTION_CHECK_TOOLTIP</tool_tip_id>
+		</Parameters>
+		<object_id>empty_toggle_button</object_id>
+	</UI piece>
+	<!-- End Tutorial -->
+	<!-- Dropdowns -->
+	<UI piece>advisor_level_dropdown
+		<identifier>UIP_ADVISOR_LEVEL_CAMPAIGN</identifier>
+		<Parameters>
+			<x>-516</x>
+			<y>-382</y>
+			<width>216</width>
+			<height>43</height>
+			<feral_anchor>RIGHT_PNL</feral_anchor>
+			<feral_align>TL</feral_align>
+			<delta>10</delta>
+			<UI text>UI_FACTION_SELECT_ADVISOR_LEVEL</UI text>
+			<tool_tip_id>UI_FACTION_SELECT_ADVICE_INFO</tool_tip_id>
+			<align>left</align>
+		</Parameters>
+		<object_id>empty_art</object_id>
+		<edit_group_id>dropdown</edit_group_id>
+	</UI piece>
+
+	<UI piece>campaign_difficulty_dropdown
+		<identifier>UIP_SELECT_FACTION_CAMPAIGN_DIFF</identifier>
+		<Parameters>
+			<x>-516</x>
+			<y>42</y>
+			<width>216</width>
+			<height>43</height>
+			<feral_anchor>RIGHT_PNL</feral_anchor>
+			<feral_align>TL</feral_align>
+			<delta>10</delta>
+			<UI text>UI_FACTION_SELECT_CAMPAIGN_DIFFICULTY</UI text>
+			<tool_tip_id>UI_FACTION_SELECT_CAMPAIGN_DIFFICULTY_INFO</tool_tip_id>
+			<align>left</align>
+		</Parameters>
+		<object_id>empty_art</object_id>
+		<edit_group_id>dropdown</edit_group_id>
+	</UI piece>
+
+	<UI piece>battle_difficulty_dropdown
+		<identifier>UIP_SELECT_FACTION_BATTLE_DIFF</identifier>
+		<Parameters>
+			<x>-516</x>
+			<y>115</y>
+			<width>216</width>
+			<height>43</height>
+			<feral_anchor>RIGHT_PNL</feral_anchor>
+			<feral_align>TL</feral_align>
+			<delta>10</delta>
+			<UI text>UI_FACTION_SELECT_BATTLE_DIFFICULTY</UI text>
+			<tool_tip_id>UI_FACTION_SELECT_BATTLE_DIFFICULTY_INFO</tool_tip_id>
+			<align>left</align>
+		</Parameters>
+		<object_id>empty_art</object_id>
+		<edit_group_id>dropdown</edit_group_id>
+	</UI piece>
+	<!-- End Dropdowns -->
+	<!-- Checkboxes -->
+	<UI piece>arcade_battles_text
+		<identifier>UIP_STATIC_TEXT</identifier>
+		<Parameters>
+			<x>-476</x>
+			<y>164</y>
+			<width>187</width>
+			<height>35</height>
+			<feral_font>verdana_med</feral_font>
+			<feral_anchor>RIGHT_PNL</feral_anchor>
+			<feral_align>TL</feral_align>
+			<UI text>UI_FACTION_SELECT_VICTORY_CONDITIONS
+				<font_id>arial_split_CAF</font_id>
+				<align>left</align>
+			</UI text>
+		</Parameters>
+		<object_id>empty_art</object_id>
+	</UI piece>
+	<UI piece>arcade_battles_toggle
+		<identifier>UIP_ARCADE_BATTLES</identifier>
+		<Parameters>
+			<x>-526</x>
+			<y>158</y>
+			<width>36</width>
+			<height>36</height>
+			<feral_anchor>RIGHT_PNL</feral_anchor>
+			<feral_align>TL</feral_align>
+			<hitbox_extend_previous>true</hitbox_extend_previous>
+			<tool_tip_id>UI_FACTION_SELECT_ARCADE_BATTLES_INFO</tool_tip_id>
+		</Parameters>
+		<object_id>empty_toggle_button</object_id>
+	</UI piece>
+
+	<UI piece>automanage_text
+		<identifier>UIP_STATIC_TEXT</identifier>
+		<Parameters>
+			<x>-476</x>
+			<y>204</y>
+			<width>267</width>
+			<height>35</height>
+			<feral_font>verdana_med</feral_font>
+			<feral_anchor>RIGHT_PNL</feral_anchor>
+			<feral_align>TL</feral_align>
+			<UI text>UI_AUTOMANAGE
+				<font_id>arial_split_CAF</font_id>
+				<align>left</align>
+			</UI text>
+		</Parameters>
+		<object_id>empty_art</object_id>
+	</UI piece>
+	<UI piece>automanage_toggle
+		<identifier>UIP_AUTOMANAGE_BUTTON</identifier>
+		<Parameters>
+			<x>-526</x>
+			<y>196</y>
+			<width>36</width>
+			<height>36</height>
+			<feral_anchor>RIGHT_PNL</feral_anchor>
+			<feral_align>TL</feral_align>
+			<tool_tip_id>UI_AUTOMANAGE_INFO</tool_tip_id>
+			<hitbox_extend_previous>true</hitbox_extend_previous>
+		</Parameters>
+		<object_id>empty_toggle_button</object_id>
+	</UI piece>
+
+	<UI piece>time_limit_text
+		<identifier>UIP_STATIC_TEXT</identifier>
+		<Parameters>
+			<x>-476</x>
+			<y>244</y>
+			<width>233</width>
+			<height>35</height>
+			<feral_font>verdana_med</feral_font>
+			<feral_anchor>RIGHT_PNL</feral_anchor>
+			<feral_align>TL</feral_align>
+			<UI text>UI_GAME_OPTIONS_TIME_LIMIT
+				<font_id>arial_split_CAF</font_id>
+				<align>left</align>
+			</UI text>
+		</Parameters>
+		<object_id>empty_art</object_id>
+	</UI piece>
+	<UI piece>time_limit_toggle
+		<identifier>UIP_GAME_TIME_LIMIT</identifier>
+		<Parameters>
+			<x>-526</x>
+			<y>238</y>
+			<width>36</width>
+			<height>36</height>
+			<feral_anchor>RIGHT_PNL</feral_anchor>
+			<feral_align>TL</feral_align>
+			<hitbox_extend_previous>true</hitbox_extend_previous>
+			<tool_tip_id>UI_GAME_INFO_TIME_LIMIT</tool_tip_id>
+		</Parameters>
+		<object_id>empty_toggle_button</object_id>
+	</UI piece>
+
+	<UI piece>followai_text
+		<identifier>UIP_STATIC_TEXT</identifier>
+		<Parameters>
+			<x>-476</x>
+			<y>284</y>
+			<width>187</width>
+			<height>35</height>
+			<feral_font>verdana_med</feral_font>
+			<feral_anchor>RIGHT_PNL</feral_anchor>
+			<feral_align>TL</feral_align>
+			<UI text>UI_AUTOFOLLOW
+				<font_id>arial_split_CAF</font_id>
+				<align>left</align>
+			</UI text>
+		</Parameters>
+		<object_id>empty_art</object_id>
+	</UI piece>
+	<UI piece>followai_toggle
+		<identifier>UIP_AUTOFOLLOW_BUTTON</identifier>
+		<Parameters>
+			<x>-526</x>
+			<y>278</y>
+			<width>36</width>
+			<height>36</height>
+			<feral_anchor>RIGHT_PNL</feral_anchor>
+			<feral_align>TL</feral_align>
+			<hitbox_extend_previous>true</hitbox_extend_previous>
+			<tool_tip_id>UI_AUTOFOLLOW_INFO</tool_tip_id>
+		</Parameters>
+		<object_id>empty_toggle_button</object_id>
+	</UI piece>
+
+	<UI piece>win_conditions_text
+		<identifier>UIP_WIN_CONDITION_TEXT</identifier>
+		<Parameters>
+			<x>-476</x>
+			<y>324</y>
+			<width>187</width>
+			<height>35</height>
+			<feral_font>verdana_med</feral_font>
+			<feral_anchor>RIGHT_PNL</feral_anchor>
+			<feral_align>TL</feral_align>
+			<UI text>UI_FACTION_SELECT_IMPERATOR
+				<font_id>arial_split_CAF</font_id>
+				<align>left</align>
+			</UI text>
+		</Parameters>
+		<object_id>empty_art</object_id>
+	</UI piece>
+	<UI piece>win_conditions_toggle
+		<identifier>UIP_WIN_CONDITION</identifier>
+		<Parameters>
+			<x>-526</x>
+			<y>318</y>
+			<width>36</width>
+			<height>36</height>
+			<feral_anchor>RIGHT_PNL</feral_anchor>
+			<feral_align>TL</feral_align>
+			<hitbox_extend_previous>true</hitbox_extend_previous>
+			<tool_tip_id>UI_FACTION_SELECT_CUSTOM_WIN_CONDITIONS_INFO</tool_tip_id>
+		</Parameters>
+		<object_id>empty_toggle_button</object_id>
+	</UI piece>
+	<!-- End Checkboxes -->
+	<UI piece>imperial_campaign_settings
+		<identifier>UIP_FERAL_MODIFIER_SETTINGS</identifier>
+		<Parameters>
+			<x>234</x>
+			<y>12</y>
+			<width>54</width>
+			<height>54</height>
+			<feral_anchor>RIGHT_PNL</feral_anchor>
+			<feral_align>TC</feral_align>
+			<menu_id>new_campaign_settings</menu_id>
+			<tool_tip_id>UI_IMPERIAL_CAMPAIGN_SETTINGS_INFO</tool_tip_id>
+		</Parameters>
+		<object_id>advanced_options</object_id>
+	</UI piece>
+<!-- End Campaign options -->
+<!-- Description -->
+	<UI piece>faction_info
+		<identifier>UIP_SELECT_FACTION_DESCRIPTION</identifier>
+		<Parameters>
+			<x>0</x>
+			<y>72</y>
+			<width>516</width>
+			<height>335</height>
+			<feral_anchor>RIGHT_PNL</feral_anchor>
+			<feral_align>TC</feral_align>
+		</Parameters>
+		<object_id>empty_art</object_id>
+	</UI piece>
+<!-- End Description -->
+<!-- Faction selection -->
+	<UI piece>faction_list
+		<identifier>UIP_FERAL_CAMPAIGN_FACTION_SELECT_LIST</identifier>
+		<Parameters>
+			<x>296</x>
+			<y>10</y>
+			<width>272</width>
+			<height>472</height>
+			<feral_anchor>RIGHT_PNL</feral_anchor>
+			<feral_align>TL</feral_align>
+		</Parameters>
+		<object_id>empty_art</object_id>
+	</UI piece>
+<!-- End Faction selection -->
+<!-- Frame widgets -->
+ 	<UI piece>campaign_choose_faction
+		<identifier>UIP_FERAL_TITLE_CAMPAIGN_TEXT</identifier>
+		<Parameters>
+			<x>0</x>
+			<y>-362</y>
+			<feral_anchor>RIGHT_PNL</feral_anchor>
+			<feral_align>TC</feral_align>
+			<width>1014</width>
+			<height>13</height>
+		</Parameters>
+		<object_id>empty_art</object_id>
+	</UI piece>
+
+	<UI piece>imperial_campaign_start
+		<identifier>UIP_START_IMPERIAL_CAMPAIGN</identifier>
+		<Parameters>
+			<x>0</x>
+			<y>408</y>
+			<width>500</width>
+			<height>69</height>
+			<feral_anchor>RIGHT_PNL</feral_anchor>
+			<feral_align>TC</feral_align>
+			<UI text>UI_FERAL_CAMPAIGN_START
+				<font_id>arial_split_CAF</font_id>
+				<align>centre</align>
+			</UI text>
+			<width_from_string>true</width_from_string>
+		</Parameters>
+		<object_id>empty_push_button</object_id>
+	</UI piece>
+
+	<UI piece>tooltips
+		<identifier>UIP_FLOATING_TOOLTIP</identifier>
+	</UI piece>
+<!-- End Frame widgets -->
+</lpage>

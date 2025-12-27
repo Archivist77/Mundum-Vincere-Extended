@@ -1,0 +1,287 @@
+acarnania  
+achea
+aedui
+aestii
+aetolia
+agathyrsi
+agyrion				; (unused)
+akragas				; (unused)
+albania
+alemanni			; chatti
+allobroges
+anartes
+anglii
+anuradhapura
+aorsi
+apuli
+arcadia
+ardiaei
+argos
+armenia
+astures
+athens
+athiyaman
+atrebates
+atropatene
+axum
+ay
+bactria
+balari				; balares
+bastarnae
+bastetani
+belgae 
+bellovaci
+bessi
+biephi
+bithynia
+bituriges
+blemmyes
+boetia
+boii
+bosporus
+breuci
+brigantes
+britons
+bructeri
+brutii
+budini
+burgundii
+buri
+buridenses
+byzantion
+cadurci
+caeni
+caledonia
+cantabri
+cantiaci
+cappadocia
+carni
+carnutes
+carpetani
+carthage
+catuvellauni
+cavari
+celtiberia
+celtici
+cenomanni
+cessetani
+chamavi
+chauci
+chera
+cherusci
+chola
+chorasmia
+cimbri
+colchis
+corieltauvi
+corinth				; (unused)
+corsi
+cyprus
+cyrene
+dacia
+daesitiates
+dahae
+daorsi
+dardania
+daunians
+delmatae
+demetae
+dumnonii
+eblani
+eburones
+edetani
+egypt
+elis
+elusates
+emporion
+epirus
+eravisci
+etruscans
+fosi
+franks				; batavi
+frisii
+gaetuli
+galatia
+gallaeci
+garamantes
+gauls
+germans
+gerrha
+gortyn
+goths
+greek_cities
+hadhramaut
+harii
+helisii
+helveconae
+helvetii
+heraclea
+hermunduri
+heruli
+histri
+huns
+iazyges
+iberia
+ilercavones
+ilergetes
+illyria
+india
+insubres
+iolei				; sardi
+italiotes			; (unused)
+juti				; eudoses
+kalinga
+knossos
+krobyzi
+kush
+kydonia
+lemovices
+leponti
+lexovii
+libya				; (unused)
+ligures
+lihyan
+lingones
+lombardi
+lucani				; (unused)
+macedon
+mamertines
+mandubii
+marcomanni
+mascat
+massagetae
+massalia
+massylii
+mauri
+mediomatrici
+melos
+messapians
+messene  
+minaea
+morini
+nabataea
+nahanarvali
+namnetes
+nasamones
+neapolis			; (unused)
+nemetes
+nervii
+nori
+numidia
+oretani
+osismii
+ostrogoths
+paeligni			; (unused)
+paeonia
+palmyra
+pandya
+paphlagonia
+parisii
+parthia
+pergamon
+persia				; (unused)
+peucitans
+picentes
+pictones
+pontus
+qataban
+qedar
+quadi
+raeti
+redones	
+remi
+rhodes
+romans_brutii
+romans_julii
+romans_scipii
+romans_senate
+roxolani
+rugii
+ruteni
+saba
+sabines				; (unused)
+saka
+samnites			; (unused)
+santones
+sarmatians
+saxons
+scordisci
+scythia
+segusiavi
+seleucid
+senones
+sequani
+sinope
+siraces
+slave
+slavs
+spain
+suessiones			; suessetani
+sugambri
+suiones
+syracuse
+taras
+tarbelli
+taurini
+tencteri
+thamud
+thessaly
+thrace
+thyssagetae
+treverii
+triballi
+turdetani
+turones
+tylis
+ubii
+umbri				; (unused)
+unelli
+vaccaei
+vandals
+vangiones
+varini
+vascones
+venedi
+veneti
+veneti_gaul
+vettones
+vindelici
+vivisci
+vocontii
+volcae
+volsci				; (unused)
+
+to be removed:
+aorsi
+agathyrsi
+suiones
+agyrion
+
+to be added:
+kucha
+ferghana
+kashgar
+
+kroraina
+zhangzhung
+arados
+carpi
+khotan
+kangar
+
+
+
+to be converted:
+iceni -> catuvellauni
+quadi -> osii
+cyprus -> miletus (+ colonies)
+roxolani -> aorsi
+
+to be repurposed:
+aorsi -> kroraina
+agathyrsi -> zhangzhung
+agyrion -> kangar
+suiones -> arados
+
+current faction count: 243
+total faction count with changes: 257

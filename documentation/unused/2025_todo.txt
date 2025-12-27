@@ -1,0 +1,31 @@
+Redo icons for all factions
+Redo banners for all factions
+Redo strat banners for all factions
+Make maps for all playable factions
+Finish faction relations for new factions (slaves at war with and at war with slaves)
+
+Fix leves model to use greek peltast heads for the lower 3 LODs
+Make accensi textures for senate, brutii, scipii, or make a new kitbashed model using roman archers
+
+Rework the government types and subsequent recruitment to only be for player, ai has regular recruitment
+Make temple types for indian, tamil factions
+Add tribal nametypes
+Add more indian, tamil names
+Make quadi celtic
+Add the new factions planned
+Change internal names of the changed factions
+Add tamil, tibetan, and tocharian cultures
+Add ferghana and kashgar
+Fix missing chunks for strat banners
+Use sakastan for kashgar, kwarezm for kangar, lazica for kucha, sagartia for kroraina, baktria horse for ferghana, dharma wheel for zhangzhung, catiaroi for oromouschoi
+
+
+
+For toa submod:
+Do tales of antiquity variants of roman crewed siege engines
+Do tales of antiquity variants of carthaginian generals
+Fix up the numidian roster adding tales of antiquity and danymok units
+Fix carthaginian recruitment regions
+Fix macedonian recruitment regions
+
+Change start position of macedon and epirus

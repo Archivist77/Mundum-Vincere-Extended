@@ -1,0 +1,636 @@
+set_counter plague_can_spawn 0
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 1
+
+		; The first check for 1% chance. Do not alter
+		if RandomPercent <= 1
+
+			; Trigger plague if we do not have a denominator
+			if I_CompareCounter plague_denominator <= 1
+				set_counter plague_can_spawn 1
+			end_if
+
+			; Trigger plague at 0.5% chance
+			if I_CompareCounter plague_denominator == 2
+				if RandomPercent <= 50
+					set_counter plague_can_spawn 1
+				end_if
+			end_if
+
+			; Trigger plague at 0.25% chance
+			if I_CompareCounter plague_denominator == 3
+				if RandomPercent <= 50
+					if RandomPercent <= 50
+						set_counter plague_can_spawn 1
+					end_if
+				end_if
+			end_if
+
+			; Trigger plague at 0.125% chance
+			if I_CompareCounter plague_denominator >= 4
+				if RandomPercent <= 50
+					if RandomPercent <= 50
+						if RandomPercent <= 50
+							set_counter plague_can_spawn 1
+						end_if
+					end_if
+				end_if
+			end_if
+		end_if
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 2
+	and RandomPercent <= 2
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 3
+	and RandomPercent <= 3
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 4
+	and RandomPercent <= 4
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 5
+	and RandomPercent <= 5
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 6
+	and RandomPercent <= 6
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 7
+	and RandomPercent <= 7
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 8
+	and RandomPercent <= 8
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 9
+	and RandomPercent <= 9
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 10
+	and RandomPercent <= 10
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 11
+	and RandomPercent <= 11
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 12
+	and RandomPercent <= 12
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 13
+	and RandomPercent <= 13
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 14
+	and RandomPercent <= 14
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 15
+	and RandomPercent <= 15
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 16
+	and RandomPercent <= 16
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 17
+	and RandomPercent <= 17
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 18
+	and RandomPercent <= 18
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 19
+	and RandomPercent <= 19
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 20
+	and RandomPercent <= 20
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 21
+	and RandomPercent <= 21
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 22
+	and RandomPercent <= 22
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 23
+	and RandomPercent <= 23
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 24
+	and RandomPercent <= 24
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 25
+	and RandomPercent <= 25
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 26
+	and RandomPercent <= 26
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 27
+	and RandomPercent <= 27
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 28
+	and RandomPercent <= 28
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 29
+	and RandomPercent <= 29
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 30
+	and RandomPercent <= 30
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 31
+	and RandomPercent <= 31
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 32
+	and RandomPercent <= 32
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 33
+	and RandomPercent <= 33
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 34
+	and RandomPercent <= 34
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 35
+	and RandomPercent <= 35
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 36
+	and RandomPercent <= 36
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 37
+	and RandomPercent <= 37
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 38
+	and RandomPercent <= 38
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 39
+	and RandomPercent <= 39
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 40
+	and RandomPercent <= 40
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 41
+	and RandomPercent <= 41
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 42
+	and RandomPercent <= 42
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 43
+	and RandomPercent <= 43
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 44
+	and RandomPercent <= 44
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 45
+	and RandomPercent <= 45
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 46
+	and RandomPercent <= 46
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 47
+	and RandomPercent <= 47
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 48
+	and RandomPercent <= 48
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 49
+	and RandomPercent <= 49
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 50
+	and RandomPercent <= 50
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 51
+	and RandomPercent <= 51
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 52
+	and RandomPercent <= 52
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 53
+	and RandomPercent <= 53
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 54
+	and RandomPercent <= 54
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 55
+	and RandomPercent <= 55
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 56
+	and RandomPercent <= 56
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 57
+	and RandomPercent <= 57
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 58
+	and RandomPercent <= 58
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 59
+	and RandomPercent <= 59
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 60
+	and RandomPercent <= 60
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 61
+	and RandomPercent <= 61
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 62
+	and RandomPercent <= 62
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 63
+	and RandomPercent <= 63
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 64
+	and RandomPercent <= 64
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 65
+	and RandomPercent <= 65
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 66
+	and RandomPercent <= 66
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 67
+	and RandomPercent <= 67
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 68
+	and RandomPercent <= 68
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 69
+	and RandomPercent <= 69
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 70
+	and RandomPercent <= 70
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 71
+	and RandomPercent <= 71
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 72
+	and RandomPercent <= 72
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 73
+	and RandomPercent <= 73
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 74
+	and RandomPercent <= 74
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 75
+	and RandomPercent <= 75
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 76
+	and RandomPercent <= 76
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 77
+	and RandomPercent <= 77
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 78
+	and RandomPercent <= 78
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 79
+	and RandomPercent <= 79
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 80
+	and RandomPercent <= 80
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 81
+	and RandomPercent <= 81
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 82
+	and RandomPercent <= 82
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 83
+	and RandomPercent <= 83
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 84
+	and RandomPercent <= 84
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 85
+	and RandomPercent <= 85
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 86
+	and RandomPercent <= 86
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 87
+	and RandomPercent <= 87
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 88
+	and RandomPercent <= 88
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 89
+	and RandomPercent <= 89
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 90
+	and RandomPercent <= 90
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 91
+	and RandomPercent <= 91
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 92
+	and RandomPercent <= 92
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 93
+	and RandomPercent <= 93
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 94
+	and RandomPercent <= 94
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 95
+	and RandomPercent <= 95
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 96
+	and RandomPercent <= 96
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 97
+	and RandomPercent <= 97
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 98
+	and RandomPercent <= 98
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance == 99
+	and RandomPercent <= 99
+		set_counter plague_can_spawn 1
+end_if
+
+if I_CompareCounter plague_can_spawn == 0
+	and I_CompareCounter plague_chance >= 100
+	and RandomPercent <= 100
+		set_counter plague_can_spawn 1
+end_if
+

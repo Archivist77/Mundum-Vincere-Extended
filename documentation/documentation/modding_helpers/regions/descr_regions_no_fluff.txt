@@ -1,0 +1,11920 @@
+Britannia_Inferior
+	Eburacum
+	britons
+	Brigantes
+	232 41 198
+	britannia
+	5
+	5
+Britannia_Superior
+	Londinium
+	britons
+	Iceni
+	232 41 46
+	britannia
+	5
+	8
+Tribus_Silurii
+	Deva
+	britons
+	Silures
+	41 232 63
+	britannia
+	0
+	4
+Alauna_R
+	Alauna
+	britons
+	Brigantes
+	25 195 203
+	britannia
+	5
+	3
+Arnemetiae_R
+	Arnemetiae
+	britons
+	Brigantes
+	205 39 39
+	britannia
+	5
+	3
+Boderium_R
+	Boderium
+	britons
+	Brigantes
+	52 108 62
+	britannia
+	5
+	3
+Calleva_R
+	Calleva
+	britons
+	Brigantes
+	210 51 201
+	britannia
+	5
+	4
+Camulodunum_R
+	Camulodunum
+	britons
+	Brigantes
+	32 110 124
+	britannia
+	5
+	6
+Carbantorigum_R
+	Carbantorigum
+	britons
+	Brigantes
+	216 218 82
+	britannia
+	5
+	3
+Corinion_R
+	Corinion
+	britons
+	Brigantes
+	189 215 101
+	britannia
+	5
+	5
+Cornoviorum_R
+	Cornoviorum
+	britons
+	Brigantes
+	178 160 117
+	britannia
+	5
+	4
+Decantarum_R
+	Decantarum
+	britons
+	Brigantes
+	82 178 79
+	britannia
+	5
+	2
+Devana_R
+	Devana
+	britons
+	Brigantes
+	157 70 156
+	britannia
+	5
+	4
+Dumna_R
+	Dumna
+	britons
+	Brigantes
+	36 119 52
+	britannia
+	5
+	2
+Dumnoniorum_R
+	Dumnoniorum
+	britons
+	Brigantes
+	191 170 74
+	britannia
+	5
+	3
+Durotrigorum_R
+	Durotrigorum
+	britons
+	Brigantes
+	119 53 162
+	britannia
+	5
+	5
+Durovernum_R
+	Durovernum
+	britons
+	Brigantes
+	163 165 16
+	britannia
+	5
+	5
+Durovigutum_R
+	Durovigutum
+	britons
+	Brigantes
+	188 90 22
+	britannia
+	5
+	3
+Eydin_R
+	Eydin
+	britons
+	Brigantes
+	149 147 108
+	britannia
+	5
+	4
+Galacum_R
+	Galacum
+	britons
+	Brigantes
+	58 44 141
+	britannia
+	5
+	3
+Hebudum_R
+	Hebudum
+	britons
+	Brigantes
+	156 12 50
+	britannia
+	5
+	2
+Isca_R
+	Isca
+	britons
+	Brigantes
+	27 73 45
+	britannia
+	5
+	4
+Lindum_R
+	Lindum
+	britons
+	Brigantes
+	120 227 147
+	britannia
+	5
+	3
+LindumCorieltavia_R
+	LindumCorieltavia
+	britons
+	Brigantes
+	195 206 9
+	britannia
+	5
+	4
+Luguvalium_R
+	Luguvalium
+	britons
+	Brigantes
+	170 41 57
+	britannia
+	5
+	4
+Mona_R
+	Mona
+	britons
+	Brigantes
+	40 133 31
+	britannia
+	5
+	1
+Monaoeda_R
+	Monaoeda
+	britons
+	Brigantes
+	137 177 26
+	britannia
+	5
+	2
+Moridunum_R
+	Moridunum
+	britons
+	Brigantes
+	138 108 60
+	britannia
+	5
+	4
+Noviomagus_Reginorum_R
+	Noviomagus_Reginorum
+	britons
+	Brigantes
+	214 113 60
+	britannia
+	5
+	5
+Orcades_R
+	Orcades
+	britons
+	Brigantes
+	188 94 201
+	britannia
+	5
+	1
+Orrea_R
+	Orrea
+	britons
+	Brigantes
+	145 19 37
+	britannia
+	5
+	3
+Ratae_R
+	Ratae
+	britons
+	Brigantes
+	57 114 24
+	britannia
+	5
+	5
+Ratostabius_R
+	Ratostabius
+	britons
+	Brigantes
+	91 230 94
+	britannia
+	5
+	3
+Rauatonium_R
+	Rauatonium
+	britons
+	Brigantes
+	198 151 30
+	britannia
+	5
+	1
+Rigodonum_R
+	Rigodonum
+	britons
+	Brigantes
+	221 137 23
+	britannia
+	5
+	4
+SalinaeCornovia_R
+	SalinaeCornovia
+	britons
+	Brigantes
+	86 19 166
+	britannia
+	5
+	4
+Seguntium_R
+	Seguntium
+	britons
+	Brigantes
+	200 61 101
+	britannia
+	5
+	3
+Sorviodunum_R
+	Sorviodunum
+	britons
+	Brigantes
+	28 92 179
+	britannia
+	5
+	3
+Tarvodubron_R
+	Tarvodubron
+	britons
+	Brigantes
+	208 170 37
+	britannia
+	5
+	2
+Tuesis_R
+	Tuesis
+	britons
+	Brigantes
+	74 71 127
+	britannia
+	5
+	2
+Venta_Icenorum_R
+	Venta_Icenorum
+	britons
+	Brigantes
+	226 234 142
+	britannia
+	5
+	5
+Hibernia
+	Tara
+	britons
+	Hibernians
+	212 232 41
+	britannia
+	5
+	3
+Dunum_R
+	Dunum
+	britons
+	Hibernians
+	87 90 145
+	britannia
+	5
+	4
+Hibernis_R
+	Hibernis
+	britons
+	Hibernians
+	150 98 31
+	britannia
+	5
+	2
+Laberus_R
+	Laberus
+	britons
+	Hibernians
+	114 172 124
+	britannia
+	5
+	4
+Macolicum_R
+	Macolicum
+	britons
+	Hibernians
+	151 64 132
+	britannia
+	5
+	3
+Magnata_R
+	Magnata
+	britons
+	Hibernians
+	18 28 120
+	britannia
+	5
+	4
+Manapia_R
+	Manapia
+	britons
+	Hibernians
+	36 141 38
+	britannia
+	5
+	4
+Regia_R
+	Regia
+	britons
+	Hibernians
+	87 157 100
+	britannia
+	5
+	3
+Rhaeba_R
+	Rhaeba
+	britons
+	Brigantes
+	191 64 32
+	britannia
+	5
+	4
+Atuatuca_R
+	Atuatuca
+	gauls
+	Belgae
+	215 17 48
+	germania
+	5
+	6
+Bagacum_R
+	Bagacum
+	gauls
+	Belgae
+	104 31 97
+	gaul
+	5
+	7
+Belgica
+	Samarobriva
+	britons
+	Belgae
+	232 90 41
+	gaul
+	5
+	7
+Durocotorum_R
+	Durocotorum
+	gauls
+	Aedui
+	60 106 24
+	gaul
+	5
+	8
+Lutetia_Parisia_R
+	Lutetia_Parisia
+	gauls
+	Aedui
+	124 106 198
+	gaul
+	5
+	10
+Menapium_R
+	Menapium
+	gauls
+	Belgae
+	207 112 100
+	gaul
+	5
+	5
+Nemetacum_R
+	Nemetacum
+	gauls
+	Belgae
+	38 63 143
+	gaul
+	5
+	6
+Nervium_R
+	Nervium
+	gauls
+	Belgae
+	203 201 33
+	gaul
+	5
+	5
+Rotomagus_R
+	Rotomagus
+	gauls
+	Belgae
+	135 218 69
+	gaul
+	5
+	6
+Viromanduorum_R
+	Viromanduorum
+	gauls
+	Veneti
+	196 204 53
+	gaul
+	5
+	8
+Agatha_R
+	Agatha
+	greek_cities
+	Volcae
+	196 195 57
+	gaul
+	5
+	5
+Agedincum_R
+	Agedincum
+	gauls
+	Aedui
+	225 66 66
+	gaul
+	5
+	6
+Ambiacum_R
+	Ambiacum
+	gauls
+	Veneti
+	88 116 186
+	gaul
+	5
+	7
+Andecavium_R
+	Andecavium
+	gauls
+	Veneti
+	138 109 38
+	gaul
+	5
+	7
+Andematunnum_R
+	Andematunnum
+	gauls
+	Belgae
+	196 190 129
+	gaul
+	5
+	6
+Aquitania
+	Lemonum
+	gauls
+	Pictones
+	68 232 41
+	gaul
+	5
+	7
+Argentomagus_R
+	Argentomagus
+	gauls
+	Veneti
+	153 66 79
+	gaul
+	5
+	5
+Armorica
+	Condate_Redonum
+	gauls
+	Veneti
+	232 41 135
+	gaul
+	5
+	7
+Artiaca_R
+	Artiaca
+	gauls
+	Belgae
+	212 74 225
+	gaul
+	5
+	5
+Austricum_R
+	Austricum
+	gauls
+	Veneti
+	112 221 149
+	gaul
+	5
+	6
+Avaricum_R
+	Avaricum
+	gauls
+	Aedui
+	166 185 115
+	gaul
+	5
+	7
+Bibracte_R
+	Bibracte
+	gauls
+	Aedui
+	97 51 121
+	gaul
+	5
+	7
+Brenodurum_R
+	Brenodurum
+	gauls
+	Aedui
+	166 50 211
+	gaul
+	5
+	4
+Brocomagus_R
+	Brocomagus
+	gauls
+	Veneti
+	133 162 191
+	gaul
+	5
+	5
+Cabillonum_R
+	Cabillonum
+	gauls
+	Aedui
+	83 153 134
+	gaul
+	5
+	8
+Cadurcium_R
+	Cadurcium
+	gauls
+	Veneti
+	40 183 96
+	gaul
+	5
+	5
+Cenabum_R
+	Cenabum
+	gauls
+	Aedui
+	93 21 109
+	gaul
+	5
+	8
+Central_Gaul
+	Alesia
+	gauls
+	Senones
+	31 75 37
+	gaul
+	5
+	7
+Condevincum_R
+	Condevincum
+	gauls
+	Veneti
+	171 45 174
+	gaul
+	5
+	5
+Corsiolitum_R
+	Corsiolitum
+	gauls
+	Veneti
+	97 215 93
+	gaul
+	5
+	5
+Cossium_R
+	Cossium
+	gauls
+	Pictones
+	166 146 100
+	gaul
+	5
+	7
+Crociatonum_R
+	Crociatonum
+	gauls
+	Veneti
+	63 139 71
+	gaul
+	5
+	7
+Cularo_R
+	Cularo
+	gauls
+	Aedui
+	72 73 215
+	gaul
+	5
+	4
+Darioritum_R
+	Darioritum
+	gauls
+	Veneti
+	23 81 30
+	gaul
+	5
+	4
+Devona_R
+	Devona
+	gauls
+	Treveri
+	97 143 103
+	gaul
+	5
+	5
+Durotincum_R
+	Durotincum
+	gauls
+	Pictones
+	148 203 215
+	gaul
+	5
+	6
+Eburodunum_R
+	Eburodunum
+	gauls
+	Volcae
+	24 115 23
+	gaul
+	5
+	3
+Eburomagus_R
+	Eburomagus
+	gauls
+	Volcae
+	110 118 219
+	gaul
+	5
+	6
+Geneva_R
+	Geneva
+	gauls
+	Aedui
+	53 145 78
+	gaul
+	5
+	5
+Gergovia_R
+	Gergovia
+	gauls
+	Aedui
+	189 124 26
+	gaul
+	5
+	8
+Glanum_R
+	Glanum
+	gauls
+	Volcae
+	157 59 173
+	gaul
+	5
+	7
+Ingena_R
+	Ingena
+	gauls
+	Veneti
+	230 104 44
+	gaul
+	5
+	5
+Lugdinensis
+	Lugdunum
+	gauls
+	Aedui
+	85 114 141
+	gaul
+	5
+	7
+LugdunumConvenarum_R
+	LugdunumConvenarum
+	gauls
+	Volcae
+	213 82 44
+	gaul
+	5
+	5
+Maroventum_R
+	Maroventum
+	gauls
+	Volcae
+	36 58 183
+	gaul
+	5
+	5
+MediolanumAulercorum_R
+	MediolanumAulercorum
+	gauls
+	Veneti
+	35 46 120
+	gaul
+	5
+	6
+Mediolanum_Santonum_R
+	Mediolanum_Santonum
+	gauls
+	Pictones
+	233 232 50
+	gaul
+	5
+	7
+Mediomatricorum_R
+	Mediomatricorum
+	gauls
+	Treveri
+	205 198 39
+	gaul
+	5
+	7
+Narbonensis
+	Narbo_Martius
+	gauls
+	Volcae
+	196 13 198
+	gaul
+	5
+	8
+Nasium_R
+	Nasium
+	gauls
+	Belgae
+	55 47 142
+	gaul
+	5
+	5
+Nemasus_R
+	Nemasus
+	gauls
+	Volcae
+	64 38 143
+	gaul
+	5
+	8
+NicaeaLiguria_R
+	NicaeaLiguria
+	greek_cities
+	Ligurians
+	203 161 34
+	gaul
+	5
+	6
+Noviodunum_R
+	Noviodunum
+	gauls
+	Veneti
+	149 35 196
+	gaul
+	5
+	7
+NoviomagusVasatia_R
+	NoviomagusVasatia
+	gauls
+	Pictones
+	50 46 211
+	gaul
+	5
+	4
+Noviomagus_Lexoviorum_R
+	Noviomagus_Lexoviorum
+	gauls
+	Belgae
+	148 66 54
+	gaul
+	5
+	5
+Octodurus_R
+	Octodurus
+	gauls
+	Aedui
+	151 42 39
+	gaul
+	5
+	2
+OlbiaLigystike_R
+	OlbiaLigystike
+	greek_cities
+	Ligurians
+	39 36 204
+	gaul
+	5
+	6
+Ruessium_R
+	Ruessium
+	gauls
+	Veneti
+	22 129 25
+	gaul
+	5
+	5
+Segodunum_R
+	Segodunum
+	gauls
+	Volcae
+	114 75 63
+	gaul
+	5
+	6
+Segustero_R
+	Segustero
+	gauls
+	Volcae
+	195 60 54
+	gaul
+	5
+	4
+Suidinum_R
+	Suidinum
+	gauls
+	Veneti
+	170 184 69
+	gaul
+	5
+	7
+Tarba_R
+	Tarba
+	gauls
+	Volcae
+	99 45 174
+	gaul
+	5
+	6
+Tarbellium_R
+	Tarbellium
+	gauls
+	Volcae
+	107 167 114
+	gaul
+	5
+	5
+Tolosa_R
+	Tolosa
+	gauls
+	Volcae
+	222 214 154
+	gaul
+	5
+	9
+Transalpine_Gaul
+	Massilia
+	greek_cities
+	Vocontii
+	117 198 13
+	gaul
+	5
+	9
+Uxisame_R
+	Uxisame
+	gauls
+	Veneti
+	211 46 69
+	gaul
+	5
+	1
+Valentia_R
+	Valentia
+	gauls
+	Aedui
+	218 210 106
+	gaul
+	5
+	6
+Verodunum_R
+	Verodunum
+	gauls
+	Belgae
+	206 205 26
+	gaul
+	5
+	5
+Vesontio_R
+	Vesontio
+	gauls
+	Aedui
+	27 217 51
+	gaul
+	5
+	5
+Vesunna_R
+	Vesunna
+	gauls
+	Pictones
+	216 16 58
+	gaul
+	5
+	7
+Vienna_R
+	Vienna
+	gauls
+	Aedui
+	213 124 243
+	gaul
+	5
+	6
+Vorgium_R
+	Vorgium
+	gauls
+	Veneti
+	166 163 15
+	gaul
+	5
+	3
+Boihaemum
+	Lovosice
+	gauls
+	Boii
+	58 150 177
+	rhaetia
+	5
+	5
+Boiodurum_R
+	Boiodurum
+	gauls
+	Helvetii
+	175 104 19
+	rhaetia
+	5
+	6
+Cambodunum_R
+	Cambodunum
+	gauls
+	Helvetii
+	191 28 38
+	rhaetia
+	5
+	7
+Casurgis_R
+	Casurgis
+	gauls
+	Boii
+	40 137 52
+	rhaetia
+	5
+	8
+Catenatium_R
+	Catenatium
+	gauls
+	Helvetii
+	44 241 16
+	rhaetia
+	5
+	5
+Coridorgis_R
+	Coridorgis
+	gauls
+	Boii
+	147 14 13
+	rhaetia
+	5
+	4
+Curia_R
+	Curia
+	gauls
+	Helvetii
+	119 168 119
+	rhaetia
+	5
+	2
+Furgisatis_R
+	Furgisatis
+	gauls
+	Boii
+	218 82 87
+	rhaetia
+	5
+	5
+Isarcium_R
+	Isarcium
+	gauls
+	Helvetii
+	217 144 95
+	rhaetia
+	5
+	3
+Lentia_R
+	Lentia
+	gauls
+	Helvetii
+	58 106 66
+	rhaetia
+	5
+	6
+Mediolanium_Racataea_R
+	Mediolanium_Racataea
+	gauls
+	Boii
+	35 43 188
+	rhaetia
+	5
+	5
+Meliodunum_R
+	Meliodunum
+	gauls
+	Boii
+	158 96 191
+	rhaetia
+	5
+	6
+Mogentiana_R
+	Mogentiana
+	dacia
+	Scordisci
+	119 53 179
+	rhaetia
+	5
+	3
+Noreia_R
+	Noreia
+	gauls
+	Illyrians
+	156 145 162
+	rhaetia
+	5
+	4
+Noricum
+	Iuvavum
+	gauls
+	Helvetii
+	230 41 232
+	rhaetia
+	5
+	4
+Poedicum_R
+	Poedicum
+	gauls
+	Illyrians
+	207 200 58
+	rhaetia
+	5
+	3
+Redintuinum_R
+	Redintuinum
+	gauls
+	Boii
+	171 159 5
+	rhaetia
+	5
+	6
+Rucinatium_R
+	Rucinatium
+	gauls
+	Helvetii
+	57 128 126
+	rhaetia
+	5
+	5
+Scarbantia_R
+	Scarbantia
+	dacia
+	Scordisci
+	205 118 61
+	rhaetia
+	5
+	3
+Setuacotum_R
+	Setuacotum
+	germans
+	Treveri
+	102 48 116
+	rhaetia
+	5
+	4
+Singone_R
+	Singone
+	gauls
+	Boii
+	75 212 93
+	rhaetia
+	5
+	4
+Sorviodurum_R
+	Sorviodurum
+	gauls
+	Helvetii
+	216 183 58
+	rhaetia
+	5
+	5
+Strevinta_R
+	Strevinta
+	gauls
+	Boii
+	212 209 105
+	rhaetia
+	5
+	4
+Tarodunum_R
+	Tarodunum
+	gauls
+	Treveri
+	150 109 35
+	rhaetia
+	5
+	5
+Teurnia_R
+	Teurnia
+	gauls
+	Illyrians
+	181 28 25
+	rhaetia
+	5
+	3
+Tridentum_R
+	Tridentum
+	gauls
+	Helvetii
+	81 116 210
+	rhaetia
+	5
+	3
+Turicum_R
+	Turicum
+	gauls
+	Treveri
+	228 210 33
+	rhaetia
+	5
+	5
+Veldidena_R
+	Veldidena
+	gauls
+	Helvetii
+	69 68 100
+	rhaetia
+	5
+	3
+Vindobona_R
+	Vindobona
+	gauls
+	Helvetii
+	124 115 36
+	rhaetia
+	5
+	6
+Volcaeum_R
+	Volcaeum
+	gauls
+	Boii
+	193 188 145
+	rhaetia
+	5
+	5
+Agri_Decumates
+	Mogontiacum
+	gauls
+	Alamanni
+	63 232 41
+	germania
+	5
+	5
+Alisus_R
+	Alisus
+	germans
+	Chatti
+	227 110 93
+	germania
+	5
+	4
+Arctaunum_R
+	Arctaunum
+	germans
+	Treveri
+	188 135 237
+	germania
+	5
+	6
+Aregelia_R
+	Aregelia
+	germans
+	Chatti
+	215 88 220
+	germania
+	5
+	4
+Arsicua_R
+	Arsicua
+	germans
+	Marcomanni
+	149 49 60
+	germania
+	5
+	6
+Arsonium_R
+	Arsonium
+	germans
+	Marcomanni
+	52 171 52
+	germania
+	5
+	4
+Asanca_R
+	Asanca
+	germans
+	Marcomanni
+	24 63 89
+	germania
+	5
+	5
+Ascaucalis_R
+	Ascaucalis
+	germans
+	Marcomanni
+	104 23 145
+	germania
+	5
+	4
+Asciburgium_R
+	Asciburgium
+	gauls
+	Batavi
+	230 229 103
+	germania
+	5
+	5
+Avionium_R
+	Avionium
+	germans
+	Saxones
+	71 207 93
+	germania
+	5
+	4
+BatavodurumCity_R
+	BatavodurumCity
+	germans
+	Batavi
+	89 228 124
+	germania
+	5
+	6
+Bergium_R
+	Bergium
+	gauls
+	Alamanni
+	187 41 48
+	germania
+	5
+	5
+Bicurgium_R
+	Bicurgium
+	germans
+	Chatti
+	90 63 114
+	germania
+	5
+	5
+Borbetomagus_R
+	Borbetomagus
+	gauls
+	Batavi
+	212 54 130
+	germania
+	5
+	6
+Budorigum_R
+	Budorigum
+	germans
+	Marcomanni
+	113 195 189
+	germania
+	5
+	5
+Budoris_R
+	Budoris
+	gauls
+	Batavi
+	58 102 80
+	germania
+	5
+	7
+Calisia_R
+	Calisia
+	germans
+	Marcomanni
+	40 215 13
+	germania
+	5
+	4
+Canduum_R
+	Canduum
+	germans
+	Chatti
+	23 41 154
+	germania
+	5
+	5
+CarrodunumHercynia_R
+	CarrodunumHercynia
+	germans
+	Marcomanni
+	57 110 45
+	germania
+	5
+	4
+Carrodunum_R
+	Carrodunum
+	dacia
+	Venedae
+	151 110 138
+	germania
+	5
+	3
+Chasuarium_R
+	Chasuarium
+	germans
+	Batavi
+	69 137 69
+	germania
+	5
+	3
+Cheruscium_R
+	Cheruscium
+	germans
+	Saxones
+	106 137 48
+	germania
+	5
+	3
+Cistuia_R
+	Cistuia
+	germans
+	Chatti
+	38 79 143
+	germania
+	5
+	5
+Coenoenum_R
+	Coenoenum
+	germans
+	Saxones
+	184 118 18
+	germania
+	5
+	3
+Colancorum_R
+	Colancorum
+	germans
+	Saxones
+	210 213 35
+	germania
+	5
+	3
+Dandutium_R
+	Dandutium
+	germans
+	Chatti
+	176 67 194
+	germania
+	5
+	4
+Eburum_R
+	Eburum
+	gauls
+	Boii
+	158 105 44
+	germania
+	5
+	4
+Fabiranum_R
+	Fabiranum
+	germans
+	Saxones
+	62 32 127
+	germania
+	5
+	4
+Firaesum_R
+	Firaesum
+	germans
+	Saxones
+	39 124 36
+	germania
+	5
+	2
+Frisium_R
+	Frisium
+	britons
+	Belgae
+	213 224 144
+	germania
+	5
+	3
+Germania_Inferior
+	Batavodurum
+	germans
+	Batavi
+	41 162 232
+	germania
+	5
+	6
+Germania_Superior
+	Trier
+	germans
+	Treveri
+	72 41 232
+	germania
+	5
+	6
+Gravionarium_R
+	Gravionarium
+	gauls
+	Alamanni
+	224 240 8
+	germania
+	5
+	5
+Gutonium_R
+	Gutonium
+	germans
+	Saxones
+	32 144 109
+	germania
+	5
+	3
+Hegetmatia_R
+	Hegetmatia
+	germans
+	Marcomanni
+	30 33 210
+	germania
+	5
+	4
+Helisium_R
+	Helisium
+	germans
+	Marcomanni
+	221 238 40
+	germania
+	5
+	4
+Hirrium_R
+	Hirrium
+	germans
+	Saxones
+	102 48 226
+	germania
+	5
+	3
+Laciburgium_R
+	Laciburgium
+	germans
+	Saxones
+	22 142 31
+	germania
+	5
+	5
+Leucaristus_R
+	Leucaristus
+	germans
+	Marcomanni
+	48 128 55
+	germania
+	5
+	5
+Leufana_R
+	Leufana
+	germans
+	Chatti
+	175 140 99
+	germania
+	5
+	6
+Limisdunum_R
+	Limisdunum
+	germans
+	Saxones
+	194 158 197
+	germania
+	5
+	3
+Locus_Gothi
+	Vicus_Gothi
+	germans
+	Goths
+	203 41 232
+	germania
+	5
+	7
+LugdunumMenapia_R
+	LugdunumMenapia
+	gauls
+	Belgae
+	76 113 72
+	germania
+	5
+	3
+Lugidunum_R
+	Lugidunum
+	germans
+	Marcomanni
+	108 0 46
+	germania
+	5
+	6
+Manimium_R
+	Manimium
+	germans
+	Saxones
+	62 63 220
+	germania
+	5
+	3
+Marionis_R
+	Marionis
+	germans
+	Saxones
+	56 222 184
+	germania
+	5
+	5
+Marobudum_R
+	Marobudum
+	gauls
+	Alamanni
+	36 94 14
+	germania
+	5
+	4
+Mattium_R
+	Mattium
+	germans
+	Batavi
+	201 132 52
+	germania
+	5
+	5
+MediolaniumMarsia_R
+	MediolaniumMarsia
+	germans
+	Batavi
+	130 47 47
+	germania
+	5
+	4
+Mersovium_R
+	Mersovium
+	germans
+	Chatti
+	53 109 51
+	germania
+	5
+	6
+Munitium_R
+	Munitium
+	germans
+	Chatti
+	230 192 44
+	germania
+	5
+	4
+Navalia_R
+	Navalia
+	germans
+	Batavi
+	195 53 200
+	germania
+	5
+	5
+Phleum_R
+	Phleum
+	germans
+	Batavi
+	91 183 103
+	germania
+	5
+	4
+Regnum_Marcomannii
+	Vicus_Marcomannii
+	germans
+	Marcomanni
+	177 78 58
+	germania
+	5
+	5
+RugiumBastarnia_R
+	RugiumBastarnia
+	germans
+	Goths
+	201 85 26
+	germania
+	5
+	4
+Scurgum_R
+	Scurgum
+	germans
+	Goths
+	96 122 84
+	germania
+	5
+	4
+Segodunum_Triboccia_R
+	Segodunum_Triboccia
+	germans
+	Treveri
+	241 148 24
+	germania
+	5
+	4
+Sesudata_R
+	Sesudata
+	germans
+	Chatti
+	169 157 135
+	germania
+	5
+	3
+Setidava_R
+	Setidava
+	germans
+	Marcomanni
+	206 140 43
+	germania
+	5
+	4
+Setovia_R
+	Setovia
+	germans
+	Marcomanni
+	108 70 115
+	germania
+	5
+	4
+Siatutanda_R
+	Siatutanda
+	germans
+	Batavi
+	218 188 23
+	germania
+	5
+	6
+Stereontium_R
+	Stereontium
+	germans
+	Batavi
+	151 76 185
+	germania
+	5
+	5
+Tecelia_R
+	Tecelia
+	germans
+	Saxones
+	153 19 148
+	germania
+	5
+	4
+Treva_R
+	Treva
+	germans
+	Saxones
+	209 30 215
+	germania
+	5
+	6
+Tribus_Chattii
+	Damme
+	germans
+	Chatti
+	232 198 41
+	germania
+	5
+	6
+TropaeaDrusi_R
+	TropaeaDrusi
+	germans
+	Batavi
+	122 52 20
+	germania
+	5
+	4
+Tulifurdum_R
+	Tulifurdum
+	germans
+	Batavi
+	215 59 96
+	germania
+	5
+	6
+Tulisurgium_R
+	Tulisurgium
+	germans
+	Batavi
+	76 181 78
+	germania
+	5
+	6
+Viritium_R
+	Viritium
+	germans
+	Goths
+	25 78 147
+	germania
+	5
+	3
+Virunum_R
+	Virunum
+	germans
+	Goths
+	201 213 52
+	germania
+	5
+	4
+Arochium_R
+	Arochium
+	germans
+	Saxones
+	172 75 0
+	germania
+	5
+	1
+Augandzium_R
+	Augandzium
+	germans
+	Saxones
+	196 195 62
+	germania
+	5
+	2
+Bergioum_R
+	Bergioum
+	germans
+	Saxones
+	73 209 93
+	germania
+	5
+	3
+Burgundium_R
+	Burgundium
+	germans
+	Saxones
+	214 225 45
+	germania
+	5
+	2
+Castrum_Gautorum_R
+	Castrum_Gautorum
+	germans
+	Saxones
+	158 152 95
+	germania
+	5
+	2
+Chaedinium_R
+	Chaedinium
+	germans
+	Saxones
+	137 168 183
+	germania
+	5
+	1
+Chalium_R
+	Chalium
+	germans
+	Saxones
+	199 175 87
+	germania
+	5
+	4
+Cimbrium_R
+	Cimbrium
+	germans
+	Saxones
+	73 143 63
+	germania
+	5
+	5
+Daucionum_R
+	Daucionum
+	germans
+	Saxones
+	212 140 41
+	germania
+	5
+	4
+Eudosium_R
+	Eudosium
+	germans
+	Saxones
+	126 34 163
+	germania
+	5
+	4
+Favonium_R
+	Favonium
+	germans
+	Saxones
+	46 54 126
+	germania
+	5
+	4
+Finnium_R
+	Finnium
+	germans
+	Gepids
+	135 51 172
+	germania
+	5
+	1
+Finnaithaeum_R
+	Finnaithaeum
+	germans
+	Saxones
+	218 210 23
+	germania
+	5
+	3
+Fundusium_R
+	Fundusium
+	germans
+	Saxones
+	40 107 56
+	germania
+	5
+	5
+Gautum_R
+	Gautum
+	germans
+	Saxones
+	232 130 118
+	germania
+	5
+	3
+Hillevionum_R
+	Hillevionum
+	germans
+	Saxones
+	102 190 42
+	germania
+	5
+	4
+Levonium_R
+	Levonium
+	germans
+	Saxones
+	225 232 81
+	germania
+	5
+	3
+Nuithonium_R
+	Nuithonium
+	germans
+	Saxones
+	178 32 69
+	germania
+	5
+	6
+Ranium_R
+	Ranium
+	germans
+	Saxones
+	27 154 98
+	germania
+	5
+	3
+Rugium_R
+	Rugium
+	germans
+	Saxones
+	161 113 169
+	germania
+	5
+	2
+Suardonium_R
+	Suardonium
+	germans
+	Saxones
+	98 185 114
+	germania
+	5
+	4
+Suionium_R
+	Suionium
+	germans
+	Saxones
+	134 17 156
+	germania
+	5
+	3
+Teutonium_R
+	Teutonium
+	germans
+	Saxones
+	27 74 137
+	germania
+	5
+	5
+Tribus_Saxones
+	Bordesholm
+	germans
+	Saxones
+	232 41 55
+	germania
+	5
+	3
+Vagautium_R
+	Vagautium
+	germans
+	Saxones
+	228 25 76
+	germania
+	5
+	3
+Igyllionium_R
+	Igyllionium
+	scythia
+	Sarmatians
+	125 141 195
+	venedia
+	5
+	3
+SavariKome_R
+	SavariKome
+	scythia
+	Sarmatians
+	230 81 40
+	venedia
+	5
+	3
+AcibiKome_R
+	AcibiKome
+	scythia
+	Sarmatians
+	37 224 29
+	venedia
+	5
+	3
+OssiKome_R
+	OssiKome
+	scythia
+	Sarmatians
+	233 228 79
+	venedia
+	5
+	3
+Galindium_R
+	Galindium
+	germans
+	Marcomanni
+	221 215 28
+	venedia
+	5
+	4
+Sudinium_R
+	Sudinium
+	germans
+	Marcomanni
+	145 97 23
+	venedia
+	5
+	4
+Soulonium_R
+	Soulonium
+	germans
+	Marcomanni
+	54 173 57
+	venedia
+	5
+	5
+Sargenai_R
+	Sargenai
+	germans
+	Gepids
+	105 64 65
+	venedia
+	5
+	2
+Venedium_R
+	Venedium
+	germans
+	Gepids
+	217 142 191
+	venedia
+	5
+	4
+Locus_Gepidae
+	Domus_Dulcis_Domus
+	germans
+	Gepids
+	58 177 95
+	venedia
+	5
+	2
+Veltaeum_R
+	Veltaeum
+	germans
+	Gepids
+	41 113 26
+	venedia
+	5
+	3
+Firrium_R
+	Firrium
+	germans
+	Gepids
+	189 130 38
+	venedia
+	5
+	2
+Aestium_R
+	Aestium
+	germans
+	Gepids
+	80 51 219
+	venedia
+	5
+	3
+Osium_R
+	Osium
+	germans
+	Saxones
+	173 84 59
+	venedia
+	5
+	2
+Careotaeum_R
+	Careotaeum
+	germans
+	Gepids
+	12 43 105
+	venedia
+	5
+	3
+Tiuri_R
+	Tiuri
+	germans
+	Gepids
+	16 85 15
+	venedia
+	5
+	2
+GepidaeKome_R
+	GepidaeKome
+	scythia
+	Sarmatians
+	238 67 40
+	venedia
+	5
+	3
+BulanesKome_R
+	BulanesKome
+	scythia
+	Sarmatians
+	217 205 36
+	venedia
+	5
+	3
+Abdera_R
+	Abdera
+	carthage
+	Iberians
+	144 96 103
+	iberia
+	5
+	6
+AkraLeuke_R
+	AkraLeuke
+	greek_cities
+	Iberians
+	162 14 205
+	iberia
+	5
+	4
+Aracillum_R
+	Aracillum
+	spain
+	Iberians
+	217 218 95
+	iberia
+	5
+	3
+Arse_R
+	Arse
+	greek_cities
+	Iberians
+	131 41 136
+	iberia
+	5
+	10
+Baetica
+	Corduba
+	spain
+	Iberians
+	17 13 198
+	iberia
+	5
+	13
+Baria_R
+	Baria
+	spain
+	Iberians
+	112 13 125
+	iberia
+	5
+	5
+Barkeno_R
+	Barkeno
+	spain
+	Iberians
+	100 207 103
+	iberia
+	5
+	6
+Basti_R
+	Basti
+	spain
+	Iberians
+	203 20 41
+	iberia
+	5
+	5
+Bracara_R
+	Bracara
+	spain
+	Iberians
+	97 216 96
+	iberia
+	5
+	6
+Brachile_R
+	Brachile
+	spain
+	Iberians
+	97 96 106
+	iberia
+	5
+	3
+Brigantium_R
+	Brigantium
+	spain
+	Iberians
+	187 191 234
+	iberia
+	5
+	5
+Carcuvium_R
+	Carcuvium
+	spain
+	Iberians
+	23 157 32
+	iberia
+	5
+	3
+Carteia_R
+	Carteia
+	carthage
+	Iberians
+	134 172 224
+	iberia
+	5
+	6
+Castulo_R
+	Castulo
+	spain
+	Iberians
+	64 105 86
+	iberia
+	5
+	7
+Cauca_R
+	Cauca
+	spain
+	Iberians
+	162 143 95
+	iberia
+	5
+	10
+Celsa_R
+	Celsa
+	spain
+	Iberians
+	235 230 103
+	iberia
+	5
+	6
+Celtiberia
+	Numantia
+	gauls
+	Iberians
+	198 13 35
+	iberia
+	5
+	5
+Complutum_R
+	Complutum
+	spain
+	Iberians
+	113 178 139
+	iberia
+	5
+	6
+Conimbriga_R
+	Conimbriga
+	spain
+	Iberians
+	76 59 168
+	iberia
+	5
+	6
+Dertosa_R
+	Dertosa
+	spain
+	Iberians
+	163 160 71
+	iberia
+	5
+	8
+Ebora_R
+	Ebora
+	spain
+	Iberians
+	192 117 61
+	iberia
+	5
+	8
+Egovarrium_R
+	Egovarrium
+	spain
+	Iberians
+	63 151 56
+	iberia
+	5
+	3
+Emporium_R
+	Emporium
+	greek_cities
+	Iberians
+	202 68 78
+	iberia
+	5
+	7
+Ercavica_R
+	Ercavica
+	spain
+	Iberians
+	19 136 26
+	iberia
+	5
+	5
+Gadir_R
+	Gadir
+	spain
+	Iberians
+	38 126 62
+	iberia
+	5
+	10
+Gallaecia
+	Asturica
+	spain
+	Iberians
+	13 157 198
+	iberia
+	0
+	3
+Hellenibriga_R
+	Hellenibriga
+	spain
+	Iberians
+	196 196 82
+	iberia
+	5
+	4
+Helmantica_R
+	Helmantica
+	spain
+	Iberians
+	215 212 101
+	iberia
+	5
+	7
+Hemeroskopeion_R
+	Hemeroskopeion
+	greek_cities
+	Iberians
+	221 224 71
+	iberia
+	5
+	5
+Hispalis_R
+	Hispalis
+	spain
+	Iberians
+	217 214 117
+	iberia
+	5
+	11
+Hispania
+	Carthago_Nova
+	spain
+	Iberians
+	187 198 13
+	iberia
+	5
+	7
+Ilerda_R
+	Ilerda
+	spain
+	Iberians
+	56 107 19
+	iberia
+	5
+	7
+Iliberri_R
+	Iliberri
+	spain
+	Iberians
+	69 174 67
+	iberia
+	5
+	5
+Ilorci_R
+	Ilorci
+	spain
+	Iberians
+	196 105 57
+	iberia
+	5
+	5
+Ilurcis_R
+	Ilurcis
+	spain
+	Iberians
+	53 183 49
+	iberia
+	5
+	6
+Iulipa_R
+	Iulipa
+	spain
+	Iberians
+	140 120 188
+	iberia
+	5
+	4
+Kelin_R
+	Kelin
+	spain
+	Iberians
+	222 230 78
+	iberia
+	5
+	5
+Libisosa_R
+	Libisosa
+	spain
+	Iberians
+	208 155 201
+	iberia
+	5
+	8
+Lusitania
+	Scallabis
+	spain
+	Iberians
+	13 198 30
+	iberia
+	5
+	9
+Malaca_R
+	Malaca
+	carthage
+	Iberians
+	192 50 194
+	iberia
+	5
+	6
+Meidubriga_R
+	Meidubriga
+	spain
+	Iberians
+	227 204 162
+	iberia
+	5
+	5
+MirobrigaTurdulia_R
+	MirobrigaTurdulia
+	spain
+	Iberians
+	46 90 109
+	iberia
+	5
+	7
+Mirobriga_R
+	Mirobriga
+	spain
+	Iberians
+	184 122 90
+	iberia
+	5
+	4
+Moron_R
+	Moron
+	spain
+	Iberians
+	217 197 27
+	iberia
+	5
+	6
+Nemetobriga_R
+	Nemetobriga
+	spain
+	Iberians
+	216 58 101
+	iberia
+	5
+	5
+Noega_R
+	Noega
+	spain
+	Iberians
+	180 38 206
+	iberia
+	5
+	2
+Ocelodurum_R
+	Ocelodurum
+	spain
+	Iberians
+	20 137 18
+	iberia
+	5
+	6
+Onoba_R
+	Onoba
+	spain
+	Iberians
+	187 24 174
+	iberia
+	5
+	5
+Ossonoba_R
+	Ossonoba
+	carthage
+	Iberians
+	167 35 92
+	iberia
+	5
+	7 
+Oxthraca_R
+	Oxthraca
+	spain
+	Iberians
+	27 99 47
+	iberia
+	5
+	7
+Pallantia_R
+	Pallantia
+	spain
+	Iberians
+	127 53 179
+	iberia
+	5
+	11
+Pompelo_R
+	Pompelo
+	spain
+	Iberians
+	146 99 217
+	iberia
+	5
+	5
+Saiti_R
+	Saiti
+	spain
+	Iberians
+	113 225 144
+	iberia
+	5
+	8
+Salduba_R
+	Salduba
+	spain
+	Iberians
+	49 21 138
+	iberia
+	5
+	10
+Segida_R
+	Segida
+	spain
+	Iberians
+	85 185 59
+	iberia
+	5
+	4
+Segobriga_R
+	Segobriga
+	spain
+	Iberians
+	75 31 39
+	iberia
+	5
+	6
+Taraconenis
+	Osca
+	spain
+	Iberians
+	13 196 198
+	iberia
+	5
+	6
+Tarraco_R
+	Tarraco
+	spain
+	Iberians
+	151 108 106
+	iberia
+	5
+	7
+Termes_R
+	Termes
+	spain
+	Iberians
+	213 200 23
+	iberia
+	5
+	5
+Toletum_R
+	Toletum
+	spain
+	Iberians
+	228 11 183
+	iberia
+	5
+	11
+Turboleta_R
+	Turboleta
+	spain
+	Iberians
+	202 92 12
+	iberia
+	5
+	4
+Turgalium_R
+	Turgalium
+	spain
+	Iberians
+	48 49 179
+	iberia
+	5
+	4
+Urso_R
+	Urso
+	spain
+	Iberians
+	172 89 89
+	iberia
+	5
+	7
+Virovesca_R
+	Virovesca
+	spain
+	Iberians
+	6 88 192
+	iberia
+	5
+	5
+Baliares
+	Palma
+	carthage
+	Iberians
+	41 232 225
+	balaeric
+	5
+	6
+Ebusus_R
+	Ebusus
+	carthage
+	Iberians
+	28 165 54
+	balaeric
+	5
+	6
+Mago_R
+	Mago
+	carthage
+	Iberians
+	183 20 20
+	balaeric
+	5
+	6
+Acragas_R
+	Acragas
+	greek_cities
+	Sicani
+	210 50 190
+	italy
+	5
+	10
+Apua_R
+	Apua
+	gauls
+	Ligurians
+	66 113 38
+	italy
+	5
+	4
+Apulia
+	Tarentum
+	greek_cities
+	Calabrians
+	33 196 58
+	italy
+	5
+	9
+AriminumCity_R
+	AriminumCity
+	greek_cities
+	Umbrians
+	192 244 132
+	italy
+	5
+	7
+Arpi_R
+	Arpi
+	romans_brutii
+	Campanians
+	128 132 23
+	italy, roman_capital
+	5
+	8
+Asculum_R
+	Asculum
+	romans_julii
+	Umbrians
+	188 142 35
+	italy
+	5
+	7
+Atria_R
+	Atria
+	greek_cities
+	Veneti
+	196 221 82
+	italy
+	5
+	7
+Bagiennium_R
+	Bagiennium
+	gauls
+	Insubres
+	224 158 46
+	italy
+	5
+	6
+Barium_R
+	Barium
+	romans_julii
+	Lucanians
+	136 41 41
+	italy
+	5
+	7
+Bovianum_R
+	Bovianum
+	romans_julii
+	Lucanians
+	41 187 58
+	italy
+	5
+	6
+Brixia_R
+	Brixia
+	gauls
+	Insubres
+	127 148 190
+	italy
+	5
+	10
+Brundisium_R
+	Brundisium
+	romans_julii
+	Lucanians
+	129 81 129
+	italy
+	5
+	7
+Bruttium
+	Croton
+	greek_cities
+	Lucanians
+	13 170 198
+	italy
+	5
+	8
+Camarina_R
+	Camarina
+	greek_cities
+	Sicani
+	206 88 55
+	italy
+	5
+	6
+Campania
+	Capua
+	romans_scipii
+	Campanians
+	198 13 174
+	italy, roman_capital
+	5
+	9
+Catana_R
+	Catana
+	greek_cities
+	Sicani
+	22 18 95
+	italy
+	5
+	7
+Cisalpine_Gaul
+	Mediolanium
+	gauls
+	Insubres
+	221 232 41
+	italy
+	5
+	10
+Corfinium_R
+	Corfinium
+	romans_julii
+	Umbrians
+	119 141 100
+	italy
+	5
+	7
+Cosa_R
+	Cosa
+	romans_julii
+	Etruscans
+	222 111 39
+	italy
+	5
+	5
+Cosentia_R
+	Cosentia
+	romans_julii
+	Lucanians
+	190 63 94
+	italy
+	5
+	5
+Cremona_R
+	Cremona
+	gauls
+	Insubres
+	160 55 100
+	italy
+	5
+	7
+Dertona_R
+	Dertona
+	gauls
+	Insubres
+	20 220 37
+	italy
+	5
+	5
+Enna_R
+	Enna
+	carthage
+	Sicani
+	55 138 23
+	italy
+	5
+	7
+Eryx_R
+	Eryx
+	carthage
+	Sicani
+	52 120 72
+	italy
+	5
+	7
+Etruria
+	Arretium
+	romans_julii
+	Etruscans
+	157 198 13
+	italy, roman_capital
+	5
+	7
+Felsina_R
+	Felsina
+	gauls
+	Boii
+	180 100 31
+	italy
+	5
+	14
+Fregellae_R
+	Fregellae
+	romans_julii
+	Umbrians
+	205 108 44
+	italy
+	5
+	6
+Heraclea_R
+	Heraclea
+	greek_cities
+	Lucanians
+	178 154 183
+	italy
+	5
+	7
+Hipponion_R
+	Hipponion
+	greek_cities
+	Helots
+	47 218 57
+	italy
+	5
+	5
+Histonium_R
+	Histonium
+	romans_julii
+	Umbrians
+	209 52 31
+	italy
+	5
+	6
+Iguvium_R
+	Iguvium
+	romans_julii
+	Umbrians
+	226 125 234
+	italy
+	5
+	6
+Ilva_R
+	Ilva
+	romans_julii
+	Etruscans
+	213 67 60
+	italy
+	5
+	3
+Ingaunum_R
+	Ingaunum
+	gauls
+	Ligurians
+	36 145 63
+	italy
+	5
+	6
+Latium
+	Rome
+	romans_senate
+	Latins
+	52 13 198
+	rome, italy, roman_capital
+	5
+	8
+Liguria
+	Segesta
+	gauls
+	Ligurians
+	157 13 198
+	italy
+	5
+	6
+Lipara_R
+	Lipara
+	greek_cities
+	Sicani
+	194 195 119
+	italy
+	5
+	4
+Locri_R
+	Locri
+	greek_cities
+	Helots
+	186 197 51
+	italy
+	5
+	5
+Maleventum_R
+	Maleventum
+	romans_julii
+	Lucanians
+	196 206 38
+	italy
+	5
+	7
+Melita_R
+	Melita
+	carthage
+	Poeni
+	83 122 13
+	italy
+	5
+	6
+Novaria_R
+	Novaria
+	gauls
+	Insubres
+	37 61 156
+	italy
+	5
+	6
+Opitergium_R
+	Opitergium
+	gauls
+	Helvetii
+	228 135 228
+	italy
+	5
+	4
+Panormus_R
+	Panormus
+	carthage
+	Sicani
+	158 19 19
+	italy
+	5
+	8
+Parma_R
+	Parma
+	gauls
+	Boii
+	58 83 241
+	italy
+	5
+	10
+Pisae_R
+	Pisae
+	romans_julii
+	Etruscans
+	203 79 87
+	italy
+	5
+	6
+Poseidonia_R
+	Poseidonia
+	romans_julii
+	Lucanians
+	35 73 32
+	italy
+	5
+	6
+Potentia_R
+	Potentia
+	romans_julii
+	Lucanians
+	190 150 63
+	italy
+	5
+	6
+Rhegium_R
+	Rhegium
+	greek_cities
+	Sicani
+	49 114 37
+	italy
+	5
+	8
+Sicilia_Graecus
+	Syracuse
+	greek_cities
+	Syracusans
+	198 178 13
+	italy
+	5
+	8
+Sicilia_Poeni
+	Lilybaeum
+	carthage
+	Sicani
+	65 17 202
+	italy
+	5
+	8
+Sicilia_Romanus
+	Messana
+	romans_julii
+	Sicani
+	177 142 58
+	italy
+	5
+	8
+Taurasia_R
+	Taurasia
+	gauls
+	Insubres
+	87 91 15
+	italy
+	5
+	9
+Tergeste_R
+	Tergeste
+	gauls
+	Veneti
+	219 98 39
+	italy
+	5
+	9
+Thurii_R
+	Thurii
+	greek_cities
+	Lucanians
+	25 57 135
+	italy
+	5
+	7
+Umbria
+	Ariminum
+	greek_cities
+	Umbrians
+	198 43 13
+	italy
+	5
+	7
+Venetia
+	Patavium
+	gauls
+	Veneti
+	13 198 117
+	italy
+	5
+	14
+Venusia_R
+	Venusia
+	romans_brutii
+	Campanians
+	43 84 113
+	italy
+	5
+	7
+Volaterrae_R
+	Volaterrae
+	romans_julii
+	Etruscans
+	70 35 133
+	italy
+	5
+	9
+Volsinii_R
+	Volsinii
+	romans_julii
+	Etruscans
+	15 122 0
+	italy
+	5
+	9
+Aleria_R
+	Aleria
+	carthage
+	Beronicensis
+	200 178 35
+	sardinia
+	5
+	6
+OlbiaSardinica_R
+	OlbiaSardinica
+	carthage
+	Beronicensis
+	79 45 110
+	sardinia
+	5
+	6
+Macopsissa_R
+	Macopsissa
+	carthage
+	Beronicensis
+	40 154 44
+	sardinia
+	5
+	6
+Sardinia
+	Caralis
+	carthage
+	Beronicensis
+	198 35 13
+	sardinia
+	5
+	5
+Sulci_R
+	Sulci
+	carthage
+	Beronicensis
+	181 178 106
+	sardinia
+	5
+	7
+Tharros_R
+	Tharros
+	carthage
+	Beronicensis
+	225 109 20
+	sardinia
+	5
+	7
+Uselis_R
+	Uselis
+	carthage
+	Beronicensis
+	223 213 64
+	sardinia
+	5
+	4
+Aegium_R
+	Aegium
+	greek_cities
+	Achaeans
+	206 173 22
+	greece
+	5
+	6
+Aetolia
+	Thermon
+	greek_cities
+	Aetolians
+	13 18 244
+	greece
+	5
+	8
+Ambracia_R
+	Ambracia
+	macedon
+	Epirots
+	62 65 121
+	greece
+	5
+	10
+Amphipolis_R
+	Amphipolis
+	macedon
+	Edones
+	22 115 26
+	greece
+	5
+	10
+ArgosOrestikon_R
+	ArgosOrestikon
+	macedon
+	Paionians
+	134 131 81
+	greece
+	5
+	6
+Argos_R
+	Argos
+	greek_cities
+	Achaeans
+	78 111 78
+	greece
+	5
+	8
+Attica
+	Athens
+	greek_cities
+	Athenians
+	58 177 106
+	greece
+	5
+	9
+Cassandreia_R
+	Cassandreia
+	greek_cities
+	Edones
+	25 33 112
+	greece
+	5
+	6
+Chalcis_R
+	Chalcis
+	greek_cities
+	Ionians
+	158 92 60
+	greece
+	5
+	3
+Chios_R
+	Chios
+	greek_cities
+	Ionians
+	25 134 61
+	greece
+	5
+	3
+Corcyra_R
+	Corcyra
+	greek_cities
+	Epirots
+	19 146 79
+	greece
+	5
+	6
+Crete
+	Kydonia
+	macedon
+	Cretans
+	193 162 206
+	greece
+	5
+	7
+Demetrias_R
+	Demetrias
+	macedon
+	Thessalians
+	186 179 88
+	greece
+	5
+	9
+Dion_R
+	Dion
+	greek_cities
+	Edones
+	60 98 57
+	greece
+	5
+	6
+Elis_R
+	Elis
+	greek_cities
+	Achaeans
+	17 69 11
+	greece
+	5
+	10
+Epidamnus_R
+	Epidamnus
+	greek_cities
+	Illyrians
+	221 70 195
+	greece
+	5
+	7
+Epirus
+	Apollonia
+	greek_cities
+	Epirots
+	83 58 177
+	greece
+	5
+	6
+Gortyna_R
+	Gortyna
+	greek_cities
+	Cretans
+	27 175 70
+	greece
+	5
+	6
+Hephaistia_R
+	Hephaistia
+	macedon
+	Lesbians
+	50 116 43
+	greece
+	5
+	3
+HeracleaLyncestis_R
+	HeracleaLyncestis
+	macedon
+	Paionians
+	34 156 46
+	greece
+	5
+	6
+Heraclea_Sintike_R
+	Heraclea_Sintike
+	macedon
+	Paionians
+	62 90 132
+	greece
+	5
+	4
+Imbros_R
+	Imbros
+	greek_cities
+	Ionians
+	226 93 249
+	greece
+	5
+	2
+Itanos_R
+	Itanos
+	greek_cities
+	Cretans
+	147 148 232
+	greece
+	5
+	4
+Knossos_R
+	Knossos
+	greek_cities
+	Cretans
+	174 23 23
+	greece
+	5
+	7
+Kos_R
+	Kos
+	greek_cities
+	Ionians
+	35 85 167
+	greece
+	5
+	3
+Kythera_R
+	Kythera
+	macedon
+	Helots
+	20 122 23
+	greece
+	5
+	3
+Laconia
+	Sparta
+	greek_cities
+	Helots
+	244 13 24
+	greece, sparta
+	5
+	7
+Lamia_R
+	Lamia
+	macedon
+	Aetolians
+	68 192 36
+	greece
+	5
+	6
+Leucas_R
+	Leucas
+	greek_cities
+	Ionians
+	219 214 85
+	greece
+	5
+	3
+Lykhnidos_R
+	Lykhnidos
+	macedon
+	Paionians
+	26 219 171
+	greece
+	5
+	6
+Macedonia
+	Thessalonica
+	macedon
+	Edones
+	177 58 145
+	greece
+	5
+	10
+Maroneia_R
+	Maroneia
+	greek_cities
+	Odrysae
+	141 63 143
+	greece
+	5
+	6
+Megalopolis_R
+	Megalopolis
+	greek_cities
+	Achaeans
+	70 78 174
+	greece
+	5
+	6
+Messene_R
+	Messene
+	greek_cities
+	Achaeans
+	118 63 118
+	greece
+	5
+	12
+Mytilene_R
+	Mytilene
+	greek_cities
+	Lesbians
+	211 209 26
+	greece
+	5
+	8
+Naxos_R
+	Naxos
+	greek_cities
+	Ionians
+	189 39 39
+	greece
+	5
+	3
+Orchomenus_R
+	Orchomenus
+	greek_cities
+	Athenians
+	175 48 48
+	greece
+	5
+	10
+Paionia
+	Bylazora
+	macedon
+	Paionians
+	131 33 100
+	greece
+	5
+	7
+Passaron_R
+	Passaron
+	macedon
+	Epirots
+	228 223 143
+	greece
+	5
+	6
+Pella_R
+	Pella
+	macedon
+	Edones
+	185 117 1
+	greece
+	5
+	10
+Peloponnesus
+	Corinth
+	greek_cities
+	Achaeans
+	225 192 192
+	greece
+	5
+	8
+Phoenice_R
+	Phoenice
+	macedon
+	Epirots
+	167 35 112
+	greece
+	5
+	7
+Potidaion_R
+	Potidaion
+	greek_cities
+	Ionians
+	217 147 49
+	greece
+	5
+	3
+Rhodos
+	Rhodes
+	greek_cities
+	Rhodians
+	131 33 77
+	greece
+	5
+	6
+Same_R
+	Same
+	greek_cities
+	Ionians
+	170 21 21
+	greece
+	5
+	3
+Samos_R
+	Samos
+	greek_cities
+	Ionians
+	199 188 80
+	greece
+	5
+	3
+Scupi_R
+	Scupi
+	macedon
+	Paionians
+	16 16 152
+	greece
+	5
+	7
+Stobi_R
+	Stobi
+	macedon
+	Paionians
+	152 218 141
+	greece
+	5
+	6
+Stratos_R
+	Stratos
+	greek_cities
+	Aetolians
+	100 103 44
+	greece
+	5
+	6
+Thasos_R
+	Thasos
+	greek_cities
+	Ionians
+	189 194 89
+	greece
+	5
+	3
+ThebesBoeotia_R
+	ThebesBoeotia
+	greek_cities
+	Athenians
+	224 196 51
+	greece, thebes
+	5
+	8
+Thessalia
+	Larissa
+	macedon
+	Thessalians
+	177 83 58
+	greece, thessaly
+	5
+	12
+Tricca_R
+	Tricca
+	macedon
+	Thessalians
+	124 26 155
+	greece, thessaly
+	5
+	6
+Zakynthos_R
+	Zakynthos
+	greek_cities
+	Ionians
+	77 206 86
+	greece
+	5
+	2
+Anduaetium_R
+	Anduaetium
+	gauls
+	Boii
+	77 40 107
+	carpathia
+	5
+	4
+AraBona_R
+	AraBona
+	dacia
+	Scordisci
+	47 46 160
+	carpathia
+	5
+	3
+Argedava_R
+	Argedava
+	dacia
+	Carpi
+	131 130 81
+	carpathia
+	5
+	3
+Argidava_R
+	Argidava
+	dacia
+	Iazyges
+	216 58 86
+	carpathia
+	5
+	5
+Bormanum_R
+	Bormanum
+	dacia
+	Iazyges
+	67 220 85
+	carpathia
+	5
+	3
+Buridava_R
+	Buridava
+	dacia
+	Carpi
+	53 64 128
+	carpathia
+	5
+	3
+Candanum_R
+	Candanum
+	dacia
+	Iazyges
+	236 149 51
+	carpathia
+	5
+	3
+Carsidava_R
+	Carsidava
+	dacia
+	Carpi
+	33 64 186
+	carpathia
+	5
+	4
+Cornacum_R
+	Cornacum
+	gauls
+	Illyrians
+	120 222 164
+	carpathia
+	5
+	4
+Dacia
+	Porrolissum
+	dacia
+	Carpi
+	72 177 58
+	carpathia
+	5
+	7
+Drobeta_R
+	Drobeta
+	gauls
+	Illyrians
+	41 136 41
+	carpathia
+	5
+	4
+Macrodava_R
+	Macrodava
+	dacia
+	Carpi
+	137 189 192
+	carpathia
+	5
+	5
+Maetonium_R
+	Maetonium
+	dacia
+	Venedae
+	231 234 91
+	carpathia
+	5
+	5
+Malva_R
+	Malva
+	dacia
+	Carpi
+	200 120 60
+	carpathia
+	5
+	4
+Napoca_R
+	Napoca
+	dacia
+	Carpi
+	19 119 58
+	carpathia
+	5
+	6
+Nentidava_R
+	Nentidava
+	dacia
+	Carpi
+	123 210 168
+	carpathia
+	5
+	4
+Osiorum_R
+	Osiorum
+	dacia
+	Iazyges
+	235 230 13
+	carpathia
+	5
+	3
+Pannonia
+	Aquincum
+	dacia
+	Scordisci
+	131 61 33
+	carpathia
+	5
+	5
+Parienna_R
+	Parienna
+	gauls
+	Boii
+	25 100 190
+	carpathia
+	5
+	3
+Partiskon_R
+	Partiskon
+	dacia
+	Iazyges
+	35 27 103
+	carpathia
+	5
+	3
+Patridava_R
+	Patridava
+	dacia
+	Carpi
+	120 94 133
+	carpathia
+	5
+	4
+Petrodava_R
+	Petrodava
+	dacia
+	Carpi
+	240 114 64
+	carpathia
+	5
+	4
+Polondava_R
+	Polondava
+	dacia
+	Carpi
+	22 151 37
+	carpathia
+	5
+	4
+Porolissum_R
+	Porolissum
+	dacia
+	Carpi
+	178 161 66
+	carpathia
+	5
+	5
+Ramidava_R
+	Ramidava
+	dacia
+	Carpi
+	225 198 49
+	carpathia
+	5
+	3
+Rucconium_R
+	Rucconium
+	dacia
+	Iazyges
+	163 44 69
+	carpathia
+	5
+	4
+Sangidava_R
+	Sangidava
+	dacia
+	Carpi
+	151 50 174
+	carpathia
+	5
+	5
+Sarmizegetusa_R
+	Sarmizegetusa
+	dacia
+	Carpi
+	208 216 134
+	carpathia
+	5
+	5
+Sirmium_R
+	Sirmium
+	gauls
+	Illyrians
+	168 57 163
+	carpathia
+	5
+	6
+Sopianis_R
+	Sopianis
+	gauls
+	Illyrians
+	196 187 82
+	carpathia
+	5
+	5
+Tribus_Getae
+	Campus_Getae
+	dacia
+	Troglodytae
+	131 33 38
+	carpathia
+	5
+	5
+Tribus_Iazyges
+	Campus_Iazyges
+	dacia
+	Iazyges
+	33 100 131
+	carpathia
+	5
+	6
+Tricciana_R
+	Tricciana
+	dacia
+	Scordisci
+	26 117 22
+	carpathia
+	5
+	5
+Trissum_R
+	Trissum
+	dacia
+	Iazyges
+	134 137 74
+	carpathia
+	5
+	4
+Zargidava_R
+	Zargidava
+	dacia
+	Carpi
+	42 220 43
+	carpathia
+	5
+	4
+Ziridava_R
+	Ziridava
+	dacia
+	Iazyges
+	221 221 19
+	carpathia
+	5
+	3
+Zurobara_R
+	Zurobara
+	dacia
+	Iazyges
+	133 113 157
+	carpathia
+	5
+	5
+Apsarus_R
+	Apsarus
+	gauls
+	Veneti
+	72 170 66
+	illyria
+	5
+	3
+Arsa_R
+	Arsa
+	gauls
+	Illyrians
+	60 240 60
+	illyria
+	5
+	5
+Capedunum_R
+	Capedunum
+	gauls
+	Illyrians
+	93 45 145
+	illyria
+	5
+	5
+Dalmatia
+	Salona
+	greek_cities
+	Illyrians
+	61 177 58
+	illyria
+	5
+	4
+Daorson_R
+	Daorson
+	greek_cities
+	Illyrians
+	50 21 113
+	illyria
+	5
+	6
+Delminium_R
+	Delminium
+	greek_cities
+	Illyrians
+	161 47 199
+	illyria
+	5
+	6
+Emona_R
+	Emona
+	gauls
+	Illyrians
+	56 108 52
+	illyria
+	5
+	4
+HedumOppidum_R
+	HedumOppidum
+	gauls
+	Illyrians
+	147 86 88
+	illyria
+	5
+	5
+Iader_R
+	Iader
+	greek_cities
+	Illyrians
+	211 196 173
+	illyria
+	5
+	4
+Illyria
+	Segestica
+	greek_cities
+	Illyrians
+	58 173 177
+	illyria
+	5
+	6
+Issa_R
+	Issa
+	greek_cities
+	Illyrians
+	18 125 28
+	illyria
+	5
+	3
+Nesactium_R
+	Nesactium
+	gauls
+	Veneti
+	241 216 80
+	illyria
+	5
+	6
+Pharos_R
+	Pharos
+	greek_cities
+	Illyrians
+	197 186 77
+	illyria
+	5
+	3
+Pirustaiopolis_R
+	Pirustaiopolis
+	gauls
+	Illyrians
+	194 29 110
+	illyria
+	5
+	5
+Poetovium_R
+	Poetovium
+	gauls
+	Illyrians
+	28 199 84
+	illyria
+	5
+	4
+Raetinium_R
+	Raetinium
+	gauls
+	Illyrians
+	166 167 23
+	illyria
+	5
+	5
+Rhizon_R
+	Rhizon
+	greek_cities
+	Illyrians
+	206 75 26
+	illyria
+	5
+	4
+Salinae_R
+	Salinae
+	gauls
+	Illyrians
+	32 116 23
+	illyria
+	5
+	4
+Scodra_R
+	Scodra
+	greek_cities
+	Illyrians
+	213 221 70
+	illyria
+	5
+	7
+Senia_R
+	Senia
+	gauls
+	Illyrians
+	28 37 132
+	illyria
+	5
+	3
+Serbinum_R
+	Serbinum
+	greek_cities
+	Illyrians
+	220 210 135
+	illyria
+	5
+	5
+Serota_R
+	Serota
+	gauls
+	Illyrians
+	143 38 54
+	illyria
+	5
+	4
+SetoviaDelmatia_R
+	SetoviaDelmatia
+	gauls
+	Illyrians
+	227 22 26
+	illyria
+	5
+	5
+Singidunum_R
+	Singidunum
+	gauls
+	Illyrians
+	185 117 47
+	illyria
+	5
+	8
+Ulpiana_R
+	Ulpiana
+	gauls
+	Illyrians
+	108 153 154
+	illyria
+	5
+	6
+Ainos_R
+	Ainos
+	greek_cities
+	Odrysae
+	177 189 30
+	thracia
+	5
+	6
+ApolloniaPontica_R
+	ApolloniaPontica
+	greek_cities
+	Odrysae
+	160 41 33
+	thracia
+	5
+	6
+Arubium_R
+	Arubium
+	dacia
+	Odrysae
+	200 187 95
+	thracia
+	5
+	4
+Beroe_R
+	Beroe
+	thrace
+	Odrysae
+	87 216 88
+	thracia
+	5
+	6
+Bizye_R
+	Bizye
+	thrace
+	Odrysae
+	78 229 86
+	thracia
+	5
+	7
+Callatis_R
+	Callatis
+	greek_cities
+	Odrysae
+	29 66 156
+	thracia
+	5
+	6
+Dunonia_R
+	Dunonia
+	gauls
+	Illyrians
+	199 31 197
+	thracia
+	5
+	5
+Durostorum_R
+	Durostorum
+	dacia
+	Odrysae
+	175 65 14
+	thracia
+	5
+	4
+Giridava_R
+	Giridava
+	dacia
+	Odrysae
+	131 138 216
+	thracia
+	5
+	6
+Helis_R
+	Helis
+	dacia
+	Odrysae
+	60 60 120
+	thracia
+	5
+	4
+Hyperpericum_R
+	Hyperpericum
+	macedon
+	Odrysae
+	211 91 21
+	thracia
+	5
+	4
+Istros_R
+	Istros
+	greek_cities
+	Odrysae
+	37 136 33
+	thracia
+	5
+	6
+Kabyle_R
+	Kabyle
+	thrace
+	Odrysae
+	4 121 41
+	thracia
+	5
+	7
+Kypsela_R
+	Kypsela
+	thrace
+	Odrysae
+	204 198 129
+	thracia
+	5
+	7
+Lysimachia_R
+	Lysimachia
+	greek_cities
+	Sithones
+	46 63 131
+	thracia
+	5
+	9
+Mesembria_R
+	Mesembria
+	greek_cities
+	Odrysae
+	95 91 128
+	thracia
+	5
+	6
+Montanesium_R
+	Montanesium
+	dacia
+	Odrysae
+	54 179 48
+	thracia
+	5
+	5
+Naissus_R
+	Naissus
+	gauls
+	Illyrians
+	26 26 166
+	thracia
+	5
+	6
+Obulensiopolis_R
+	Obulensiopolis
+	dacia
+	Odrysae
+	83 95 44
+	thracia
+	5
+	5
+Odessus_R
+	Odessus
+	greek_cities
+	Odrysae
+	193 28 208
+	thracia
+	5
+	8
+Odryssa_R
+	Odryssa
+	thrace
+	Odrysae
+	3 124 193
+	thracia
+	5
+	12
+Pautalia_R
+	Pautalia
+	macedon
+	Paionians
+	210 205 69
+	thracia
+	5
+	6
+Perinthus_R
+	Perinthus
+	greek_cities
+	Sithones
+	140 63 182
+	thracia
+	5
+	6
+Philippopolis_R
+	Philippopolis
+	macedon
+	Odrysae
+	207 38 98
+	thracia
+	5
+	8
+Propontis
+	Byzantium
+	greek_cities
+	Sithones
+	118 131 33
+	thracia
+	5
+	12
+Serdica_R
+	Serdica
+	thrace
+	Odrysae
+	218 120 25
+	thracia
+	5
+	5
+Seuthopolis_R
+	Seuthopolis
+	thrace
+	Odrysae
+	129 106 147
+	thracia
+	5
+	7
+Thrace
+	Tylis
+	gauls
+	Odrysae
+	218 246 61
+	thracia
+	5
+	10
+Abydos_R
+	Abydos
+	greek_cities
+	Lesbians
+	244 38 48
+	anatolia
+	5
+	6
+Adana_R
+	Adana
+	seleucid
+	Cilicians
+	100 20 121
+	anatolia
+	5
+	12
+Adramyttium_R
+	Adramyttium
+	greek_cities
+	Lesbians
+	90 50 165
+	anatolia
+	5
+	8
+AlexandriaTroas_R
+	AlexandriaTroas
+	greek_cities
+	Lesbians
+	58 148 85
+	anatolia
+	5
+	6
+Amaseia_R
+	Amaseia
+	pontus
+	Paphlagonians
+	30 120 123
+	anatolia
+	5
+	11
+Amastris_R
+	Amastris
+	greek_cities
+	Paphlagonians
+	57 13 198
+	anatolia
+	5
+	7
+Amathous_R
+	Amathous
+	macedon
+	Cypriots
+	184 182 1
+	anatolia
+	5
+	6
+Amisus_R
+	Amisus
+	pontus
+	Paphlagonians
+	117 166 100
+	anatolia
+	5
+	7
+Anazarbus_R
+	Anazarbus
+	seleucid
+	Cilicians
+	34 47 180
+	anatolia
+	5
+	9
+Anemourion_R
+	Anemourion
+	seleucid
+	Cilicians
+	9 89 7
+	anatolia
+	5
+	6
+Antiochia_Taurus_R
+	Antiochia_Taurus
+	seleucid
+	Cilicians
+	180 34 54
+	anatolia
+	5
+	6
+ApameaMaeandrum_R
+	ApameaMaeandrum
+	macedon
+	Galatians
+	46 118 126
+	anatolia
+	5
+	6
+Ariarathia_R
+	Ariarathia
+	pontus
+	Cappadocians
+	97 146 155
+	anatolia
+	5
+	5
+Bithynia
+	Nicomedia
+	thrace
+	Bithynians
+	202 17 122
+	anatolia
+	5
+	11
+Bithynium_R
+	Bithynium
+	thrace
+	Bithynians
+	222 122 27
+	anatolia
+	5
+	4
+Cappadocia
+	Mazaka
+	pontus
+	Cappadocians
+	177 58 148
+	anatolia
+	5
+	8
+Chalcedon_R
+	Chalcedon
+	greek_cities
+	Sithones
+	23 73 27
+	anatolia
+	5
+	7
+Cibyra_R
+	Cibyra
+	pontus
+	Lycians
+	2 128 19
+	anatolia
+	5
+	5
+Cilicia
+	Tarsus
+	seleucid
+	Cilicians
+	17 202 52
+	anatolia
+	5
+	12
+Cius_R
+	Cius
+	greek_cities
+	Lesbians
+	204 209 78
+	anatolia
+	5
+	4
+ComanaPontica_R
+	ComanaPontica
+	pontus
+	Paphlagonians
+	160 23 12
+	anatolia
+	5
+	6
+Comana_R
+	Comana
+	pontus
+	Cappadocians
+	240 240 42
+	anatolia
+	5
+	6
+Coracesium_R
+	Coracesium
+	macedon
+	Lycians
+	163 93 185
+	anatolia
+	5
+	6
+Cotyaeum_R
+	Cotyaeum
+	macedon
+	Galatians
+	252 17 238
+	anatolia
+	5
+	6
+Cotyora_R
+	Cotyora
+	greek_cities
+	Ionians
+	23 227 23
+	anatolia
+	5
+	5
+Cyme_R
+	Cyme
+	greek_cities
+	Ionians
+	173 46 71
+	anatolia
+	5
+	6
+Cyprus
+	Salamis
+	macedon
+	Cypriots
+	126 144 111
+	anatolia
+	5
+	9
+Cyzicus_R
+	Cyzicus
+	greek_cities
+	Lesbians
+	40 162 40
+	anatolia
+	5
+	4
+Dascylium_R
+	Dascylium
+	macedon
+	Ionians
+	104 127 62
+	anatolia
+	5
+	7
+Dasteira_R
+	Dasteira
+	pontus
+	Cappadocians
+	179 148 108
+	anatolia
+	5
+	5
+Docimium_R
+	Docimium
+	macedon
+	Galatians
+	194 29 63
+	anatolia
+	5
+	6
+Dorylaeum_R
+	Dorylaeum
+	seleucid
+	Galatians
+	118 133 52
+	anatolia
+	5
+	6
+Eccobriga_R
+	Eccobriga
+	seleucid
+	Galatians
+	193 190 30
+	anatolia
+	5
+	7
+Ephesus_R
+	Ephesus
+	greek_cities
+	Ionians
+	127 142 107
+	anatolia
+	5
+	8
+Erythrae_R
+	Erythrae
+	greek_cities
+	Ionians
+	72 160 91
+	anatolia
+	5
+	3
+Galatia
+	Ancyra
+	seleucid
+	Galatians
+	17 165 202
+	anatolia
+	5
+	8
+Gangra_R
+	Gangra
+	pontus
+	Paphlagonians
+	61 186 40
+	anatolia
+	5
+	6
+Garsaura_R
+	Garsaura
+	pontus
+	Galatians
+	160 9 13
+	anatolia
+	5
+	6
+Gaziura_R
+	Gaziura
+	pontus
+	Paphlagonians
+	103 84 130
+	anatolia
+	5
+	7
+HeracleaPontica_R
+	HeracleaPontica
+	greek_cities
+	Paphlagonians
+	89 189 101
+	anatolia
+	5
+	8
+Iconium_R
+	Iconium
+	macedon
+	Galatians
+	255 200 200
+	anatolia
+	5
+	8
+Ionia
+	Sardis
+	seleucid
+	Ionians
+	149 109 127
+	anatolia
+	5
+	10
+Isaura_R
+	Isaura
+	pontus
+	Lycians
+	76 202 92
+	anatolia
+	5
+	5
+Karana_R
+	Karana
+	pontus
+	Galatians
+	38 155 26
+	anatolia
+	5
+	5
+Kaunos_R
+	Kaunos
+	macedon
+	Ionians
+	217 210 91
+	anatolia
+	5
+	5
+Knidos_R
+	Knidos
+	greek_cities
+	Ionians
+	83 195 106
+	anatolia
+	5
+	5
+Koloussa_R
+	Koloussa
+	pontus
+	Paphlagonians
+	216 87 87
+	anatolia
+	5
+	5
+LaodiceaLycus_R
+	LaodiceaLycus
+	macedon
+	Galatians
+	15 21 136
+	anatolia
+	5
+	7
+Laranda_R
+	Laranda
+	macedon
+	Galatians
+	98 84 151
+	anatolia
+	5
+	6
+Limyra_R
+	Limyra
+	macedon
+	Lycians
+	236 202 68
+	anatolia
+	5
+	6
+Lycia
+	Halicarnasus
+	macedon
+	Lycians
+	131 83 77
+	anatolia
+	5
+	10
+Melitene_R
+	Melitene
+	pontus
+	Cappadocians
+	131 36 36
+	anatolia
+	5
+	6
+Miletus_R
+	Miletus
+	greek_cities
+	Ionians
+	121 49 170
+	anatolia
+	5
+	8
+Mlaundus_R
+	Mlaundus
+	macedon
+	Galatians
+	82 201 77
+	anatolia
+	5
+	6
+NeaPaphos_R
+	NeaPaphos
+	macedon
+	Cypriots
+	163 69 61
+	anatolia
+	5
+	8
+Nicaea_R
+	Nicaea
+	thrace
+	Bithynians
+	52 48 103
+	anatolia
+	5
+	9
+Parnassos_R
+	Parnassos
+	pontus
+	Galatians
+	35 103 46
+	anatolia
+	5
+	6
+Patara_R
+	Patara
+	macedon
+	Lycians
+	65 79 137
+	anatolia
+	5
+	7
+Peium_R
+	Peium
+	pontus
+	Paphlagonians
+	151 127 151
+	anatolia
+	5
+	4
+Perge_R
+	Perge
+	macedon
+	Lycians
+	255 60 60
+	anatolia
+	5
+	8
+Pessinus_R
+	Pessinus
+	macedon
+	Galatians
+	44 91 43
+	anatolia
+	5
+	6
+Philomelion_R
+	Philomelion
+	macedon
+	Galatians
+	206 212 47
+	anatolia
+	5
+	6
+Phrygia
+	Pergamum
+	greek_cities
+	Lesbians
+	33 59 131
+	anatolia
+	5
+	12
+Pimolisa_R
+	Pimolisa
+	pontus
+	Paphlagonians
+	23 86 61
+	anatolia
+	5
+	6
+Pontus
+	Sinope
+	greek_cities
+	Paphlagonians
+	202 156 17
+	anatolia
+	5
+	10
+Sagalassos_R
+	Sagalassos
+	pontus
+	Lycians
+	191 92 28
+	anatolia
+	5
+	6
+Samosata_R
+	Samosata
+	seleucid
+	Cappadocians
+	168 116 49
+	anatolia
+	5
+	5
+SeleuciaCalycadnum_R
+	SeleuciaCalycadnum
+	seleucid
+	Cilicians
+	203 189 85
+	anatolia
+	5
+	9
+Side_R
+	Side
+	macedon
+	Lycians
+	30 120 129
+	anatolia
+	5
+	7
+Smyrna_R
+	Smyrna
+	greek_cities
+	Ionians
+	255 140 140
+	anatolia
+	5
+	8
+Soloi_R
+	Soloi
+	macedon
+	Cypriots
+	29 92 46
+	anatolia
+	5
+	6
+Stratonicea_R
+	Stratonicea
+	macedon
+	Galatians
+	191 15 43
+	anatolia
+	5
+	6
+Tavium_R
+	Tavium
+	pontus
+	Galatians
+	255 120 120
+	anatolia
+	5
+	6
+Tios_R
+	Tios
+	greek_cities
+	Paphlagonians
+	251 229 146
+	anatolia
+	5
+	7
+Trapezus_R
+	Trapezus
+	greek_cities
+	Ionians
+	255 80 80
+	anatolia
+	5
+	8
+Tyana_R
+	Tyana
+	macedon
+	Cappadocians
+	220 110 8
+	anatolia
+	5
+	6
+AntiochiaArabis_R
+	AntiochiaArabis
+	seleucid
+	Syrians
+	214 102 56
+	levant
+	5
+	5
+ApameaOrontes_R
+	ApameaOrontes
+	seleucid
+	Syrians
+	84 88 203
+	levant
+	5
+	8
+ApameaZeugma_R
+	ApameaZeugma
+	seleucid
+	Syrians
+	37 156 79
+	levant
+	5
+	6
+Araban_R
+	Araban
+	seleucid
+	Syrians
+	46 158 44
+	levant
+	5
+	6
+Arados_R
+	Arados
+	carthage
+	Phoenicians
+	160 80 91
+	levant
+	5
+	7
+Arethusa_R
+	Arethusa
+	seleucid
+	Syrians
+	237 42 103
+	levant
+	5
+	8
+Beroia_R
+	Beroia
+	seleucid
+	Syrians
+	35 83 25
+	levant
+	5
+	6
+Byblos_R
+	Byblos
+	parthia
+	Phoenicians
+	162 31 180
+	levant
+	5
+	8
+Characmoba_R
+	Characmoba
+	egypt
+	Nabataeans
+	36 28 199
+	levant
+	5
+	5
+Coele_Syria
+	Damascus
+	parthia
+	Syrians
+	244 203 14
+	levant
+	5
+	8
+Eboda_R
+	Eboda
+	egypt
+	Nabataeans
+	207 210 81
+	levant
+	5
+	3
+Edessa_R
+	Edessa
+	seleucid
+	Syrians
+	26 31 249
+	levant
+	5
+	8
+Gadara_R
+	Gadara
+	egypt
+	Nabataeans
+	83 46 143
+	levant
+	5
+	7
+Gaza_R
+	Gaza
+	egypt
+	Judaeans
+	199 43 128
+	levant
+	5
+	2
+Heliopolis_R
+	Heliopolis
+	macedon
+	Nabataeans
+	45 95 39
+	levant
+	5
+	6
+Hierapolis_R
+	Hierapolis
+	seleucid
+	Syrians
+	184 176 52
+	levant
+	5
+	8
+Ioppe_R
+	Ioppe
+	egypt
+	Judaeans
+	67 177 86
+	levant
+	5
+	2
+Judaea
+	Jerusalem
+	parthia
+	Judaeans
+	244 13 29
+	levant
+	5
+	8
+Laodicea_R
+	Laodicea
+	seleucid
+	Syrians
+	133 127 28
+	levant
+	5
+	8
+Nabataea
+	Bostra
+	parthia
+	Nabataeans
+	13 244 160
+	levant
+	5
+	5
+Nikephorion_R
+	Nikephorion
+	seleucid
+	Syrians
+	135 38 146
+	levant
+	5
+	3
+Paneas_R
+	Paneas
+	egypt
+	Nabataeans
+	222 107 39
+	levant
+	5
+	6
+Philadelphia_R
+	Philadelphia
+	egypt
+	Nabataeans
+	199 91 249
+	levant
+	5
+	6
+Phoenicia
+	Sidon
+	parthia
+	Phoenicians
+	33 131 128
+	levant
+	5
+	9
+Ptolemais_R
+	Ptolemais
+	egypt
+	Phoenicians
+	109 137 103
+	levant
+	5
+	9
+Regnum_Palmyrae
+	Palmyra
+	armenia
+	Palmyrans
+	175 171 244
+	levant
+	5
+	7
+Rhinokolura_R
+	Rhinokolura
+	egypt
+	Judaeans
+	133 85 177
+	levant
+	5
+	2
+SeleuciaPieria_R
+	SeleuciaPieria
+	seleucid
+	Syrians
+	133 26 37
+	levant
+	5
+	9
+Syria
+	Antioch
+	seleucid
+	Syrians
+	13 244 165
+	levant
+	5
+	9
+Tripolis_R
+	Tripolis
+	parthia
+	Phoenicians
+	44 205 50
+	levant
+	5
+	7
+Tyre_R
+	Tyre
+	parthia
+	Phoenicians
+	44 37 186
+	levant
+	5
+	9
+AntiochiaSittacene_R
+	AntiochiaSittacene
+	seleucid
+	Syrians
+	193 156 77
+	mesopotamia
+	5
+	5
+ApameaSittacene_R
+	ApameaSittacene
+	seleucid
+	Syrians
+	25 79 8
+	mesopotamia
+	5
+	8
+Arbela_R
+	Arbela
+	seleucid
+	Syrians
+	183 65 34
+	mesopotamia
+	5
+	7
+Arrapha_R
+	Arrapha
+	seleucid
+	Syrians
+	130 161 151
+	mesopotamia
+	5
+	6
+Artemita_R
+	Artemita
+	seleucid
+	Syrians
+	162 19 74
+	mesopotamia
+	5
+	7
+Assyria
+	Hatra
+	seleucid
+	Syrians
+	244 122 13
+	mesopotamia
+	5
+	8
+Babylon_R
+	Babylon
+	seleucid
+	Syrians
+	209 36 211
+	mesopotamia
+	5
+	12
+Babylonia
+	Seleucia
+	seleucid
+	Syrians
+	177 58 167
+	mesopotamia
+	5
+	14
+Birtha_R
+	Birtha
+	seleucid
+	Syrians
+	53 123 50
+	mesopotamia
+	5
+	6
+Chala_R
+	Chala
+	seleucid
+	Syrians
+	102 101 36
+	mesopotamia
+	5
+	7
+CharaxSpasinu_R
+	CharaxSpasinu
+	seleucid
+	Syrians
+	164 4 32
+	mesopotamia
+	5
+	10
+Charmande_R
+	Charmande
+	seleucid
+	Syrians
+	212 220 126
+	mesopotamia
+	5
+	5
+Dura_R
+	Dura
+	seleucid
+	Syrians
+	30 46 74
+	mesopotamia
+	5
+	5
+Girsu_R
+	Girsu
+	seleucid
+	Syrians
+	146 83 208
+	mesopotamia
+	5
+	7
+Gorbatha_R
+	Gorbatha
+	seleucid
+	Syrians
+	229 83 229
+	mesopotamia
+	5
+	5
+Isiopolis_R
+	Isiopolis
+	seleucid
+	Syrians
+	126 96 85
+	mesopotamia
+	5
+	4
+Nineveh_R
+	Nineveh
+	seleucid
+	Syrians
+	88 64 201
+	mesopotamia
+	5
+	8
+Nippur_R
+	Nippur
+	seleucid
+	Syrians
+	67 115 135
+	mesopotamia
+	5
+	8
+Nisibis_R
+	Nisibis
+	seleucid
+	Syrians
+	187 189 30
+	mesopotamia
+	5
+	6
+Opis_R
+	Opis
+	seleucid
+	Syrians
+	97 113 106
+	mesopotamia
+	5
+	9
+Orkhoe_R
+	Orkhoe
+	seleucid
+	Syrians
+	184 167 60
+	mesopotamia
+	5
+	9
+Sareisa_R
+	Sareisa
+	seleucid
+	Syrians
+	137 143 97
+	mesopotamia
+	5
+	5
+Teredon_R
+	Teredon
+	seleucid
+	Syrians
+	60 150 48
+	mesopotamia
+	5
+	3
+Amida_R
+	Amida
+	armenia
+	Cappadocians
+	165 52 176
+	armenia_r
+	5
+	6
+Armenia
+	Artaxarta
+	armenia
+	Cappadocians
+	202 61 17
+	armenia_r
+	5
+	5
+Arsamosata_R
+	Arsamosata
+	armenia
+	Cappadocians
+	180 166 47
+	armenia_r
+	5
+	6
+Arsarata_R
+	Arsarata
+	armenia
+	Medes
+	33 117 132
+	armenia_r
+	5
+	5
+Artageira_R
+	Artageira
+	armenia
+	Cappadocians
+	36 200 57
+	armenia_r
+	5
+	4
+Ashtishat_R
+	Ashtishat
+	armenia
+	Cappadocians
+	54 52 137
+	armenia_r
+	5
+	5
+Atra_R
+	Atra
+	parthia
+	Medes
+	45 249 32
+	armenia_r
+	5
+	12
+Carcathiocerta_R
+	Carcathiocerta
+	armenia
+	Cappadocians
+	79 205 40
+	armenia_r
+	5
+	6
+Gabris_R
+	Gabris
+	parthia
+	Medes
+	168 81 34
+	armenia_r
+	5
+	7
+GelonKome_R
+	GelonKome
+	parthia
+	Medes
+	122 45 135
+	armenia_r
+	5
+	4
+Gorneae_R
+	Gorneae
+	armenia
+	Cappadocians
+	50 53 93
+	armenia_r
+	5
+	5
+Kamacha_R
+	Kamacha
+	armenia
+	Cappadocians
+	168 49 155
+	armenia_r
+	5
+	5
+Kapouta_R
+	Kapouta
+	parthia
+	Medes
+	232 90 76
+	armenia_r
+	5
+	6
+Karin_R
+	Karin
+	armenia
+	Colchians
+	189 248 147
+	armenia_r
+	5
+	4
+Kepha_R
+	Kepha
+	armenia
+	Cappadocians
+	184 14 74
+	armenia_r
+	5
+	6
+Manavazkert_R
+	Manavazkert
+	armenia
+	Cappadocians
+	70 240 190
+	armenia_r
+	5
+	6
+Morunda_R
+	Morunda
+	parthia
+	Medes
+	175 185 63
+	armenia_r
+	5
+	5
+Naxouana_R
+	Naxouana
+	armenia
+	Cappadocians
+	50 112 37
+	armenia_r
+	5
+	7
+Olane_R
+	Olane
+	armenia
+	Cappadocians
+	229 227 58
+	armenia_r
+	5
+	6
+Parnes_R
+	Parnes
+	armenia
+	Cappadocians
+	167 23 156
+	armenia_r
+	5
+	6
+Ptoua_R
+	Ptoua
+	armenia
+	Cappadocians
+	116 238 186
+	armenia_r
+	5
+	4
+Satala_R
+	Satala
+	pontus
+	Cappadocians
+	59 51 160
+	armenia_r
+	5
+	6
+Seltia_R
+	Seltia
+	armenia
+	Cappadocians
+	211 133 213
+	armenia_r
+	5
+	6
+Thospia_R
+	Thospia
+	armenia
+	Cappadocians
+	155 123 72
+	armenia_r
+	5
+	8
+Aganzana_R
+	Aganzana
+	parthia
+	Medes
+	132 62 132
+	persia
+	5
+	5
+AlexandriaCarmania_R
+	AlexandriaCarmania
+	seleucid
+	Syrians
+	205 127 49
+	persia
+	5
+	5
+Alinza_R
+	Alinza
+	parthia
+	Medes
+	82 213 103
+	persia
+	5
+	5
+Amol_R
+	Amol
+	seleucid
+	Syrians
+	109 119 181
+	persia
+	5
+	7
+Ange_R
+	Ange
+	seleucid
+	Syrians
+	40 213 84
+	persia
+	5
+	4
+AntiochiaPersis_R
+	AntiochiaPersis
+	seleucid
+	Syrians
+	224 83 75
+	persia
+	5
+	6
+ApameaRagiana_R
+	ApameaRagiana
+	seleucid
+	Syrians
+	144 191 143
+	persia
+	5
+	4
+Arakia_R
+	Arakia
+	parthia
+	Nabataeans
+	197 27 217
+	persia
+	5
+	2
+Archiotis_R
+	Archiotis
+	seleucid
+	Medes
+	171 171 64
+	persia
+	6
+	5
+Artacana_R
+	Artacana
+	seleucid
+	Syrians
+	182 124 41
+	persia
+	5
+	4
+Aspadana_R
+	Aspadana
+	seleucid
+	Syrians
+	59 104 37
+	persia
+	5
+	8
+Assak_R
+	Assak
+	seleucid
+	Syrians
+	34 135 168
+	persia
+	5
+	4
+Atropatene
+	Phraaspa
+	parthia
+	Medes
+	61 239 246
+	persia
+	5
+	4
+Bam_R
+	Bam
+	seleucid
+	Syrians
+	98 109 159
+	persia
+	5
+	6
+Cyropolis_R
+	Cyropolis
+	parthia
+	Medes
+	68 25 25
+	persia
+	5
+	7
+Denabaran_R
+	Denabaran
+	seleucid
+	Syrians
+	26 125 38
+	persia
+	5
+	6
+Elymais
+	Susa
+	seleucid
+	Elamites
+	72 58 177
+	persia
+	5
+	8
+Europus_R
+	Europus
+	seleucid
+	Syrians
+	230 215 43
+	persia
+	5
+	10
+Gabra_R
+	Gabra
+	seleucid
+	Syrians
+	61 129 79
+	persia
+	5
+	4
+Gauna_R
+	Gauna
+	seleucid
+	Syrians
+	131 155 137
+	persia
+	5
+	5
+Gazaca_R
+	Gazaca
+	parthia
+	Medes
+	33 117 209
+	persia
+	5
+	8
+Gurgan_R
+	Gurgan
+	seleucid
+	Syrians
+	207 118 147
+	persia
+	5
+	6
+Harmozeia_R
+	Harmozeia
+	seleucid
+	Syrians
+	87 148 71
+	persia
+	5
+	6
+Hecatompylos_R
+	Hecatompylos
+	seleucid
+	Syrians
+	145 89 129
+	persia
+	5
+	7
+Issatis_R
+	Issatis
+	seleucid
+	Syrians
+	97 28 7
+	persia
+	5
+	6
+Kamtina_R
+	Kamtina
+	parthia
+	Nabataeans
+	39 176 28
+	persia
+	5
+	2
+Kumandan_R
+	Kumandan
+	seleucid
+	Syrians
+	93 107 151
+	persia
+	5
+	5
+LaodiceaMedia_R
+	LaodiceaMedia
+	seleucid
+	Syrians
+	140 50 87
+	persia
+	5
+	6
+Media
+	Arsakia
+	seleucid
+	Medes
+	58 167 177
+	persia
+	5
+	6
+NiceaNialia_R
+	NiceaNialia
+	seleucid
+	Syrians
+	224 212 92
+	persia
+	5
+	5
+Niguza_R
+	Niguza
+	seleucid
+	Syrians
+	49 98 54
+	persia
+	5
+	6
+Oracana_R
+	Oracana
+	seleucid
+	Syrians
+	67 205 56
+	persia
+	5
+	5
+Ormi_R
+	Ormi
+	parthia
+	Medes
+	164 91 166
+	persia
+	5
+	5
+Pantyene_R
+	Pantyene
+	seleucid
+	Syrians
+	183 48 185
+	persia
+	5
+	6
+Parbara_R
+	Parbara
+	seleucid
+	Syrians
+	26 94 6
+	persia
+	5
+	5
+Parodana_R
+	Parodana
+	seleucid
+	Syrians
+	200 77 53
+	persia
+	5
+	4
+Pasa_R
+	Pasa
+	seleucid
+	Syrians
+	198 213 44
+	persia
+	5
+	5
+Pasargadae_R
+	Pasargadae
+	seleucid
+	Syrians
+	107 36 104
+	persia
+	5
+	5
+Persepolis_R
+	Persepolis
+	seleucid
+	Syrians
+	58 202 13
+	persia
+	5
+	6
+Rapsa_R
+	Rapsa
+	seleucid
+	Syrians
+	197 157 48
+	persia
+	5
+	4
+Saura_R
+	Saura
+	seleucid
+	Syrians
+	188 159 133
+	persia
+	5
+	4
+SeleuciaHedyphon_R
+	SeleuciaHedyphon
+	seleucid
+	Syrians
+	231 200 31
+	persia
+	5
+	5
+Semina_R
+	Semina
+	seleucid
+	Syrians
+	194 67 83
+	persia
+	5
+	5
+Sidone_R
+	Sidone
+	seleucid
+	Syrians
+	135 135 126
+	persia
+	5
+	2
+Siraf_R
+	Siraf
+	seleucid
+	Syrians
+	37 39 100
+	persia
+	5
+	6
+Syringis_R
+	Syringis
+	seleucid
+	Syrians
+	30 206 56
+	persia
+	5
+	6
+Tabai_R
+	Tabai
+	seleucid
+	Syrians
+	70 195 173
+	persia
+	5
+	4
+Tagai_R
+	Tagai
+	seleucid
+	Syrians
+	228 231 136
+	persia
+	5
+	4
+Taryana_R
+	Taryana
+	seleucid
+	Syrians
+	179 65 184
+	persia
+	5
+	5
+Tastache_R
+	Tastache
+	seleucid
+	Medes
+	197 90 92
+	persia
+	5
+	3
+Tribazina_R
+	Tribazina
+	seleucid
+	Syrians
+	166 63 194
+	persia
+	5
+	4
+Zadracarta_R
+	Zadracarta
+	seleucid
+	Syrians
+	92 80 22
+	persia
+	5
+	8
+AlexandriaArachosia_R
+	AlexandriaArachosia
+	seleucid
+	Syrians
+	45 53 216
+	aria
+	5
+	7
+AlexandriaAriana_R
+	AlexandriaAriana
+	seleucid
+	Syrians
+	78 41 140
+	aria
+	5
+	8
+AlexandriaCaucasus_R
+	AlexandriaCaucasus
+	parthia
+	Medes
+	166 10 88
+	aria
+	5
+	6
+AlexandriaOpiana_R
+	AlexandriaOpiana
+	seleucid
+	Syrians
+	146 98 78
+	aria
+	5
+	6
+AlexandriaOrietai_R
+	AlexandriaOrietai
+	parthia
+	Medes
+	89 98 211
+	aria
+	5
+	6
+AlexandriaProphthasia_R
+	AlexandriaProphthasia
+	seleucid
+	Syrians
+	139 140 41
+	aria
+	5
+	6
+Arana_R
+	Arana
+	seleucid
+	Syrians
+	33 118 29
+	aria
+	5
+	3
+Artoarta_R
+	Artoarta
+	parthia
+	Medes
+	202 97 192
+	aria
+	5
+	5
+Bagisara_R
+	Bagisara
+	parthia
+	Medes
+	15 119 17
+	aria
+	5
+	4
+Bamiyan_R
+	Bamiyan
+	seleucid
+	Syrians
+	234 66 70
+	aria
+	5
+	3
+Bandara_R
+	Bandara
+	parthia
+	Medes
+	229 83 80
+	aria
+	5
+	5
+Barna_R
+	Barna
+	parthia
+	Medes
+	141 180 146
+	aria
+	5
+	3
+Cuni_R
+	Cuni
+	parthia
+	Medes
+	97 33 191
+	aria
+	5
+	4
+Fannazbur_R
+	Fannazbur
+	parthia
+	Medes
+	191 129 33
+	aria
+	5
+	6
+Gonaca_R
+	Gonaca
+	seleucid
+	Syrians
+	188 185 52
+	aria
+	5
+	4
+HeracleaAchais_R
+	HeracleaAchais
+	seleucid
+	Syrians
+	147 93 156
+	aria
+	5
+	5
+Iasonium_R
+	Iasonium
+	seleucid
+	Syrians
+	135 138 181
+	aria
+	5
+	4
+Kophen_R
+	Kophen
+	seleucid
+	Syrians
+	43 180 119
+	aria
+	5
+	5
+Min_R
+	Min
+	seleucid
+	Syrians
+	218 141 47
+	aria
+	5
+	4
+Neh_R
+	Neh
+	seleucid
+	Syrians
+	158 141 53
+	aria
+	5
+	4
+Paracanaca_R
+	Paracanaca
+	seleucid
+	Syrians
+	41 154 35
+	aria
+	5
+	4
+Pura_R
+	Pura
+	parthia
+	Medes
+	90 13 87
+	aria
+	5
+	6
+Sabarz_R
+	Sabarz
+	seleucid
+	Medes
+	223 37 225
+	aria
+	5
+	3
+Sarakhs_R
+	Sarakhs
+	seleucid
+	Syrians
+	217 208 58
+	aria
+	5
+	6
+Sigal_R
+	Sigal
+	seleucid
+	Syrians
+	141 193 35
+	aria
+	5
+	5
+Soteira_R
+	Soteira
+	seleucid
+	Syrians
+	83 209 65
+	aria
+	5
+	3
+Susia_R
+	Susia
+	seleucid
+	Syrians
+	43 170 46
+	aria
+	5
+	6
+Tisa_R
+	Tisa
+	parthia
+	Medes
+	222 211 34
+	aria
+	5
+	3
+Zimana_R
+	Zimana
+	seleucid
+	Syrians
+	38 109 53
+	aria
+	5
+	4
+Zranka_R
+	Zranka
+	seleucid
+	Syrians
+	165 25 124
+	aria
+	5
+	5
+Akhsikath_R
+	Akhsikath
+	parthia
+	Saka
+	221 138 23
+	bactria
+	5
+	7
+AlexandriaEschate_R
+	AlexandriaEschate
+	seleucid
+	Syrians
+	90 98 197
+	bactria
+	5
+	6
+AlexandriaOxiana_R
+	AlexandriaOxiana
+	seleucid
+	Syrians
+	207 148 71
+	bactria
+	5
+	5
+AntiochiaScythia_R
+	AntiochiaScythia
+	parthia
+	Saka
+	170 46 36
+	bactria
+	5
+	6
+Bactra_R
+	Bactra
+	seleucid
+	Syrians
+	173 86 22
+	bactria
+	5
+	12
+Baharak_R
+	Baharak
+	parthia
+	Medes
+	25 73 139
+	bactria
+	5
+	3
+Chach_R
+	Chach
+	parthia
+	Saka
+	110 215 83
+	bactria
+	5
+	9
+Cyropolis_Sogdiana_R
+	Cyropolis_Sogdiana
+	seleucid
+	Saka
+	127 120 88
+	bactria
+	5
+	5
+Drapsaka_R
+	Drapsaka
+	seleucid
+	Syrians
+	170 167 104
+	bactria
+	5
+	7
+DrepsaMetropolis_R
+	DrepsaMetropolis
+	seleucid
+	Syrians
+	221 87 209
+	bactria
+	5
+	5
+Ershi_R
+	Ershi
+	parthia
+	Saka
+	50 135 59
+	bactria
+	5
+	7
+Eshkashem_R
+	Eshkashem
+	parthia
+	Medes
+	193 30 46
+	bactria
+	5
+	3
+Gazaba_R
+	Gazaba
+	seleucid
+	Syrians
+	57 217 92
+	bactria
+	5
+	6
+Hukande_R
+	Hukande
+	parthia
+	Saka
+	225 217 91
+	bactria
+	5
+	7
+Isfijab_R
+	Isfijab
+	parthia
+	Saka
+	189 36 13
+	bactria
+	5
+	6
+Maracanda_R
+	Maracanda
+	seleucid
+	Syrians
+	187 53 63
+	bactria
+	5
+	11
+Maracodra_R
+	Maracodra
+	seleucid
+	Saka
+	128 30 151
+	bactria
+	5
+	6
+MaroukaCity_R
+	MaroukaCity
+	seleucid
+	Syrians
+	92 158 53
+	bactria
+	5
+	3
+Marouka_R
+	Marouka
+	seleucid
+	Syrians
+	87 118 136
+	bactria
+	5
+	6
+Maruca_R
+	Maruca
+	seleucid
+	Saka
+	202 194 46
+	bactria
+	5
+	6
+Mayamana_R
+	Mayamana
+	seleucid
+	Syrians
+	45 140 51
+	bactria
+	5
+	4
+MenapiaBactriane_R
+	MenapiaBactriane
+	seleucid
+	Syrians
+	187 177 32
+	bactria
+	5
+	6
+Murjinon_R
+	Murjinon
+	parthia
+	Saka
+	99 201 143
+	bactria
+	5
+	7
+Nakhshab_R
+	Nakhshab
+	seleucid
+	Syrians
+	125 118 45
+	bactria
+	5
+	5
+Nautaca_R
+	Nautaca
+	seleucid
+	Syrians
+	53 62 128
+	bactria
+	5
+	5
+Nur_R
+	Nur
+	parthia
+	Saka
+	164 160 220
+	bactria
+	5
+	5
+Parab_R
+	Parab
+	parthia
+	Saka
+	56 80 87
+	bactria
+	5
+	6
+Phratrua_R
+	Phratrua
+	seleucid
+	Syrians
+	102 155 85
+	bactria
+	5
+	6
+Poikalon_R
+	Poikalon
+	seleucid
+	Syrians
+	210 216 16
+	bactria
+	5
+	5
+Shurabashat_R
+	Shurabashat
+	parthia
+	Saka
+	182 77 214
+	bactria
+	5
+	6
+Tarmita_R
+	Tarmita
+	seleucid
+	Syrians
+	130 72 135
+	bactria
+	5
+	7
+Tribactra_R
+	Tribactra
+	seleucid
+	Syrians
+	19 118 21
+	bactria
+	5
+	8
+Varakhsha_R
+	Varakhsha
+	parthia
+	Saka
+	184 116 31
+	bactria
+	5
+	6
+Zamm_R
+	Zamm
+	seleucid
+	Syrians
+	188 139 202
+	bactria
+	5
+	4
+Adraspa_R
+	Adraspa
+	parthia
+	Saka
+	33 43 169
+	chorasmia
+	5
+	4
+Alicodra_R
+	Alicodra
+	parthia
+	Saka
+	207 76 76
+	chorasmia
+	5
+	5
+AntiochiaMargiana_R
+	AntiochiaMargiana
+	seleucid
+	Syrians
+	163 88 68
+	chorasmia
+	5
+	9
+ApasiacaeKome_R
+	ApasiacaeKome
+	scythia
+	Sarmatians
+	198 21 80
+	chorasmia
+	5
+	3
+Apauarktike_R
+	Apauarktike
+	seleucid
+	Syrians
+	128 213 137
+	chorasmia
+	5
+	6
+Ariaca_R
+	Ariaca
+	parthia
+	Saka
+	228 42 103
+	chorasmia
+	5
+	5
+Aspabota_R
+	Aspabota
+	parthia
+	Saka
+	108 61 154
+	chorasmia
+	5
+	5
+Barange_R
+	Barange
+	parthia
+	Saka
+	223 189 68
+	chorasmia
+	5
+	4
+Cavaris_R
+	Cavaris
+	parthia
+	Saka
+	233 215 96
+	chorasmia
+	5
+	6
+Chatracharta_R
+	Chatracharta
+	seleucid
+	Syrians
+	18 113 119
+	chorasmia
+	5
+	6
+ComariKome_R
+	ComariKome
+	scythia
+	Saka
+	172 119 244
+	chorasmia
+	5
+	3
+Davaba_R
+	Davaba
+	parthia
+	Saka
+	244 222 75
+	chorasmia
+	5
+	4
+EresKala_R
+	EresKala
+	parthia
+	Saka
+	91 17 90
+	chorasmia
+	5
+	6
+Evusmi_R
+	Evusmi
+	parthia
+	Saka
+	203 96 208
+	chorasmia
+	5
+	7
+Khavrana_R
+	Khavrana
+	scythia
+	Saka
+	120 183 138
+	chorasmia
+	5
+	5
+Nisa_R
+	Nisa
+	seleucid
+	Syrians
+	143 11 64
+	chorasmia
+	5
+	6
+Parau_R
+	Parau
+	parthia
+	Saka
+	58 153 60
+	chorasmia
+	5
+	5
+Roksanaki_R
+	Roksanaki
+	scythia
+	Saka
+	212 113 41
+	chorasmia
+	5
+	5
+Sidak_R
+	Sidak
+	parthia
+	Saka
+	221 198 40
+	chorasmia
+	5
+	4
+TokKala_R
+	TokKala
+	parthia
+	Saka
+	67 222 55
+	chorasmia
+	5
+	9
+Tribus_Sakae
+	Campus_Sakae
+	scythia
+	Saka
+	58 177 75
+	chorasmia
+	5
+	4
+Urgench_R
+	Urgench
+	parthia
+	Saka
+	24 26 109
+	chorasmia
+	5
+	10
+XanthioiKome_R
+	XanthioiKome
+	scythia
+	Saka
+	20 105 29
+	chorasmia
+	5
+	2
+Archaeopolis_R
+	Archaeopolis
+	armenia
+	Colchians
+	239 227 69
+	caucasia
+	5
+	7
+Bagavan_R
+	Bagavan
+	armenia
+	Medes
+	255 20 20
+	caucasia
+	5
+	9
+Chadacha_R
+	Chadacha
+	armenia
+	Medes
+	213 209 128
+	caucasia
+	5
+	6
+Colchis
+	Kotais
+	armenia
+	Colchians
+	199 31 143
+	caucasia
+	5
+	8
+Dioscurias_R
+	Dioscurias
+	greek_cities
+	Colchians
+	160 171 38
+	caucasia
+	5
+	4
+GerriKome_R
+	GerriKome
+	scythia
+	Sarmatians
+	220 119 42
+	caucasia
+	5
+	5
+Harmozica_R
+	Harmozica
+	armenia
+	Colchians
+	255 160 120
+	caucasia
+	5
+	6
+Kaballa_R
+	Kaballa
+	pontus
+	Cappadocians
+	109 141 157
+	caucasia
+	5
+	5
+Khabala_R
+	Khabala
+	armenia
+	Medes
+	30 227 64
+	caucasia
+	5
+	10
+Mtskheta_R
+	Mtskheta
+	armenia
+	Colchians
+	29 132 18
+	caucasia
+	5
+	6
+Phasis_R
+	Phasis
+	armenia
+	Colchians
+	39 127 37
+	caucasia
+	5
+	6
+Pityus_R
+	Pityus
+	armenia
+	Colchians
+	108 74 120
+	caucasia
+	5
+	6
+Shaka_R
+	Shaka
+	armenia
+	Cappadocians
+	42 47 198
+	caucasia
+	5
+	6
+Teleda_R
+	Teleda
+	armenia
+	Cappadocians
+	80 80 31
+	caucasia
+	5
+	5
+Tsunda_R
+	Tsunda
+	armenia
+	Colchians
+	189 185 144
+	caucasia
+	5
+	3
+Tzon_R
+	Tzon
+	scythia
+	Medes
+	150 101 144
+	caucasia
+	5
+	5
+Africa
+	Carthage
+	carthage
+	Poeni
+	202 191 17
+	north_africa
+	5
+	14
+Agadir_R
+	Agadir
+	numidia
+	Moors
+	209 211 79
+	north_africa
+	5
+	8
+Altava_R
+	Altava
+	numidia
+	Gaetuli
+	186 118 33
+	north_africa
+	5
+	3
+Antipyrgos_R
+	Antipyrgos
+	greek_cities
+	Libyans
+	170 42 193
+	north_africa
+	5
+	3
+Arambys_R
+	Arambys
+	numidia
+	Moors
+	117 23 161
+	north_africa
+	5
+	8
+Aspis_R
+	Aspis
+	carthage
+	Poeni
+	114 32 119
+	north_africa
+	5
+	9
+Augila_R
+	Augila
+	egypt
+	Libyans
+	48 116 11
+	north_africa
+	5
+	3
+Autolalae_R
+	Autolalae
+	numidia
+	Moors
+	205 98 148
+	north_africa
+	5
+	5
+Automalax_R
+	Automalax
+	carthage
+	Poeni
+	202 65 234
+	north_africa
+	5
+	3
+Auzia_R
+	Auzia
+	numidia
+	Gaetuli
+	177 38 38
+	north_africa
+	5
+	7
+Banasa_R
+	Banasa
+	numidia
+	Moors
+	37 100 17
+	north_africa
+	5
+	6
+Barce_R
+	Barce
+	greek_cities
+	Libyans
+	133 122 169
+	north_africa
+	5
+	5
+Benta_R
+	Benta
+	numidia
+	Moors
+	97 103 160
+	north_africa
+	5
+	5
+Byzacium
+	Thapsus
+	carthage
+	Poeni
+	31 202 17
+	north_africa
+	5
+	9
+Cartenna_R
+	Cartenna
+	carthage
+	Poeni
+	26 100 22
+	north_africa
+	5
+	9
+Cercinna_R
+	Cercinna
+	carthage
+	Poeni
+	195 121 60
+	north_africa
+	5
+	5
+Cossura_R
+	Cossura
+	carthage
+	Poeni
+	117 185 67
+	north_africa
+	5
+	5
+Cufra_R
+	Cufra
+	egypt
+	Libyans
+	17 231 183
+	north_africa
+	5
+	3
+Cydamus_R
+	Cydamus
+	numidia
+	Gaetuli
+	220 150 40
+	north_africa
+	5
+	4
+Cyrenaica
+	Cyrene
+	greek_cities
+	Libyans
+	244 171 13
+	north_africa
+	5
+	7
+Darnis_R
+	Darnis
+	greek_cities
+	Libyans
+	24 52 212
+	north_africa
+	5
+	5
+Dorath_R
+	Dorath
+	numidia
+	Moors
+	30 20 225
+	north_africa
+	5
+	6
+Euesperides_R
+	Euesperides
+	greek_cities
+	Libyans
+	234 223 55
+	north_africa
+	5
+	5
+Gaetulia
+	Dimmidi
+	numidia
+	Gaetuli
+	244 13 138
+	north_africa
+	5
+	8
+Garama_R
+	Garama
+	numidia
+	Gaetuli
+	62 161 117
+	north_africa
+	5
+	6
+Gemmelle_R
+	Gemmelle
+	numidia
+	Gaetuli
+	153 96 19
+	north_africa
+	5
+	5
+Gigthis_R
+	Gigthis
+	carthage
+	Poeni
+	124 234 120
+	north_africa
+	5
+	5
+Girba_R
+	Girba
+	numidia
+	Gaetuli
+	49 157 28
+	north_africa
+	5
+	5
+Hippo_R
+	Hippo
+	carthage
+	Poeni
+	145 53 85
+	north_africa
+	5
+	9
+Iarzitha_R
+	Iarzitha
+	numidia
+	Moors
+	138 38 75
+	north_africa
+	5
+	3
+Icosium_R
+	Icosium
+	carthage
+	Poeni
+	78 183 155
+	north_africa
+	5
+	8
+Ifeyyey_R
+	Ifeyyey
+	numidia
+	Gaetuli
+	197 191 34
+	north_africa
+	5
+	3
+Igilgili_R
+	Igilgili
+	carthage
+	Poeni
+	209 170 14
+	north_africa
+	5
+	6
+Iol_R
+	Iol
+	carthage
+	Poeni
+	227 152 37
+	north_africa
+	5
+	9
+Lixus_R
+	Lixus
+	carthage
+	Moors
+	177 237 169
+	north_africa
+	5
+	8
+Macomades_R
+	Macomades
+	carthage
+	Poeni
+	41 144 102
+	north_africa
+	5
+	3
+Madauros_R
+	Madauros
+	numidia
+	Gaetuli
+	148 160 21
+	north_africa
+	5
+	5
+Magura_R
+	Magura
+	numidia
+	Moors
+	226 140 31
+	north_africa
+	5
+	3
+Mascula_R
+	Mascula
+	numidia
+	Gaetuli
+	43 113 54
+	north_africa
+	5
+	5
+Mauretania
+	Tingi
+	carthage
+	Moors
+	202 126 17
+	north_africa
+	5
+	6
+Mina_R
+	Mina
+	numidia
+	Gaetuli
+	50 33 135
+	north_africa
+	5
+	5
+Molochath_R
+	Molochath
+	numidia
+	Moors
+	179 21 21
+	north_africa
+	5
+	8
+Mysocaras_R
+	Mysocaras
+	carthage
+	Poeni
+	222 90 216
+	north_africa
+	5
+	6
+NeapolisZeugitana_R
+	NeapolisZeugitana
+	carthage
+	Poeni
+	196 133 190
+	north_africa
+	5
+	8
+NigritaeCamp_R
+	NigritaeCamp
+	numidia
+	Gaetuli
+	103 74 234
+	north_africa
+	5
+	2
+Numidia
+	Cirta
+	numidia
+	Moors
+	17 83 202
+	north_africa
+	5
+	8
+OasisAghlan_R
+	OasisAghlan
+	numidia
+	Gaetuli
+	206 163 152
+	north_africa
+	5
+	4
+Oea_R
+	Oea
+	carthage
+	Poeni
+	151 154 44
+	north_africa
+	5
+	5
+Quiza_R
+	Quiza
+	carthage
+	Gaetuli
+	207 63 85
+	north_africa
+	5
+	6
+Rusadir_R
+	Rusadir
+	carthage
+	Poeni
+	38 145 81
+	north_africa
+	5
+	7
+Rusibis_R
+	Rusibis
+	numidia
+	Moors
+	59 218 52
+	north_africa
+	5
+	7
+Sabae_R
+	Sabae
+	numidia
+	Gaetuli
+	218 47 80
+	north_africa
+	5
+	5
+Sabratha_R
+	Sabratha
+	carthage
+	Poeni
+	61 91 19
+	north_africa
+	5
+	5
+Sahara
+	Nepte
+	numidia
+	Gaetuli
+	41 86 232
+	north_africa
+	5
+	1
+Sala_R
+	Sala
+	carthage
+	Moors
+	139 145 38
+	north_africa
+	5
+	8
+Saldae_R
+	Saldae
+	carthage
+	Poeni
+	46 114 37
+	north_africa
+	5
+	9
+Sicca_R
+	Sicca
+	numidia
+	Gaetuli
+	40 40 132
+	north_africa
+	5
+	5
+Siga_R
+	Siga
+	carthage
+	Poeni
+	243 245 52
+	north_africa
+	5
+	7
+Sitifis_R
+	Sitifis
+	numidia
+	Gaetuli
+	66 12 148
+	north_africa
+	5
+	6
+Sufetula_R
+	Sufetula
+	numidia
+	Gaetuli
+	164 83 8
+	north_africa
+	5
+	7
+Tacape_R
+	Tacape
+	numidia
+	Gaetuli
+	239 120 238
+	north_africa
+	5
+	4
+Taenia_R
+	Taenia
+	carthage
+	Poeni
+	195 218 43
+	north_africa
+	5
+	4
+Tamdoult_R
+	Tamdoult
+	numidia
+	Moors
+	58 145 38
+	north_africa
+	5
+	5
+Tamusiga_R
+	Tamusiga
+	carthage
+	Poeni
+	207 200 46
+	north_africa
+	5
+	5
+Taparura_R
+	Taparura
+	carthage
+	Gaetuli
+	219 210 110
+	north_africa
+	5
+	5
+Tetrapyrgia_R
+	Tetrapyrgia
+	greek_cities
+	Libyans
+	192 53 53
+	north_africa
+	5
+	3
+Thabraca_R
+	Thabraca
+	carthage
+	Poeni
+	33 199 60
+	north_africa
+	5
+	6
+Thalubath_R
+	Thalubath
+	numidia
+	Moors
+	132 45 174
+	north_africa
+	5
+	8
+ThapsusCity_R
+	ThapsusCity
+	carthage
+	Gaetuli
+	213 65 87
+	north_africa
+	5
+	6
+Thenteos_R
+	Thenteos
+	numidia
+	Gaetuli
+	133 95 170
+	north_africa
+	5
+	3
+Theveste_R
+	Theveste
+	numidia
+	Gaetuli
+	197 145 213
+	north_africa
+	5
+	7
+Thubactis_R
+	Thubactis
+	carthage
+	Gaetuli
+	243 244 140
+	north_africa
+	5
+	5
+Thugga_R
+	Thugga
+	numidia
+	Gaetuli
+	58 106 73
+	north_africa
+	5
+	7
+Thusuros_R
+	Thusuros
+	numidia
+	Gaetuli
+	42 164 44
+	north_africa
+	5
+	3
+Tigit_R
+	Tigit
+	numidia
+	Gaetuli
+	123 60 133
+	north_africa
+	5
+	3
+Tingartia_R
+	Tingartia
+	numidia
+	Gaetuli
+	120 239 128
+	north_africa
+	5
+	8
+Tripolitania
+	Lepcis_Magna
+	carthage
+	Poeni
+	202 17 48
+	north_africa
+	5
+	5
+Tucrumuda_R
+	Tucrumuda
+	numidia
+	Gaetuli
+	174 53 53
+	north_africa
+	5
+	4
+Uddita_R
+	Uddita
+	numidia
+	Gaetuli
+	74 17 88
+	north_africa
+	5
+	3
+Utica_R
+	Utica
+	carthage
+	Gaetuli
+	55 31 61
+	north_africa
+	5
+	9
+Volubilis_R
+	Volubilis
+	numidia
+	Moors
+	231 54 71
+	north_africa
+	5
+	11
+Zabi_R
+	Zabi
+	numidia
+	Gaetuli
+	186 171 135
+	north_africa
+	5
+	8
+Abalessa_R
+	Abalessa
+	numidia
+	Gaetuli
+	201 195 33
+	sahara
+	5
+	3
+Buata_R
+	Buata
+	numidia
+	Gaetuli
+	182 179 106
+	sahara
+	5
+	3
+Byntha_R
+	Byntha
+	numidia
+	Gaetuli
+	206 136 25
+	sahara
+	5
+	3
+Cuphe_R
+	Cuphe
+	numidia
+	Gaetuli
+	166 86 192
+	sahara
+	5
+	4
+Geva_R
+	Geva
+	numidia
+	Gaetuli
+	164 119 180
+	sahara
+	5
+	3
+GiraMetropolis_R
+	GiraMetropolis
+	numidia
+	Gaetuli
+	95 85 21
+	sahara
+	5
+	4
+Ischeri_R
+	Ischeri
+	numidia
+	Gaetuli
+	162 153 12
+	sahara
+	5
+	3
+Lynxama_R
+	Lynxama
+	numidia
+	Gaetuli
+	27 109 42
+	sahara
+	5
+	2
+Malachath_R
+	Malachath
+	numidia
+	Gaetuli
+	53 105 39
+	sahara
+	5
+	4
+NigiraMetropolis_R
+	NigiraMetropolis
+	numidia
+	Gaetuli
+	130 6 161
+	sahara
+	5
+	4
+Tagama_R
+	Tagama
+	numidia
+	Gaetuli
+	18 57 13
+	sahara
+	5
+	3
+Thabudis_R
+	Thabudis
+	numidia
+	Gaetuli
+	206 53 32
+	sahara
+	5
+	3
+Thamondocana_R
+	Thamondocana
+	numidia
+	Gaetuli
+	86 192 186
+	sahara
+	5
+	4
+Vellegia_R
+	Vellegia
+	numidia
+	Gaetuli
+	55 218 35
+	sahara
+	5
+	3
+Apollinopolis_R
+	Apollinopolis
+	egypt
+	Libyans
+	135 42 139
+	aegypt
+	5
+	7
+ArsinoeClysma_R
+	ArsinoeClysma
+	egypt
+	Libyans
+	36 162 54
+	aegypt
+	5
+	3
+Athribis_R
+	Athribis
+	egypt
+	Libyans
+	211 211 92
+	aegypt
+	5
+	7
+BerenicePanchrysos_R
+	BerenicePanchrysos
+	parthia
+	Libyans
+	238 24 220
+	aegypt
+	5
+	3
+BereniceTroglodytica_R
+	BereniceTroglodytica
+	egypt
+	Libyans
+	202 115 0
+	aegypt
+	5
+	8
+Crocodilopolis_R
+	Crocodilopolis
+	egypt
+	Libyans
+	129 165 221
+	aegypt
+	5
+	7
+DiospolisMikra_R
+	DiospolisMikra
+	egypt
+	Libyans
+	79 188 69
+	aegypt
+	5
+	8
+HeracleapolisMagna_R
+	HeracleapolisMagna
+	egypt
+	Libyans
+	238 45 225
+	aegypt
+	5
+	10
+Hermopolis_R
+	Hermopolis
+	egypt
+	Libyans
+	189 169 88
+	aegypt
+	5
+	10
+Hibis_R
+	Hibis
+	egypt
+	Libyans
+	212 96 39
+	aegypt
+	5
+	3
+Libya
+	Siwa
+	egypt
+	Libyans
+	42 232 77
+	aegypt
+	5
+	2
+Lycopolis_R
+	Lycopolis
+	egypt
+	Libyans
+	65 87 218
+	aegypt
+	5
+	7
+Middle_Egypt
+	Memphis
+	egypt
+	Libyans
+	122 13 244
+	aegypt
+	5
+	10
+MyosHormos_R
+	MyosHormos
+	egypt
+	Libyans
+	185 33 33
+	aegypt
+	5
+	6
+Naucratis_R
+	Naucratis
+	egypt
+	Libyans
+	72 142 60
+	aegypt
+	5
+	11
+Nile_Delta
+	Alexandria
+	egypt
+	Libyans
+	244 13 214
+	aegypt
+	5
+	12
+Oxyrhynchus_R
+	Oxyrhynchus
+	egypt
+	Libyans
+	147 72 17
+	aegypt
+	5
+	10
+Pachoras_R
+	Pachoras
+	egypt
+	Libyans
+	80 79 13
+	aegypt
+	5
+	9
+Paraetonium_R
+	Paraetonium
+	egypt
+	Libyans
+	162 163 51
+	aegypt
+	5
+	3
+Parva_R
+	Parva
+	egypt
+	Libyans
+	36 99 52
+	aegypt
+	5
+	2
+Pelusium_R
+	Pelusium
+	egypt
+	Libyans
+	157 158 48
+	aegypt
+	5
+	10
+Philotera_R
+	Philotera
+	egypt
+	Libyans
+	42 105 61
+	aegypt
+	5
+	4
+Premis_R
+	Premis
+	egypt
+	Libyans
+	167 160 111
+	aegypt
+	5
+	6
+Pselchis_R
+	Pselchis
+	egypt
+	Libyans
+	113 132 169
+	aegypt
+	5
+	7
+PtolemaisHermeiou_R
+	PtolemaisHermeiou
+	egypt
+	Libyans
+	169 106 159
+	aegypt
+	5
+	8
+Rhaithou_R
+	Rhaithou
+	egypt
+	Nabataeans
+	193 135 44
+	aegypt
+	5
+	1
+Syene_R
+	Syene
+	egypt
+	Libyans
+	45 213 33
+	aegypt
+	5
+	8
+Tanis_R
+	Tanis
+	egypt
+	Libyans
+	37 44 161
+	aegypt
+	5
+	11
+Thebais
+	Thebes
+	egypt
+	Libyans
+	241 244 13
+	aegypt
+	5
+	8
+Thmuis_R
+	Thmuis
+	egypt
+	Libyans
+	170 117 140
+	aegypt
+	5
+	11
+Adulis_R
+	Adulis
+	egypt
+	Libyans
+	222 216 57
+	nubia
+	5
+	5
+Araba_R
+	Araba
+	egypt
+	Libyans
+	192 196 74
+	nubia
+	5
+	4
+Arsinoe_R
+	Arsinoe
+	egypt
+	Libyans
+	159 170 68
+	nubia
+	5
+	5
+AthagausKome_R
+	AthagausKome
+	egypt
+	Libyans
+	229 159 49
+	nubia
+	5
+	3
+Aualites_R
+	Aualites
+	parthia
+	Libyans
+	93 83 170
+	nubia
+	5
+	4
+Axum_R
+	Axum
+	egypt
+	Libyans
+	70 61 182
+	nubia
+	5
+	8
+BlemmyeKome_R
+	BlemmyeKome
+	egypt
+	Libyans
+	98 214 77
+	nubia
+	5
+	2
+Daron_R
+	Daron
+	parthia
+	Libyans
+	87 35 14
+	nubia
+	5
+	5
+Dongolo_R
+	Dongolo
+	egypt
+	Libyans
+	167 152 73
+	nubia
+	5
+	4
+Eser_R
+	Eser
+	egypt
+	Libyans
+	115 168 166
+	nubia
+	5
+	3
+Gey_R
+	Gey
+	parthia
+	Libyans
+	176 43 76
+	nubia
+	5
+	3
+Hypaton_R
+	Hypaton
+	egypt
+	Libyans
+	37 68 178
+	nubia
+	5
+	6
+KoloeAithiopia_R
+	KoloeAithiopia
+	egypt
+	Libyans
+	35 150 40
+	nubia
+	5
+	5
+Koloe_R
+	Koloe
+	parthia
+	Libyans
+	95 16 148
+	nubia
+	5
+	5
+MaiAdresha_R
+	MaiAdresha
+	egypt
+	Libyans
+	181 103 218
+	nubia
+	5
+	4
+Malao_R
+	Malao
+	parthia
+	Libyans
+	20 94 25
+	nubia
+	5
+	3
+Maste_R
+	Maste
+	egypt
+	Libyans
+	21 108 17
+	nubia
+	5
+	5
+Meroe_R
+	Meroe
+	egypt
+	Libyans
+	181 224 182
+	nubia
+	5
+	8
+Mondou_R
+	Mondou
+	parthia
+	Libyans
+	191 111 49
+	nubia
+	5
+	2
+Morou_R
+	Morou
+	egypt
+	Libyans
+	172 30 78
+	nubia
+	5
+	5
+Mosyllum_R
+	Mosyllum
+	parthia
+	Libyans
+	157 151 96
+	nubia
+	5
+	3
+Napata_R
+	Napata
+	egypt
+	Libyans
+	42 181 35
+	nubia
+	5
+	8
+Opone_R
+	Opone
+	parthia
+	Libyans
+	211 153 61
+	nubia
+	5
+	3
+Paroa_R
+	Paroa
+	egypt
+	Libyans
+	143 182 191
+	nubia
+	5
+	5
+Patinga_R
+	Patinga
+	egypt
+	Libyans
+	217 107 77
+	nubia
+	5
+	8
+Primis_R
+	Primis
+	egypt
+	Libyans
+	152 69 213
+	nubia
+	5
+	4
+PtolemaisTheron_R
+	PtolemaisTheron
+	egypt
+	Libyans
+	76 26 97
+	nubia
+	5
+	3
+Roha_R
+	Roha
+	parthia
+	Libyans
+	134 224 144
+	nubia
+	5
+	7
+Sabai_R
+	Sabai
+	egypt
+	Nabataeans
+	138 94 231
+	nubia
+	5
+	4
+Sacolche_R
+	Sacolche
+	egypt
+	Libyans
+	136 53 175
+	nubia
+	5
+	3
+Scammos_R
+	Scammos
+	egypt
+	Libyans
+	23 161 208
+	nubia
+	5
+	5
+Tamania_R
+	Tamania
+	egypt
+	Libyans
+	223 192 13
+	nubia
+	5
+	5
+Tamrida_R
+	Tamrida
+	greek_cities
+	Libyans
+	47 143 17
+	nubia
+	5
+	3
+Yiha_R
+	Yiha
+	egypt
+	Libyans
+	143 186 185
+	nubia
+	5
+	5
+Abisama_R
+	Abisama
+	egypt
+	Nabataeans
+	49 69 153
+	arabia
+	5
+	3
+Abyssa_R
+	Abyssa
+	parthia
+	Nabataeans
+	24 207 174
+	arabia
+	5
+	5
+Adane_R
+	Adane
+	parthia
+	Nabataeans
+	68 66 14
+	arabia
+	5
+	6
+Aila_R
+	Aila
+	egypt
+	Nabataeans
+	48 205 193
+	arabia
+	5
+	6
+Appa_R
+	Appa
+	parthia
+	Nabataeans
+	70 54 44
+	arabia
+	5
+	2
+Arabia
+	Dumatha
+	parthia
+	Nabataeans
+	13 171 244
+	arabia
+	5
+	3
+Ausara_R
+	Ausara
+	parthia
+	Nabataeans
+	160 130 68
+	arabia
+	5
+	4
+Badeo_R
+	Badeo
+	parthia
+	Nabataeans
+	207 144 215
+	arabia
+	5
+	3
+Cana_R
+	Cana
+	egypt
+	Nabataeans
+	195 202 97
+	arabia
+	5
+	4
+Charmutha_R
+	Charmutha
+	parthia
+	Nabataeans
+	148 233 232
+	arabia
+	5
+	3
+Gerrha_R
+	Gerrha
+	egypt
+	Nabataeans
+	105 111 171
+	arabia
+	5
+	5
+Hegra_R
+	Hegra
+	egypt
+	Nabataeans
+	228 206 114
+	arabia
+	5
+	3
+Hierakon_R
+	Hierakon
+	parthia
+	Nabataeans
+	55 143 78
+	arabia
+	5
+	1
+Inapha_R
+	Inapha
+	parthia
+	Nabataeans
+	28 113 145
+	arabia
+	5
+	3
+Karna_R
+	Karna
+	egypt
+	Nabataeans
+	103 18 28
+	arabia
+	5
+	5
+Kathara_R
+	Kathara
+	parthia
+	Nabataeans
+	94 138 102
+	arabia
+	5
+	3
+Khatt_R
+	Khatt
+	egypt
+	Nabataeans
+	62 203 70
+	arabia
+	5
+	3
+KryptosLimen_R
+	KryptosLimen
+	parthia
+	Nabataeans
+	169 96 52
+	arabia
+	5
+	4
+LeukeKome_R
+	LeukeKome
+	parthia
+	Nabataeans
+	129 27 137
+	arabia
+	5
+	2
+Makoraba_R
+	Makoraba
+	parthia
+	Nabataeans
+	179 30 149
+	arabia
+	5
+	4
+Mariba_R
+	Mariba
+	egypt
+	Nabataeans
+	176 204 11
+	arabia
+	5
+	5
+Marma_R
+	Marma
+	parthia
+	Nabataeans
+	177 99 0
+	arabia
+	5
+	3
+Muza_R
+	Muza
+	parthia
+	Nabataeans
+	27 71 21
+	arabia
+	5
+	3
+Negram_R
+	Negram
+	parthia
+	Nabataeans
+	105 173 55
+	arabia
+	5
+	3
+Omana_R
+	Omana
+	parthia
+	Nabataeans
+	178 162 135
+	arabia
+	5
+	5
+Phoenicum_R
+	Phoenicum
+	parthia
+	Nabataeans
+	69 218 82
+	arabia
+	5
+	3
+Rhegma_R
+	Rhegma
+	egypt
+	Nabataeans
+	188 78 180
+	arabia
+	5
+	3
+SabaiChattenia_R
+	SabaiChattenia
+	egypt
+	Nabataeans
+	182 93 53
+	arabia
+	5
+	3
+Sabatha_R
+	Sabatha
+	egypt
+	Nabataeans
+	63 161 81
+	arabia
+	5
+	6
+Sadasara_R
+	Sadasara
+	egypt
+	Nabataeans
+	113 182 203
+	arabia
+	5
+	2
+Salma_R
+	Salma
+	parthia
+	Nabataeans
+	210 215 17
+	arabia
+	5
+	3
+Sanaa_R
+	Sanaa
+	egypt
+	Nabataeans
+	69 241 211
+	arabia
+	5
+	6
+Sapphar_R
+	Sapphar
+	egypt
+	Nabataeans
+	195 85 31
+	arabia
+	5
+	5
+Sarapis_R
+	Sarapis
+	parthia
+	Nabataeans
+	207 212 58
+	arabia
+	5
+	1
+SeleuciaErythrea_R
+	SeleuciaErythrea
+	seleucid
+	Syrians
+	97 7 23
+	arabia
+	5
+	4
+Sinai
+	Petra
+	egypt
+	Nabataeans
+	35 244 13
+	arabia
+	5
+	4
+Sohar_R
+	Sohar
+	parthia
+	Nabataeans
+	205 214 68
+	arabia
+	5
+	4
+Tabawa_R
+	Tabawa
+	egypt
+	Nabataeans
+	136 126 64
+	arabia
+	5
+	5
+Tamna_R
+	Tamna
+	egypt
+	Nabataeans
+	169 42 121
+	arabia
+	5
+	4
+Tema_R
+	Tema
+	egypt
+	Nabataeans
+	117 34 48
+	arabia
+	5
+	3
+Thialemath_R
+	Thialemath
+	egypt
+	Nabataeans
+	143 17 130
+	arabia
+	5
+	4
+Thomala_R
+	Thomala
+	parthia
+	Nabataeans
+	128 45 138
+	arabia
+	5
+	2
+Tylos_R
+	Tylos
+	parthia
+	Nabataeans
+	107 80 28
+	arabia
+	5
+	2
+Ubar_R
+	Ubar
+	parthia
+	Nabataeans
+	47 134 59
+	arabia
+	5
+	3
+Yathrib_R
+	Yathrib
+	parthia
+	Nabataeans
+	29 76 16
+	arabia
+	5
+	4
+Zabram_R
+	Zabram
+	parthia
+	Nabataeans
+	72 223 108
+	arabia
+	5
+	3
+Panticapaeum_R
+	Panticapaeum
+	macedon
+	Sarmatians
+	45 187 26
+	scythia_r
+	5
+	10
+Theodosia_R
+	Theodosia
+	macedon
+	Sarmatians
+	166 49 49
+	scythia_r
+	5
+	7
+Cercinitis_R
+	Cercinitis
+	greek_cities
+	Sarmatians
+	118 142 173
+	scythia_r
+	5
+	5
+ScythianNeapolis_R
+	ScythianNeapolis
+	scythia
+	Sarmatians
+	96 18 122
+	scythia_r
+	5
+	5
+Bosphorus
+	Chersonesos
+	greek_cities
+	Bosphorans
+	17 74 202
+	scythia_r
+	5
+	8
+ScythianPaleaopolis_R
+	ScythianPaleaopolis
+	scythia
+	Sarmatians
+	32 98 36
+	scythia_r
+	5
+	5
+KalosLimen_R
+	KalosLimen
+	greek_cities
+	Sarmatians
+	197 177 51
+	scythia_r
+	5
+	4
+Abunis_R
+	Abunis
+	scythia
+	Sarmatians
+	46 150 43
+	scythia_r
+	5
+	5
+Amadoca_R
+	Amadoca
+	scythia
+	Sarmatians
+	24 82 153
+	scythia_r
+	5
+	5
+AndrophagiCamp_R
+	AndrophagiCamp
+	scythia
+	Sarmatians
+	155 196 155
+	scythia_r
+	5
+	3
+Arsietaeum_R
+	Arsietaeum
+	scythia
+	Sarmatians
+	61 154 64
+	scythia_r
+	5
+	3
+Azara_R
+	Azara
+	greek_cities
+	Sarmatians
+	164 148 38
+	scythia_r
+	5
+	4
+BoudiniCamp_R
+	BoudiniCamp
+	scythia
+	Sarmatians
+	54 86 232
+	scythia_r
+	5
+	3
+Carcina_R
+	Carcina
+	scythia
+	Sarmatians
+	153 71 165
+	scythia_r
+	5
+	3
+Cariscus_R
+	Cariscus
+	scythia
+	Sarmatians
+	208 164 155
+	scythia_r
+	5
+	3
+Clepidava_R
+	Clepidava
+	dacia
+	Venedae
+	139 190 155
+	scythia_r
+	5
+	4
+CoraxiKome_R
+	CoraxiKome
+	scythia
+	Sarmatians
+	21 65 228
+	scythia_r
+	5
+	3
+Corusia_R
+	Corusia
+	scythia
+	Sarmatians
+	5 35 151
+	scythia_r
+	5
+	4
+Costobocum_R
+	Costobocum
+	dacia
+	Venedae
+	187 58 204
+	scythia_r
+	5
+	3
+DerbicesKome_R
+	DerbicesKome
+	scythia
+	Sarmatians
+	187 69 41
+	scythia_r
+	5
+	3
+Eractum_R
+	Eractum
+	scythia
+	Sarmatians
+	30 120 120
+	scythia_r
+	5
+	4
+Gelonus_R
+	Gelonus
+	scythia
+	Sarmatians
+	107 102 49
+	scythia_r
+	5
+	3
+Gerrhos_R
+	Gerrhos
+	scythia
+	Sarmatians
+	212 221 23
+	scythia_r
+	5
+	4
+Gorgippia_R
+	Gorgippia
+	macedon
+	Sarmatians
+	29 116 20
+	scythia_r
+	5
+	7
+Helmia_R
+	Helmia
+	scythia
+	Sarmatians
+	200 219 26
+	scythia_r
+	5
+	5
+Hexopolis_R
+	Hexopolis
+	scythia
+	Sarmatians
+	134 150 221
+	scythia_r
+	5
+	4
+Hygres_R
+	Hygres
+	greek_cities
+	Sarmatians
+	214 203 136
+	scythia_r
+	5
+	4
+IaxamataeKome_R
+	IaxamataeKome
+	scythia
+	Sarmatians
+	171 106 198
+	scythia_r
+	5
+	3
+IdraeCamp_R
+	IdraeCamp
+	scythia
+	Sarmatians
+	223 226 124
+	scythia_r
+	5
+	3
+IsondaeCamp_R
+	IsondaeCamp
+	scythia
+	Sarmatians
+	194 161 114
+	scythia_r
+	5
+	5
+IyrkaeCamp_R
+	IyrkaeCamp
+	scythia
+	Sarmatians
+	174 32 162
+	scythia_r
+	5
+	4
+JazygesCamp_R
+	JazygesCamp
+	scythia
+	Alans
+	135 197 119
+	scythia_r
+	5
+	3
+Kremnoi_R
+	Kremnoi
+	greek_cities
+	Sarmatians
+	124 134 158
+	scythia_r
+	5
+	4
+Leinum_R
+	Leinum
+	scythia
+	Sarmatians
+	200 53 79
+	scythia_r
+	5
+	3
+Maeotis
+	Tanais
+	macedon
+	Maeotae
+	131 89 33
+	scythia_r
+	5
+	9
+Msandar_R
+	Msandar
+	scythia
+	Sarmatians
+	110 200 50
+	scythia_r
+	5
+	5
+Navaris_R
+	Navaris
+	scythia
+	Sarmatians
+	185 63 88
+	scythia_r
+	5
+	3
+Nikonion_R
+	Nikonion
+	greek_cities
+	Sarmatians
+	26 52 142
+	scythia_r
+	5
+	5
+Niossum_R
+	Niossum
+	scythia
+	Sarmatians
+	154 52 63
+	scythia_r
+	5
+	3
+Ojum_R
+	Ojum
+	scythia
+	Sarmatians
+	50 106 54
+	scythia_r
+	5
+	4
+Olbia_R
+	Olbia
+	greek_cities
+	Sarmatians
+	89 160 57
+	scythia_r
+	5
+	6
+OlondaeCamp_R
+	OlondaeCamp
+	scythia
+	Sarmatians
+	30 111 104
+	scythia_r
+	5
+	3
+Ophioussa_R
+	Ophioussa
+	dacia
+	Carpi
+	26 96 46
+	scythia_r
+	5
+	3
+OphlonesCamp_R
+	OphlonesCamp
+	scythia
+	Sarmatians
+	24 43 212
+	scythia_r
+	5
+	3
+OudaeCamp_R
+	OudaeCamp
+	scythia
+	Sarmatians
+	128 128 128
+	scythia_r
+	5
+	3
+PalaiaAchaia_R
+	PalaiaAchaia
+	scythia
+	Sarmatians
+	214 60 61
+	scythia_r
+	5
+	2
+Pataroue_R
+	Pataroue
+	greek_cities
+	Sarmatians
+	59 30 181
+	scythia_r
+	5
+	3
+PerierbidiCamp_R
+	PerierbidiCamp
+	scythia
+	Sarmatians
+	38 187 19
+	scythia_r
+	5
+	3
+Petridava_R
+	Petridava
+	dacia
+	Venedae
+	187 180 83
+	scythia_r
+	5
+	4
+Phanagoria_R
+	Phanagoria
+	macedon
+	Sarmatians
+	122 221 200
+	scythia_r
+	5
+	8
+PhtheirophagiKome_R
+	PhtheirophagiKome
+	scythia
+	Sarmatians
+	185 126 9
+	scythia_r
+	5
+	3
+Pripet
+	Vicus_Venedae
+	dacia
+	Venedae
+	131 33 125
+	scythia_r
+	5
+	3
+SanaraiKome_R
+	SanaraiKome
+	scythia
+	Sarmatians
+	181 21 23
+	scythia_r
+	5
+	4
+Sanaraiopolis_R
+	Sanaraiopolis
+	scythia
+	Sarmatians
+	250 136 42
+	scythia_r
+	5
+	4
+Sarbacum_R
+	Sarbacum
+	scythia
+	Sarmatians
+	213 145 27
+	scythia_r
+	5
+	3
+Sarum_R
+	Sarum
+	scythia
+	Sarmatians
+	52 159 62
+	scythia_r
+	5
+	3
+ScymnitaeKome_R
+	ScymnitaeKome
+	scythia
+	Sarmatians
+	214 232 64
+	scythia_r
+	5
+	3
+ScythianCamp_R
+	ScythianCamp
+	scythia
+	Sarmatians
+	142 37 156
+	scythia_r
+	5
+	3
+ScythianMetropolis_R
+	ScythianMetropolis
+	scythia
+	Sarmatians
+	35 230 64
+	scythia_r
+	5
+	4
+Scythia
+	Campus_Scythii
+	scythia
+	Roxolani
+	33 131 116
+	scythia_r
+	5
+	7
+Seraca_R
+	Seraca
+	scythia
+	Sarmatians
+	196 91 195
+	scythia_r
+	5
+	6
+SuraniKome_R
+	SuraniKome
+	scythia
+	Sarmatians
+	42 48 147
+	scythia_r
+	5
+	3
+TaniataeCamp_R
+	TaniataeCamp
+	scythia
+	Sarmatians
+	138 63 160
+	scythia_r
+	5
+	3
+ThyssagetaeCamp_R
+	ThyssagetaeCamp
+	scythia
+	Sarmatians
+	220 240 40
+	scythia_r
+	5
+	3
+Touschoiopolis_R
+	Touschoiopolis
+	scythia
+	Sarmatians
+	85 13 76
+	scythia_r
+	5
+	4
+Tracana_R
+	Tracana
+	scythia
+	Sarmatians
+	35 40 205
+	scythia_r
+	5
+	3
+Tribus_Alanni
+	Campus_Alanni
+	scythia
+	Alans
+	177 170 58
+	scythia_r
+	5
+	3
+Tribus_Sarmatae
+	Campus_Sarmatae
+	scythia
+	Sarmatians
+	177 58 83
+	scythia_r
+	5
+	4
+Tyras_R
+	Tyras
+	greek_cities
+	Sarmatians
+	176 50 194
+	scythia_r
+	5
+	5
+UpperAorsiCamp_R
+	UpperAorsiCamp
+	scythia
+	Sarmatians
+	43 100 82
+	scythia_r
+	5
+	3
+Uspe_R
+	Uspe
+	scythia
+	Sarmatians
+	124 145 180
+	scythia_r
+	5
+	6
+Vibantavarium_R
+	Vibantavarium
+	dacia
+	Venedae
+	113 52 159
+	scythia_r
+	5
+	4
+AbiaeKome_R
+	AbiaeKome
+	scythia
+	Sarmatians
+	48 204 56
+	saka
+	5
+	3
+AlanCamp_R
+	AlanCamp
+	scythia
+	Alans
+	160 18 18
+	saka
+	5
+	3
+Almatau_R
+	Almatau
+	parthia
+	Alans
+	66 76 170
+	saka
+	5
+	5
+ArggipaeiCamp_R
+	ArggipaeiCamp
+	scythia
+	Alans
+	217 237 49
+	saka
+	5
+	3
+AsianiKome_R
+	AsianiKome
+	scythia
+	Sarmatians
+	69 207 63
+	saka
+	5
+	3
+AspisiCamp_R
+	AspisiCamp
+	scythia
+	Alans
+	179 177 116
+	saka
+	5
+	3
+AugasiiKome_R
+	AugasiiKome
+	scythia
+	Alans
+	193 182 56
+	saka
+	5
+	5
+Auzacia_R
+	Auzacia
+	parthia
+	Alans
+	193 123 130
+	saka
+	5
+	4
+Balasagun_R
+	Balasagun
+	parthia
+	Alans
+	147 129 4
+	saka
+	5
+	6
+IastaeCamp_R
+	IastaeCamp
+	scythia
+	Alans
+	155 204 186
+	saka
+	5
+	3
+IssedonScythia_R
+	IssedonScythia
+	parthia
+	Alans
+	142 86 121
+	saka
+	5
+	5
+Issedon_R
+	Issedon
+	parthia
+	Alans
+	219 131 214
+	saka
+	5
+	5
+JiankunCamp_R
+	JiankunCamp
+	scythia
+	Alans
+	167 48 150
+	saka
+	5
+	2
+Kulja_R
+	Kulja
+	scythia
+	Alans
+	118 138 94
+	saka
+	5
+	4
+KyrgyzCamp_R
+	KyrgyzCamp
+	scythia
+	Alans
+	230 78 61
+	saka
+	5
+	3
+MagyarCamp_R
+	MagyarCamp
+	scythia
+	Alans
+	75 63 144
+	saka
+	5
+	3
+MassagetaeCamp_R
+	MassagetaeCamp
+	scythia
+	Alans
+	59 54 74
+	saka
+	5
+	3
+MateriCamp_R
+	MateriCamp
+	scythia
+	Alans
+	143 59 22
+	saka
+	5
+	3
+ModocaeKome_R
+	ModocaeKome
+	scythia
+	Sarmatians
+	25 61 135
+	saka
+	5
+	3
+SakaCamp_R
+	SakaCamp
+	scythia
+	Alans
+	125 213 150
+	saka
+	5
+	3
+SakaRaukaCamp_R
+	SakaRaukaCamp
+	scythia
+	Alans
+	30 109 29
+	saka
+	5
+	4
+SakamurundaCamp_R
+	SakamurundaCamp
+	scythia
+	Alans
+	205 44 83
+	saka
+	5
+	3
+SakatigraxaudaKome_R
+	SakatigraxaudaKome
+	scythia
+	Sarmatians
+	220 235 77
+	saka
+	5
+	3
+TektosakaKome_R
+	TektosakaKome
+	scythia
+	Sarmatians
+	59 102 156
+	saka
+	5
+	4
+Wutanzili_R
+	Wutanzili
+	parthia
+	Medes
+	200 147 72
+	saka
+	5
+	2
+AgathyrsiKome_R
+	AgathyrsiKome
+	scythia
+	Sarmatians
+	158 31 32
+	amazonia
+	5
+	3
+ArimaspiCamp_R
+	ArimaspiCamp
+	scythia
+	Alans
+	186 119 39
+	amazonia
+	5
+	2
+Arimphaei_Camp_R
+	Arimphaei_Camp
+	scythia
+	Sarmatians
+	46 118 51
+	amazonia
+	5
+	1
+Borusci_Camp_R
+	Borusci_Camp
+	scythia
+	Sarmatians
+	239 200 31
+	amazonia
+	5
+	3
+Carbonium_R
+	Carbonium
+	scythia
+	Sarmatians
+	207 124 222
+	amazonia
+	5
+	2
+ChaenidesKome_R
+	ChaenidesKome
+	scythia
+	Sarmatians
+	113 103 171
+	amazonia
+	5
+	3
+GeviniKome_R
+	GeviniKome
+	scythia
+	Sarmatians
+	66 166 77
+	amazonia
+	5
+	3
+HippopodesKome_R
+	HippopodesKome
+	scythia
+	Sarmatians
+	123 116 33
+	amazonia
+	5
+	3
+Melanchlainopolis_R
+	Melanchlainopolis
+	scythia
+	Sarmatians
+	89 30 117
+	amazonia
+	5
+	3
+NasciKome_R
+	NasciKome
+	scythia
+	Sarmatians
+	126 29 37
+	amazonia
+	5
+	3
+Salium_R
+	Salium
+	scythia
+	Sarmatians
+	190 105 46
+	amazonia
+	5
+	2
+Stavanium_R
+	Stavanium
+	scythia
+	Sarmatians
+	218 175 69
+	amazonia
+	5
+	3
+Karadong_R
+	Karadong
+	parthia
+	Medes
+	123 161 62
+	tarim
+	5
+	2
+Karasahr_R
+	Karasahr
+	parthia
+	Medes
+	175 99 149
+	tarim
+	5
+	5
+Kasia_R
+	Kasia
+	parthia
+	Medes
+	197 192 39
+	tarim
+	5
+	5
+Keladun_R
+	Keladun
+	parthia
+	Medes
+	223 55 96
+	tarim
+	5
+	3
+Khotan_R
+	Khotan
+	parthia
+	Medes
+	149 104 109
+	tarim
+	5
+	5
+Korla_R
+	Korla
+	parthia
+	Medes
+	183 40 47
+	tarim
+	5
+	4
+Kroran_R
+	Kroran
+	parthia
+	Medes
+	115 83 166
+	tarim
+	5
+	5
+Kucha_R
+	Kucha
+	parthia
+	Medes
+	156 147 25
+	tarim
+	5
+	5
+Kumo_R
+	Kumo
+	parthia
+	Medes
+	40 79 235
+	tarim
+	5
+	4
+Luntai_R
+	Luntai
+	parthia
+	Medes
+	131 103 222
+	tarim
+	5
+	3
+Miran_R
+	Miran
+	parthia
+	Medes
+	23 132 123
+	tarim
+	5
+	4
+Niya_R
+	Niya
+	parthia
+	Medes
+	207 158 54
+	tarim
+	5
+	4
+Palliana_R
+	Palliana
+	parthia
+	Medes
+	140 50 50
+	tarim
+	5
+	4
+Pishan_R
+	Pishan
+	parthia
+	Medes
+	168 228 160
+	tarim
+	5
+	3
+Qarqan_R
+	Qarqan
+	parthia
+	Medes
+	30 244 72
+	tarim
+	5
+	4
+Suoju_R
+	Suoju
+	parthia
+	Medes
+	188 121 18
+	tarim
+	5
+	3
+Tashkurghan_R
+	Tashkurghan
+	parthia
+	Medes
+	40 98 46
+	tarim
+	5
+	5
+Tumxuk_R
+	Tumxuk
+	parthia
+	Medes
+	25 194 40
+	tarim
+	5
+	4
+Ush_R
+	Ush
+	parthia
+	Medes
+	104 54 131
+	tarim
+	5
+	3
+Weili_R
+	Weili
+	parthia
+	Medes
+	156 221 155
+	tarim
+	5
+	3
+Wensu_R
+	Wensu
+	parthia
+	Medes
+	50 113 57
+	tarim
+	5
+	3
+Yarkand_R
+	Yarkand
+	parthia
+	Medes
+	40 45 107
+	tarim
+	5
+	4
+Yuni_R
+	Yuni
+	parthia
+	Medes
+	189 86 26
+	tarim
+	5
+	3
+Astana_R
+	Astana
+	parthia
+	Medes
+	139 190 15
+	tarim
+	5
+	4
+Cumuda_R
+	Cumuda
+	parthia
+	Medes
+	111 57 60
+	tarim
+	5
+	5
+Dunhuang_R
+	Dunhuang
+	parthia
+	Medes
+	58 170 96
+	tarim
+	5
+	6
+TuyuhunCamp_R
+	TuyuhunCamp
+	scythia
+	Medes
+	99 32 119
+	tarim
+	5
+	4
+WusunCamp_R
+	WusunCamp
+	parthia
+	Medes
+	208 175 45
+	tarim
+	5
+	3
+Yarkhoto_R
+	Yarkhoto
+	parthia
+	Medes
+	162 42 181
+	tarim
+	5
+	5
+YuezhiCamp_R
+	YuezhiCamp
+	scythia
+	Medes
+	216 168 121
+	tarim
+	5
+	3
+Yumen_R
+	Yumen
+	parthia
+	Medes
+	103 122 218
+	tarim
+	5
+	5
+AshinaCamp_R
+	AshinaCamp
+	scythia
+	Alans
+	198 68 202
+	altai
+	5
+	3
+ChubeiXiongnuCamp_R
+	ChubeiXiongnuCamp
+	scythia
+	Alans
+	68 43 218
+	altai
+	5
+	3
+Damna_R
+	Damna
+	scythia
+	Alans
+	227 150 81
+	altai
+	5
+	3
+DinglingCamp_R
+	DinglingCamp
+	scythia
+	Alans
+	105 87 59
+	altai
+	5
+	3
+GekunCamp_R
+	GekunCamp
+	scythia
+	Alans
+	213 69 213
+	altai
+	5
+	3
+Guqung_R
+	Guqung
+	parthia
+	Medes
+	74 122 71
+	altai
+	5
+	5
+HujieCamp_R
+	HujieCamp
+	scythia
+	Medes
+	103 159 105
+	altai
+	5
+	4
+HunyuCamp_R
+	HunyuCamp
+	scythia
+	Alans
+	68 180 180
+	altai
+	5
+	3
+Jumi_R
+	Jumi
+	parthia
+	Medes
+	105 10 95
+	altai
+	5
+	4
+JushiCamp_R
+	JushiCamp
+	scythia
+	Alans
+	30 213 27
+	altai
+	5
+	3
+LanXiongnuCamp_R
+	LanXiongnuCamp
+	scythia
+	Alans
+	58 161 102
+	altai
+	5
+	3
+Pulei_R
+	Pulei
+	parthia
+	Medes
+	235 207 52
+	altai
+	5
+	3
+QusheCamp_R
+	QusheCamp
+	scythia
+	Alans
+	91 51 96
+	altai
+	5
+	3
+SamoyedCamp_R
+	SamoyedCamp
+	scythia
+	Alans
+	30 124 27
+	altai
+	5
+	3
+TegregCamp_R
+	TegregCamp
+	scythia
+	Alans
+	198 217 66
+	altai
+	5
+	3
+Urabo_R
+	Urabo
+	parthia
+	Medes
+	184 90 18
+	altai
+	5
+	5
+Usu_R
+	Usu
+	parthia
+	Medes
+	39 95 104
+	altai
+	5
+	5
+XinliCamp_R
+	XinliCamp
+	scythia
+	Alans
+	106 117 142
+	altai
+	5
+	4
+XubuXiongnuCamp_R
+	XubuXiongnuCamp
+	scythia
+	Alans
+	119 62 15
+	altai
+	5
+	3
+Aiaka_R
+	Aiaka
+	parthia
+	Medes
+	27 70 230
+	tibet
+	5
+	4
+Askardu_R
+	Askardu
+	parthia
+	Medes
+	191 145 193
+	tibet
+	5
+	3
+ChangtangCamp_R
+	ChangtangCamp
+	scythia
+	Medes
+	37 139 43
+	tibet
+	5
+	2
+Gandharva_R
+	Gandharva
+	parthia
+	Medes
+	201 221 53
+	tibet
+	5
+	2
+Gyantse_R
+	Gyantse
+	parthia
+	Medes
+	210 105 34
+	tibet
+	5
+	5
+Jumla_R
+	Jumla
+	parthia
+	Medes
+	160 38 63
+	tibet
+	5
+	5
+KadamCamp_R
+	KadamCamp
+	scythia
+	Medes
+	28 162 174
+	tibet
+	5
+	3
+KagyuCamp_R
+	KagyuCamp
+	scythia
+	Medes
+	213 86 213
+	tibet
+	5
+	3
+Kimpurusha_R
+	Kimpurusha
+	parthia
+	Medes
+	19 226 19
+	tibet
+	5
+	4
+Lhasa_R
+	Lhasa
+	parthia
+	Medes
+	201 195 94
+	tibet
+	5
+	5
+Loha_R
+	Loha
+	parthia
+	Medes
+	132 28 54
+	tibet
+	5
+	3
+Paro_R
+	Paro
+	parthia
+	Medes
+	209 186 107
+	tibet
+	5
+	5
+Rutog_R
+	Rutog
+	parthia
+	Medes
+	105 27 137
+	tibet
+	5
+	4
+Shigatse_R
+	Shigatse
+	parthia
+	Medes
+	52 154 64
+	tibet
+	5
+	5
+Skardu_R
+	Skardu
+	parthia
+	Medes
+	24 105 187
+	tibet
+	5
+	3
+Srinagara_R
+	Srinagara
+	parthia
+	Medes
+	206 207 110
+	tibet
+	5
+	6
+Tsetang_R
+	Tsetang
+	parthia
+	Medes
+	77 183 193
+	tibet
+	5
+	5
+AlexandriaIndus_R
+	AlexandriaIndus
+	parthia
+	Medes
+	144 84 66
+	indus
+	5
+	9
+Amaktis_R
+	Amaktis
+	parthia
+	Medes
+	65 65 218
+	indus
+	5
+	6
+Andrapana_R
+	Andrapana
+	parthia
+	Medes
+	215 30 55
+	indus
+	5
+	5
+Arigaeum_R
+	Arigaeum
+	parthia
+	Medes
+	136 55 181
+	indus
+	5
+	3
+Aristobathara_R
+	Aristobathara
+	parthia
+	Medes
+	188 187 10
+	indus
+	5
+	5
+Aristobathra_R
+	Aristobathra
+	parthia
+	Medes
+	165 46 49
+	indus
+	5
+	10
+Asigramma_R
+	Asigramma
+	parthia
+	Medes
+	45 110 47
+	indus
+	5
+	6
+Azika_R
+	Azika
+	parthia
+	Medes
+	111 155 118
+	indus
+	5
+	6
+Barbaricum_R
+	Barbaricum
+	parthia
+	Medes
+	79 52 108
+	indus
+	5
+	5
+Bauterna_R
+	Bauterna
+	parthia
+	Medes
+	164 49 212
+	indus
+	5
+	4
+Bucephala_R
+	Bucephala
+	parthia
+	Medes
+	196 52 235
+	indus
+	5
+	8
+Cottabara_R
+	Cottabara
+	parthia
+	Medes
+	129 243 99
+	indus
+	5
+	5
+Daidala_R
+	Daidala
+	parthia
+	Medes
+	141 37 156
+	indus
+	5
+	6
+Dyrta_R
+	Dyrta
+	parthia
+	Medes
+	58 186 54
+	indus
+	5
+	5
+Kamigara_R
+	Kamigara
+	parthia
+	Medes
+	136 110 143
+	indus
+	5
+	8
+Kurupura_R
+	Kurupura
+	parthia
+	Medes
+	152 153 41
+	indus
+	5
+	5
+Labokla_R
+	Labokla
+	parthia
+	Medes
+	167 23 29
+	indus
+	5
+	8
+Minnagara_R
+	Minnagara
+	parthia
+	Medes
+	83 97 166
+	indus
+	5
+	9
+Mulasthana_R
+	Mulasthana
+	parthia
+	Medes
+	63 190 152
+	indus
+	5
+	7
+Naagramma_R
+	Naagramma
+	parthia
+	Medes
+	255 252 108
+	indus
+	5
+	6
+Nagahara_R
+	Nagahara
+	parthia
+	Medes
+	230 223 125
+	indus
+	5
+	6
+Naustathmos_R
+	Naustathmos
+	parthia
+	Medes
+	135 174 109
+	indus
+	5
+	6
+NicaeaIndus_R
+	NicaeaIndus
+	parthia
+	Medes
+	90 29 101
+	indus
+	5
+	7
+Panassa_R
+	Panassa
+	parthia
+	Medes
+	41 52 187
+	indus
+	5
+	5
+Patala_R
+	Patala
+	parthia
+	Medes
+	193 116 35
+	indus
+	5
+	11
+Prasthala_R
+	Prasthala
+	parthia
+	Medes
+	109 132 183
+	indus
+	5
+	7
+Purushapura_R
+	Purushapura
+	parthia
+	Medes
+	50 108 199
+	indus
+	5
+	8
+Pushkalavati_R
+	Pushkalavati
+	parthia
+	Medes
+	228 159 51
+	indus
+	5
+	9
+Rajapura_R
+	Rajapura
+	parthia
+	Medes
+	62 178 64
+	indus
+	5
+	5
+Sabana_R
+	Sabana
+	parthia
+	Medes
+	150 69 52
+	indus
+	5
+	4
+Sagala_R
+	Sagala
+	parthia
+	Medes
+	191 126 130
+	indus
+	5
+	11
+Shivipura_R
+	Shivipura
+	parthia
+	Medes
+	208 135 62
+	indus
+	5
+	6
+Sibipura_R
+	Sibipura
+	parthia
+	Medes
+	69 142 35
+	indus
+	5
+	7
+Sindomana_R
+	Sindomana
+	parthia
+	Medes
+	166 162 78
+	indus
+	5
+	8
+Singhapura_R
+	Singhapura
+	parthia
+	Medes
+	94 223 108
+	indus
+	5
+	2
+Taxila_R
+	Taxila
+	parthia
+	Medes
+	53 116 98
+	indus
+	5
+	12
+Tiausa_R
+	Tiausa
+	parthia
+	Medes
+	161 169 96
+	indus
+	5
+	6
+Trigarta_R
+	Trigarta
+	parthia
+	Medes
+	106 15 217
+	indus
+	5
+	5
+Tulamba_R
+	Tulamba
+	parthia
+	Medes
+	203 201 105
+	indus
+	5
+	8
+Uragapura_R
+	Uragapura
+	parthia
+	Medes
+	202 46 46
+	indus
+	5
+	5
+Varnu_R
+	Varnu
+	parthia
+	Medes
+	62 22 146
+	indus
+	5
+	5
+Xoana_R
+	Xoana
+	parthia
+	Medes
+	46 75 58
+	indus
+	5
+	6
+Pragjyotishpura_R
+	Pragjyotishpura
+	parthia
+	Medes
+	40 107 50
+	india
+	5
+	7
+Durjaya_R
+	Durjaya
+	parthia
+	Medes
+	203 74 71
+	india
+	5
+	6
+Monyul_R
+	Monyul
+	parthia
+	Medes
+	53 53 99
+	india
+	5
+	6
+Salariga_R
+	Salariga
+	parthia
+	Medes
+	195 214 141
+	india
+	5
+	6
+Pundranagara_R
+	Pundranagara
+	parthia
+	Medes
+	36 43 246
+	india
+	5
+	7
+Kelydna_R
+	Kelydna
+	parthia
+	Medes
+	228 221 46
+	india
+	5
+	6
+Aganagara_R
+	Aganagara
+	parthia
+	Medes
+	68 119 66
+	india
+	5
+	6
+Pertalis_R
+	Pertalis
+	parthia
+	Medes
+	132 84 186
+	india
+	5
+	6
+Tamralipta_R
+	Tamralipta
+	parthia
+	Medes
+	193 69 124
+	india
+	5
+	8
+Haritakivan_R
+	Haritakivan
+	parthia
+	Medes
+	233 219 130
+	india
+	5
+	5
+Bamanghati_R
+	Bamanghati
+	parthia
+	Medes
+	149 205 214
+	india
+	5
+	5
+Sthanishvara_R
+	Sthanishvara
+	parthia
+	Medes
+	35 117 34
+	india
+	5
+	6
+Dronanagari_R
+	Dronanagari
+	parthia
+	Medes
+	193 175 18
+	india
+	5
+	5
+Khokhrakot_R
+	Khokhrakot
+	parthia
+	Medes
+	227 136 59
+	india
+	5
+	6
+Hastinapura_R
+	Hastinapura
+	parthia
+	Medes
+	164 30 32
+	india
+	5
+	7
+Mathura_R
+	Mathura
+	parthia
+	Medes
+	33 127 228
+	india
+	5
+	9
+Ahichchhatra_R
+	Ahichchhatra
+	parthia
+	Medes
+	63 224 107
+	india
+	5
+	8
+Kanyakubja_R
+	Kanyakubja
+	parthia
+	Medes
+	82 21 160
+	india
+	5
+	8
+Karvirpur_R
+	Karvirpur
+	parthia
+	Medes
+	91 143 176
+	india
+	5
+	6
+Kaushambi_R
+	Kaushambi
+	parthia
+	Medes
+	164 88 30
+	india
+	5
+	7
+Varanasi_R
+	Varanasi
+	parthia
+	Medes
+	188 133 191
+	india
+	5
+	8
+Saketa_R
+	Saketa
+	parthia
+	Medes
+	229 217 105
+	india
+	5
+	9
+Sravasti_R
+	Sravasti
+	parthia
+	Medes
+	106 92 33
+	india
+	5
+	7
+Kapilavastu_R
+	Kapilavastu
+	parthia
+	Medes
+	128 230 140
+	india
+	5
+	6
+Kushinara_R
+	Kushinara
+	parthia
+	Medes
+	113 19 158
+	india
+	5
+	7
+Devanapatana_R
+	Devanapatana
+	parthia
+	Medes
+	82 28 111
+	india
+	5
+	7
+Rajagriha_R
+	Rajagriha
+	parthia
+	Medes
+	60 49 124
+	india
+	5
+	10
+Champa_R
+	Champa
+	parthia
+	Medes
+	165 80 29
+	india
+	5
+	9
+Vaishali_R
+	Vaishali
+	parthia
+	Medes
+	197 198 25
+	india
+	5
+	8
+Mithila_R
+	Mithila
+	parthia
+	Medes
+	147 48 42
+	india
+	5
+	7
+Pataliputra_R
+	Pataliputra
+	parthia
+	Medes
+	163 143 186
+	india
+	5
+	13
+Saharsa_R
+	Saharsa
+	parthia
+	Medes
+	103 210 111
+	india
+	5
+	7
+Naimisha_R
+	Naimisha
+	parthia
+	Medes
+	221 112 112
+	india
+	5
+	6
+Viratanagara_R
+	Viratanagara
+	parthia
+	Medes
+	152 190 152
+	india
+	5
+	6
+Mrittikavati_R
+	Mrittikavati
+	parthia
+	Medes
+	204 94 223
+	india
+	5
+	7
+Kantipura_R
+	Kantipura
+	parthia
+	Medes
+	133 14 26
+	india
+	5
+	7
+Padmavati_R
+	Padmavati
+	parthia
+	Medes
+	99 218 151
+	india
+	5
+	8
+Erakaksa_R
+	Erakaksa
+	parthia
+	Medes
+	25 73 220
+	india
+	5
+	6
+Pulindanagara_R
+	Pulindanagara
+	parthia
+	Medes
+	12 224 22
+	india
+	5
+	6
+Suktimati_R
+	Suktimati
+	parthia
+	Medes
+	63 64 126
+	india
+	5
+	7
+Tripuri_R
+	Tripuri
+	parthia
+	Medes
+	165 99 230
+	india
+	5
+	7
+Vidisha_R
+	Vidisha
+	parthia
+	Medes
+	131 33 46
+	india
+	5
+	8
+Mahishmati_R
+	Mahishmati
+	parthia
+	Medes
+	64 121 43
+	india
+	5
+	9
+Ujjain_R
+	Ujjain
+	parthia
+	Medes
+	91 151 154
+	india
+	5
+	11
+Dashapura_R
+	Dashapura
+	parthia
+	Medes
+	217 198 49
+	india
+	5
+	6
+Madhyamika_R
+	Madhyamika
+	parthia
+	Medes
+	36 103 0
+	india
+	5
+	7
+Pushkara_R
+	Pushkara
+	parthia
+	Medes
+	38 68 130
+	india
+	5
+	5
+Kanthi_R
+	Kanthi
+	parthia
+	Medes
+	75 157 75
+	india
+	5
+	4
+Vamanasthali_R
+	Vamanasthali
+	parthia
+	Medes
+	231 227 73
+	india
+	5
+	6
+Vallabhipura_R
+	Vallabhipura
+	parthia
+	Medes
+	164 55 76
+	india
+	5
+	7
+Saudrabatva_R
+	Saudrabatva
+	parthia
+	Medes
+	161 163 107
+	india
+	5
+	5
+Ajabpura_R
+	Ajabpura
+	parthia
+	Medes
+	129 31 138
+	india
+	5
+	6
+Bharukaccha_R
+	Bharukaccha
+	parthia
+	Medes
+	187 111 28
+	india
+	5
+	8
+Sopara_R
+	Sopara
+	parthia
+	Medes
+	73 239 188
+	india
+	5
+	8
+Mandagara_R
+	Mandagara
+	parthia
+	Medes
+	144 106 151
+	india
+	5
+	6
+Govapuri_R
+	Govapuri
+	parthia
+	Medes
+	255 234 107
+	india
+	5
+	7
+Olochoira_R
+	Olochoira
+	parthia
+	Medes
+	109 32 149
+	india
+	5
+	7
+Ezhimala_R
+	Ezhimala
+	parthia
+	Medes
+	40 179 169
+	india
+	5
+	6
+Vanchi_R
+	Vanchi
+	parthia
+	Medes
+	199 115 11
+	india
+	5
+	8
+Kuzhumur_R
+	Kuzhumur
+	parthia
+	Medes
+	54 51 180
+	india
+	5
+	7
+Navashikh_R
+	Navashikh
+	parthia
+	Medes
+	105 47 100
+	india
+	5
+	5
+Junnar_R
+	Junnar
+	parthia
+	Medes
+	197 22 63
+	india
+	5
+	6
+Pratishthana_R
+	Pratishthana
+	parthia
+	Medes
+	30 60 159
+	india
+	5
+	10
+Vatsagulma_R
+	Vatsagulma
+	parthia
+	Medes
+	166 226 70
+	india
+	5
+	7
+Kundinapuri_R
+	Kundinapuri
+	parthia
+	Medes
+	80 77 206
+	india
+	5
+	8
+Nandivardhana_R
+	Nandivardhana
+	parthia
+	Medes
+	35 171 60
+	india
+	5
+	6
+Bilaspura_R
+	Bilaspura
+	parthia
+	Medes
+	44 49 213
+	india
+	5
+	5
+Sripura_R
+	Sripura
+	parthia
+	Medes
+	142 41 35
+	india
+	5
+	6
+Asurgarh_R
+	Asurgarh
+	parthia
+	Medes
+	153 140 7
+	india
+	5
+	5
+Samapa_R
+	Samapa
+	parthia
+	Medes
+	87 98 238
+	india
+	5
+	5
+Pauni_R
+	Pauni
+	parthia
+	Medes
+	158 65 122
+	india
+	5
+	8
+Sabbinadu_R
+	Sabbinadu
+	parthia
+	Medes
+	30 105 52
+	india
+	5
+	6
+Podanapura_R
+	Podanapura
+	parthia
+	Medes
+	140 84 45
+	india
+	5
+	6
+Kondapur_R
+	Kondapur
+	parthia
+	Medes
+	47 138 206
+	india
+	5
+	6
+Tagara_R
+	Tagara
+	parthia
+	Medes
+	255 151 255
+	india
+	5
+	8
+Hippokoura_R
+	Hippokoura
+	parthia
+	Medes
+	145 123 57
+	india
+	5
+	6
+Raichore_R
+	Raichore
+	parthia
+	Medes
+	97 109 138
+	india
+	5
+	7
+Suvarnagiri_R
+	Suvarnagiri
+	parthia
+	Medes
+	26 91 36
+	india
+	5
+	6
+Yerragudi_R
+	Yerragudi
+	parthia
+	Medes
+	116 26 65
+	india
+	5
+	7
+Uccashringi_R
+	Uccashringi
+	parthia
+	Medes
+	126 216 138
+	india
+	5
+	5
+Banavasi_R
+	Banavasi
+	parthia
+	Medes
+	235 60 67
+	india
+	5
+	6
+Tagadur_R
+	Tagadur
+	parthia
+	Medes
+	144 129 88
+	india
+	5
+	6
+Mahishapura_R
+	Mahishapura
+	parthia
+	Medes
+	153 231 190
+	india
+	5
+	6
+Kodumanam_R
+	Kodumanam
+	parthia
+	Medes
+	38 109 42
+	india
+	5
+	7
+Tosali_R
+	Tosali
+	parthia
+	Medes
+	180 114 34
+	india
+	5
+	10
+Jaugada_R
+	Jaugada
+	parthia
+	Medes
+	229 41 89
+	india
+	5
+	7
+Dantapura_R
+	Dantapura
+	parthia
+	Medes
+	26 91 56
+	india
+	5
+	7
+Pishtapura_R
+	Pishtapura
+	parthia
+	Medes
+	139 139 84
+	india
+	5
+	8
+Amaravathi_R
+	Amaravathi
+	parthia
+	Medes
+	32 42 127
+	india
+	5
+	10
+Vengipuram_R
+	Vengipuram
+	parthia
+	Medes
+	143 113 166
+	india
+	5
+	8
+Ongole_R
+	Ongole
+	parthia
+	Medes
+	120 104 59
+	india
+	5
+	6
+Melange_R
+	Melange
+	parthia
+	Medes
+	67 136 32
+	india
+	5
+	6
+Kanchi_R
+	Kanchi
+	parthia
+	Medes
+	131 93 156
+	india
+	5
+	7
+Uraiyur_R
+	Uraiyur
+	parthia
+	Medes
+	189 51 21
+	india
+	5
+	9
+Thiruvarur_R
+	Thiruvarur
+	parthia
+	Medes
+	193 29 207
+	india
+	5
+	7
+Madurai_R
+	Madurai
+	parthia
+	Medes
+	246 250 138
+	india
+	5
+	10
+Aykudi_R
+	Aykudi
+	parthia
+	Medes
+	200 123 36
+	india
+	5
+	6
+Yalpanapattinam_R
+	Yalpanapattinam
+	parthia
+	Medes
+	152 78 158
+	india
+	5
+	5
+Anuradhapura_R
+	Anuradhapura
+	parthia
+	Medes
+	165 41 46
+	india
+	5
+	8
+Panduwasnuwara_R
+	Panduwasnuwara
+	parthia
+	Medes
+	97 216 99
+	india
+	5
+	7
+Dighavapi_R
+	Dighavapi
+	parthia
+	Medes
+	47 52 113
+	india
+	5
+	6
+Magampura_R
+	Magampura
+	parthia
+	Medes
+	176 167 39
+	india
+	5
+	5
+Arkaadu_R
+	Arkaadu
+	parthia
+	Medes
+	22 35 100
+	india
+	5
+	5
+Dedigama_R
+	Dedigama
+	parthia
+	Medes
+	197 60 190
+	india
+	5
+	6
+Gonakamaka_R
+	Gonakamaka
+	parthia
+	Medes
+	171 112 27
+	india
+	5
+	6
+Indraprastha_R
+	Indraprastha
+	parthia
+	Medes
+	36 29 109
+	india
+	5
+	7
+Kalligeris_R
+	Kalligeris
+	parthia
+	Medes
+	56 36 162
+	india
+	5
+	5
+Korkai_R
+	Korkai
+	parthia
+	Medes
+	27 188 127
+	india
+	5
+	6
+Kory_R
+	Kory
+	parthia
+	Medes
+	144 220 143
+	india
+	5
+	2
+Kumari_R
+	Kumari
+	parthia
+	Medes
+	116 71 131
+	india
+	5
+	4
+Toana_R
+	Toana
+	parthia
+	Medes
+	213 153 62
+	india
+	5
+	7
+Podouke_R
+	Podouke
+	parthia
+	Medes
+	191 177 49
+	india
+	5
+	7
+Sisupalgarh_R
+	Sisupalgarh
+	parthia
+	Medes
+	193 133 42
+	india
+	5
+	6
+Narmadapura_R
+	Narmadapura
+	parthia
+	Medes
+	79 42 105
+	india
+	5
+	7
+Sanakanikapura_R
+	Sanakanikapura
+	parthia
+	Medes
+	91 41 182
+	india
+	5
+	6
+Savarapura_R
+	Savarapura
+	parthia
+	Medes
+	182 202 21
+	india
+	5
+	6
+Prakasha_R
+	Prakasha
+	parthia
+	Medes
+	27 52 222
+	india
+	5
+	7
+Dvaravati_R
+	Dvaravati
+	parthia
+	Medes
+	28 132 41
+	india
+	5
+	6
+Vindhyatavi_R
+	Vindhyatavi
+	parthia
+	Medes
+	117 59 147
+	india
+	5
+	6
+Vijayapuri_R
+	Vijayapuri
+	parthia
+	Medes
+	193 190 39
+	india
+	5
+	7
+Davakapura_R
+	Davakapura
+	parthia
+	Medes
+	81 183 57
+	india
+	5
+	6
+Bharhut_R
+	Bharhut
+	parthia
+	Medes
+	219 219 76
+	india
+	5
+	5
+Nivas_R
+	Nivas
+	parthia
+	Medes
+	190 198 81
+	india
+	5
+	6
+Nelcynda_R
+	Nelcynda
+	parthia
+	Medes
+	96 214 94
+	india
+	5
+	6
+Tondi_R
+	Tondi
+	parthia
+	Medes
+	210 59 107
+	india
+	5
+	5
+Karur_R
+	Karur
+	parthia
+	Medes
+	171 165 86
+	india
+	5
+	6
+Polonnaruwa_R
+	Polonnaruwa
+	parthia
+	Medes
+	201 197 153
+	india
+	5
+	6
+Sannathi_R
+	Sannathi
+	parthia
+	Medes
+	122 204 83
+	india
+	5
+	6	
+DevPatan_R
+	DevPatan
+	parthia
+	Medes
+	50 70 148
+	india
+	5
+	6
+MinnagaraNammadus_R
+	MinnagaraNammadus
+	parthia
+	Medes
+	71 222 27
+	india
+	5
+	10
+Tyrannosboas_R
+	Tyrannosboas
+	parthia
+	Medes
+	129 204 133
+	india
+	5
+	5
+Karnasuvarna_R
+	Karnasuvarna
+	parthia
+	Medes
+	236 148 38
+	india
+	5
+	6
+Sinhapura_R
+	Sinhapura
+	parthia
+	Medes
+	50 203 64
+	india
+	5
+	7
+Champapura_R
+	Champapura
+	parthia
+	Medes
+	212 112 29
+	india
+	5
+	5
+Sahastrarama_R
+	Sahastrarama
+	parthia
+	Medes
+	145 132 57
+	india
+	5
+	7
+Kampilya_R
+	Kampilya
+	parthia
+	Medes
+	170 178 32
+	india
+	5
+	6
+Kusapura_R
+	Kusapura
+	parthia
+	Medes
+	190 22 17
+	india
+	5
+	6
+Mau_R
+	Mau
+	parthia
+	Medes
+	120 171 125
+	india
+	5
+	6
+Rampurva_R
+	Rampurva
+	parthia
+	Medes
+	34 138 36
+	india
+	5
+	6
+Lakshmanapura_R
+	Lakshmanapura
+	parthia
+	Medes
+	127 148 227
+	india
+	5
+	6
+Deogarh_R
+	Deogarh
+	parthia
+	Medes
+	39 104 42
+	india
+	5
+	6	
+Badnurpura_R
+	Badnurpura
+	parthia
+	Medes
+	173 81 181
+	india
+	5
+	6
+Narsinghpura_R
+	Narsinghpura
+	parthia
+	Medes
+	174 166 40
+	india
+	5
+	6
+Ropar_R
+	Ropar
+	parthia
+	Medes
+	191 113 190
+	india
+	5
+	6
+Indupur_R
+	Indupur
+	parthia
+	Medes
+	226 237 135
+	india
+	5
+	6
+Chutia_R
+	Chutia
+	parthia
+	Medes
+	175 42 186
+	india
+	5
+	4
+Sippara_R
+	Sippara
+	parthia
+	Medes
+	223 203 77
+	india
+	5
+	6
+Sidhapura_R
+	Sidhapura
+	parthia
+	Medes
+	192 152 211
+	india
+	5
+	7
+Athiralanagara_R
+	Athiralanagara
+	parthia
+	Medes
+	225 228 97
+	india
+	5
+	5
+Souannagoura_R
+	Souannagoura
+	parthia
+	Medes
+	176 56 180
+	india
+	5
+	6
+Korounkala_R
+	Korounkala
+	parthia
+	Medes
+	94 206 112
+	india
+	5
+	6
+Tiagoura_R
+	Tiagoura
+	parthia
+	Medes
+	216 28 28
+	india
+	5
+	6
+Pasikana_R
+	Pasikana
+	parthia
+	Medes
+	54 166 37
+	india
+	5
+	5
+Dharphal_R
+	Dharphal
+	parthia
+	Medes
+	50 148 55
+	india
+	5
+	5
+Katriyal_R
+	Katriyal
+	parthia
+	Medes
+	23 238 197
+	india
+	5
+	5
+Kerauge_R
+	Kerauge
+	parthia
+	Medes
+	209 116 117
+	india
+	5
+	5
+Pikendaka_R
+	Pikendaka
+	parthia
+	Medes
+	17 164 47
+	india
+	5
+	5
+Pentapolis_R
+	Pentapolis
+	parthia
+	Medes
+	195 58 88
+	india
+	5
+	6
+Alosygni_R
+	Alosygni
+	parthia
+	Medes
+	231 191 22
+	india
+	5
+	6
+Kottobara_R
+	Kottobara
+	parthia
+	Medes
+	219 227 93
+	india
+	5
+	6
+Peperine_R
+	Peperine
+	parthia
+	Medes
+	156 104 179
+	india
+	5
+	6
+Bhokardan_R
+	Bhokardan
+	parthia
+	Medes
+	176 81 205
+	india
+	5
+	5
+Kantakasola_R
+	Kantakasola
+	parthia
+	Medes
+	31 116 34
+	india
+	5
+	5
+Thorax_R
+	Thorax
+	parthia
+	Medes
+	213 215 20
+	india
+	5
+	5
+Nousaripa_R
+	Nousaripa
+	parthia
+	Medes
+	221 225 104
+	india
+	5
+	5
+Bardaxema_R
+	Bardaxema
+	parthia
+	Medes
+	170 49 55
+	india
+	5
+	5
+Kadapa_R
+	Kadapa
+	parthia
+	Medes
+	47 54 223
+	india
+	5
+	5
+Kandanavolu_R
+	Kandanavolu
+	parthia
+	Medes
+	219 86 29
+	india
+	5
+	6
+Vadgaon_R
+	Vadgaon
+	parthia
+	Medes
+	64 66 117
+	india
+	5
+	5
+Kinnara_R
+	Kinnara
+	parthia
+	Medes
+	145 6 9
+	india
+	5
+	3
+Lomasa_R
+	Lomasa
+	parthia
+	Medes
+	42 59 211
+	india
+	5
+	5
+Ghatotkachapura_R
+	Ghatotkachapura
+	parthia
+	Medes
+	18 129 69
+	india
+	5
+	3
+Kunindapura_R
+	Kunindapura
+	parthia
+	Medes
+	150 45 196
+	india
+	5
+	6
+Tharupura_R
+	Tharupura
+	parthia
+	Medes
+	28 43 208
+	india
+	5
+	5
+Nepalakaksha_R
+	Nepalakaksha
+	parthia
+	Medes
+	238 233 45
+	india
+	5
+	8
+Devaprastha_R
+	Devaprastha
+	parthia
+	Medes
+	238 194 65
+	india
+	5
+	6
+Sabara_R
+	Sabara
+	parthia
+	Medes
+	43 180 66
+	india
+	5
+	6
+Purulia_R
+	Purulia
+	parthia
+	Medes
+	35 125 38
+	india
+	5
+	6
+Byzantion_R
+	Byzantion
+	parthia
+	Medes
+	197 51 34
+	india
+	5
+	5
+Modogulla_R
+	Modogulla
+	parthia
+	Medes
+	203 194 88
+	india
+	5
+	6
+Gamaliba_R
+	Gamaliba
+	parthia
+	Medes
+	113 50 110
+	india
+	5
+	5
+Nagagoura_R
+	Nagagoura
+	parthia
+	Medes
+	212 144 96
+	india
+	5
+	6
+Bhojakata_R
+	Bhojakata
+	parthia
+	Medes
+	139 150 207
+	india
+	5
+	6
+Batanagra_R
+	Batanagra
+	parthia
+	Medes
+	181 55 65
+	india
+	5
+	6
+Sambalaka_R
+	Sambalaka
+	parthia
+	Medes
+	66 161 62
+	india
+	5
+	6
+Asinda_R
+	Asinda
+	parthia
+	Medes
+	215 155 127
+	india
+	5
+	6
+Agrinagara_R
+	Agrinagara
+	parthia
+	Medes
+	48 141 60
+	india
+	5
+	6
+Xerogerei_R
+	Xerogerei
+	parthia
+	Medes
+	193 118 98
+	india
+	5
+	6
+Kartinaga_R
+	Kartinaga
+	parthia
+	Medes
+	30 39 210
+	india
+	5
+	6
+Konta_R
+	Konta
+	parthia
+	Medes
+	53 200 87
+	india
+	5
+	7
+Vetrakiya_R
+	Vetrakiya
+	parthia
+	Medes
+	179 114 199
+	india
+	5
+	7
+Gaya_R
+	Gaya
+	parthia
+	Medes
+	105 217 95
+	india
+	5
+	7
+Ozoana_R
+	Ozoana
+	parthia
+	Medes
+	219 63 63
+	india
+	5
+	5
+Orthura_R
+	Orthura
+	parthia
+	Medes
+	47 193 64
+	india
+	5
+	6
+Odoka_R
+	Odoka
+	parthia
+	Medes
+	167 35 46
+	india
+	5
+	6
+Moduttu_R
+	Moduttu
+	parthia
+	Medes
+	38 155 50
+	india
+	5
+	6
+Avikudi_R
+	Avikudi
+	parthia
+	Medes
+	128 35 137
+	india
+	5
+	7
+Kosamba_R
+	Kosamba
+	parthia
+	Medes
+	208 229 41
+	india
+	5
+	6
+Viduranagara_R
+	Viduranagara
+	parthia
+	Medes
+	209 228 46
+	india
+	5
+	6
+Isila_R
+	Isila
+	parthia
+	Medes
+	113 51 134
+	india
+	5
+	6
+Devipattinam_R
+	Devipattinam
+	parthia
+	Medes
+	56 160 51
+	india
+	5
+	6
+Kurula_R
+	Kurula
+	parthia
+	Medes
+	82 116 150
+	india
+	5
+	6
+Mastanur_R
+	Mastanur
+	parthia
+	Medes
+	242 142 57
+	india
+	5
+	6
+Than_R
+	Than
+	parthia
+	Medes
+	41 44 187
+	india
+	5
+	6
+Drumkulya_R
+	Drumkulya
+	parthia
+	Medes
+	197 57 208
+	india
+	5
+	5
+Adisdara_R
+	Adisdara
+	parthia
+	Medes
+	80 58 199
+	india
+	5
+	7
+Sonnalage_R
+	Sonnalage
+	parthia
+	Medes
+	86 68 236
+	india
+	5
+	5
+Hyperboria
+	Themiskyra
+	scythia
+	Amazons
+	58 89 177
+	none
+	5
+	2
+TerraIncognita2_R
+	TerraIncognita2
+	scythia
+	Moors
+	104 91 124
+	none
+	5
+	2
+TerraIncognita3_R
+	TerraIncognita3
+	egypt
+	Nabataeans
+	131 102 133
+	none
+	5
+	2
+Veii_R
+	Veii
+	romans_senate
+	Etruscans
+	255 238 188
+	italy
+	5
+	7
+Antium_R
+	Antium
+	romans_senate
+	Latins
+	255 134 86
+	italy
+	5
+	6
+Tarquinii_R
+	Tarquinii
+	romans_julii
+	Etruscans
+	62 175 237
+	italy
+	5
+	8
+Nursia_R
+	Nursia
+	romans_julii
+	Umbrians
+	255 93 81
+	italy
+	5
+	4
+Reate_R
+	Reate
+	romans_julii
+	Umbrians
+	255 179 81
+	italy
+	5
+	5
+Aiacium_R
+	Aiacium
+	carthage
+	Beronicensis
+	142 168 255
+	sardinia
+	5
+	4

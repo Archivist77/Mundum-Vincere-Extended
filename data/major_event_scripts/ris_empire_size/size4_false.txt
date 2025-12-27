@@ -1,0 +1,17 @@
+script
+
+	declare_counter city_count
+	set_counter city_count 0
+	
+	for_each settlement in faction
+		inc_counter city_count 1
+	end_for
+	
+	if I_CompareCounter city_count < 9
+	|| I_CompareCounter city_count > 14
+		return true
+	end_if
+	
+	return false
+
+end_script

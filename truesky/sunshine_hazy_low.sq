@@ -1,0 +1,268 @@
+{
+	"cloudKeyframer 1":
+	{
+		"CloudClass": "0"
+		"DayLoop": "true"
+		"Enabled": "true"
+		"ExplicitOffsets": "true"
+		"GodraysSteps": "30"
+		"GridHeight": "64"
+		"GridWidth": "512"
+		"LoopRange": "1"
+		"LoopStart": "0"
+		"MapTexture": ""
+		"NoisePeriod": "666"
+		"NoisePhase": "0"
+		"NoiseResolution": "64"
+		"OverrideWind": "true"
+		"PrecipitationThresholdKm": "0.20"
+		"Viscosity": "0"
+		"VorticityConfinement": "1"
+		"Wrap": "true"
+		"ShadowRange": "200"
+		"ShadowTextureSize": "2048"
+		"ShadowStrength": "1.0"
+		"CloudShadowRT": "cloud_shadow.tga.dds"
+		"Name": "SRIS"
+		"keyframes":
+		[
+		{
+			"EdgeWorleyNoise": "0.25"
+			"WorleyNoise": "0.20"
+			"WorleyScale": "0.1"
+			"baseNoiseFactor": "0.25"
+			"churn": "75"
+			"cloud_base_km": "0.9520000219345093"
+			"cloud_height_km": "5"
+			"cloud_width_km": "50"
+			"cloudiness": "0.51"
+			"diffusivity": "0.75"
+			"distributionBaseLayer": "1.0"
+			"distributionTransition": "0.75"
+			"edgeSharpness": "1"
+			"extinction": "100"
+			"fractal_amplitude": "2.400000095367432"
+			"fractal_wavelength": "26"
+			"godrayStrength": "1"
+			"direct_light": "0.0"
+			"indirect_light": "0"
+			"ambient_light": "0.0"
+			"light_asymmetry": "0"
+			"maxDensityGm3": "0.5"
+			"octaves": "5"
+			"offsetKmx": "0"
+			"offsetKmy": "0"
+			"origin": "343.1071067966408575,1,3,32.7571067657322372"
+			"scalekm": "200,200,10"
+			"simulation": "0"
+			"time": "0.3540000021457672"
+			"upperDensity": "0.25"
+			"wind_direction": "90"
+			"wind_speed": "34"
+			"uid": "281"
+			"masks":
+			[
+			{
+				"id": "1"
+				"radius": "23.25940704345703"
+				"thickness": "1"
+				"x": "-43"
+				"y": "49"
+			}
+			{
+				"id": "2"
+				"radius": "73.00685119628906"
+				"thickness": "1"
+				"x": "3"
+				"y": "38"
+			}
+			{
+				"id": "3"
+				"radius": "41.43669891357422"
+				"thickness": "1"
+				"x": "45"
+				"y": "-25"
+			}
+			]
+			"volumeStates":
+			[
+			]
+		}
+		]
+		"storms":
+		[
+		]
+		"volumes":
+		[
+		]
+	}
+	"cloudKeyframer 2":
+	{
+		"CloudClass": "0"
+		"DayLoop": "true"
+		"Enabled": "true"
+		"ExplicitOffsets": "true"
+		"GodraysSteps": "30"
+		"GridHeight": "8"
+		"GridWidth": "16"
+		"LoopRange": "1"
+		"LoopStart": "0"
+		"MapTexture": ""
+		"NoisePeriod": "69"
+		"NoisePhase": "0"
+		"NoiseResolution": "64"
+		"OverrideWind": "true"
+		"PrecipitationThresholdKm": "0.2000000029802322"
+		"Viscosity": "0"
+		"VorticityConfinement": "0"
+		"Wrap": "true"
+		"ShadowRange": "200"
+		"ShadowTextureSize": "2048"
+		"ShadowStrength": "1.0"
+		"CloudShadowRT": "cloud_shadow.tga.dds"
+		"Name": "SRIS"
+		"keyframes":
+		[
+		{
+			"EdgeWorleyNoise": "0.25"
+			"WorleyNoise": "0.5"
+			"WorleyScale": "1"
+			"baseNoiseFactor": "0.5"
+			"churn": "55"
+			"cloud_base_km": "1.5"
+			"cloud_height_km": "4"
+			"cloud_width_km": "40"
+			"cloudiness": "0.39666"
+			"diffusivity": "0.75"
+			"distributionBaseLayer": "1.25"
+			"distributionTransition": "0.5"
+			"edgeSharpness": "1"
+			"extinction": "100"
+			"fractal_amplitude": "2.5"
+			"fractal_wavelength": "26"
+			"godrayStrength": "1"
+			"direct_light": "0.0"
+			"indirect_light": "0"
+			"ambient_light": "0.0"
+			"light_asymmetry": "0"
+			"maxDensityGm3": "0.5"
+			"octaves": "5"
+			"offsetKmx": "0"
+			"offsetKmy": "0"
+			"origin": "666.7071067690849304,0,0,69.7071067690849304"
+			"scalekm": "200,200,10"
+			"simulation": "0"
+			"time": "0.000316321849822998"
+			"uid": "SRIS"
+			"upperDensity": "0.25"
+			"wind_direction": "90"
+			"wind_speed": "25"
+			"masks":
+			[
+			{
+				"id": "1"
+				"radius": "57.80138397216797"
+				"thickness": "1"
+				"x": "-75"
+				"y": "37"
+			}
+			{
+				"id": "2"
+				"radius": "71.78440093994141"
+				"thickness": "1"
+				"x": "-13"
+				"y": "13"
+			}
+			{
+				"id": "3"
+				"radius": "61.03277969360352"
+				"thickness": "1"
+				"x": "29"
+				"y": "-27"
+			}
+			"volumeStates":
+			[
+			]
+		}
+		]
+		"storms":
+		[
+		]
+		"volumes":
+		[
+		]
+	}
+	"skyKeyframer":
+	{
+		"BackgroundBrightness": "0.0018"
+		"BackgroundTexture": "milkyway.tga.dds"
+		"BaseOzone": "0.05999999865889549,0.03999999910593033,0.009999999776482582,0"
+		"BrightnessPower": "0.485"
+		"ColourWavelengthsNm": "630,540,450,4.591634678053128e-41"
+		"DayLoop": "true"
+		"Emissivity": "0.00001254999999873689376"
+		"LinkKeyframeTimeAndDaytime": "true"
+		"LoopRange": "1"
+		"LoopStart": "0"
+		"MaxAltitudeKm": "25"
+		"MaxDistanceKm": "2000"
+		"MaxStarMagnitude": "6"
+		"MoonAlbedo": "10.0"
+		"MoonColour": "0.956, 0.945, 0.788"
+		"MoonRadiusArcMinutes": "60"
+		"MaxSunRadiance": "12000"
+		"NumAltitudes": "32"
+		"NumDistances": "128"
+		"NumElevations": "256"
+		"OzoneStrength": "0.125"
+		"Rayleigh": "0.008125694304704666,0.02320122834295034,0.03737406641244888"
+		"StartDayNumber": "-834053"
+		"SunIrradiance": "1,1,1"
+		"SunRadiusArcMinutes": "20"
+		"SunTexture": "sun.png"
+		"TimezoneHours": "1"
+		"atmosphereThicknessKm": "100"
+		"planetRadiusKm": "6378"
+		"FeralDepthBoost": "0.05,2.0"
+		"Name": "SRIS"
+		"keyframes":
+		[
+		{
+			"AutoMie": "true"
+			"FogCeilingKm": "0.475"
+			"GroundFog": "0.1"
+			"Haze": "33"
+			"HazeBaseKm": "0.55"
+			"HazeEccentricity": "0.8199999928474426"
+			"HazeScaleKm": "1.0"
+			"Horizon": "0,0,0"
+			"Mie": "0.006106850225478411,0.00817577913403511,0.01170013006776571,0"
+			"SeaLevelTemperatureK": "288.1499938964844"
+			"StoreAsColours": "false"
+			"Zenith": "0,0,0"
+			"automaticSunPosition": "true"
+			"automaticMoonPosition": "true"
+			"uid": "18"
+		}
+		]
+		"moons":
+		[
+		{
+			"albedo": "0.136000007390976"
+			"colour": "1,1,1"
+			"orbit.ArgumentOfPericentre": "318.0634"
+			"orbit.ArgumentOfPericentreRate": "0.1643573223"
+			"orbit.Eccentricity": "0.0549"
+			"orbit.Inclination": "5.1454"
+			"orbit.LongitudeOfAscendingNode": "125.1228"
+			"orbit.LongitudeOfAscendingNodeRate": "-0.0529538083"
+			"orbit.MeanAnomaly": "115.3654"
+			"orbit.MeanAnomalyRate": "13.0649929509"
+			"orbit.MeanDistance": "60.2666"
+			"radiusArcMinutes": "22"
+			"textureFilename": "moon.png"
+			"uid": "1"
+		}
+		]
+	}
+}

@@ -1,0 +1,137 @@
+script
+
+	;;;;;player
+	if I_LocalFaction romans_julii									;;if the player is one of the roman factions
+		|| I_LocalFaction romans_brutii
+		|| I_LocalFaction romans_scipii
+		|| I_LocalFaction romans_senate
+	
+		declare_counter captured_carthaginian_cities				;;declare counters
+		set_counter captured_carthaginian_cities 0
+		
+		if not MajorEventActive "marian_reforms"					;;if marian reforms hasn't been enacted
+			&& MajorEventActive "manipular_reforms"					;;manipular reforms have been enacted
+			
+																	;;check every settlement owned by the 4 roman factions
+			for_each settlement in faction "romans_julii"
+				if  HasResource sardinia							;;if they have the right resource
+				||  HasResource sicily
+				||  HasResource corsica
+					inc_counter captured_carthaginian_cities 1		;;increment the counter
+				end_if
+			end_for
+			
+			for_each settlement in faction "romans_brutii"
+				if  HasResource sardinia
+				||  HasResource sicily
+				||  HasResource corsica
+					inc_counter captured_carthaginian_cities 1
+				end_if
+			end_for
+			
+			for_each settlement in faction "romans_scipii"
+				if  HasResource sardinia
+				||  HasResource sicily
+				||  HasResource corsica
+					inc_counter captured_carthaginian_cities 1
+				end_if
+			end_for
+			
+			for_each settlement in faction "romans_senate"
+				if  HasResource sardinia
+				||  HasResource sicily
+				||  HasResource corsica
+					inc_counter captured_carthaginian_cities 1
+				end_if
+			end_for
+			
+			if I_CompareCounter captured_carthaginian_cities >= 12	;;if the romans have this number of settlements in those regions
+				return true 										;;trigger polybian reforms
+			end_if
+			
+		end_if
+		
+	end_if
+	
+	
+	;;;;;AI
+	if not I_LocalFaction romans_julii							;;if the player is not ANY of the roman factions
+		&& not I_LocalFaction romans_brutii
+		&& not I_LocalFaction romans_scipii
+		&& not I_LocalFaction romans_senate
+	
+		if not MajorEventActive "marian_reforms"
+			&& MajorEventActive "manipular_reforms"
+			
+			declare_counter cities_italy						;;declare counters
+			set_counter cities_italy 0
+			
+			for_each settlement in faction "romans_julii"
+				if  HasResource italy							;;if they have the right resource
+				||  HasResource italy_north
+				||  HasResource etruria
+				||  HasResource sicily
+					&&	I_SettlementLevel local >= city			;;is a regular city or up
+					&&	not HasResource rome					;;the settlement isn't rome
+					
+					inc_counter cities_italy 1					;;increment the counter
+				end_if
+			end_for
+		
+			for_each settlement in faction "romans_brutii"
+				if  HasResource italy
+				||  HasResource italy_north
+				||  HasResource etruria
+				||  HasResource sicily
+					&&	I_SettlementLevel local >= city
+					&&	not HasResource rome
+					
+					inc_counter cities_italy 1	
+				end_if
+			end_for
+			
+			for_each settlement in faction "romans_scipii"
+				if  HasResource italy
+				||  HasResource italy_north
+				||  HasResource etruria
+				||  HasResource sicily
+					&&	I_SettlementLevel local >= city
+					&&	not HasResource rome
+					
+					inc_counter cities_italy 1	
+				end_if
+			end_for
+			
+			for_each settlement in faction "romans_senate"
+				if  HasResource italy
+				||  HasResource italy_north
+				||  HasResource etruria
+				||  HasResource sicily
+					&&	I_SettlementLevel local >= city
+					&&	not HasResource rome
+					
+					inc_counter cities_italy 1	
+				end_if
+			end_for
+			
+			if I_CompareCounter cities_italy >= 4				;;if the romans have this number of regular cities (or larger) in those regions
+				return true 									;;trigger polybian reforms
+			end_if
+			
+		end_if
+		
+	end_if
+	
+	
+	return false 												;;don't trigger polybian reforms
+	
+end_script
+
+;;script
+;;	if	I_TurnNumber >= 91
+;;		
+;;		return true
+;;	end_if
+;;
+;;	return false
+;;end_script

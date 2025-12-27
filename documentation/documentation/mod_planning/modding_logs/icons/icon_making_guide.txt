@@ -1,0 +1,5 @@
+40 brightness for icon select
+-90 saturation for gray icon
+
+
+Resize it to 416, paste

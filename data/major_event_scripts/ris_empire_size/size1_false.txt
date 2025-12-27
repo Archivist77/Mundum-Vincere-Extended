@@ -1,0 +1,16 @@
+script
+
+	declare_counter city_count				;;declare counters
+	set_counter city_count 0
+	
+	for_each settlement in faction			;;count how many settlements a faction has
+		inc_counter city_count 1
+	end_for
+	
+	if I_CompareCounter city_count > 1		;;if it meets the threshold
+	    return true							;;trigger the event
+	end_if
+	
+	return false							;;otherwise don't
+
+end_script

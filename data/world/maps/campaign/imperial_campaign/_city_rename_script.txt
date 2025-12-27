@@ -1,0 +1,73 @@
+declare_counter brundisium_renamed
+declare_counter byzantion_renamed
+declare_counter felsina_renamed
+declare_counter massilia_renamed
+declare_counter segesta_renamed
+declare_counter tarentum_renamed
+
+monitor_event FactionTurnEnd FactionType slave
+	if I_SettlementOwner Brundisium = romans_julii
+		|| I_SettlementOwner Brundisium = romans_brutii
+		|| I_SettlementOwner Brundisium = romans_scipii
+		|| I_SettlementOwner Brundisium = romans_senate
+		|| I_SettlementOwner Brundisium = romans_unified
+	&& brundisium_renamed = 0
+
+	rename_settlement_in_region Brundisium_R "Brundisium"
+	set_counter brundisium_renamed 1
+	end_if
+	
+	if I_SettlementOwner Byzantion = romans_julii
+		|| I_SettlementOwner Byzantion = romans_brutii
+		|| I_SettlementOwner Byzantion = romans_scipii
+		|| I_SettlementOwner Byzantion = romans_senate
+		|| I_SettlementOwner Byzantion = romans_unified
+	&& byzantion_renamed = 0
+
+	rename_settlement_in_region Byzantion_R "Byzantium"
+	set_counter byzantion_renamed 1
+	end_if
+	
+	if I_SettlementOwner Felsina = romans_julii
+		|| I_SettlementOwner Felsina = romans_brutii
+		|| I_SettlementOwner Felsina = romans_scipii
+		|| I_SettlementOwner Felsina = romans_senate
+		|| I_SettlementOwner Felsina = romans_unified
+	&& felsina_renamed = 0
+
+	rename_settlement_in_region Felsina_R "Bononia"
+	set_counter felsina_renamed 1
+	end_if
+	
+	if I_SettlementOwner Massilia = romans_julii
+		|| I_SettlementOwner Massilia = romans_brutii
+		|| I_SettlementOwner Massilia = romans_scipii
+		|| I_SettlementOwner Massilia = romans_senate
+		|| I_SettlementOwner Massilia = romans_unified
+	&& massilia_renamed = 0
+
+	rename_settlement_in_region Transalpine_Gaul "Massalia"
+	end_if
+	
+	if I_SettlementOwner Segesta = romans_julii
+		|| I_SettlementOwner Segesta = romans_brutii
+		|| I_SettlementOwner Segesta = romans_scipii
+		|| I_SettlementOwner Segesta = romans_senate
+		|| I_SettlementOwner Segesta = romans_unified
+	&& segesta_renamed = 0
+
+	rename_settlement_in_region Liguria "Genua"
+	set_counter segesta_renamed 1
+	end_if
+	
+	if I_SettlementOwner Tarentum = romans_julii
+		|| I_SettlementOwner Tarentum = romans_brutii
+		|| I_SettlementOwner Tarentum = romans_scipii
+		|| I_SettlementOwner Tarentum = romans_senate
+		|| I_SettlementOwner Tarentum = romans_unified
+	&& tarentum_renamed = 0
+
+	rename_settlement_in_region Apulia "Tarentum"
+	set_counter tarentum_renamed 1
+	end_if
+end_monitor

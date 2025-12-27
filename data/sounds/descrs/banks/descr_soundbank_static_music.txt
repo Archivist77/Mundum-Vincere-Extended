@@ -1,0 +1,771 @@
+;; Last updated by jburnett on 2021/07/14
+;; DESCR file generated via RTW Amber pack editor
+
+"default sound parameters":
+{
+	"3d": false,				;;is the sound 3D (DO NOT CHANGE THIS)
+	"Probability": 100.0,		;;the chance the sound will play when triggered
+	"Volume": 100,				;;the volume of the sample as a percentage of the base file's
+	"Min pitch": 100.0,			;;the random pitch of the sample (0-200%)
+	"Max pitch": 100.0,			
+	"Priority": 9999,			;;sound with high priority will replace lower priority sounds if all soundchannels are used
+	"Fade in": 0.0,				;;the time, in seconds, for the sound to fade in and out
+	"Fade out": 0.0,			
+	"Looped": false,			;;should the sound loop?
+	"Random volume": 0,			;;the random adjustment applied to the volume (must be negative)
+	"Start delay": 0.0,			;;the constant delay before the sound should play when triggered
+	"Random delay": 0.0,		;;the maximum random delay added to the constant delay
+	"Pref type": "Music",		;;the slider the sound should be attached to
+	"Ignore pause": false,		;;should this sound ignore being paused?
+	"Streamed": true,			;;should this sound be streamed from disk?
+	"Pan": 0.5,					;;direction the sound should come from (nonfunctional as of writing this)
+	"Dry level": 1.0,			;; ???
+	"Wet level": 0.0,			;; ???
+},
+
+"soundbank_static_music":
+{
+	"entries":
+	[
+		{
+			;;the music state these tracks are tied to
+			"state": "frontend",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "all", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Frontend1-Rome_Total_War.opus",
+				"data/sounds/music/(stw_menu)_spartan_total_warrior.opus",
+				"data/sounds/music/(tyler_c_g_camp)_the_aegean.opus",
+				"data/sounds/music/(0ad_menu)_honor_bound.opus",
+				"data/sounds/music/(0ad_menu)_calm_before_the_storm.opus",
+				"data/sounds/music/(troy_credits)_nostos.opus",
+				;;"data/sounds/music/(troy_menu)_behold_a_terrible_beauty.opus",
+				;;"data/sounds/music/(pharaoh_menu)_field_of_reeds.opus",
+				;;"data/sounds/music/(troy_campaign)_wine_dark_seas.opus",
+				;;"data/sounds/music/(pharaoh_campaign)_shores_of_canaan.opus",
+				{
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "credits1",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "all", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Credits-Forever_(Rome_Total_War).opus",
+				;;"data/sounds/music/(stw_credits)_ladon.opus",
+				;;"data/sounds/music/(stw_credits)_super_sapper_man.opus",
+				;;"data/sounds/music/(stw_credits)_undead_ballet.opus",
+				{
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "credits2",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "all", ],
+
+			"sounds":
+			[
+				"data/sounds/music/CampaignWin1-Invicta.opus",
+				"data/sounds/music/Win1-Barbarian_Victory.opus",
+				"data/sounds/music/Tension4-Drums_of_Doom.opus",
+				"data/sounds/music/Tension3-Death_Approaches.opus",
+				"data/sounds/music/Tension2-Caesars_Nightmare.opus",
+				"data/sounds/music/Tension1-Journey_to_Rome_Part1.opus",
+				"data/sounds/music/Mobilize6-Soldiers_Chant.opus",
+				"data/sounds/music/Mobilize5-Mobilize.opus",
+				"data/sounds/music/Mobilize4-Army_of_Drums.opus",
+				"data/sounds/music/Mobilize3-Enemy_is_Near.opus",
+				"data/sounds/music/Mobilize2-Warrior_March.opus",
+				"data/sounds/music/Mobilize1-Journey_to_Rome_Part2.opus",
+				"data/sounds/music/Intro_Roman_Scipii.opus",
+				"data/sounds/music/Intro_Roman_Julii.opus",
+				"data/sounds/music/Intro_Roman_Brutii.opus",
+				"data/sounds/music/Intro_Greek.opus",
+				"data/sounds/music/Intro_Egyptian.opus",
+				"data/sounds/music/Intro_Eastern.opus",
+				"data/sounds/music/Intro_Carthage.opus",
+				"data/sounds/music/Intro_Barbarian.opus",
+				"data/sounds/music/Frontend2-Rome_HQ.opus",
+				"data/sounds/music/Frontend1-Rome_Total_War.opus",
+				"data/sounds/music/CampaignWin1-Invicta.opus",
+				"data/sounds/music/CampaignBattle1-Time_2_Kill.opus",
+				"data/sounds/music/Campaign6-Arabic_Summer.opus",
+				"data/sounds/music/Campaign5-Arabic_Winter.opus",
+				"data/sounds/music/Campaign4-Lonely_Strategos.opus",
+				"data/sounds/music/Campaign3-Divinitus.opus",
+				"data/sounds/music/Campaign2-Melancholy.opus",
+				"data/sounds/music/Campaign1-Autumn.opus",
+				"data/sounds/music/Battle4-Romantic_Battle.opus",
+				"data/sounds/music/Battle3-Melee_Cafe.opus",
+				"data/sounds/music/Battle2-Mayhem.opus",
+				"data/sounds/music/Battle1-Imperial_Conflict.opus",
+				{
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "city",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "all", "-arab", "-barbarian", "-brittonic", "-carthaginian", "-numidian", "-eastern", "-anatolian", "-caucasian", "-iberian", "-nuragic", "-indian", "-tamil", "-tibetan", "-tocharian", "-dacian", "-illyrian", "-egyptian", "-nubian", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Campaign4-Lonely_Strategos.opus",
+				"data/sounds/music/Campaign3-Divinitus.opus",
+				"data/sounds/music/Campaign2-Melancholy.opus",
+				"data/sounds/music/Campaign1-Autumn.opus",
+				"data/sounds/music/Intro_Roman_Julii.opus",
+				{
+					"Volume": 65,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "city",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "barbarian", "baltic", "brittonic", "dacian", "germanic", "iberian", "illyrian", "nomad", "nuragic", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Campaign4-Lonely_Strategos.opus",
+				"data/sounds/music/Campaign2-Melancholy.opus",
+				"data/sounds/music/Campaign1-Autumn.opus",
+				"data/sounds/music/Intro_Barbarian.opus",
+				{
+					"Volume": 65,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "city",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "carthaginian", "eastern", "anatolian", "egyptian", "arab", "caucasian", "indian", "tamil", "tibetan", "tocharian", "nubian", "numidian", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Intro_Carthage.opus",
+				"data/sounds/music/Intro_Egyptian.opus",
+				"data/sounds/music/Campaign6-Arabic_Summer.opus",
+				"data/sounds/music/Campaign5-Arabic_Winter.opus",
+				"data/sounds/music/Campaign4-Lonely_Strategos.opus",
+				"data/sounds/music/Campaign2-Melancholy.opus",
+				"data/sounds/music/Campaign1-Autumn.opus",
+				{
+					"Volume": 65,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "stratmap_summer",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "all", "-arab", "-barbarian", "-brittonic", "-carthaginian", "-numidian", "-eastern", "-anatolian", "-caucasian", "-iberian", "-nuragic", "-indian", "-tamil", "-tibetan", "-tocharian", "-greek", "-thracian", "-paeonian", "-dacian", "-illyrian", "-egyptian", "-nubian", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Campaign3-Divinitus.opus",
+				"data/sounds/music/Campaign2-Melancholy.opus",
+				"data/sounds/music/Intro_Roman_Julii.opus",
+				"data/sounds/music/(stw_camp_1)_acrisius.opus",
+				"data/sounds/music/(stw_camp_2)_koinos.opus",
+				"data/sounds/music/(0ad_menu)_juno_protect_you.opus",
+				"data/sounds/music/(0ad_camp)_mediterranean_waves.opus",
+				"data/sounds/music/(0ad_camp)_elysian_fields.opus",
+				"data/sounds/music/(0ad_camp)_the_governor.opus",
+				"data/sounds/music/(0ad_camp)_roman_ingenuity.opus",
+				"data/sounds/music/(0ad_camp)_tale_of_warriors.opus",
+				"data/sounds/music/(0ad_camp)_the_road_ahead.opus",
+				{
+					"Volume": 60,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "stratmap_summer",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "arab", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Intro_Egyptian.opus",
+				"data/sounds/music/Campaign6-Arabic_Summer.opus",
+				"data/sounds/music/Campaign2-Melancholy.opus",
+				"data/sounds/music/(0ad_camp)_land_between_the_two_seas.opus",
+				"data/sounds/music/(0ad_camp)_peaks_of_atlas.opus",
+				"data/sounds/music/(0ad_camp)_sands_of_time.opus",
+				"data/sounds/music/(0ad_camp)_valley_of_the_nile.opus",
+				{
+					"Volume": 60,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "stratmap_summer",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "barbarian", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Campaign3-Divinitus.opus",
+				"data/sounds/music/Campaign2-Melancholy.opus",
+				"data/sounds/music/Intro_Barbarian.opus",
+				"data/sounds/music/(0ad_camp)_cisalpine_gaul.opus",
+				"data/sounds/music/(0ad_camp)_harvest_festival.opus",
+				"data/sounds/music/(0ad_camp)_water's_edge.opus",
+				"data/sounds/music/(0ad_camp)_sunrise.opus",
+				"data/sounds/music/(0ad_camp)_harvest_moon.opus",
+				{
+					"Volume": 60,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "stratmap_summer",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "brittonic", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Campaign3-Divinitus.opus",
+				"data/sounds/music/Campaign2-Melancholy.opus",
+				"data/sounds/music/Intro_Barbarian.opus",
+				"data/sounds/music/(0ad_camp)_the_fledgling_kingdom.opus",
+				"data/sounds/music/(0ad_camp)_solstice_festival.opus",
+				"data/sounds/music/(0ad_camp)_whistler.opus",
+				"data/sounds/music/(0ad_camp)_as_seasons_change.opus",
+				"data/sounds/music/(0ad_camp)_highland_mist.opus",
+				"data/sounds/music/(0ad_camp)_celtica.opus",
+				"data/sounds/music/(0ad_camp)_mountain_idyll.opus",
+				"data/sounds/music/(0ad_camp)_albian_nocturne.opus",
+				{
+					"Volume": 60,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "stratmap_summer",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "carthaginian", "numidian", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Intro_Egyptian.opus",
+				"data/sounds/music/Campaign6-Arabic_Summer.opus",
+				"data/sounds/music/Campaign2-Melancholy.opus",
+				"data/sounds/music/(stw_camp_1)_acrisius.opus",
+				"data/sounds/music/(stw_camp_2)_koinos.opus",
+				"data/sounds/music/(0ad_camp)_mediterranean_waves.opus",
+				"data/sounds/music/(0ad_camp)_harsh_lands_rugged_people.opus",
+				"data/sounds/music/(0ad_camp)_peaks_of_atlas.opus",
+				"data/sounds/music/(0ad_camp)_from_every_corner.opus",
+				{
+					"Volume": 60,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "stratmap_summer",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "eastern", "anatolian", "caucasian", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Intro_Egyptian.opus",
+				"data/sounds/music/Campaign6-Arabic_Summer.opus",
+				"data/sounds/music/Campaign2-Melancholy.opus",
+				"data/sounds/music/(stw_camp_1)_acrisius.opus",
+				"data/sounds/music/(stw_camp_2)_koinos.opus",
+				"data/sounds/music/(0ad_camp)_sands_of_time.opus",
+				"data/sounds/music/(0ad_camp)_land_between_the_two_seas.opus",
+				"data/sounds/music/(0ad_camp)_valley_of_the_nile.opus",
+				"data/sounds/music/(0ad_camp)_along_the_nile.opus",
+				"data/sounds/music/(0ad_camp)_cradle_of_civilization.opus",
+				"data/sounds/music/(0ad_camp)_land_between_rivers.opus",
+				{
+					"Volume": 60,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "stratmap_summer",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "iberian", "nuragic", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Campaign3-Divinitus.opus",
+				"data/sounds/music/Campaign2-Melancholy.opus",
+				"data/sounds/music/Intro_Barbarian.opus",
+				"data/sounds/music/(0ad_menu)_an_old_warhorse_goes_to_pasture.opus",
+				"data/sounds/music/(0ad_camp)_celtica.opus",
+				"data/sounds/music/(0ad_camp)_harsh_lands_rugged_people.opus",
+				"data/sounds/music/(0ad_camp)_midwinter.opus",
+				"data/sounds/music/(0ad_camp)_the_pillars_of_hercules.opus",
+				{
+					"Volume": 60,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "stratmap_summer",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "indian", "tamil", "tibetan", "tocharian", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Intro_Egyptian.opus",
+				"data/sounds/music/Campaign6-Arabic_Summer.opus",
+				"data/sounds/music/Campaign2-Melancholy.opus",
+				"data/sounds/music/(0ad_menu)_an_old_warhorse_goes_to_pasture.opus",
+				"data/sounds/music/(0ad_camp)_land_between_the_two_seas.opus",
+				"data/sounds/music/(0ad_camp)_karmic_confluence.opus",
+				"data/sounds/music/(0ad_camp)_beyond_the_indus.opus",
+				"data/sounds/music/(0ad_camp)_red_dawn.opus",
+				"data/sounds/music/(0ad_camp)_hill_of_sorrows.opus",
+				{
+					"Volume": 60,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "stratmap_summer",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "greek", "thracian", "paeonian", "dacian", "illyrian", "-egypt", "-seleucid", "-bactria", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Campaign2-Melancholy.opus",
+				"data/sounds/music/(stw_camp_1)_acrisius.opus",
+				"data/sounds/music/(stw_camp_2)_koinos.opus",
+				"data/sounds/music/(0ad_camp)_harvest_festival.opus",
+				"data/sounds/music/(0ad_camp)_highland_mist.opus",
+				"data/sounds/music/(0ad_camp)_helen_leaves_sparta.opus",
+				"data/sounds/music/(0ad_camp)_the_hellespont.opus",
+				"data/sounds/music/(0ad_camp)_peaks_of_atlas.opus",
+				"data/sounds/music/(0ad_camp)_only_300_stood.opus",
+				"data/sounds/music/(0ad_camp)_rise_of_macedon.opus",
+				"data/sounds/music/(0ad_camp)_in_the_shadow_of_olympus.opus",
+				"data/sounds/music/(0ad_camp)_epitaph.opus",
+				"data/sounds/music/(0ad_camp)_elysian_fields.opus",
+				"data/sounds/music/(0ad_camp)_upstart_king.opus",
+				{
+					"Volume": 60,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "stratmap_summer",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "egypt", "seleucid", "bactria", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Intro_Egyptian.opus",
+				"data/sounds/music/Campaign6-Arabic_Summer.opus",
+				"data/sounds/music/Campaign2-Melancholy.opus",
+				"data/sounds/music/(stw_camp_1)_acrisius.opus",
+				"data/sounds/music/(stw_camp_2)_koinos.opus",
+				"data/sounds/music/(0ad_camp)_the_hellespont.opus",
+				"data/sounds/music/(0ad_camp)_rise_of_macedon.opus",
+				"data/sounds/music/(0ad_camp)_in_the_shadow_of_olympus.opus",
+				"data/sounds/music/(0ad_camp)_epitaph.opus",
+				"data/sounds/music/(0ad_camp)_sands_of_time.opus",
+				"data/sounds/music/(0ad_camp)_land_between_the_two_seas.opus",
+				"data/sounds/music/(0ad_camp)_valley_of_the_nile.opus",
+				"data/sounds/music/(0ad_camp)_along_the_nile.opus",
+				"data/sounds/music/(0ad_camp)_cradle_of_civilization.opus",
+				"data/sounds/music/(0ad_camp)_land_between_rivers.opus",
+				{
+					"Volume": 60,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "stratmap_summer",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "egyptian", "nubian", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Intro_Egyptian.opus",
+				"data/sounds/music/Campaign6-Arabic_Summer.opus",
+				"data/sounds/music/Campaign2-Melancholy.opus",
+				"data/sounds/music/(0ad_camp)_sands_of_time.opus",
+				"data/sounds/music/(0ad_camp)_land_between_the_two_seas.opus",
+				"data/sounds/music/(0ad_camp)_valley_of_the_nile.opus",
+				"data/sounds/music/(0ad_camp)_bandit_country.opus",
+				"data/sounds/music/(0ad_camp)_mirage.opus",
+				"data/sounds/music/(0ad_camp)_point_of_no_return.opus",
+				{
+					"Volume": 60,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "stratmap_winter",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "all", "-arab", "-barbarian", "-brittonic", "-carthaginian", "-numidian", "-eastern", "-anatolian", "-caucasian", "-iberian", "-nuragic", "-indian", "-tamil", "-tibetan", "-tocharian", "-greek", "-thracian", "-paeonian", "-dacian", "-illyrian", "-egyptian", "-nubian", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Campaign4-Lonely_Strategos.opus",
+				"data/sounds/music/Campaign1-Autumn.opus",
+				"data/sounds/music/(0ad_menu)_juno_protect_you.opus",
+				"data/sounds/music/(0ad_camp)_mediterranean_waves.opus",
+				"data/sounds/music/(0ad_camp)_elysian_fields.opus",
+				"data/sounds/music/(0ad_camp)_the_governor.opus",
+				"data/sounds/music/(0ad_camp)_roman_ingenuity.opus",
+				"data/sounds/music/(0ad_camp)_tale_of_warriors.opus",
+				"data/sounds/music/(0ad_camp)_the_road_ahead.opus",
+				{
+					"Volume": 60,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "stratmap_winter",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "arab", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Intro_Carthage.opus",
+				"data/sounds/music/Intro_Eastern.opus",
+				"data/sounds/music/Campaign5-Arabic_Winter.opus",
+				"data/sounds/music/(0ad_camp)_land_between_the_two_seas.opus",
+				"data/sounds/music/(0ad_camp)_peaks_of_atlas.opus",
+				"data/sounds/music/(0ad_camp)_sands_of_time.opus",
+				"data/sounds/music/(0ad_camp)_valley_of_the_nile.opus",
+				{
+					"Volume": 60,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "stratmap_winter",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "barbarian", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Campaign4-Lonely_Strategos.opus",
+				"data/sounds/music/Campaign1-Autumn.opus",
+				"data/sounds/music/(0ad_camp)_cisalpine_gaul.opus",
+				"data/sounds/music/(0ad_camp)_harvest_festival.opus",
+				"data/sounds/music/(0ad_camp)_water's_edge.opus",
+				"data/sounds/music/(0ad_camp)_sunrise.opus",
+				"data/sounds/music/(0ad_camp)_harvest_moon.opus",
+				{
+					"Volume": 60,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "stratmap_winter",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "brittonic", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Campaign4-Lonely_Strategos.opus",
+				"data/sounds/music/Campaign1-Autumn.opus",
+				"data/sounds/music/(0ad_camp)_the_fledgling_kingdom.opus",
+				"data/sounds/music/(0ad_camp)_solstice_festival.opus",
+				"data/sounds/music/(0ad_camp)_whistler.opus",
+				"data/sounds/music/(0ad_camp)_as_seasons_change.opus",
+				"data/sounds/music/(0ad_camp)_highland_mist.opus",
+				"data/sounds/music/(0ad_camp)_celtica.opus",
+				"data/sounds/music/(0ad_camp)_mountain_idyll.opus",
+				"data/sounds/music/(0ad_camp)_albian_nocturne.opus",
+				{
+					"Volume": 60,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "stratmap_winter",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "carthaginian", "numidian", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Intro_Carthage.opus",
+				"data/sounds/music/Intro_Eastern.opus",
+				"data/sounds/music/Campaign5-Arabic_Winter.opus",
+				"data/sounds/music/(0ad_camp)_mediterranean_waves.opus",
+				"data/sounds/music/(0ad_camp)_harsh_lands_rugged_people.opus",
+				"data/sounds/music/(0ad_camp)_peaks_of_atlas.opus",
+				"data/sounds/music/(0ad_camp)_from_every_corner.opus",
+				{
+					"Volume": 60,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "stratmap_winter",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "eastern", "anatolian", "caucasian", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Intro_Carthage.opus",
+				"data/sounds/music/Intro_Eastern.opus",
+				"data/sounds/music/Campaign5-Arabic_Winter.opus",
+				"data/sounds/music/(0ad_camp)_sands_of_time.opus",
+				"data/sounds/music/(0ad_camp)_land_between_the_two_seas.opus",
+				"data/sounds/music/(0ad_camp)_valley_of_the_nile.opus",
+				"data/sounds/music/(0ad_camp)_along_the_nile.opus",
+				"data/sounds/music/(0ad_camp)_cradle_of_civilization.opus",
+				"data/sounds/music/(0ad_camp)_land_between_rivers.opus",
+				{
+					"Volume": 60,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "stratmap_winter",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "iberian", "nuragic", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Campaign4-Lonely_Strategos.opus",
+				"data/sounds/music/Campaign1-Autumn.opus",
+				"data/sounds/music/(0ad_menu)_an_old_warhorse_goes_to_pasture.opus",
+				"data/sounds/music/(0ad_camp)_celtica.opus",
+				"data/sounds/music/(0ad_camp)_harsh_lands_rugged_people.opus",
+				"data/sounds/music/(0ad_camp)_midwinter.opus",
+				"data/sounds/music/(0ad_camp)_the_pillars_of_hercules.opus",
+				{
+					"Volume": 60,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "stratmap_winter",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "indian", "tamil", "tibetan", "tocharian", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Intro_Carthage.opus",
+				"data/sounds/music/Intro_Eastern.opus",
+				"data/sounds/music/Campaign5-Arabic_Winter.opus",
+				"data/sounds/music/(0ad_menu)_an_old_warhorse_goes_to_pasture.opus",
+				"data/sounds/music/(0ad_camp)_land_between_the_two_seas.opus",
+				"data/sounds/music/(0ad_camp)_karmic_confluence.opus",
+				"data/sounds/music/(0ad_camp)_beyond_the_indus.opus",
+				"data/sounds/music/(0ad_camp)_red_dawn.opus",
+				"data/sounds/music/(0ad_camp)_hill_of_sorrows.opus",
+				{
+					"Volume": 60,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "stratmap_winter",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "greek", "thracian", "paeonian", "dacian", "illyrian", "-egypt", "-seleucid", "-bactria", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Campaign4-Lonely_Strategos.opus",
+				"data/sounds/music/Campaign1-Autumn.opus",
+				"data/sounds/music/(0ad_camp)_harvest_festival.opus",
+				"data/sounds/music/(0ad_camp)_highland_mist.opus",
+				"data/sounds/music/(0ad_camp)_helen_leaves_sparta.opus",
+				"data/sounds/music/(0ad_camp)_the_hellespont.opus",
+				"data/sounds/music/(0ad_camp)_peaks_of_atlas.opus",
+				"data/sounds/music/(0ad_camp)_only_300_stood.opus",
+				"data/sounds/music/(0ad_camp)_rise_of_macedon.opus",
+				"data/sounds/music/(0ad_camp)_in_the_shadow_of_olympus.opus",
+				"data/sounds/music/(0ad_camp)_epitaph.opus",
+				"data/sounds/music/(0ad_camp)_elysian_fields.opus",
+				"data/sounds/music/(0ad_camp)_upstart_king.opus",
+				{
+					"Volume": 60,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "stratmap_winter",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "egypt", "seleucid", "bactria", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Campaign4-Lonely_Strategos.opus",
+				"data/sounds/music/Campaign1-Autumn.opus",
+				"data/sounds/music/(0ad_camp)_the_hellespont.opus",
+				"data/sounds/music/(0ad_camp)_rise_of_macedon.opus",
+				"data/sounds/music/(0ad_camp)_in_the_shadow_of_olympus.opus",
+				"data/sounds/music/(0ad_camp)_epitaph.opus",
+				"data/sounds/music/(0ad_camp)_sands_of_time.opus",
+				"data/sounds/music/(0ad_camp)_land_between_the_two_seas.opus",
+				"data/sounds/music/(0ad_camp)_valley_of_the_nile.opus",
+				"data/sounds/music/(0ad_camp)_along_the_nile.opus",
+				"data/sounds/music/(0ad_camp)_cradle_of_civilization.opus",
+				"data/sounds/music/(0ad_camp)_land_between_rivers.opus",
+				{
+					"Volume": 60,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "stratmap_winter",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "egyptian", "nubian", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Intro_Carthage.opus",
+				"data/sounds/music/Intro_Eastern.opus",
+				"data/sounds/music/Campaign5-Arabic_Winter.opus",
+				"data/sounds/music/(0ad_camp)_sands_of_time.opus",
+				"data/sounds/music/(0ad_camp)_land_between_the_two_seas.opus",
+				"data/sounds/music/(0ad_camp)_valley_of_the_nile.opus",
+				"data/sounds/music/(0ad_camp)_bandit_country.opus",
+				"data/sounds/music/(0ad_camp)_mirage.opus",
+				"data/sounds/music/(0ad_camp)_point_of_no_return.opus",
+				{
+					"Volume": 60,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "near_victory",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "all", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Campaign8-Contemplation.opus",
+				{
+					"Priority": 0,				;;sound with high priority will replace lower priority sounds if all soundchannels are used
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "prebattle_scroll",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "all", ],
+
+			"sounds":
+			[
+				"data/sounds/music/CampaignBattle1-Time_2_Kill.opus",
+				{
+					"Volume": 90,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "postbattle_scroll",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "all", ],
+
+			"sounds":
+			[
+				"data/sounds/music/silence.opus",
+				{
+				},
+			],
+		},
+	],
+}, ;;soundbank_static_music

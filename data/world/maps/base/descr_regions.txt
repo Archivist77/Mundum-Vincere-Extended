@@ -1,0 +1,17521 @@
+;
+; regions list
+;
+
+; . Britannia
+; . Caledonia
+; . Hibernia
+; . Belgica
+; . Gaul (Lugdunensis)
+; . Aquitania
+; . Narbonensis
+; . Eastern Gaul
+; . Rhaetia
+; . Alps
+; . Boihaemum (Bohemia)
+; . Noricum
+; . Greater Germania
+; . Cimbria
+; . Scandinavia
+; . Baltic
+; . Hispania (Taraconensis)
+; . Baetica
+; . Lusitania
+; . Baleares
+; . Italy
+; . Cisapline Gaul (northern Italy)
+; . Etruria
+; . Sicily
+; . Sardinia & Corsica
+; . Greece / Hellas
+; . Crete
+; . Eastern Aegean
+; . Epirus
+; . Macedonia (and Southern Illyria)
+; . Paeonia
+; . Dacia
+; . Pannonia
+; . Illyria
+; . Thrace
+; . Moesia
+; . Greek Anatolia
+; . Mysia
+; . Bithynia
+; . Cappadocia
+; . Caria
+; . Cilicia
+; . Isauria
+; . Galatia
+; . Lycaonia
+; . Lycia
+; . Pisidia
+; . Pamphylia
+; . Phrygia
+; . Pontus
+; . Paphlagonia
+; . Troas
+; . Cyprus
+; . Armenia
+; . Levant (and Arabia Petraea)
+; . Phoenicia
+; . Syria
+; . Assyria
+; . Mesopotamia
+; . Persia
+; . Media
+; . Ariana & Gedrosia
+; . Bactria & Sogdiana
+; . Chorasmia & Parthia
+; . Caucasia
+; . Arran
+; . North Africa
+; . Libya
+; . Mauritania
+; . Numidia
+; . Cyrenaica
+; . Saharan Africa
+; . Egypt
+; . Ethiopia & Nubia
+; . Arabia
+; . Taurica
+; . Bosporus
+; . Sarmatia & Western Scythia
+; . Eastern Scythia / Saka
+; . Northern Forests
+; . Tarim Basin
+; . Gansu
+; . Altai
+; . Himalayas
+; . Indus
+; . India
+; . Terra Incognita
+
+; 56. NEW REGIONS FOR MUNDUM VINCERE
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; *********************************************************
+; *********************************************************
+; . Britannia
+
+Britannia_Inferior
+	legion: Victrix
+	Eburacum
+	brigantes
+	Brigantes
+	232 41 198
+	britannia
+	5
+	5
+	brittonic 100
+
+Britannia_Superior
+	legion: Britannica
+	Londinium
+	britons
+	Iceni
+	232 41 46
+	britannia
+	5
+	8
+	brittonic 100
+
+Tribus_Silurii
+	legion: Britannica
+	Deva
+	demetae
+	Silures
+	41 232 63
+	britannia
+	0
+	4
+	brittonic 100
+	
+Alauna_R
+	legion: Britannica
+	Alauna
+	catuvellauni
+	Brigantes
+	25 195 203
+	britannia
+	5
+	3
+	brittonic 100
+
+Arnemetiae_R
+	legion: Britannica
+	Arnemetiae
+	corieltauvi
+	Brigantes
+	205 39 39
+	britannia
+	5
+	3
+	brittonic 100
+
+Calleva_R
+	legion: Britannica
+	Calleva
+	belgae
+	Brigantes
+	210 51 201
+	britannia
+	5
+	4
+	brittonic 100
+
+Camulodunum_R
+	legion: Britannica
+	Camulodunum
+	britons
+	Brigantes
+	32 110 124
+	britannia
+	5
+	6
+	brittonic 100
+	
+Carbantorigum_R
+	legion: Britannica
+	Carbantorigum
+	catuvellauni
+	Brigantes
+	216 218 82
+	britannia
+	5
+	3
+	brittonic 100
+
+Corinion_R
+	legion: Britannica
+	Corinion
+	britons
+	Brigantes
+	189 215 101
+	britannia
+	5
+	5
+	brittonic 100
+
+Cornoviorum_R
+	legion: Britannica
+	Cornoviorum
+	demetae
+	Brigantes
+	178 160 117
+	britannia
+	5
+	4
+	brittonic 100
+
+Dumnoniorum_R
+	legion: Britannica
+	Dumnoniorum
+	dumnonii
+	Brigantes
+	191 170 74
+	britannia
+	5
+	3
+	brittonic 100
+
+Durotrigorum_R
+	legion: Britannica
+	Durotrigorum
+	dumnonii
+	Brigantes
+	119 53 162
+	britannia
+	5
+	5
+	brittonic 100
+
+Durovernum_R
+	legion: Britannica
+	Durovernum
+	cantiaci
+	Brigantes
+	163 165 16
+	britannia
+	5
+	5
+	brittonic 100
+
+Durovigutum_R
+	legion: Britannica
+	Durovigutum
+	britons
+	Brigantes
+	188 90 22
+	britannia
+	5
+	3
+	brittonic 100
+
+Galacum_R
+	legion: Britannica
+	Galacum
+	brigantes
+	Brigantes
+	58 44 141
+	britannia
+	5
+	3
+	brittonic 100
+
+Isca_R
+	legion: Britannica
+	Isca
+	dumnonii
+	Brigantes
+	27 73 45
+	britannia
+	5
+	4
+	brittonic 100
+
+LindumCorieltavia_R
+	legion: Britannica
+	LindumCorieltavia
+	corieltauvi
+	Brigantes
+	195 206 9
+	britannia
+	5
+	4
+	brittonic 100
+
+Luguvalium_R
+	legion: Britannica
+	Luguvalium
+	brigantes
+	Brigantes
+	170 41 57
+	britannia
+	5
+	4
+	brittonic 100
+
+Mona_R
+	legion: Britannica
+	Mona
+	demetae
+	Brigantes
+	40 133 31
+	britannia
+	5
+	1
+	brittonic 100
+
+Monaoeda_R
+	legion: Britannica
+	Monaoeda
+	eblani
+	Brigantes
+	137 177 26
+	britannia
+	5
+	2
+	brittonic 100
+
+Moridunum_R
+	legion: Britannica
+	Moridunum
+	demetae
+	Brigantes
+	138 108 60
+	britannia
+	5
+	4
+	brittonic 100
+
+Noviomagus_Reginorum_R
+	legion: Britannica
+	Noviomagus_Reginorum
+	belgae
+	Brigantes
+	214 113 60
+	britannia
+	5
+	5
+	brittonic 100
+
+Ratae_R
+	legion: Britannica
+	Ratae
+	corieltauvi
+	Brigantes
+	57 114 24
+	britannia
+	5
+	5
+	brittonic 100
+
+Ratostabius_R
+	legion: Britannica
+	Ratostabius
+	demetae
+	Brigantes
+	91 230 94
+	britannia
+	5
+	3
+	brittonic 100
+
+Rigodonum_R
+	legion: Britannica
+	Rigodonum
+	brigantes
+	Brigantes
+	221 137 23
+	britannia
+	5
+	4
+	brittonic 100
+
+SalinaeCornovia_R
+	legion: Britannica
+	SalinaeCornovia
+	corieltauvi
+	Brigantes
+	86 19 166
+	britannia
+	5
+	4
+	brittonic 100
+
+Seguntium_R
+	legion: Britannica
+	Seguntium
+	demetae
+	Brigantes
+	200 61 101
+	britannia
+	5
+	3
+	brittonic 100
+
+Sorviodunum_R
+	legion: Britannica
+	Sorviodunum
+	dumnonii
+	Brigantes
+	28 92 179
+	britannia
+	5
+	3
+	brittonic 100
+
+Venta_Icenorum_R
+	legion: Britannica
+	Venta_Icenorum
+	britons
+	Brigantes
+	226 234 142
+	britannia
+	5
+	5
+	brittonic 100
+	
+	
+	
+; *********************************************************
+; *********************************************************
+; . Caledonia
+	
+Boderium_R
+	legion: Caledonica
+	Boderium
+	caledonia
+	Brigantes
+	52 108 62
+	britannia
+	5
+	3
+	brittonic 100
+	
+Decantarum_R
+	legion: Caledonica
+	Decantarum
+	caledonia
+	Brigantes
+	82 178 79
+	britannia
+	5
+	2
+	brittonic 100
+	
+Devana_R
+	legion: Caledonica
+	Devana
+	caledonia
+	Brigantes
+	157 70 156
+	britannia
+	5
+	4
+	brittonic 100
+	
+Dumna_R
+	legion: Caledonica
+	Dumna
+	caledonia
+	Brigantes
+	36 119 52
+	britannia
+	5
+	2
+	brittonic 100
+	
+Eydin_R
+	legion: Caledonica
+	Eydin
+	catuvellauni
+	Brigantes
+	149 147 108
+	britannia
+	5
+	4
+	brittonic 100
+	
+Hebudum_R
+	legion: Caledonica
+	Hebudum
+	caledonia
+	Brigantes
+	156 12 50
+	britannia
+	5
+	2
+	brittonic 100
+	
+Lindum_R
+	legion: Caledonica
+	Lindum
+	catuvellauni
+	Brigantes
+	120 227 147
+	britannia
+	5
+	3
+	brittonic 100
+	
+Orrea_R
+	legion: Caledonica
+	Orrea
+	caledonia
+	Brigantes
+	145 19 37
+	britannia
+	5
+	3
+	brittonic 100
+	
+Rauatonium_R
+	legion: Caledonica
+	Rauatonium
+	caledonia
+	Brigantes
+	198 151 30
+	britannia
+	5
+	1
+	brittonic 100
+	
+Tarvodubron_R
+	legion: Caledonica
+	Tarvodubron
+	caledonia
+	Brigantes
+	208 170 37
+	britannia
+	5
+	2
+	brittonic 100
+	
+Tuesis_R
+	legion: Caledonica
+	Tuesis
+	caledonia
+	Brigantes
+	74 71 127
+	britannia
+	5
+	2
+	brittonic 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Hibernia
+
+Hibernia
+	legion: Hibernica
+	Tara
+	eblani
+	Hibernians
+	212 232 41
+	britannia
+	5
+	3
+	brittonic 100
+
+Dunum_R
+	legion: Hibernica
+	Dunum
+	eblani
+	Hibernians
+	87 90 145
+	britannia
+	5
+	4
+	brittonic 100
+
+Hibernis_R
+	legion: Hibernica
+	Hibernis
+	eblani
+	Hibernians
+	150 98 31
+	britannia
+	5
+	2
+	brittonic 100
+
+Laberus_R
+	legion: Hibernica
+	Laberus
+	eblani
+	Hibernians
+	114 172 124
+	britannia
+	5
+	4
+	brittonic 100
+
+Macolicum_R
+	legion: Hibernica
+	Macolicum
+	eblani
+	Hibernians
+	151 64 132
+	britannia
+	5
+	3
+	brittonic 100
+
+Magnata_R
+	legion: Hibernica
+	Magnata
+	eblani
+	Hibernians
+	18 28 120
+	britannia
+	5
+	4
+	brittonic 100
+
+Manapia_R
+	legion: Hibernica
+	Manapia
+	eblani
+	Hibernians
+	36 141 38
+	britannia
+	5
+	4
+	brittonic 100
+
+Regia_R
+	legion: Hibernica
+	Regia
+	eblani
+	Hibernians
+	87 157 100
+	britannia
+	5
+	3
+	brittonic 100
+
+Rhaeba_R
+	legion: Hibernica
+	Rhaeba
+	eblani
+	Brigantes
+	191 64 32
+	britannia
+	5
+	4
+	brittonic 100
+
+	
+	
+; *********************************************************
+; *********************************************************
+; . Belgica
+
+Artiaca_R
+	legion: Belgica
+	Artiaca
+	remi
+	Belgae
+	212 74 225
+	belgica
+	5
+	5
+	celtic 100
+
+Atuatuca_R
+	legion: Belgica
+	Atuatuca
+	eburones
+	Belgae
+	215 17 48
+	belgica
+	5
+	6
+	germanic 100
+
+Bagacum_R
+	legion: Belgica
+	Bagacum
+	nervii
+	Belgae
+	104 31 97
+	belgica
+	5
+	7
+	celtic 100
+
+Belgica
+	legion: Belgica
+	Samarobriva
+	bellovaci
+	Belgae
+	232 90 41
+	belgica
+	5
+	7
+	celtic 100
+
+Durocotorum_R
+	legion: Belgica
+	Durocotorum
+	remi
+	Aedui
+	60 106 24
+	belgica
+	5
+	8
+	celtic 100
+
+Lutetia_Parisia_R
+	legion: Belgica
+	Lutetia_Parisia
+	parisii
+	Aedui
+	124 106 198
+	belgica
+	5
+	10
+	celtic 100
+	
+Mediomatricorum_R
+	legion: Belgica
+	Mediomatricorum
+	mediomatrici
+	Treveri
+	205 198 39
+	belgica
+	5
+	7
+	celtic 100
+
+Menapium_R
+	legion: Belgica
+	Menapium
+	morini
+	Belgae
+	207 112 100
+	belgica
+	5
+	5
+	celtic 100
+	
+Nasium_R
+	legion: Belgica
+	Nasium
+	elusates
+	Belgae
+	55 47 142
+	belgica
+	5
+	5
+	celtic 100
+
+Nemetacum_R
+	legion: Belgica
+	Nemetacum
+	atrebates
+	Belgae
+	38 63 143
+	belgica
+	5
+	6
+	celtic 100
+
+Nervium_R
+	legion: Belgica
+	Nervium
+	nervii
+	Belgae
+	203 201 33
+	belgica
+	5
+	5
+	celtic 100
+
+Rotomagus_R
+	legion: Belgica
+	Rotomagus
+	bellovaci
+	Belgae
+	135 218 69
+	belgica
+	5
+	6
+	celtic 100
+	
+	
+Verodunum_R
+	legion: Belgica
+	Verodunum
+	senones
+	Belgae
+	206 205 26
+	belgica
+	5
+	5
+	celtic 100
+
+Viromanduorum_R
+	legion: Belgica
+	Viromanduorum
+	atrebates
+	Veneti
+	196 204 53
+	belgica
+	5
+	8
+	celtic 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Gaul (Lugdunensis)
+
+Lugdinensis
+	legion: Flavia_Gallicana
+	Lugdunum
+	segusiavi
+	Aedui
+	85 114 141
+	gaul
+	5
+	7
+	celtic 100
+	
+Armorica
+	legion: Gallicana
+	Condate_Redonum
+	redones
+	Veneti
+	232 41 135
+	gaul
+	5
+	7
+	celtic 100
+
+Agedincum_R
+	legion: Gallicana
+	Agedincum
+	senones
+	Aedui
+	225 66 66
+	gaul
+	5
+	6
+	celtic 100
+
+Ambiacum_R
+	legion: Gallicana
+	Ambiacum
+	turones
+	Veneti
+	88 116 186
+	gaul
+	5
+	7
+	celtic 100
+
+Andecavium_R
+	legion: Gallicana
+	Andecavium
+	namnetes
+	Veneti
+	138 109 38
+	gaul
+	5
+	7
+	celtic 100
+
+Andematunnum_R
+	legion: Gallicana
+	Andematunnum
+	lingones
+	Belgae
+	196 190 129
+	gaul
+	5
+	6
+	celtic 100
+
+Austricum_R
+	legion: Gallicana
+	Austricum
+	carnutes
+	Veneti
+	112 221 149
+	gaul
+	5
+	6
+	celtic 100
+
+Bibracte_R
+	legion: Gallicana
+	Bibracte
+	aedui
+	Aedui
+	97 51 121
+	gaul
+	5
+	7
+	celtic 100
+
+Cabillonum_R
+	legion: Gallicana
+	Cabillonum
+	aedui
+	Aedui
+	83 153 134
+	gaul
+	5
+	8
+	celtic 100
+
+Cenabum_R
+	legion: Gallicana
+	Cenabum
+	carnutes
+	Aedui
+	93 21 109
+	gaul
+	5
+	8
+	celtic 100
+
+Central_Gaul
+	legion: Gallicana
+	Alesia
+	mandubii
+	Senones
+	31 75 37
+	gaul
+	5
+	7
+	celtic 100
+
+Condevincum_R
+	legion: Gallicana
+	Condevincum
+	namnetes
+	Veneti
+	171 45 174
+	gaul
+	5
+	5
+	celtic 100
+
+Corsiolitum_R
+	legion: Gallicana
+	Corsiolitum
+	redones
+	Veneti
+	97 215 93
+	gaul
+	5
+	5
+	celtic 100
+
+Crociatonum_R
+	legion: Gallicana
+	Crociatonum
+	unelli
+	Veneti
+	63 139 71
+	gaul
+	5
+	7
+	celtic 100
+
+Darioritum_R
+	legion: Gallicana
+	Darioritum
+	veneti_gaul
+	Veneti
+	23 81 30
+	gaul
+	5
+	4
+	celtic 100
+
+Ingena_R
+	legion: Gallicana
+	Ingena
+	unelli
+	Veneti
+	230 104 44
+	gaul
+	5
+	5
+	celtic 100
+
+MediolanumAulercorum_R
+	legion: Gallicana
+	MediolanumAulercorum
+	cenomanni
+	Veneti
+	35 46 120
+	gaul
+	5
+	6
+	celtic 100
+
+Noviodunum_R
+	legion: Gallicana
+	Noviodunum
+	lexovii
+	Veneti
+	149 35 196
+	gaul
+	5
+	7
+	celtic 100
+
+Noviomagus_Lexoviorum_R
+	legion: Gallicana
+	Noviomagus_Lexoviorum
+	lexovii
+	Belgae
+	148 66 54
+	gaul
+	5
+	5
+	celtic 100
+
+Suidinum_R
+	legion: Gallicana
+	Suidinum
+	cenomanni
+	Veneti
+	170 184 69
+	gaul
+	5
+	7
+	celtic 100
+
+Uxisame_R
+	legion: Gallicana
+	Uxisame
+	osismii
+	Veneti
+	211 46 69
+	gaul
+	5
+	1
+	celtic 100
+
+Vesunna_R
+	legion: Gallicana
+	Vesunna
+	vivisci
+	Pictones
+	216 16 58
+	gaul
+	5
+	7
+	celtic 100
+
+Vorgium_R
+	legion: Gallicana
+	Vorgium
+	osismii
+	Veneti
+	166 163 15
+	gaul
+	5
+	3
+	celtic 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Aquitania
+
+Aquitania
+	legion: Aquitana
+	Lemonum
+	pictones
+	Pictones
+	68 232 41
+	gaul
+	5
+	7
+	celtic 100
+	
+Avaricum_R
+	legion: Aquitana
+	Avaricum
+	bituriges
+	Aedui
+	166 185 115
+	gaul
+	5
+	7
+	celtic 100
+	
+Argentomagus_R
+	legion: Aquitana
+	Argentomagus
+	bituriges
+	Veneti
+	153 66 79
+	gaul
+	5
+	5
+	celtic 100
+	
+Cadurcium_R
+	legion: Aquitana
+	Cadurcium
+	cadurci
+	Veneti
+	40 183 96
+	gaul
+	5
+	5
+	celtic 100
+	
+Durotincum_R
+	legion: Aquitana
+	Durotincum
+	lemovices
+	Pictones
+	148 203 215
+	gaul
+	5
+	6
+	celtic 100
+	
+Gergovia_R
+	legion: Aquitana
+	Gergovia
+	gauls
+	Aedui
+	189 124 26
+	gaul
+	5
+	8
+	celtic 100
+	
+Maroventum_R
+	legion: Aquitana
+	Maroventum
+	pictones
+	Volcae
+	36 58 183
+	gaul
+	5
+	5
+	celtic 100
+	
+Mediolanum_Santonum_R
+	legion: Aquitana
+	Mediolanum_Santonum
+	santones
+	Pictones
+	233 232 50
+	gaul
+	5
+	7
+	celtic 100
+	
+NoviomagusVasatia_R
+	legion: Aquitana
+	NoviomagusVasatia
+	bituriges
+	Pictones
+	50 46 211
+	gaul
+	5
+	4
+	celtic 100
+	
+Ruessium_R
+	legion: Aquitana
+	Ruessium
+	gauls
+	Veneti
+	22 129 25
+	gaul
+	5
+	5
+	celtic 100
+	
+Segodunum_R
+	legion: Aquitana
+	Segodunum
+	ruteni
+	Volcae
+	114 75 63
+	gaul
+	5
+	6
+	celtic 100
+
+Cossium_R
+	legion: Aquitana
+	Cossium
+	tarbelli
+	Pictones
+	166 146 100
+	aquitania
+	5
+	7
+	aquitanian 100
+	
+LugdunumConvenarum_R
+	legion: Aquitana
+	LugdunumConvenarum
+	tarbelli
+	Volcae
+	213 82 44
+	aquitania
+	5
+	5
+	aquitanian 100
+	
+Tarba_R
+	legion: Aquitana
+	Tarba
+	tarbelli
+	Volcae
+	99 45 174
+	aquitania
+	5
+	6
+	aquitanian 100
+	
+Tarbellium_R
+	legion: Aquitana
+	Tarbellium
+	tarbelli
+	Volcae
+	107 167 114
+	aquitania
+	5
+	5
+	aquitanian 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Narbonensis
+
+Narbonensis
+	legion: Flavia_Martis
+	Narbo_Martius
+	volcae
+	Volcae
+	196 13 198
+	gaul
+	5
+	8
+	celtic 100
+
+Transalpine_Gaul
+	legion: Iulia_Alpina
+	Massilia
+	massalia
+	Vocontii
+	117 198 13
+	gaul, greek_colony
+	5
+	9
+	greek 60 celtic 40
+	
+Agatha_R
+	legion: Narbonensica
+	Agatha
+	massalia
+	Volcae
+	196 195 57
+	gaul, greek_colony
+	5
+	5
+	greek 20 celtic 80
+	
+NicaeaLiguria_R
+	legion: Narbonensica
+	NicaeaLiguria
+	massalia
+	Ligurians
+	203 161 34
+	gaul, greek_colony
+	5
+	6
+	greek 20 celtic 80
+	
+Eburomagus_R
+	legion: Narbonensica
+	Eburomagus
+	volcae
+	Volcae
+	110 118 219
+	gaul
+	5
+	6
+	celtic 100
+	
+Geneva_R
+	legion: Narbonensica
+	Geneva
+	allobroges
+	Aedui
+	53 145 78
+	gaul
+	5
+	5
+	celtic 100
+	
+Glanum_R
+	legion: Narbonensica
+	Glanum
+	vocontii
+	Volcae
+	157 59 173
+	gaul
+	5
+	7
+	celtic 100
+	
+Nemasus_R
+	legion: Narbonensica
+	Nemasus
+	volcae
+	Volcae
+	64 38 143
+	gaul
+	5
+	8
+	celtic 100
+	
+OlbiaLigystike_R
+	legion: Narbonensica
+	OlbiaLigystike
+	massalia
+	Ligurians
+	39 36 204
+	gaul, greek_colony
+	5
+	6
+	greek 20 celtic 80
+
+Tolosa_R
+	legion: Narbonensica
+	Tolosa
+	volcae
+	Volcae
+	222 214 154
+	gaul
+	5
+	9
+	celtic 100
+	
+Valentia_R
+	legion: Narbonensica
+	Valentia
+	cavari
+	Aedui
+	218 210 106
+	gaul
+	5
+	6
+	celtic 100
+	
+Vienna_R
+	legion: Narbonensica
+	Vienna
+	allobroges
+	Aedui
+	213 124 243
+	gaul
+	5
+	6
+	celtic 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Rhaetia
+
+Rucinatium_R
+	legion: Concors_Italica
+	Rucinatium
+	vindelici
+	Helvetii
+	57 128 126
+	rhaetia
+	5
+	5
+	celtic 100
+
+Belitione_R
+	legion: Rhaetica
+	Belitione
+	leponti
+	Aedui
+	15 119 52
+	rhaetia
+	5
+	2
+	celtic 100
+	
+Boiodurum_R
+	legion: Rhaetica
+	Boiodurum
+	boii
+	Helvetii
+	175 104 19
+	rhaetia
+	5
+	6
+	celtic 100
+	
+Brocomagus_R
+	legion: Rhaetica
+	Brocomagus
+	nemetes
+	Veneti
+	133 162 191
+	rhaetia
+	5
+	5
+	celtic 100
+
+Cambodunum_R
+	legion: Rhaetica
+	Cambodunum
+	vindelici
+	Helvetii
+	191 28 38
+	rhaetia
+	5
+	7
+	celtic 100
+
+Catenatium_R
+	legion: Rhaetica
+	Catenatium
+	vindelici
+	Helvetii
+	44 241 16
+	rhaetia
+	5
+	5
+	celtic 100
+
+Curia_R
+	legion: Rhaetica
+	Curia
+	leponti
+	Helvetii
+	119 168 119
+	rhaetia
+	5
+	2
+	celtic 100
+	
+Devona_R
+	legion: Rhaetica
+	Devona
+	helvetii
+	Treveri
+	97 143 103
+	rhaetia
+	5
+	5
+	celtic 100
+
+Isarcium_R
+	legion: Rhaetica
+	Isarcium
+	raeti
+	Helvetii
+	217 144 95
+	rhaetia
+	5
+	3
+	celtic 100
+
+Setuacotum_R
+	legion: Rhaetica
+	Setuacotum
+	vindelici
+	Treveri
+	102 48 116
+	rhaetia
+	5
+	4
+	celtic 100
+
+Sorviodurum_R
+	legion: Rhaetica
+	Sorviodurum
+	vindelici
+	Helvetii
+	216 183 58
+	rhaetia
+	5
+	5
+	celtic 100
+
+Tarodunum_R
+	legion: Rhaetica
+	Tarodunum
+	helvetii
+	Treveri
+	150 109 35
+	rhaetia
+	5
+	5
+	celtic 100
+
+Tridentum_R
+	legion: Rhaetica
+	Tridentum
+	raeti
+	Helvetii
+	81 116 210
+	rhaetia
+	5
+	3
+	celtic 100
+
+Turicum_R
+	legion: Rhaetica
+	Turicum
+	helvetii
+	Treveri
+	228 210 33
+	rhaetia
+	5
+	5
+	celtic 100
+
+Veldidena_R
+	legion: Rhaetica
+	Veldidena
+	raeti
+	Helvetii
+	69 68 100
+	rhaetia
+	5
+	3
+	celtic 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Alps
+
+Brenodurum_R
+	legion: Alpina
+	Brenodurum
+	helvetii
+	Aedui
+	166 50 211
+	alpes
+	5
+	4
+	celtic 100
+
+Cularo_R
+	legion: Alpina
+	Cularo
+	allobroges
+	Aedui
+	72 73 215
+	alpes
+	5
+	4
+	celtic 100
+
+Eburodunum_R
+	legion: Alpina
+	Eburodunum
+	vocontii
+	Volcae
+	24 115 23
+	alpes
+	5
+	3
+	celtic 100
+	
+Octodurus_R
+	legion: Alpina
+	Octodurus
+	allobroges
+	Aedui
+	151 42 39
+	alpes
+	5
+	2
+	celtic 100
+
+Segustero_R
+	legion: Alpina
+	Segustero
+	vocontii
+	Volcae
+	195 60 54
+	alpes
+	5
+	4
+	celtic 100
+
+Epomanduodurum_R
+	legion: Alpina
+	Epomanduodurum
+	sequani
+	Aedui
+	169 8 58
+	gaul
+	5
+	4
+	celtic 100
+
+Vesontio_R
+	legion: Alpina
+	Vesontio
+	sequani
+	Aedui
+	27 217 51
+	gaul
+	5
+	5
+	celtic 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Boihaemum (Bohemia)
+
+Boihaemum
+	legion: Boihaemica
+	Lovosice
+	boii
+	Boii
+	58 150 177
+	boihaemum
+	5
+	5
+	celtic 100
+	
+Casurgis_R
+	legion: Boihaemica
+	Casurgis
+	volcae
+	Boii
+	40 137 52
+	boihaemum
+	5
+	8
+	celtic 100
+	
+Coridorgis_R
+	legion: Boihaemica
+	Coridorgis
+	volcae
+	Boii
+	147 14 13
+	boihaemum
+	5
+	4
+	celtic 100
+	
+Furgisatis_R
+	legion: Boihaemica
+	Furgisatis
+	boii
+	Boii
+	218 82 87
+	boihaemum
+	5
+	5
+	celtic 100
+	
+Marobudum_R
+	legion: Boihaemica
+	Marobudum
+	volcae
+	Alamanni
+	36 94 14
+	boihaemum
+	5
+	4
+	celtic 100
+	
+Mediolanium_Racataea_R
+	legion: Boihaemica
+	Mediolanium_Racataea
+	boii
+	Boii
+	35 43 188
+	boihaemum
+	5
+	5
+	celtic 100
+
+Meliodunum_R
+	legion: Boihaemica
+	Meliodunum
+	boii
+	Boii
+	158 96 191
+	boihaemum
+	5
+	6
+	celtic 100
+	
+Redintuinum_R
+	legion: Boihaemica
+	Redintuinum
+	volcae
+	Boii
+	171 159 5
+	boihaemum
+	5
+	6
+	celtic 100
+	
+Singone_R
+	legion: Boihaemica
+	Singone
+	quadi
+	Boii
+	75 212 93
+	boihaemum
+	5
+	4
+	germanic 60 celtic 40
+	
+Strevinta_R
+	legion: Boihaemica
+	Strevinta
+	boii
+	Boii
+	212 209 105
+	boihaemum
+	5
+	4
+	celtic 100
+	
+Volcaeum_R
+	legion: Boihaemica
+	Volcaeum
+	volcae
+	Boii
+	193 188 145
+	boihaemum
+	5
+	5
+	celtic 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Noricum
+
+Noricum
+	legion: Pia_Italica
+	Iuvavum
+	nori
+	Helvetii
+	230 41 232
+	noricum
+	5
+	4
+	celtic 100
+	
+Lentia_R
+	legion: Norica
+	Lentia
+	nori
+	Helvetii
+	58 106 66
+	noricum
+	5
+	6
+	celtic 100
+	
+Noreia_R
+	legion: Norica
+	Noreia
+	nori
+	Illyrians
+	156 145 162
+	noricum
+	5
+	4
+	celtic 100
+	
+Poedicum_R
+	legion: Norica
+	Poedicum
+	nori
+	Illyrians
+	207 200 58
+	noricum
+	5
+	3
+	celtic 100
+	
+Teurnia_R
+	legion: Norica
+	Teurnia
+	nori
+	Illyrians
+	181 28 25
+	noricum
+	5
+	3
+	celtic 100
+	
+Vindobona_R
+	legion: Norica
+	Vindobona
+	nori
+	Helvetii
+	124 115 36
+	noricum
+	5
+	6
+	celtic 100
+
+
+	
+; *********************************************************
+; *********************************************************
+; . Greater Germania
+
+Germania_Superior
+	legion: Primigenia
+	Trier
+	treverii
+	Treveri
+	72 41 232
+	germania
+	5
+	6
+	germanic 100
+
+Agri_Decumates
+	legion: Germanica
+	Mogontiacum
+	volcae
+	Alamanni
+	63 232 41
+	germania
+	5
+	5
+	germanic 100
+	
+Germania_Inferior
+	legion: Germanica
+	Batavodurum
+	bructeri
+	Batavi
+	41 162 232
+	germania
+	5
+	6
+	germanic 100
+	
+Locus_Gothi
+	legion: Germanica
+	Vicus_Gothi
+	rugii
+	Goths
+	203 41 232
+	germania
+	5
+	7
+	germanic 100
+	
+Budoris_R
+	legion: Minervia
+	Budoris
+	ubii
+	Batavi
+	58 102 80
+	germania
+	5
+	7
+	germanic 100
+
+Alisus_R
+	legion: Germanica
+	Alisus
+	varini
+	Chatti
+	227 110 93
+	germania
+	5
+	4
+	germanic 100
+
+Arctaunum_R
+	legion: Germanica
+	Arctaunum
+	tencteri
+	Treveri
+	188 135 237
+	germania
+	5
+	6
+	germanic 100
+
+Aregelia_R
+	legion: Germanica
+	Aregelia
+	germans
+	Chatti
+	215 88 220
+	germania
+	5
+	4
+	germanic 100
+
+Arsicua_R
+	legion: Germanica
+	Arsicua
+	buri
+	Marcomanni
+	149 49 60
+	germania
+	5
+	6
+	germanic 100
+
+Arsonium_R
+	legion: Germanica
+	Arsonium
+	buri
+	Marcomanni
+	52 171 52
+	germania
+	5
+	4
+	germanic 100
+
+Asanca_R
+	legion: Germanica
+	Asanca
+	harii
+	Marcomanni
+	24 63 89
+	germania
+	5
+	5
+	germanic 100
+
+Ascaucalis_R
+	legion: Germanica
+	Ascaucalis
+	goths
+	Marcomanni
+	104 23 145
+	germania
+	5
+	4
+	germanic 100
+
+Asciburgium_R
+	legion: Germanica
+	Asciburgium
+	sugambri
+	Batavi
+	230 229 103
+	germania
+	5
+	5
+	germanic 100
+
+Avionium_R
+	legion: Germanica
+	Avionium
+	saxons
+	Saxones
+	71 207 93
+	germania
+	5
+	4
+	germanic 100
+
+BatavodurumCity_R
+	legion: Germanica
+	BatavodurumCity
+	franks
+	Batavi
+	89 228 124
+	germania
+	5
+	6
+	germanic 100
+
+Bergium_R
+	legion: Germanica
+	Bergium
+	volcae
+	Alamanni
+	187 41 48
+	germania
+	5
+	5
+	germanic 100
+
+Bicurgium_R
+	legion: Germanica
+	Bicurgium
+	germans
+	Chatti
+	90 63 114
+	germania
+	5
+	5
+	germanic 100
+
+Borbetomagus_R
+	legion: Germanica
+	Borbetomagus
+	vangiones
+	Batavi
+	212 54 130
+	germania
+	5
+	6
+	germanic 100
+
+Budorigum_R
+	legion: Germanica
+	Budorigum
+	helveconae
+	Marcomanni
+	113 195 189
+	germania
+	5
+	5
+	germanic 100
+
+Calisia_R
+	legion: Germanica
+	Calisia
+	nahanarvali
+	Marcomanni
+	40 215 13
+	germania
+	5
+	4
+	germanic 100
+
+Canduum_R
+	legion: Germanica
+	Canduum
+	germans
+	Chatti
+	23 41 154
+	germania
+	5
+	5
+	germanic 100
+
+CarrodunumHercynia_R
+	legion: Germanica
+	CarrodunumHercynia
+	helisii
+	Marcomanni
+	57 110 45
+	germania
+	5
+	4
+	germanic 100
+
+Carrodunum_R
+	legion: Germanica
+	Carrodunum
+	bastarnae
+	Venedae
+	151 110 138
+	germania
+	5
+	3
+	germanic 100
+
+Chasuarium_R
+	legion: Germanica
+	Chasuarium
+	hermunduri
+	Batavi
+	69 137 69
+	germania
+	5
+	3
+	germanic 100
+
+Cheruscium_R
+	legion: Germanica
+	Cheruscium
+	cherusci
+	Saxones
+	106 137 48
+	germania
+	5
+	3
+	germanic 100
+
+Cistuia_R
+	legion: Germanica
+	Cistuia
+	germans
+	Chatti
+	38 79 143
+	germania
+	5
+	5
+	germanic 100
+
+Coenoenum_R
+	legion: Germanica
+	Coenoenum
+	saxons
+	Saxones
+	184 118 18
+	germania
+	5
+	3
+	germanic 100
+
+Colancorum_R
+	legion: Germanica
+	Colancorum
+	germans
+	Saxones
+	210 213 35
+	germania
+	5
+	3
+	germanic 100
+
+Dandutium_R
+	legion: Germanica
+	Dandutium
+	lombardi
+	Chatti
+	176 67 194
+	germania
+	5
+	4
+	germanic 100
+
+Eburum_R
+	legion: Germanica
+	Eburum
+	helisii
+	Boii
+	158 105 44
+	germania
+	5
+	4
+	germanic 100
+
+Fabiranum_R
+	legion: Germanica
+	Fabiranum
+	saxons
+	Saxones
+	62 32 127
+	germania
+	5
+	4
+	germanic 100
+
+Frisium_R
+	legion: Germanica
+	Frisium
+	frisii
+	Belgae
+	213 224 144
+	germania
+	5
+	3
+	germanic 100
+
+Gravionarium_R
+	legion: Germanica
+	Gravionarium
+	volcae
+	Alamanni
+	224 240 8
+	germania
+	5
+	5
+	germanic 100
+
+Gutonium_R
+	legion: Germanica
+	Gutonium
+	goths
+	Saxones
+	32 144 109
+	germania
+	5
+	3
+	germanic 100
+
+Hegetmatia_R
+	legion: Germanica
+	Hegetmatia
+	helveconae
+	Marcomanni
+	30 33 210
+	germania
+	5
+	4
+	germanic 100
+
+Helisium_R
+	legion: Germanica
+	Helisium
+	helisii
+	Marcomanni
+	221 238 40
+	germania
+	5
+	4
+	germanic 100
+
+Hirrium_R
+	legion: Germanica
+	Hirrium
+	harii
+	Saxones
+	102 48 226
+	germania
+	5
+	3
+	germanic 100
+
+Laciburgium_R
+	legion: Germanica
+	Laciburgium
+	varini
+	Saxones
+	22 142 31
+	germania
+	5
+	5
+	germanic 100
+
+Leucaristus_R
+	legion: Germanica
+	Leucaristus
+	nahanarvali
+	Marcomanni
+	48 128 55
+	germania
+	5
+	5
+	germanic 100
+
+Leufana_R
+	legion: Germanica
+	Leufana
+	lombardi
+	Chatti
+	175 140 99
+	germania
+	5
+	6
+	germanic 100
+
+Limisdunum_R
+	legion: Germanica
+	Limisdunum
+	burgundii
+	Saxones
+	194 158 197
+	germania
+	5
+	3
+	germanic 100
+
+LugdunumMenapia_R
+	legion: Germanica
+	LugdunumMenapia
+	frisii
+	Belgae
+	76 113 72
+	germania
+	5
+	3
+	germanic 100
+
+Lugidunum_R
+	legion: Germanica
+	Lugidunum
+	marcomanni
+	Marcomanni
+	108 0 46
+	germania
+	5
+	6
+	germanic 100
+
+Manimium_R
+	legion: Germanica
+	Manimium
+	burgundii
+	Saxones
+	62 63 220
+	germania
+	5
+	3
+	germanic 100
+
+Marionis_R
+	legion: Germanica
+	Marionis
+	saxons
+	Saxones
+	56 222 184
+	germania
+	5
+	5
+	germanic 100
+
+Mattium_R
+	legion: Germanica
+	Mattium
+	alemanni
+	Batavi
+	201 132 52
+	germania
+	5
+	5
+	germanic 100
+
+MediolaniumMarsia_R
+	legion: Germanica
+	MediolaniumMarsia
+	bructeri
+	Batavi
+	130 47 47
+	germania
+	5
+	4
+	germanic 100
+
+Mersovium_R
+	legion: Germanica
+	Mersovium
+	germans
+	Chatti
+	53 109 51
+	germania
+	5
+	6
+	germanic 100
+
+Munitium_R
+	legion: Germanica
+	Munitium
+	alemanni
+	Chatti
+	230 192 44
+	germania
+	5
+	4
+	germanic 100
+
+Navalia_R
+	legion: Germanica
+	Navalia
+	chamavi
+	Batavi
+	195 53 200
+	germania
+	5
+	5
+	germanic 100
+
+Phleum_R
+	legion: Germanica
+	Phleum
+	chauci
+	Batavi
+	91 183 103
+	germania
+	5
+	4
+	germanic 100
+
+Regnum_Marcomannii
+	legion: Germanica
+	Vicus_Marcomannii
+	marcomanni
+	Marcomanni
+	177 78 58
+	germania
+	5
+	5
+	germanic 100
+
+RugiumBastarnia_R
+	legion: Germanica
+	RugiumBastarnia
+	rugii
+	Goths
+	201 85 26
+	germania
+	5
+	4
+	germanic 100
+
+Scurgum_R
+	legion: Germanica
+	Scurgum
+	bastarnae
+	Goths
+	96 122 84
+	germania
+	5
+	4
+	germanic 100
+
+Segodunum_Triboccia_R
+	legion: Germanica
+	Segodunum_Triboccia
+	volcae
+	Treveri
+	241 148 24
+	germania
+	5
+	4
+	germanic 100
+
+Sesudata_R
+	legion: Germanica
+	Sesudata
+	germans
+	Chatti
+	169 157 135
+	germania
+	5
+	3
+	germanic 100
+
+Setidava_R
+	legion: Germanica
+	Setidava
+	harii
+	Marcomanni
+	206 140 43
+	germania
+	5
+	4
+	germanic 100
+
+Setovia_R
+	legion: Germanica
+	Setovia
+	helisii
+	Marcomanni
+	108 70 115
+	germania
+	5
+	4
+	germanic 100
+
+Siatutanda_R
+	legion: Germanica
+	Siatutanda
+	hermunduri
+	Batavi
+	218 188 23
+	germania
+	5
+	6
+	germanic 100
+
+Stereontium_R
+	legion: Germanica
+	Stereontium
+	cherusci
+	Batavi
+	151 76 185
+	germania
+	5
+	5
+	germanic 100
+
+Tecelia_R
+	legion: Germanica
+	Tecelia
+	chauci
+	Saxones
+	153 19 148
+	germania
+	5
+	4
+	germanic 100
+
+Treva_R
+	legion: Germanica
+	Treva
+	saxons
+	Saxones
+	209 30 215
+	germania
+	5
+	6
+	germanic 100
+
+Tribus_Chattii
+	legion: Germanica
+	Damme
+	germans
+	Chatti
+	232 198 41
+	germania
+	5
+	6
+	germanic 100
+
+TropaeaDrusi_R
+	legion: Germanica
+	TropaeaDrusi
+	fosi
+	Batavi
+	122 52 20
+	germania
+	5
+	4
+	germanic 100
+
+Tulifurdum_R
+	legion: Germanica
+	Tulifurdum
+	cherusci
+	Batavi
+	215 59 96
+	germania
+	5
+	6
+	germanic 100
+
+Tulisurgium_R
+	legion: Germanica
+	Tulisurgium
+	cherusci
+	Batavi
+	76 181 78
+	germania
+	5
+	6
+	germanic 100
+
+Viritium_R
+	legion: Germanica
+	Viritium
+	burgundii
+	Goths
+	25 78 147
+	germania
+	5
+	3
+	germanic 100
+
+Virunum_R
+	legion: Germanica
+	Virunum
+	rugii
+	Goths
+	201 213 52
+	germania
+	5
+	4
+	germanic 100
+	
+Osiorum_R
+	legion: Germanica
+	Osiorum
+	buri
+	Iazyges
+	235 230 13
+	germania
+	5
+	3
+	germanic 100
+	
+Parienna_R
+	legion: Germanica
+	Parienna
+	quadi
+	Boii
+	25 100 190
+	germania
+	5
+	3
+	germanic 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Cimbria
+
+Tribus_Saxones
+	legion: Cimbrica
+	Bordesholm
+	anglii
+	Saxones
+	232 41 55
+	cimbria
+	5
+	3
+	germanic 100
+
+Chalium_R
+	legion: Cimbrica
+	Chalium
+	anglii
+	Saxones
+	199 175 87
+	cimbria
+	5
+	4
+	germanic 100
+	
+Cimbrium_R
+	legion: Cimbrica
+	Cimbrium
+	cimbri
+	Saxones
+	73 143 63
+	cimbria
+	5
+	5
+	germanic 100
+	
+Eudosium_R
+	legion: Cimbrica
+	Eudosium
+	juti
+	Saxones
+	126 34 163
+	cimbria
+	5
+	4
+	germanic 100
+	
+Fundusium_R
+	legion: Cimbrica
+	Fundusium
+	cimbri
+	Saxones
+	40 107 56
+	cimbria
+	5
+	5
+	germanic 100
+	
+Nuithonium_R
+	legion: Cimbrica
+	Nuithonium
+	heruli
+	Saxones
+	178 32 69
+	cimbria
+	5
+	6
+	germanic 100
+	
+Suardonium_R
+	legion: Cimbrica
+	Suardonium
+	heruli
+	Saxones
+	98 185 114
+	cimbria
+	5
+	4
+	germanic 100
+	
+Teutonium_R
+	legion: Cimbrica
+	Teutonium
+	juti
+	Saxones
+	27 74 137
+	cimbria
+	5
+	5
+	germanic 100
+
+
+	
+; *********************************************************
+; *********************************************************
+; . Scandinavia
+
+Arochium_R
+	legion: Scandica
+	Arochium
+	rugii
+	Saxones
+	172 75 0
+	scandia
+	5
+	1
+	germanic 100
+
+Augandzium_R
+	legion: Scandica
+	Augandzium
+	rugii
+	Saxones
+	196 195 62
+	scandia
+	5
+	2
+	germanic 100
+
+Bergioum_R
+	legion: Scandica
+	Bergioum
+	suiones
+	Saxones
+	73 209 93
+	scandia
+	5
+	3
+	germanic 100
+
+Burgundium_R
+	legion: Scandica
+	Burgundium
+	burgundii
+	Saxones
+	214 225 45
+	scandia
+	5
+	2
+	germanic 100
+
+Castrum_Gautorum_R
+	legion: Scandica
+	Castrum_Gautorum
+	ostrogoths
+	Saxones
+	158 152 95
+	scandia
+	5
+	2
+	germanic 100
+
+Chaedinium_R
+	legion: Scandica
+	Chaedinium
+	rugii
+	Saxones
+	137 168 183
+	scandia
+	5
+	1
+	germanic 100
+
+Daucionum_R
+	legion: Scandica
+	Daucionum
+	heruli
+	Saxones
+	212 140 41
+	scandia
+	5
+	4
+	germanic 100
+
+Favonium_R
+	legion: Scandica
+	Favonium
+	ostrogoths
+	Saxones
+	46 54 126
+	scandia
+	5
+	4
+	germanic 100
+
+Finnaithaeum_R
+	legion: Scandica
+	Finnaithaeum
+	ostrogoths
+	Saxones
+	218 210 23
+	scandia
+	5
+	3
+	germanic 100
+	
+Firaesum_R
+	legion: Scandica
+	Firaesum
+	ostrogoths
+	Saxones
+	39 124 36
+	scandia
+	5
+	2
+	germanic 100
+
+Gautum_R
+	legion: Scandica
+	Gautum
+	ostrogoths
+	Saxones
+	232 130 118
+	scandia
+	5
+	3
+	germanic 100
+
+Hillevionum_R
+	legion: Scandica
+	Hillevionum
+	heruli
+	Saxones
+	102 190 42
+	scandia
+	5
+	4
+	germanic 100
+
+Levonium_R
+	legion: Scandica
+	Levonium
+	suiones
+	Saxones
+	225 232 81
+	scandia
+	5
+	3
+	germanic 100
+
+Ranium_R
+	legion: Scandica
+	Ranium
+	rugii
+	Saxones
+	27 154 98
+	scandia
+	5
+	3
+	germanic 100
+
+Rugium_R
+	legion: Scandica
+	Rugium
+	rugii
+	Saxones
+	161 113 169
+	scandia
+	5
+	2
+	germanic 100
+
+Suionium_R
+	legion: Scandica
+	Suionium
+	suiones
+	Saxones
+	134 17 156
+	scandia
+	5
+	3
+	germanic 100
+
+Vagautium_R
+	legion: Scandica
+	Vagautium
+	ostrogoths
+	Saxones
+	228 25 76
+	scandia
+	5
+	3
+	germanic 100
+
+
+; *********************************************************
+; *********************************************************
+; . Baltic
+
+Igyllionium_R
+	legion: Barbaricorum
+	Igyllionium
+	venedi
+	Sarmatians
+	125 141 195
+	venedia
+	5
+	3
+	baltic 100
+
+SavariKome_R
+	legion: Barbaricorum
+	SavariKome
+	slavs
+	Sarmatians
+	230 81 40
+	venedia
+	5
+	3
+	baltic 100
+
+AcibiKome_R
+	legion: Barbaricorum
+	AcibiKome
+	venedi
+	Sarmatians
+	37 224 29
+	venedia
+	5
+	3
+	baltic 100
+
+OssiKome_R
+	legion: Barbaricorum
+	OssiKome
+	venedi
+	Sarmatians
+	233 228 79
+	venedia
+	5
+	3
+	baltic 100
+
+Galindium_R
+	legion: Barbaricorum
+	Galindium
+	aestii
+	Marcomanni
+	221 215 28
+	venedia
+	5
+	4
+	baltic 100
+
+Sudinium_R
+	legion: Barbaricorum
+	Sudinium
+	venedi
+	Marcomanni
+	145 97 23
+	venedia
+	5
+	4
+	baltic 100
+
+Soulonium_R
+	legion: Barbaricorum
+	Soulonium
+	goths
+	Marcomanni
+	54 173 57
+	venedia
+	5
+	5
+	baltic 100
+
+Sargenai_R
+	legion: Barbaricorum
+	Sargenai
+	aestii
+	Gepids
+	105 64 65
+	venedia
+	5
+	2
+	baltic 100
+
+Venedium_R
+	legion: Barbaricorum
+	Venedium
+	venedi
+	Gepids
+	217 142 191
+	venedia
+	5
+	4
+	baltic 100
+
+Locus_Gepidae
+	legion: Barbaricorum
+	Domus_Dulcis_Domus
+	aestii
+	Gepids
+	58 177 95
+	venedia
+	5
+	2
+	baltic 100
+
+Veltaeum_R
+	legion: Barbaricorum
+	Veltaeum
+	venedi
+	Gepids
+	41 113 26
+	venedia
+	5
+	3
+	baltic 100
+
+Firrium_R
+	legion: Barbaricorum
+	Firrium
+	aestii
+	Gepids
+	189 130 38
+	venedia
+	5
+	2
+	baltic 100
+
+Aestium_R
+	legion: Barbaricorum
+	Aestium
+	aestii
+	Gepids
+	80 51 219
+	venedia
+	5
+	3
+	baltic 100
+
+Osium_R
+	legion: Barbaricorum
+	Osium
+	aestii
+	Saxones
+	173 84 59
+	venedia
+	5
+	2
+	baltic 100
+
+Careotaeum_R
+	legion: Barbaricorum
+	Careotaeum
+	aestii
+	Gepids
+	12 43 105
+	venedia
+	5
+	3
+	baltic 100
+
+Tiuri_R
+	legion: Barbaricorum
+	Tiuri
+	aestii
+	Gepids
+	16 85 15
+	venedia
+	5
+	2
+	baltic 100
+
+GepidaeKome_R
+	legion: Barbaricorum
+	GepidaeKome
+	aestii
+	Sarmatians
+	238 67 40
+	venedia
+	5
+	3
+	baltic 100
+
+BulanesKome_R
+	legion: Barbaricorum
+	BulanesKome
+	venedi
+	Sarmatians
+	217 205 36
+	venedia
+	5
+	3
+	baltic 100
+	
+Finnium_R
+	legion: Barbaricorum
+	Finnium
+	aestii
+	Gepids
+	135 51 172
+	venedia
+	5
+	1
+	baltic 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Hispania (Taraconensis) / Iberia
+
+AkraLeuke_R
+	legion: Hispana
+	AkraLeuke
+	carthage
+	Iberians
+	162 14 205
+	iberia, phoenician_colony
+	5
+	4
+	phoenician 20 iberian 80
+
+Aracillum_R
+	legion: Hispana
+	Aracillum
+	cantabri
+	Iberians
+	217 218 95
+	celtiberia
+	5
+	3
+	celtic 100
+
+Arse_R
+	legion: Hispana
+	Arse
+	edetani
+	Iberians
+	131 41 136
+	iberia
+	5
+	10
+	iberian 100
+
+Baria_R
+	legion: Hispana
+	Baria
+	carthage
+	Iberians
+	112 13 125
+	iberia
+	5
+	5
+	iberian 100
+
+Barkeno_R
+	legion: Hispana
+	Barkeno
+	cessetani
+	Iberians
+	100 207 103
+	iberia
+	5
+	6
+	iberian 100
+
+Basti_R
+	legion: Hispana
+	Basti
+	bastetani
+	Iberians
+	203 20 41
+	iberia
+	5
+	5
+	iberian 100
+
+Bracara_R
+	legion: Hispana
+	Bracara
+	gallaeci
+	Iberians
+	97 216 96
+	celtiberia
+	5
+	6
+	celtic 100
+
+Brachile_R
+	legion: Hispana
+	Brachile
+	ilergetes
+	Iberians
+	97 96 106
+	iberia
+	5
+	3
+	iberian 100
+
+Brigantium_R
+	legion: Hispana
+	Brigantium
+	gallaeci
+	Iberians
+	187 191 234
+	celtiberia
+	5
+	5
+	celtic 100
+
+Carcuvium_R
+	legion: Hispana
+	Carcuvium
+	oretani
+	Iberians
+	23 157 32
+	iberia
+	5
+	3
+	iberian 100
+
+Castulo_R
+	legion: Hispana
+	Castulo
+	oretani
+	Iberians
+	64 105 86
+	iberia
+	5
+	7
+	iberian 100
+
+Cauca_R
+	legion: Hispana
+	Cauca
+	vaccaei
+	Iberians
+	162 143 95
+	celtiberia
+	5
+	10
+	celtic 100
+
+Celsa_R
+	legion: Hispana
+	Celsa
+	ilergetes
+	Iberians
+	235 230 103
+	iberia
+	5
+	6
+	iberian 100
+
+Celtiberia
+	legion: Hispana
+	Numantia
+	celtiberia
+	Iberians
+	198 13 35
+	celtiberia
+	5
+	5
+	celtic 100
+
+Complutum_R
+	legion: Hispana
+	Complutum
+	carpetani
+	Iberians
+	113 178 139
+	celtiberia
+	5
+	6
+	celtic 100
+
+Dertosa_R
+	legion: Hispana
+	Dertosa
+	ilercavones
+	Iberians
+	163 160 71
+	iberia
+	5
+	8
+	iberian 100
+
+Egovarrium_R
+	legion: Hispana
+	Egovarrium
+	gallaeci
+	Iberians
+	63 151 56
+	celtiberia
+	5
+	3
+	celtic 100
+
+Emporium_R
+	legion: Hispana
+	Emporium
+	emporion
+	Iberians
+	202 68 78
+	iberia, greek_colony
+	5
+	7
+	greek 60 iberian 40
+
+Ercavica_R
+	legion: Hispana
+	Ercavica
+	celtiberia
+	Iberians
+	19 136 26
+	celtiberia
+	5
+	5
+	celtic 100
+
+Gallaecia
+	legion: Hispana
+	Asturica
+	astures
+	Iberians
+	13 157 198
+	celtiberia
+	0
+	3
+	celtic 100
+
+Hellenibriga_R
+	legion: Hispana
+	Hellenibriga
+	gallaeci
+	Iberians
+	196 196 82
+	celtiberia
+	5
+	4
+	celtic 100
+
+Hemeroskopeion_R
+	legion: Hispana
+	Hemeroskopeion
+	emporion
+	Iberians
+	221 224 71
+	iberia, greek_colony
+	5
+	5
+	greek 20 iberian 80
+
+Hispania
+	legion: Hispana
+	Carthago_Nova
+	carthage
+	Iberians
+	187 198 13
+	iberia, phoenician_colony
+	5
+	7
+	phoenician 20 iberian 80
+
+Ilerda_R
+	legion: Hispana
+	Ilerda
+	ilergetes
+	Iberians
+	56 107 19
+	iberia
+	5
+	7
+	iberian 100
+
+Ilorci_R
+	legion: Hispana
+	Ilorci
+	bastetani
+	Iberians
+	196 105 57
+	iberia
+	5
+	5
+	iberian 100
+
+Ilurcis_R
+	legion: Hispana
+	Ilurcis
+	celtiberia
+	Iberians
+	53 183 49
+	celtiberia
+	5
+	6
+	celtic 100
+
+Kelin_R
+	legion: Hispana
+	Kelin
+	celtiberia
+	Iberians
+	222 230 78
+	celtiberia
+	5
+	5
+	celtic 100
+
+Libisosa_R
+	legion: Hispana
+	Libisosa
+	oretani
+	Iberians
+	208 155 201
+	iberia
+	5
+	8
+	iberian 100
+
+Nemetobriga_R
+	legion: Hispana
+	Nemetobriga
+	astures
+	Iberians
+	216 58 101
+	celtiberia
+	5
+	5
+	celtic 100
+
+Noega_R
+	legion: Hispana
+	Noega
+	astures
+	Iberians
+	180 38 206
+	celtiberia
+	5
+	2
+	celtic 100
+
+Ocelodurum_R
+	legion: Hispana
+	Ocelodurum
+	astures
+	Iberians
+	20 137 18
+	celtiberia
+	5
+	6
+	celtic 100
+
+Pallantia_R
+	legion: Hispana
+	Pallantia
+	vaccaei
+	Iberians
+	127 53 179
+	celtiberia
+	5
+	11
+	celtic 100
+
+Saiti_R
+	legion: Hispana
+	Saiti
+	edetani
+	Iberians
+	113 225 144
+	iberia
+	5
+	8
+	iberian 100
+
+Salduba_R
+	legion: Hispana
+	Salduba
+	edetani
+	Iberians
+	49 21 138
+	iberia
+	5
+	10
+	iberian 100
+
+Segobriga_R
+	legion: Hispana
+	Segobriga
+	celtiberia
+	Iberians
+	75 31 39
+	celtiberia
+	5
+	6
+	celtic 100
+
+Taraconenis
+	legion: Hispana
+	Osca
+	suessiones
+	Iberians
+	13 196 198
+	celtiberia
+	5
+	6
+	celtic 100
+
+Tarraco_R
+	legion: Gemina
+	Tarraco
+	cessetani
+	Iberians
+	151 108 106
+	iberia
+	5
+	7
+	iberian 100
+
+Termes_R
+	legion: Hispana
+	Termes
+	celtiberia
+	Iberians
+	213 200 23
+	celtiberia
+	5
+	5
+	celtic 100
+
+Toletum_R
+	legion: Hispana
+	Toletum
+	carpetani
+	Iberians
+	228 11 183
+	celtiberia
+	5
+	11
+	celtic 100
+
+Turboleta_R
+	legion: Hispana
+	Turboleta
+	celtiberia
+	Iberians
+	202 92 12
+	celtiberia
+	5
+	4
+	celtic 100
+
+Virovesca_R
+	legion: Hispana
+	Virovesca
+	cantabri
+	Iberians
+	6 88 192
+	celtiberia
+	5
+	5
+	celtic 100
+
+Pompelo_R
+	legion: Hispana
+	Pompelo
+	vascones
+	Iberians
+	146 99 217
+	aquitania
+	5
+	5
+	aquitanian 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Baetica
+
+Abdera_R
+	legion: Baetica
+	Abdera
+	carthage
+	Iberians
+	144 96 103
+	iberia, phoenician_colony
+	5
+	6
+	phoenician 20 iberian 80
+	
+Iliberri_R
+	legion: Baetica
+	Iliberri
+	bastetani
+	Iberians
+	69 174 67
+	iberia
+	5
+	5
+	iberian 100
+
+Baetica
+	legion: Baetica
+	Corduba
+	turdetani
+	Iberians
+	17 13 198
+	turdetania
+	5
+	13
+	iberian 100
+	
+Carteia_R
+	legion: Baetica
+	Carteia
+	carthage
+	Iberians
+	134 172 224
+	turdetania, phoenician_colony
+	5
+	6
+	phoenician 20 iberian 80
+	
+Gadir_R
+	legion: Baetica
+	Gadir
+	carthage
+	Iberians
+	38 126 62
+	turdetania, phoenician_colony
+	5
+	10
+	phoenician 60 iberian 40
+	
+Hispalis_R
+	legion: Baetica
+	Hispalis
+	turdetani
+	Iberians
+	217 214 117
+	turdetania
+	5
+	11
+	iberian 100
+
+Malaca_R
+	legion: Baetica
+	Malaca
+	carthage
+	Iberians
+	192 50 194
+	turdetania, phoenician_colony
+	5
+	6
+	phoenician 40 iberian 60
+	
+Onoba_R
+	legion: Baetica
+	Onoba
+	turdetani
+	Iberians
+	187 24 174
+	turdetania
+	5
+	5
+	iberian 100
+
+Ossonoba_R
+	legion: Baetica
+	Ossonoba
+	carthage
+	Iberians
+	167 35 92
+	turdetania, phoenician_colony
+	5
+	7 
+	phoenician 20 iberian 80
+	
+Urso_R
+	legion: Baetica
+	Urso
+	turdetani
+	Iberians
+	172 89 89
+	turdetania
+	5
+	7
+	iberian 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Lusitania (and Celtici)
+
+Conimbriga_R
+	legion: Lusitana
+	Conimbriga
+	spain
+	Iberians
+	76 59 168
+	lusitania
+	5
+	6
+	lusitanian 100
+	
+Helmantica_R
+	legion: Lusitana
+	Helmantica
+	vettones
+	Iberians
+	215 212 101
+	lusitania
+	5
+	7
+	lusitanian 100
+	
+Lusitania
+	legion: Lusitana
+	Scallabis
+	spain
+	Iberians
+	13 198 30
+	lusitania
+	5
+	9
+	lusitanian 100
+	
+Meidubriga_R
+	legion: Lusitana
+	Meidubriga
+	spain
+	Iberians
+	227 204 162
+	lusitania
+	5
+	5
+	lusitanian 100
+	
+Mirobriga_R
+	legion: Lusitana
+	Mirobriga
+	vettones
+	Iberians
+	184 122 90
+	lusitania
+	5
+	4
+	lusitanian 100
+
+Moron_R
+	legion: Lusitana
+	Moron
+	spain
+	Iberians
+	217 197 27
+	lusitania
+	5
+	6
+	lusitanian 100
+	
+Oxthraca_R
+	legion: Lusitana
+	Oxthraca
+	spain
+	Iberians
+	27 99 47
+	lusitania
+	5
+	7
+	lusitanian 100
+	
+Turgalium_R
+	legion: Lusitana
+	Turgalium
+	vettones
+	Iberians
+	48 49 179
+	lusitania
+	5
+	4
+	lusitanian 100
+	
+Ebora_R
+	legion: Lusitana
+	Ebora
+	celtici
+	Iberians
+	192 117 61
+	celtiberia
+	5
+	8
+	celtic 100
+	
+MirobrigaTurdulia_R
+	legion: Lusitana
+	MirobrigaTurdulia
+	celtici
+	Iberians
+	46 90 109
+	celtiberia
+	5
+	7
+	celtic 100
+	
+Segida_R
+	legion: Lusitana
+	Segida
+	celtici
+	Iberians
+	85 185 59
+	celtiberia
+	5
+	4
+	celtic 100
+	
+Iulipa_R
+	legion: Lusitana
+	Iulipa
+	turdetani
+	Iberians
+	140 120 188
+	celtiberia
+	5
+	4
+	celtic 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Baleares
+
+Baliares
+	legion: Hispana
+	Palma
+	carthage
+	Iberians
+	41 232 225
+	balaeric
+	5
+	6
+	iberian 100
+
+Ebusus_R
+	legion: Hispana
+	Ebusus
+	carthage
+	Iberians
+	28 165 54
+	balaeric, phoenician_colony
+	5
+	6
+	phoenician 60 iberian 40
+
+Mago_R
+	legion: Hispana
+	Mago
+	carthage
+	Iberians
+	183 20 20
+	balaeric, phoenician_colony
+	5
+	6
+	phoenician 20 iberian 80
+
+	
+	
+; *********************************************************
+; *********************************************************
+; . Italy / Italia
+
+Apulia
+	legion: Italica
+	Tarentum
+	taras
+	Calabrians
+	33 196 58
+	italy, greek_colony
+	5
+	9
+	greek 80 italic 20
+
+AriminumCity_R
+	legion: Italica
+	AriminumCity
+	romans_julii
+	Umbrians
+	192 244 132
+	italy
+	5
+	7
+	italic 100
+
+Arpi_R
+	legion: Italica
+	Arpi
+	romans_brutii
+	Campanians
+	128 132 23
+	italy
+	5
+	8
+	italic 100
+
+Asculum_R
+	legion: Italica
+	Asculum
+	picentes
+	Umbrians
+	188 142 35
+	italy
+	5
+	7
+	italic 100
+
+Barium_R
+	legion: Italica
+	Barium
+	messapians
+	Lucanians
+	136 41 41
+	italy
+	5
+	7
+	italic 100
+
+Bovianum_R
+	legion: Italica
+	Bovianum
+	romans_scipii
+	Lucanians
+	41 187 58
+	italy
+	5
+	6
+	italic 100
+
+Brundisium_R
+	legion: Italica
+	Brundisium
+	messapians
+	Lucanians
+	129 81 129
+	italy
+	5
+	7
+	italic 100
+
+Bruttium
+	legion: Italica
+	Croton
+	romans_scipii
+	Lucanians
+	13 170 198
+	italy, greek_colony
+	5
+	8
+	greek 40 italic 60
+
+Campania
+	legion: Italica
+	Capua
+	romans_scipii
+	Campanians
+	198 13 174
+	italy, capital
+	5
+	9
+	italic 100
+
+Corfinium_R
+	legion: Italica
+	Corfinium
+	romans_julii
+	Umbrians
+	119 141 100
+	italy
+	5
+	7
+	italic 100
+
+Cosentia_R
+	legion: Italica
+	Cosentia
+	brutii
+	Lucanians
+	190 63 94
+	italy
+	5
+	5
+	italic 100
+
+Fregellae_R
+	legion: Italica
+	Fregellae
+	romans_julii
+	Umbrians
+	205 108 44
+	italy
+	5
+	6
+	italic 100
+
+Heraclea_R
+	legion: Italica
+	Heraclea
+	romans_brutii
+	Lucanians
+	178 154 183
+	italy, greek_colony
+	5
+	7
+	greek 40 italic 60
+
+Hipponion_R
+	legion: Italica
+	Hipponion
+	romans_scipii
+	Helots
+	47 218 57
+	italy, greek_colony
+	5
+	5
+	greek 40 italic 60
+
+Histonium_R
+	legion: Italica
+	Histonium
+	romans_brutii
+	Umbrians
+	209 52 31
+	italy
+	5
+	6
+	italic 100
+
+Iguvium_R
+	legion: Italica
+	Iguvium
+	romans_julii
+	Umbrians
+	226 125 234
+	italy
+	5
+	6
+	italic 100
+
+Latium
+	legion: Italica
+	Rome
+	romans_julii
+	Latins
+	52 13 198
+	rome, italy, capital
+	5
+	8
+	italic 100
+
+Locri_R
+	legion: Italica
+	Locri
+	romans_scipii
+	Helots
+	186 197 51
+	italy, greek_colony
+	5
+	5
+	greek 40 italic 60
+
+Maleventum_R
+	legion: Italica
+	Maleventum
+	romans_scipii
+	Lucanians
+	196 206 38
+	italy
+	5
+	7
+	italic 100
+
+Poseidonia_R
+	legion: Italica
+	Poseidonia
+	romans_brutii
+	Lucanians
+	35 73 32
+	italy, greek_colony
+	5
+	6
+	greek 40 italic 60
+
+Potentia_R
+	legion: Italica
+	Potentia
+	romans_brutii
+	Lucanians
+	190 150 63
+	italy
+	5
+	6
+	italic 100
+
+Rhegium_R
+	legion: Italica
+	Rhegium
+	romans_scipii
+	Sicani
+	49 114 37
+	italy, greek_colony
+	5
+	8
+	greek 20 italic 80
+
+Thurii_R
+	legion: Italica
+	Thurii
+	romans_brutii
+	Lucanians
+	25 57 135
+	italy, greek_colony
+	5
+	7
+	greek 40 italic 60
+
+Umbria
+	legion: Italica
+	Ariminum
+	syracuse
+	Umbrians
+	198 43 13
+	italy, greek_colony
+	5
+	7
+	greek 60 italic 40
+
+Venusia_R
+	legion: Italica
+	Venusia
+	romans_brutii
+	Campanians
+	43 84 113
+	italy, capital
+	5
+	7
+	italic 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Cisalpine Gaul (northern Italy)
+
+Cisalpine_Gaul
+	legion: Italica
+	Mediolanium
+	insubres
+	Insubres
+	221 232 41
+	italy_north
+	5
+	10
+	celtic 100
+
+Liguria
+	legion: Italica
+	Segesta
+	ligures
+	Ligurians
+	157 13 198
+	italy_north
+	5
+	6
+	celtic 100
+
+Atria_R
+	legion: Italica
+	Atria
+	lingones
+	Veneti
+	196 221 82
+	italy_north
+	5
+	7
+	etruscan 20 celtic 80
+	
+Apua_R
+	legion: Italica
+	Apua
+	ligures
+	Ligurians
+	66 113 38
+	italy_north
+	5
+	4
+	celtic 100
+
+Bagiennium_R
+	legion: Italica
+	Bagiennium
+	ligures
+	Insubres
+	224 158 46
+	italy_north
+	5
+	6
+	celtic 100
+	
+Brixia_R
+	legion: Italica
+	Brixia
+	cenomanni
+	Insubres
+	127 148 190
+	italy_north
+	5
+	10
+	celtic 100
+	
+Cremona_R
+	legion: Italica
+	Cremona
+	cenomanni
+	Insubres
+	160 55 100
+	italy_north
+	5
+	7
+	celtic 100
+
+Dertona_R
+	legion: Italica
+	Dertona
+	ligures
+	Insubres
+	20 220 37
+	italy_north
+	5
+	5
+	celtic 100
+	
+Felsina_R
+	legion: Italica
+	Felsina
+	boii
+	Boii
+	180 100 31
+	italy_north
+	5
+	14
+	etruscan 40 celtic 60
+	
+Ingaunum_R
+	legion: Italica
+	Ingaunum
+	ligures
+	Ligurians
+	36 145 63
+	italy_north
+	5
+	6
+	celtic 100
+	
+Novaria_R
+	legion: Italica
+	Novaria
+	vocontii
+	Insubres
+	37 61 156
+	italy_north
+	5
+	6
+	celtic 100
+	
+Opitergium_R
+	legion: Italica
+	Opitergium
+	veneti
+	Helvetii
+	228 135 228
+	italy_north
+	5
+	4
+	celtic 100
+	
+Parma_R
+	legion: Italica
+	Parma
+	boii
+	Boii
+	58 83 241
+	italy_north
+	5
+	10
+	etruscan 20 celtic 80
+	
+Taurasia_R
+	legion: Italica
+	Taurasia
+	taurini
+	Insubres
+	87 91 15
+	italy_north
+	5
+	9
+	celtic 100
+	
+Tergeste_R
+	legion: Italica
+	Tergeste
+	histri
+	Veneti
+	219 98 39
+	italy_north
+	5
+	9
+	celtic 100
+	
+Venetia
+	legion: Italica
+	Patavium
+	veneti
+	Veneti
+	13 198 117
+	italy_north
+	5
+	14
+	celtic 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Etruria
+
+Etruria
+	legion: Italica
+	Arretium
+	romans_julii
+	Etruscans
+	157 198 13
+	etruria, capital
+	5
+	7
+	italic 100
+	
+Cosa_R
+	legion: Italica
+	Cosa
+	romans_julii
+	Etruscans
+	222 111 39
+	etruria
+	5
+	5
+	etruscan 100
+	
+Ilva_R
+	legion: Italica
+	Ilva
+	romans_julii
+	Etruscans
+	213 67 60
+	etruria
+	5
+	3
+	etruscan 100
+	
+Pisae_R
+	legion: Italica
+	Pisae
+	etruscans
+	Etruscans
+	203 79 87
+	etruria
+	5
+	6
+	etruscan 100
+
+Volaterrae_R
+	legion: Italica
+	Volaterrae
+	romans_julii
+	Etruscans
+	70 35 133
+	etruria
+	5
+	9
+	etruscan 100
+
+Volsinii_R
+	legion: Italica
+	Volsinii
+	etruscans
+	Etruscans
+	15 122 0
+	etruria
+	5
+	9
+	etruscan 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Sicily
+
+Acragas_R
+	legion: Siciliae
+	Acragas
+	carthage
+	Sicani
+	210 50 190
+	sicily, greek_colony
+	5
+	10
+	greek 60 italic 40
+	
+Camarina_R
+	legion: Siciliae
+	Camarina
+	syracuse
+	Sicani
+	206 88 55
+	sicily, greek_colony
+	5
+	6
+	greek 60 italic 40
+	
+Catana_R
+	legion: Siciliae
+	Catana
+	syracuse
+	Sicani
+	22 18 95
+	sicily, greek_colony
+	5
+	7
+	greek 60 italic 40
+	
+Enna_R
+	legion: Siciliae
+	Enna
+	carthage
+	Sicani
+	55 138 23
+	sicily
+	5
+	7
+	italic 100
+	
+Eryx_R
+	legion: Siciliae
+	Eryx
+	carthage
+	Sicani
+	52 120 72
+	sicily
+	5
+	7
+	italic 100
+	
+Lipara_R
+	legion: Siciliae
+	Lipara
+	carthage
+	Sicani
+	194 195 119
+	sicily, greek_colony
+	5
+	4
+	greek 20 italic 80
+	
+Panormus_R
+	legion: Siciliae
+	Panormus
+	carthage
+	Sicani
+	158 19 19
+	sicily, phoenician_colony
+	5
+	8
+	phoenician 20 italic 80
+	
+Sicilia_Graecus
+	legion: Siciliae
+	Syracuse
+	syracuse
+	Syracusans
+	198 178 13
+	sicily, greek_colony
+	5
+	8
+	greek 80 italic 20
+
+Sicilia_Poeni
+	legion: Siciliae
+	Lilybaeum
+	carthage
+	Sicani
+	65 17 202
+	sicily, phoenician_colony
+	5
+	8
+	phoenician 40 italic 60
+
+Sicilia_Romanus
+	legion: Siciliae
+	Messana
+	mamertines
+	Sicani
+	177 142 58
+	sicily, greek_colony
+	5
+	8
+	greek 20 italic 80
+	
+Melita_R
+	legion: Siciliae
+	Melita
+	carthage
+	Poeni
+	83 122 13
+	north_africa, phoenician_colony
+	5
+	6
+	phoenician 100
+	
+	
+	
+; *********************************************************
+; *********************************************************
+; . Sardinia & Corsica
+ 
+Aleria_R
+	legion: Sardinica
+	Aleria
+	carthage
+	Beronicensis
+	200 178 35
+	corsica, etruria
+	5
+	6
+	etruscan 20 nuragic 80
+
+OlbiaSardinica_R
+	legion: Sardinica
+	OlbiaSardinica
+	carthage
+	Beronicensis
+	79 45 110
+	sardinia, greek_colony
+	5
+	6
+	greek 20 nuragic 80
+
+Macopsissa_R
+	legion: Sardinica
+	Macopsissa
+	iolei
+	Beronicensis
+	40 154 44
+	sardinia
+	5
+	6
+	nuragic 100
+
+Sardinia
+	legion: Sardinica
+	Caralis
+	carthage
+	Beronicensis
+	198 35 13
+	sardinia, phoenician_colony
+	5
+	5
+	phoenician 20 nuragic 80
+
+Sulci_R
+	legion: Sardinica
+	Sulci
+	carthage
+	Beronicensis
+	181 178 106
+	sardinia, phoenician_colony
+	5
+	7
+	phoenician 40 nuragic 60
+
+Tharros_R
+	legion: Sardinica
+	Tharros
+	carthage
+	Beronicensis
+	225 109 20
+	sardinia, phoenician_colony
+	5
+	7
+	phoenician 20 nuragic 80
+
+Uselis_R
+	legion: Sardinica
+	Uselis
+	iolei
+	Beronicensis
+	223 213 64
+	sardinia
+	5
+	4
+	nuragic 100
+
+Venicum_R
+	legion: Sardinica
+	Venicum
+	corsi
+	Beronicensis
+	46 109 51
+	corsica
+	5
+	2
+	nuragic 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Greece / Hellas
+
+Attica
+	legion: Gemina
+	Athens
+	athens
+	Athenians
+	58 177 106
+	greece, athens
+	5
+	9
+	greek 100
+	
+Aetolia
+	legion: Achaica
+	Thermon
+	aetolia
+	Aetolians
+	13 18 244
+	greece
+	5
+	8
+	greek 100
+	
+Laconia
+	legion: Achaica
+	Sparta
+	acarnania
+	Helots
+	244 13 24
+	greece, sparta
+	5
+	7
+	greek 100
+	
+Peloponnesus
+	legion: Achaica
+	Corinth
+	macedon
+	Achaeans
+	225 192 192
+	greece
+	5
+	8
+	greek 100
+
+Aegium_R
+	legion: Achaica
+	Aegium
+	achea
+	Achaeans
+	206 173 22
+	greece
+	5
+	6
+	greek 100
+
+Argos_R
+	legion: Achaica
+	Argos
+	argos
+	Achaeans
+	78 111 78
+	greece
+	5
+	8
+	greek 100
+
+Chalcis_R
+	legion: Achaica
+	Chalcis
+	macedon
+	Ionians
+	158 92 60
+	greece
+	5
+	3
+	greek 100
+
+Elis_R
+	legion: Achaica
+	Elis
+	elis
+	Achaeans
+	17 69 11
+	greece
+	5
+	10
+	greek 100
+
+Hephaistia_R
+	legion: Achaica
+	Hephaistia
+	athens
+	Lesbians
+	50 116 43
+	greece
+	5
+	3
+	greek 100
+
+Imbros_R
+	legion: Achaica
+	Imbros
+	athens
+	Ionians
+	226 93 249
+	greece
+	5
+	2
+	greek 100
+
+Kythera_R
+	legion: Achaica
+	Kythera
+	acarnania
+	Helots
+	20 122 23
+	greece
+	5
+	3
+	greek 100
+
+Lamia_R
+	legion: Achaica
+	Lamia
+	boetia
+	Aetolians
+	68 192 36
+	greece
+	5
+	6
+	greek 100
+
+Leucas_R
+	legion: Achaica
+	Leucas
+	aetolia
+	Ionians
+	219 214 85
+	greece
+	5
+	3
+	greek 100
+
+Megalopolis_R
+	legion: Achaica
+	Megalopolis
+	arcadia
+	Achaeans
+	70 78 174
+	greece
+	5
+	6
+	greek 100
+
+Messene_R
+	legion: Achaica
+	Messene
+	messene
+	Achaeans
+	118 63 118
+	greece
+	5
+	12
+	greek 100
+
+Naxos_R
+	legion: Achaica
+	Naxos
+	melos
+	Ionians
+	189 39 39
+	greece
+	5
+	3
+	greek 100
+
+Orchomenus_R
+	legion: Achaica
+	Orchomenus
+	boetia
+	Athenians
+	175 48 48
+	greece
+	5
+	10
+	greek 100
+
+Oreos_R
+	legion: Achaica
+	Oreos
+	macedon
+	Ionians
+	49 63 212
+	greece
+	5
+	3
+	greek 100
+
+Same_R
+	legion: Achaica
+	Same
+	aetolia
+	Ionians
+	170 21 21
+	greece
+	5
+	3
+	greek 100
+
+Stratos_R
+	legion: Achaica
+	Stratos
+	aetolia
+	Aetolians
+	100 103 44
+	greece
+	5
+	6
+	greek 100
+
+ThebesBoeotia_R
+	legion: Achaica
+	ThebesBoeotia
+	boetia
+	Athenians
+	224 196 51
+	greece, thebes
+	5
+	8
+	greek 100
+
+Zakynthos_R
+	legion: Achaica
+	Zakynthos
+	aetolia
+	Ionians
+	77 206 86
+	greece
+	5
+	2
+	greek 100
+
+	
+; *********************************************************
+; *********************************************************
+; . Crete
+	
+Crete
+	legion: Cretae
+	Kydonia
+	kydonia
+	Cretans
+	193 162 206
+	greece
+	5
+	7
+	greek 100
+	
+Gortyna_R
+	legion: Cretae
+	Gortyna
+	gortyn
+	Cretans
+	27 175 70
+	greece
+	5
+	6
+	greek 100
+	
+Itanos_R
+	legion: Cretae
+	Itanos
+	egypt
+	Cretans
+	147 148 232
+	greece
+	5
+	4
+	greek 100
+
+Knossos_R
+	legion: Cretae
+	Knossos
+	knossos
+	Cretans
+	174 23 23
+	greece
+	5
+	7
+	greek 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Eastern Aegean
+	
+Rhodos
+	legion: Asianae
+	Rhodes
+	rhodes
+	Rhodians
+	131 33 77
+	greece
+	5
+	6
+	greek 100
+	
+Chios_R
+	legion: Asianae
+	Chios
+	seleucid
+	Ionians
+	25 134 61
+	greece
+	5
+	3
+	greek 100
+	
+Mytilene_R
+	legion: Asianae
+	Mytilene
+	egypt
+	Lesbians
+	211 209 26
+	greece
+	5
+	8
+	greek 100
+	
+Potidaion_R
+	legion: Asianae
+	Potidaion
+	rhodes
+	Ionians
+	217 147 49
+	greece
+	5
+	3
+	greek 100
+	
+Samos_R
+	legion: Asianae
+	Samos
+	egypt
+	Ionians
+	199 188 80
+	greece
+	5
+	3
+	greek 100
+	
+	
+
+; *********************************************************
+; *********************************************************
+; . Epirus
+
+Ambracia_R
+	legion: Epirotica
+	Ambracia
+	epirus
+	Epirots
+	62 65 121
+	greece
+	5
+	10
+	greek 100
+	
+Corcyra_R
+	legion: Epirotica
+	Corcyra
+	epirus
+	Epirots
+	19 146 79
+	greece
+	5
+	6
+	greek 100
+	
+Passaron_R
+	legion: Epirotica
+	Passaron
+	epirus
+	Epirots
+	228 223 143
+	greece
+	5
+	6
+	greek 100
+	
+Phoenice_R
+	legion: Epirotica
+	Phoenice
+	epirus
+	Epirots
+	167 35 112
+	greece
+	5
+	7
+	greek 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Macedonia (and Southern Illyria)
+
+Macedonia
+	legion: Macedonica
+	Thessalonica
+	macedon
+	Edones
+	177 58 145
+	macedonia
+	5
+	10
+	greek 100
+
+Amphipolis_R
+	legion: Macedonica
+	Amphipolis
+	macedon
+	Edones
+	22 115 26
+	macedonia
+	5
+	10
+	greek 100
+	
+ArgosOrestikon_R
+	legion: Macedonica
+	ArgosOrestikon
+	macedon
+	Paionians
+	134 131 81
+	macedonia
+	5
+	6
+	greek 100
+	
+Cassandreia_R
+	legion: Macedonica
+	Cassandreia
+	macedon
+	Edones
+	25 33 112
+	macedonia
+	5
+	6
+	greek 100
+	
+Dion_R
+	legion: Macedonica
+	Dion
+	macedon
+	Edones
+	60 98 57
+	macedonia
+	5
+	6
+	greek 100
+
+HeracleaLyncestis_R
+	legion: Macedonica
+	HeracleaLyncestis
+	macedon
+	Paionians
+	34 156 46
+	macedonia
+	5
+	6
+	greek 100
+	
+Heraclea_Sintike_R
+	legion: Macedonica
+	Heraclea_Sintike
+	macedon
+	Paionians
+	62 90 132
+	macedonia
+	5
+	4
+	greek 100
+	
+Maroneia_R
+	legion: Macedonica
+	Maroneia
+	seleucid
+	Odrysae
+	141 63 143
+	macedonia
+	5
+	6
+	greek 100
+	
+Pella_R
+	legion: Macedonica
+	Pella
+	macedon
+	Edones
+	185 117 1
+	macedonia
+	5
+	10
+	greek 100
+	
+Thasos_R
+	legion: Macedonica
+	Thasos
+	macedon
+	Ionians
+	189 194 89
+	macedonia
+	5
+	3
+	greek 100
+	
+Epirus
+	legion: Macedonica
+	Apollonia
+	illyria
+	Epirots
+	83 58 177
+	illyria, greek_colony
+	5
+	6
+	greek 40 illyrian 60
+
+Antipatreia_R
+	legion: Macedonica
+	Antipatreia
+	illyria
+	Epirots
+	62 115 72
+	illyria
+	5
+	4
+	illyrian 100
+	
+Epidamnus_R
+	legion: Macedonica
+	Epidamnus
+	illyria
+	Illyrians
+	221 70 195
+	illyria, greek_colony
+	5
+	7
+	greek 20 illyrian 80
+	
+Lykhnidos_R
+	legion: Macedonica
+	Lykhnidos
+	illyria
+	Paionians
+	26 219 171
+	illyria
+	5
+	6
+	greek 40 illyrian 60
+
+
+
+; *********************************************************
+; *********************************************************
+; . Paeonia
+
+Paionia
+	legion: Macedonica
+	Bylazora
+	paeonia
+	Paionians
+	131 33 100
+	paeonia
+	5
+	7
+	greek 100
+
+Pautalia_R
+	legion: Macedonica
+	Pautalia
+	paeonia
+	Paionians
+	210 205 69
+	paeonia
+	5
+	6
+	paeonian 100
+	
+Stobi_R
+	legion: Macedonica
+	Stobi
+	paeonia
+	Paionians
+	152 218 141
+	paeonia
+	5
+	6
+	paeonian 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Thessalia
+	
+Demetrias_R
+	legion: Macedonica
+	Demetrias
+	macedon
+	Thessalians
+	186 179 88
+	greece
+	5
+	9
+	greek 100
+
+Thessalia
+	legion: Macedonica
+	Larissa
+	thessaly
+	Thessalians
+	177 83 58
+	greece, thessaly
+	5
+	12
+	greek 100
+
+Tricca_R
+	legion: Macedonica
+	Tricca
+	thessaly
+	Thessalians
+	124 26 155
+	greece, thessaly
+	5
+	6
+	greek 100
+
+
+	
+; *********************************************************
+; *********************************************************
+; . Dacia
+
+Tribus_Getae
+	legion: Dacica
+	Campus_Getae
+	dacia
+	Troglodytae
+	131 33 38
+	carpathia
+	5
+	5
+	dacian 100
+
+Tribus_Iazyges
+	legion: Dacica
+	Campus_Iazyges
+	anartes
+	Iazyges
+	33 100 131
+	carpathia
+	5
+	6
+	celtic 40 dacian 60
+
+Argedava_R
+	legion: Dacica
+	Argedava
+	dacia
+	Carpi
+	131 130 81
+	carpathia
+	5
+	3
+	dacian 100
+
+Argidava_R
+	legion: Dacica
+	Argidava
+	biephi
+	Iazyges
+	216 58 86
+	carpathia
+	5
+	5
+	dacian 100
+
+Buridava_R
+	legion: Dacica
+	Buridava
+	buridenses
+	Carpi
+	53 64 128
+	carpathia
+	5
+	3
+	dacian 100
+
+Carsidava_R
+	legion: Dacica
+	Carsidava
+	peucitans
+	Carpi
+	33 64 186
+	carpathia
+	5
+	4
+	dacian 100
+
+Dacia
+	legion: Dacica
+	Porrolissum
+	apuli
+	Carpi
+	72 177 58
+	carpathia
+	5
+	7
+	dacian 100
+
+Drobeta_R
+	legion: Dacica
+	Drobeta
+	buridenses
+	Illyrians
+	41 136 41
+	carpathia
+	5
+	4
+	dacian 100
+
+Harpispolis_R
+	legion: Dacica
+	Harpispolis
+	dacia
+	Troglodytae
+	106 211 129
+	carpathia
+	5
+	3
+	dacian 100
+
+Macrodava_R
+	legion: Dacica
+	Macrodava
+	apuli
+	Carpi
+	137 189 192
+	carpathia
+	5
+	5
+	dacian 100
+
+Maetonium_R
+	legion: Dacica
+	Maetonium
+	bastarnae
+	Venedae
+	231 234 91
+	carpathia
+	5
+	5
+	dacian 100
+
+Malva_R
+	legion: Dacica
+	Malva
+	buridenses
+	Carpi
+	200 120 60
+	carpathia
+	5
+	4
+	dacian 100
+
+Napoca_R
+	legion: Dacica
+	Napoca
+	daunians
+	Carpi
+	19 119 58
+	carpathia
+	5
+	6
+	dacian 100
+
+Nentidava_R
+	legion: Dacica
+	Nentidava
+	dacia
+	Carpi
+	123 210 168
+	carpathia
+	5
+	4
+	dacian 100
+
+Patridava_R
+	legion: Dacica
+	Patridava
+	peucitans
+	Carpi
+	120 94 133
+	carpathia
+	5
+	4
+	dacian 100
+
+Petrodava_R
+	legion: Dacica
+	Petrodava
+	peucitans
+	Carpi
+	240 114 64
+	carpathia
+	5
+	4
+	dacian 100
+
+Polondava_R
+	legion: Dacica
+	Polondava
+	dacia
+	Carpi
+	22 151 37
+	carpathia
+	5
+	4
+	dacian 100
+
+Porolissum_R
+	legion: Dacica
+	Porolissum
+	daunians
+	Carpi
+	178 161 66
+	carpathia
+	5
+	5
+	dacian 100
+
+Ramidava_R
+	legion: Dacica
+	Ramidava
+	dacia
+	Carpi
+	225 198 49
+	carpathia
+	5
+	3
+	dacian 100
+
+Rucconium_R
+	legion: Dacica
+	Rucconium
+	nori
+	Iazyges
+	163 44 69
+	carpathia
+	5
+	4
+	celtic 40 dacian 60
+
+Sangidava_R
+	legion: Dacica
+	Sangidava
+	dacia
+	Carpi
+	151 50 174
+	carpathia
+	5
+	5
+	dacian 100
+
+Sarmizegetusa_R
+	legion: Dacica
+	Sarmizegetusa
+	apuli
+	Carpi
+	208 216 134
+	carpathia
+	5
+	5
+	dacian 100
+
+Trissum_R
+	legion: Dacica
+	Trissum
+	anartes
+	Iazyges
+	134 137 74
+	carpathia
+	5
+	4
+	celtic 40 dacian 60
+
+Zargidava_R
+	legion: Dacica
+	Zargidava
+	peucitans
+	Carpi
+	42 220 43
+	carpathia
+	5
+	4
+	dacian 100
+
+Ziridava_R
+	legion: Dacica
+	Ziridava
+	biephi
+	Iazyges
+	221 221 19
+	carpathia
+	5
+	3
+	dacian 100
+
+Zurobara_R
+	legion: Dacica
+	Zurobara
+	biephi
+	Iazyges
+	133 113 157
+	carpathia
+	5
+	5
+	dacian 100
+	
+Clepidava_R
+	legion: Dacica
+	Clepidava
+	scythia
+	Venedae
+	139 190 155
+	carpathia
+	5
+	4
+	dacian 40 scythian 60
+
+Eractum_R
+	legion: Dacica
+	Eractum
+	scythia
+	Sarmatians
+	30 120 120
+	carpathia
+	5
+	4
+	dacian 60 scythian 40
+
+Ophioussa_R
+	legion: Dacica
+	Ophioussa
+	dacia
+	Carpi
+	26 96 46
+	carpathia
+	5
+	3
+	dacian 60 scythian 40
+	
+Petridava_R
+	legion: Dacica
+	Petridava
+	peucitans
+	Venedae
+	187 180 83
+	carpathia
+	5
+	4
+	dacian 60 scythian 40
+	
+Vibantavarium_R
+	legion: Dacica
+	Vibantavarium
+	scythia
+	Venedae
+	113 52 159
+	carpathia
+	5
+	4
+	dacian 40 scythian 60
+	
+	
+; *********************************************************
+; *********************************************************
+; . Pannonia
+
+Pannonia
+	legion: Adiutrix
+	Aquincum
+	eravisci
+	Scordisci
+	131 61 33
+	pannonia
+	5
+	5
+	celtic 100
+
+Sirmium_R
+	legion: Flavia_Felix
+	Sirmium
+	scordisci
+	Illyrians
+	168 57 163
+	pannonia
+	5
+	6
+	celtic 40 illyrian 60
+	
+Anduaetium_R
+	legion: Pannonica
+	Anduaetium
+	quadi
+	Boii
+	77 40 107
+	pannonia
+	5
+	4
+	germanic 40 celtic 60
+
+AraBona_R
+	legion: Pannonica
+	AraBona
+	eravisci
+	Scordisci
+	47 46 160
+	pannonia
+	5
+	3
+	celtic 100
+	
+Bormanum_R
+	legion: Pannonica
+	Bormanum
+	anartes
+	Iazyges
+	67 220 85
+	pannonia
+	5
+	3
+	celtic 60 dacian 40
+
+Candanum_R
+	legion: Pannonica
+	Candanum
+	eravisci
+	Iazyges
+	236 149 51
+	pannonia
+	5
+	3
+	celtic 100
+
+Cornacum_R
+	legion: Pannonica
+	Cornacum
+	breuci
+	Illyrians
+	120 222 164
+	pannonia
+	5
+	4
+	celtic 40 illyrian 60
+	
+Mogentiana_R
+	legion: Pannonica
+	Mogentiana
+	boii
+	Scordisci
+	119 53 179
+	pannonia
+	5
+	3
+	celtic 100
+
+Partiskon_R
+	legion: Pannonica
+	Partiskon
+	biephi
+	Iazyges
+	35 27 103
+	pannonia
+	5
+	3
+	celtic 100
+	
+Poetovium_R
+	legion: Pannonica
+	Poetovium
+	nori
+	Illyrians
+	28 199 84
+	pannonia
+	5
+	4
+	celtic 100
+	
+Scarbantia_R
+	legion: Pannonica
+	Scarbantia
+	nori
+	Scordisci
+	205 118 61
+	pannonia
+	5
+	3
+	celtic 100
+
+Sopianis_R
+	legion: Pannonica
+	Sopianis
+	eravisci
+	Illyrians
+	196 187 82
+	pannonia
+	5
+	5
+	celtic 60 illyrian 40
+	
+Tricciana_R
+	legion: Pannonica
+	Tricciana
+	eravisci
+	Scordisci
+	26 117 22
+	pannonia
+	5
+	5
+	celtic 100
+	
+Singidunum_R
+	legion: Pannonica
+	Singidunum
+	scordisci
+	Illyrians
+	185 117 47
+	pannonia
+	5
+	8
+	celtic 40 illyrian 60
+
+	
+; *********************************************************
+; *********************************************************
+; . Illyria
+
+Dalmatia
+	legion: Illyricorum
+	Salona
+	delmatae
+	Illyrians
+	61 177 58
+	illyria
+	5
+	4
+	illyrian 100
+
+Illyria
+	legion: Dalmatica
+	Segestica
+	daesitiates
+	Illyrians
+	58 173 177
+	illyria
+	5
+	6
+	illyrian 100
+
+Apsarus_R
+	legion: Dalmatica
+	Apsarus
+	balari
+	Veneti
+	72 170 66
+	illyria
+	5
+	3
+	illyrian 100
+
+Arsa_R
+	legion: Dalmatica
+	Arsa
+	dardania
+	Illyrians
+	60 240 60
+	illyria
+	5
+	5
+	illyrian 100
+
+Capedunum_R
+	legion: Dalmatica
+	Capedunum
+	scordisci
+	Illyrians
+	93 45 145
+	illyria
+	5
+	5
+	illyrian 100
+
+Daorson_R
+	legion: Dalmatica
+	Daorson
+	daorsi
+	Illyrians
+	50 21 113
+	illyria
+	5
+	6
+	illyrian 100
+
+Delminium_R
+	legion: Dalmatica
+	Delminium
+	delmatae
+	Illyrians
+	161 47 199
+	illyria
+	5
+	6
+	illyrian 100
+
+Emona_R
+	legion: Dalmatica
+	Emona
+	carni
+	Illyrians
+	56 108 52
+	illyria
+	5
+	4
+	illyrian 100
+
+HedumOppidum_R
+	legion: Dalmatica
+	HedumOppidum
+	daorsi
+	Illyrians
+	147 86 88
+	illyria
+	5
+	5
+	illyrian 100
+
+Iader_R
+	legion: Dalmatica
+	Iader
+	balari
+	Illyrians
+	211 196 173
+	illyria
+	5
+	4
+	illyrian 100
+
+Issa_R
+	legion: Dalmatica
+	Issa
+	syracuse
+	Illyrians
+	18 125 28
+	illyria, greek_colony
+	5
+	3
+	greek 60 illyrian 40
+
+Nesactium_R
+	legion: Dalmatica
+	Nesactium
+	histri
+	Veneti
+	241 216 80
+	illyria
+	5
+	6
+	illyrian 100
+
+Pharos_R
+	legion: Dalmatica
+	Pharos
+	melos
+	Illyrians
+	197 186 77
+	illyria, greek_colony
+	5
+	3
+	greek 60 illyrian 40
+
+Pirustaiopolis_R
+	legion: Dalmatica
+	Pirustaiopolis
+	ardiaei
+	Illyrians
+	194 29 110
+	illyria
+	5
+	5
+	illyrian 100
+
+Raetinium_R
+	legion: Dalmatica
+	Raetinium
+	balari
+	Illyrians
+	166 167 23
+	illyria
+	5
+	5
+	illyrian 100
+
+Rhizon_R
+	legion: Dalmatica
+	Rhizon
+	ardiaei
+	Illyrians
+	206 75 26
+	illyria
+	5
+	4
+	illyrian 100
+
+Salinae_R
+	legion: Dalmatica
+	Salinae
+	daesitiates
+	Illyrians
+	32 116 23
+	illyria
+	5
+	4
+	illyrian 100
+
+Scodra_R
+	legion: Dalmatica
+	Scodra
+	ardiaei
+	Illyrians
+	213 221 70
+	illyria
+	5
+	7
+	illyrian 100
+	
+Scupi_R
+	legion: Dalmatica
+	Scupi
+	dardania
+	Paionians
+	16 16 152
+	illyria
+	5
+	7
+	illyrian 100
+
+Senia_R
+	legion: Dalmatica
+	Senia
+	balari
+	Illyrians
+	28 37 132
+	illyria
+	5
+	3
+	illyrian 100
+
+Serbinum_R
+	legion: Dalmatica
+	Serbinum
+	daesitiates
+	Illyrians
+	220 210 135
+	illyria
+	5
+	5
+	illyrian 100
+
+Serota_R
+	legion: Dalmatica
+	Serota
+	breuci
+	Illyrians
+	143 38 54
+	illyria
+	5
+	4
+	illyrian 100
+
+SetoviaDelmatia_R
+	legion: Dalmatica
+	SetoviaDelmatia
+	delmatae
+	Illyrians
+	227 22 26
+	illyria
+	5
+	5
+	illyrian 100
+
+Ulpiana_R
+	legion: Dalmatica
+	Ulpiana
+	dardania
+	Illyrians
+	108 153 154
+	illyria
+	5
+	6
+	illyrian 100
+	
+Naissus_R
+	legion: Dalmatica
+	Naissus
+	dardania
+	Illyrians
+	26 26 166
+	illyria
+	5
+	6
+	illyrian 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Thrace
+
+Propontis
+	legion: Claudia_Pia_Fidelis
+	Byzantium
+	byzantion
+	Sithones
+	118 131 33
+	thracia, greek_colony
+	5
+	12
+	greek 80 thracian 20
+
+Ainos_R
+	legion: Claudia_Pia_Fidelis
+	Ainos
+	thrace
+	Odrysae
+	177 189 30
+	thracia
+	5
+	6
+	thracian 100
+
+ApolloniaPontica_R
+	legion: Claudia_Pia_Fidelis
+	ApolloniaPontica
+	cyprus
+	Odrysae
+	160 41 33
+	thracia, greek_colony
+	5
+	6
+	greek 40 thracian 60
+
+Beroe_R
+	legion: Claudia_Pia_Fidelis
+	Beroe
+	thrace
+	Odrysae
+	87 216 88
+	thracia
+	5
+	6
+	thracian 100
+
+Bizye_R
+	legion: Claudia_Pia_Fidelis
+	Bizye
+	thrace
+	Odrysae
+	78 229 86
+	thracia
+	5
+	7
+	thracian 100
+
+Hyperpericum_R
+	legion: Claudia_Pia_Fidelis
+	Hyperpericum
+	bessi
+	Odrysae
+	211 91 21
+	thracia
+	5
+	4
+	thracian 100
+
+Kabyle_R
+	legion: Claudia_Pia_Fidelis
+	Kabyle
+	thrace
+	Odrysae
+	4 121 41
+	thracia
+	5
+	7
+	thracian 100
+
+Kypsela_R
+	legion: Claudia_Pia_Fidelis
+	Kypsela
+	caeni
+	Odrysae
+	204 198 129
+	thracia
+	5
+	7
+	thracian 100
+
+Lysimachia_R
+	legion: Claudia_Pia_Fidelis
+	Lysimachia
+	seleucid
+	Sithones
+	46 63 131
+	thracia
+	5
+	9
+	thracian 100
+
+Mesembria_R
+	legion: Claudia_Pia_Fidelis
+	Mesembria
+	thrace
+	Odrysae
+	95 91 128
+	thracia, greek_colony
+	5
+	6
+	greek 20 thracian 80
+
+Odryssa_R
+	legion: Claudia_Pia_Fidelis
+	Odryssa
+	thrace
+	Odrysae
+	3 124 193
+	thracia
+	5
+	12
+	thracian 100
+
+Perinthus_R
+	legion: Claudia_Pia_Fidelis
+	Perinthus
+	byzantion
+	Sithones
+	140 63 182
+	thracia, greek_colony
+	5
+	6
+	greek 40 thracian 60
+
+Philippopolis_R
+	legion: Claudia_Pia_Fidelis
+	Philippopolis
+	bessi
+	Odrysae
+	207 38 98
+	thracia
+	5
+	8
+	thracian 100
+
+Serdica_R
+	legion: Claudia_Pia_Fidelis
+	Serdica
+	triballi
+	Odrysae
+	218 120 25
+	thracia
+	5
+	5
+	thracian 100
+
+Seuthopolis_R
+	legion: Claudia_Pia_Fidelis
+	Seuthopolis
+	thrace
+	Odrysae
+	129 106 147
+	thracia
+	5
+	7
+	thracian 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Moesia
+
+Thrace
+	legion: Moesica
+	Tylis
+	tylis
+	Odrysae
+	218 246 61
+	pannonia
+	5
+	10
+	thracian 100
+
+Callatis_R
+	legion: Moesica
+	Callatis
+	heraclea
+	Odrysae
+	29 66 156
+	moesia, greek_colony
+	5
+	6
+	greek 60 thracian 40
+	
+Dunonia_R
+	legion: Moesica
+	Dunonia
+	triballi
+	Illyrians
+	199 31 197
+	moesia
+	5
+	5
+	thracian 100
+	
+Durostorum_R
+	legion: Moesica
+	Durostorum
+	krobyzi
+	Odrysae
+	175 65 14
+	moesia
+	5
+	4
+	thracian 100
+	
+Giridava_R
+	legion: Moesica
+	Giridava
+	triballi
+	Odrysae
+	131 138 216
+	moesia
+	5
+	6
+	thracian 100
+	
+Helis_R
+	legion: Moesica
+	Helis
+	krobyzi
+	Odrysae
+	60 60 120
+	moesia
+	5
+	4
+	thracian 100
+	
+Istros_R
+	legion: Moesica
+	Istros
+	cyprus
+	Odrysae
+	37 136 33
+	moesia, greek_colony
+	5
+	6
+	greek 40 thracian 60
+	
+Montanesium_R
+	legion: Moesica
+	Montanesium
+	triballi
+	Odrysae
+	54 179 48
+	moesia
+	5
+	5
+	thracian 100
+	
+Obulensiopolis_R
+	legion: Moesica
+	Obulensiopolis
+	tylis
+	Odrysae
+	83 95 44
+	moesia
+	5
+	5
+	thracian 100
+	
+Odessus_R
+	legion: Moesica
+	Odessus
+	cyprus
+	Odrysae
+	193 28 208
+	moesia, greek_colony
+	5
+	8
+	greek 60 thracian 40
+	
+Arubium_R
+	legion: Moesica
+	Arubium
+	dacia
+	Odrysae
+	200 187 95
+	carpathia
+	5
+	4
+	dacian 80 thracian 20
+
+
+	
+; *********************************************************
+; *********************************************************
+; . Greek Anatolia
+
+Ionia
+	legion: Asianae
+	Sardis
+	seleucid
+	Ionians
+	149 109 127
+	anatolia_greek
+	5
+	10
+	greek 100
+	
+Lycia
+	legion: Asianae
+	Halicarnasus
+	egypt
+	Lycians
+	131 83 77
+	anatolia_greek
+	5
+	10
+	greek 100
+	
+Phrygia
+	legion: Asianae
+	Pergamum
+	pergamon
+	Lesbians
+	33 59 131
+	anatolia_greek
+	5
+	12
+	greek 100
+
+Adramyttium_R
+	legion: Asianae
+	Adramyttium
+	pergamon
+	Lesbians
+	90 50 165
+	anatolia_greek
+	5
+	8
+	greek 100
+
+Parium_R
+	legion: Asianae
+	Parium
+	pergamon
+	Lesbians
+	150 49 49
+	anatolia_greek
+	5
+	8
+	greek 55 anatolian 45
+
+Priapos_R
+	legion: Asianae
+	Priapos
+	pergamon
+	Lesbians
+	109 57 57
+	anatolia_greek
+	5
+	8
+	greek 50 anatolian 50
+
+Zeleia_R
+	legion: Asianae
+	Zeleia
+	pergamon
+	Lesbians
+	91 100 94
+	anatolia_greek
+	5
+	8
+	anatolian 98 greek 2
+
+Cyme_R
+	legion: Asianae
+	Cyme
+	pergamon
+	Ionians
+	173 46 71
+	anatolia_greek
+	5
+	6
+	greek 100
+
+Ephesus_R
+	legion: Asianae
+	Ephesus
+	seleucid
+	Ionians
+	127 142 107
+	anatolia_greek
+	5
+	8
+	greek 100
+
+Erythrae_R
+	legion: Asianae
+	Erythrae
+	egypt
+	Ionians
+	72 160 91
+	anatolia_greek
+	5
+	3
+	greek 100
+
+Knidos_R
+	legion: Asianae
+	Knidos
+	egypt
+	Ionians
+	83 195 106
+	anatolia_greek
+	5
+	5
+	greek 100
+
+Miletus_R
+	legion: Asianae
+	Miletus
+	cyprus
+	Ionians
+	121 49 170
+	anatolia_greek
+	5
+	8
+	greek 100
+
+Smyrna_R
+	legion: Asianae
+	Smyrna
+	seleucid
+	Ionians
+	255 140 140
+	anatolia_greek
+	5
+	8
+	greek 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Mysia
+	
+Cyzicus_R
+	legion: Asianae
+	Cyzicus
+	cyprus
+	Lesbians
+	40 162 40
+	anatolia, greek_colony
+	5
+	4
+	greek 60 anatolian 40
+
+Dascylium_R
+	legion: Asianae
+	Dascylium
+	seleucid
+	Ionians
+	104 127 62
+	anatolia
+	5
+	7
+	anatolian 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Bithynia
+
+Bithynia
+	legion: Bithynica
+	Nicomedia
+	bithynia
+	Bithynians
+	202 17 122
+	bithynia
+	5
+	11
+	thracian 100
+
+Bithynium_R
+	legion: Bithynica
+	Bithynium
+	bithynia
+	Bithynians
+	222 122 27
+	bithynia
+	5
+	4
+	thracian 100
+	
+
+Chalcedon_R
+	legion: Bithynica
+	Chalcedon
+	byzantion
+	Sithones
+	23 73 27
+	bithynia, greek_colony
+	5
+	7
+	greek 40 thracian 60
+	
+Cius_R
+	legion: Bithynica
+	Cius
+	bithynia
+	Lesbians
+	204 209 78
+	bithynia, greek_colony
+	5
+	4
+	greek 40 thracian 50 anatolian 10
+	
+Nicaea_R
+	legion: Bithynica
+	Nicaea
+	bithynia
+	Bithynians
+	52 48 103
+	bithynia
+	5
+	9
+	thracian 100
+	
+HeracleaPontica_R
+	legion: Bithynica
+	HeracleaPontica
+	heraclea
+	Paphlagonians
+	89 189 101
+	bithynia, greek_colony
+	5
+	8
+	greek 80 anatolian 20
+
+Tios_R
+	legion: Bithynica
+	Tios
+	heraclea
+	Paphlagonians
+	251 229 146
+	bithynia, greek_colony
+	5
+	7
+	greek 60 anatolian 40
+
+
+
+; *********************************************************
+; *********************************************************
+; . Cappadocia
+
+Cappadocia
+	legion: Fulminata
+	Mazaka
+	cappadocia
+	Cappadocians
+	177 58 148
+	cappadocia
+	5
+	8
+	anatolian 100
+	
+Samosata_R
+	legion: Commagenae
+	Samosata
+	seleucid
+	Cappadocians
+	168 116 49
+	cappadocia
+	5
+	5
+	anatolian 100
+
+Ariarathia_R
+	legion: Cappadocica
+	Ariarathia
+	cappadocia
+	Cappadocians
+	97 146 155
+	cappadocia
+	5
+	5
+	anatolian 100
+	
+Comana_R
+	legion: Cappadocica
+	Comana
+	cappadocia
+	Cappadocians
+	240 240 42
+	cappadocia
+	5
+	6
+	anatolian 100
+	
+Garsaura_R
+	legion: Cappadocica
+	Garsaura
+	cappadocia
+	Galatians
+	160 9 13
+	cappadocia
+	5
+	6
+	anatolian 100
+	
+Gaziura_R
+	legion: Cappadocica
+	Gaziura
+	cappadocia
+	Paphlagonians
+	103 84 130
+	cappadocia
+	5
+	7
+	anatolian 100
+	
+Melitene_R
+	legion: Cappadocica
+	Melitene
+	cappadocia
+	Cappadocians
+	131 36 36
+	cappadocia
+	5
+	6
+	anatolian 100
+	
+Parnassos_R
+	legion: Cappadocica
+	Parnassos
+	cappadocia
+	Galatians
+	35 103 46
+	cappadocia
+	5
+	6
+	anatolian 100
+	
+Plastentia_R
+	legion: Cappadocica
+	Plastentia
+	cappadocia
+	Cappadocians
+	64 209 36
+	cappadocia
+	5
+	5
+	anatolian 100
+	
+Tyana_R
+	legion: Cappadocica
+	Tyana
+	seleucid
+	Cappadocians
+	220 110 8
+	cappadocia
+	5
+	6
+	anatolian 100
+
+
+
+
+; *********************************************************
+; *********************************************************
+; . Caria
+
+Kaunos_R
+	legion: Asianae
+	Kaunos
+	macedon
+	Ionians
+	217 210 91
+	caria, greek_colony
+	5
+	5
+	greek 60 anatolian 40
+	
+LaodiceaLycus_R
+	legion: Asianae
+	LaodiceaLycus
+	seleucid
+	Galatians
+	15 21 136
+	caria, greek_colony
+	5
+	7
+	greek 40 anatolian 60
+
+Stratonicea_R
+	legion: Asianae
+	Stratonicea
+	seleucid
+	Galatians
+	191 15 43
+	caria
+	5
+	6
+	anatolian 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Cilicia
+
+Cilicia
+	legion: Ciliciana
+	Tarsus
+	seleucid
+	Cilicians
+	17 202 52
+	cilicia
+	5
+	12
+	anatolian 100
+
+Anazarbus_R
+	legion: Ciliciana
+	Anazarbus
+	seleucid
+	Cilicians
+	34 47 180
+	cilicia
+	5
+	9
+	anatolian 100
+	
+Adana_R
+	legion: Ciliciana
+	Adana
+	seleucid
+	Cilicians
+	100 20 121
+	cilicia, greek_colony
+	5
+	12
+	greek 20 anatolian 80
+	
+Antiochia_Taurus_R
+	legion: Ciliciana
+	Antiochia_Taurus
+	seleucid
+	Cilicians
+	180 34 54
+	cilicia, greek_colony
+	5
+	6
+	greek 20 anatolian 80
+	
+SeleuciaCalycadnum_R
+	legion: Ciliciana
+	SeleuciaCalycadnum
+	seleucid
+	Cilicians
+	203 189 85
+	cilicia, greek_colony
+	5
+	9
+	greek 20 anatolian 80
+	
+Anemourion_R
+	legion: Ciliciana
+	Anemourion
+	seleucid
+	Cilicians
+	9 89 7
+	cilicia
+	5
+	6
+	anatolian 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Isauria
+	
+Isaura_R
+	legion: Isaura
+	Isaura
+	seleucid
+	Lycians
+	76 202 92
+	isauria
+	5
+	5
+	anatolian 100
+	
+Laranda_R
+	legion: Isaura
+	Laranda
+	seleucid
+	Galatians
+	98 84 151
+	isauria
+	5
+	6
+	anatolian 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Galatia
+
+Galatia
+	legion: Galatiae
+	Ancyra
+	galatia
+	Galatians
+	17 165 202
+	galatia
+	5
+	8
+	celtic 60 anatolian 40
+
+Eccobriga_R
+	legion: Galatiae
+	Eccobriga
+	galatia
+	Galatians
+	193 190 30
+	galatia
+	5
+	7
+	celtic 40 anatolian 60
+	
+Peium_R
+	legion: Galatiae
+	Peium
+	galatia
+	Paphlagonians
+	151 127 151
+	galatia
+	5
+	4
+	celtic 40 anatolian 60
+	
+Pessinus_R
+	legion: Galatiae
+	Pessinus
+	galatia
+	Galatians
+	44 91 43
+	galatia
+	5
+	6
+	celtic 20 anatolian 80
+	
+Tavium_R
+	legion: Galatiae
+	Tavium
+	galatia
+	Galatians
+	255 120 120
+	galatia
+	5
+	6
+	celtic 40 anatolian 60
+
+
+
+; *********************************************************
+; *********************************************************
+; . Lycaonia
+
+Iconium_R
+	legion: Galatiae
+	Iconium
+	seleucid
+	Galatians
+	255 200 200
+	lycaonia
+	5
+	8
+	anatolian 100
+	
+Philomelion_R
+	legion: Galatiae
+	Philomelion
+	seleucid
+	Galatians
+	206 212 47
+	lycaonia
+	5
+	6
+	anatolian 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Lycia
+
+Patara_R
+	legion: Lyciana
+	Patara
+	egypt
+	Lycians
+	65 79 137
+	lycia
+	5
+	7
+	anatolian 100
+	
+Limyra_R
+	legion: Lyciana
+	Limyra
+	egypt
+	Lycians
+	236 202 68
+	lycia
+	5
+	6
+	anatolian 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Pisidia
+	
+Cibyra_R
+	legion: Lyciana
+	Cibyra
+	seleucid
+	Lycians
+	2 128 19
+	pisidia
+	5
+	5
+	anatolian 100
+	
+Sagalassos_R
+	legion: Lyciana
+	Sagalassos
+	seleucid
+	Lycians
+	191 92 28
+	pisidia
+	5
+	6
+	anatolian 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Pamphylia
+
+Coracesium_R
+	legion: Pamphylica
+	Coracesium
+	egypt
+	Lycians
+	163 93 185
+	pamphylia
+	5
+	6
+	anatolian 100
+
+Perge_R
+	legion: Pamphylica
+	Perge
+	egypt
+	Lycians
+	255 60 60
+	pamphylia
+	5
+	8
+	anatolian 100
+	
+Side_R
+	legion: Pamphylica
+	Side
+	egypt
+	Lycians
+	30 120 129
+	pamphylia, greek_colony
+	5
+	7
+	greek 40 anatolian 60
+
+
+
+; *********************************************************
+; *********************************************************
+; . Phrygia
+
+ApameaMaeandrum_R
+	legion: Asianae
+	ApameaMaeandrum
+	seleucid
+	Galatians
+	46 118 126
+	phrygia, greek_colony
+	5
+	6
+	greek 20 anatolian 80
+
+Cotyaeum_R
+	legion: Asianae
+	Cotyaeum
+	seleucid
+	Galatians
+	252 17 238
+	phrygia
+	5
+	6
+	anatolian 100
+	
+Docimium_R
+	legion: Asianae
+	Docimium
+	seleucid
+	Galatians
+	194 29 63
+	phrygia
+	5
+	6
+	anatolian 100
+	
+Dorylaeum_R
+	legion: Asianae
+	Dorylaeum
+	seleucid
+	Galatians
+	118 133 52
+	phrygia
+	5
+	6
+	anatolian 100
+
+Mlaundus_R
+	legion: Asianae
+	Mlaundus
+	seleucid
+	Galatians
+	82 201 77
+	phrygia
+	5
+	6
+	anatolian 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Pontus
+
+Amaseia_R
+	legion: Pontica
+	Amaseia
+	pontus
+	Paphlagonians
+	30 120 123
+	pontus
+	5
+	11
+	iranian 60 anatolian 40
+	
+Amisus_R
+	legion: Pontica
+	Amisus
+	pontus
+	Paphlagonians
+	117 166 100
+	pontus
+	5
+	7
+	iranian 40 anatolian 60
+	
+ComanaPontica_R
+	legion: Pontica
+	ComanaPontica
+	pontus
+	Paphlagonians
+	160 23 12
+	pontus
+	5
+	6
+	iranian 40 anatolian 60
+	
+Dasteira_R
+	legion: Pontica
+	Dasteira
+	pontus
+	Cappadocians
+	179 148 108
+	pontus
+	5
+	5
+	iranian 40 anatolian 60
+	
+Karana_R
+	legion: Pontica
+	Karana
+	pontus
+	Galatians
+	38 155 26
+	pontus
+	5
+	5
+	iranian 40 anatolian 60
+	
+Pimolisa_R
+	legion: Pontica
+	Pimolisa
+	pontus
+	Paphlagonians
+	23 86 61
+	pontus
+	5
+	6
+	iranian 40 anatolian 60
+	
+Cotyora_R
+	legion: Pontica
+	Cotyora
+	sinope
+	Ionians
+	23 227 23
+	pontus, greek_colony
+	5
+	5
+	greek 40 anatolian 60
+
+Trapezus_R
+	legion: Pontica
+	Trapezus
+	sinope
+	Ionians
+	255 80 80
+	pontus, greek_colony
+	5
+	8
+	greek 60 anatolian 40
+
+
+
+; *********************************************************
+; *********************************************************
+; . Paphlagonia
+	
+Pontus
+	legion: Pontica
+	Sinope
+	sinope
+	Paphlagonians
+	202 156 17
+	paphlagonia, greek_colony
+	5
+	10
+	greek 80 anatolian 20
+	
+Amastris_R
+	legion: Pontica
+	Amastris
+	pontus
+	Paphlagonians
+	57 13 198
+	paphlagonia
+	5
+	7
+	iranian 40 anatolian 60
+	
+Gangra_R
+	legion: Pontica
+	Gangra
+	paphlagonia
+	Paphlagonians
+	61 186 40
+	paphlagonia
+	5
+	6
+	anatolian 100
+	
+Koloussa_R
+	legion: Pontica
+	Koloussa
+	paphlagonia
+	Paphlagonians
+	216 87 87
+	paphlagonia
+	5
+	5
+	anatolian 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Troas
+
+Abydos_R
+	legion: Asianae
+	Abydos
+	seleucid
+	Lesbians
+	244 38 48
+	troas
+	5
+	6
+	greek 100
+
+AlexandriaTroas_R
+	legion: Asianae
+	AlexandriaTroas
+	seleucid
+	Lesbians
+	58 148 85
+	troas
+	5
+	6
+	greek 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Cyprus
+
+Amathous_R
+	legion: Cyprica
+	Amathous
+	egypt
+	Cypriots
+	184 182 1
+	cyprus
+	5
+	6
+	greek 100
+
+Cyprus
+	legion: Cyprica
+	Salamis
+	egypt
+	Cypriots
+	126 144 111
+	cyprus
+	5
+	9
+	greek 100
+
+NeaPaphos_R
+	legion: Cyprica
+	NeaPaphos
+	egypt
+	Cypriots
+	163 69 61
+	cyprus
+	5
+	8
+	greek 100
+
+	
+Soloi_R
+	legion: Cyprica
+	Soloi
+	egypt
+	Cypriots
+	29 92 46
+	cyprus
+	5
+	6
+	greek 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Levant (and Arabia Petraea)
+
+Characmoba_R
+	legion: Arabia
+	Characmoba
+	egypt
+	Nabataeans
+	36 28 199
+	arabia
+	5
+	5
+	arab 100
+
+Gadara_R
+	legion: Arabia
+	Gadara
+	egypt
+	Nabataeans
+	83 46 143
+	arabia
+	5
+	7
+	arab 100
+	
+Nabataea
+	legion: Arabia
+	Bostra
+	nabataea
+	Nabataeans
+	13 244 160
+	arabia
+	5
+	5
+	arab 100
+	
+Philadelphia_R
+	legion: Ferrata
+	Philadelphia
+	egypt
+	Nabataeans
+	199 91 249
+	arabia
+	5
+	6
+	arab 100
+
+Gaza_R
+	legion: Iudaica
+	Gaza
+	egypt
+	Judaeans
+	199 43 128
+	levant
+	5
+	2
+	judaean 100
+
+Ioppe_R
+	legion: Iudaica
+	Ioppe
+	egypt
+	Judaeans
+	67 177 86
+	levant
+	5
+	2
+	judaean 100
+
+Judaea
+	legion: Iudaica
+	Jerusalem
+	egypt
+	Judaeans
+	244 13 29
+	levant
+	5
+	8
+	judaean 100
+
+Ptolemais_R
+	legion: Iudaica
+	Ptolemais
+	egypt
+	Phoenicians
+	109 137 103
+	levant, greek_colony
+	5
+	9
+	greek 20 judaean 80
+
+Rhinokolura_R
+	legion: Iudaica
+	Rhinokolura
+	egypt
+	Judaeans
+	133 85 177
+	levant
+	5
+	2
+	judaean 100
+
+
+; *********************************************************
+; *********************************************************
+; . Phoenicia
+
+Arados_R
+	legion: Phoenicea
+	Arados
+	seleucid
+	Phoenicians
+	160 80 91
+	phoenicia
+	5
+	7
+	phoenician 100
+	
+Byblos_R
+	legion: Phoenicea
+	Byblos
+	egypt
+	Phoenicians
+	162 31 180
+	phoenicia
+	5
+	8
+	phoenician 100
+	
+Phoenicia
+	legion: Phoenicea
+	Sidon
+	egypt
+	Phoenicians
+	33 131 128
+	phoenicia
+	5
+	9
+	phoenician 100
+	
+Tripolis_R
+	legion: Phoenicea
+	Tripolis
+	egypt
+	Phoenicians
+	44 205 50
+	phoenicia
+	5
+	7
+	phoenician 100
+
+Tyre_R
+	legion: Phoenicea
+	Tyre
+	egypt
+	Phoenicians
+	44 37 186
+	phoenicia
+	5
+	9
+	phoenician 100
+
+
+; *********************************************************
+; *********************************************************
+; . Syria
+
+Syria
+	legion: Flavia_Firma
+	Antioch
+	seleucid
+	Syrians
+	13 244 165
+	syria, greek_colony
+	5
+	9
+	greek 80 assyrian 20
+	
+Coele_Syria
+	legion: Phoenicea
+	Damascus
+	egypt
+	Syrians
+	244 203 14
+	syria
+	5
+	8
+	assyrian 100
+	
+Regnum_Palmyrae
+	legion: Syriaca
+	Palmyra
+	palmyra
+	Palmyrans
+	175 171 244
+	syria
+	5
+	7
+	assyrian 100
+
+ApameaOrontes_R
+	legion: Syriaca
+	ApameaOrontes
+	seleucid
+	Syrians
+	84 88 203
+	syria, greek_colony
+	5
+	8
+	greek 40 assyrian 60
+	
+ApameaZeugma_R
+	legion: Syriaca
+	ApameaZeugma
+	seleucid
+	Syrians
+	37 156 79
+	syria, greek_colony
+	5
+	6
+	greek 20 assyrian 80
+	
+Arethusa_R
+	legion: Syriaca
+	Arethusa
+	seleucid
+	Syrians
+	237 42 103
+	syria
+	5
+	8
+	assyrian 100
+	
+Beroia_R
+	legion: Syriaca
+	Beroia
+	seleucid
+	Syrians
+	35 83 25
+	syria
+	5
+	6
+	greek 20 assyrian 80
+	
+Edessa_R
+	legion: Syriaca
+	Edessa
+	seleucid
+	Syrians
+	26 31 249
+	syria, greek_colony
+	5
+	8
+	greek 40 assyrian 60
+
+Hierapolis_R
+	legion: Syriaca
+	Hierapolis
+	seleucid
+	Syrians
+	184 176 52
+	syria
+	5
+	8
+	assyrian 100
+	
+Laodicea_R
+	legion: Syriaca
+	Laodicea
+	seleucid
+	Syrians
+	133 127 28
+	syria, greek_colony
+	5
+	8
+	greek 40 assyrian 60
+	
+Nikephorion_R
+	legion: Syriaca
+	Nikephorion
+	seleucid
+	Syrians
+	135 38 146
+	syria
+	5
+	3
+	assyrian 100
+	
+Paneas_R
+	legion: Syriaca
+	Paneas
+	egypt
+	Nabataeans
+	222 107 39
+	syria
+	5
+	6
+	assyrian 100
+	
+SeleuciaPieria_R
+	legion: Syriaca
+	SeleuciaPieria
+	seleucid
+	Syrians
+	133 26 37
+	syria, greek_colony
+	5
+	9
+	greek 60 assyrian 40
+	
+Dura_R
+	legion: Syriaca
+	Dura
+	seleucid
+	Syrians
+	30 46 74
+	syria, greek_colony
+	5
+	5
+	greek 20 assyrian 80
+	
+Heliopolis_R
+	legion: Chalcidica
+	Heliopolis
+	seleucid
+	Nabataeans
+	45 95 39
+	syria
+	5
+	6
+	assyrian 100
+	
+	
+; *********************************************************
+; *********************************************************
+; . Assyria
+
+Assyria
+	legion: Assyriaca
+	Hatra
+	seleucid
+	Syrians
+	244 122 13
+	assyria
+	5
+	8
+	assyrian 100
+
+AntiochiaArabis_R
+	legion: Assyriaca
+	AntiochiaArabis
+	seleucid
+	Syrians
+	214 102 56
+	assyria
+	5
+	5
+	assyrian 100
+
+Araban_R
+	legion: Assyriaca
+	Araban
+	seleucid
+	Syrians
+	46 158 44
+	assyria
+	5
+	6
+	assyrian 100
+	
+Arbela_R
+	legion: Assyriaca
+	Arbela
+	seleucid
+	Syrians
+	183 65 34
+	assyria
+	5
+	7
+	assyrian 100
+	
+Gorbatha_R
+	legion: Assyriaca
+	Gorbatha
+	seleucid
+	Syrians
+	229 83 229
+	assyria
+	5
+	5
+	assyrian 100
+	
+Nineveh_R
+	legion: Assyriaca
+	Nineveh
+	seleucid
+	Syrians
+	88 64 201
+	assyria
+	5
+	8
+	assyrian 100
+	
+Nisibis_R
+	legion: Assyriaca
+	Nisibis
+	seleucid
+	Syrians
+	187 189 30
+	assyria, greek_colony
+	5
+	6
+	greek 40 assyrian 60
+
+Sareisa_R
+	legion: Assyriaca
+	Sareisa
+	seleucid
+	Syrians
+	137 143 97
+	assyria
+	5
+	5
+	assyrian 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Mesopotamia
+
+Babylonia
+	legion: Mesopotamica
+	Seleucia
+	seleucid
+	Syrians
+	177 58 167
+	mesopotamia, greek_colony
+	5
+	14
+	greek 40 mesopotamian 60
+
+AntiochiaSittacene_R
+	legion: Mesopotamica
+	AntiochiaSittacene
+	seleucid
+	Syrians
+	193 156 77
+	mesopotamia, greek_colony
+	5
+	5
+	greek 20 mesopotamian 80
+
+ApameaSittacene_R
+	legion: Mesopotamica
+	ApameaSittacene
+	seleucid
+	Syrians
+	25 79 8
+	mesopotamia, greek_colony
+	5
+	8
+	greek 20 mesopotamian 80
+
+Arrapha_R
+	legion: Mesopotamica
+	Arrapha
+	seleucid
+	Syrians
+	130 161 151
+	mesopotamia
+	5
+	6
+	mesopotamian 100
+
+Artemita_R
+	legion: Mesopotamica
+	Artemita
+	seleucid
+	Syrians
+	162 19 74
+	mesopotamia
+	5
+	7
+	mesopotamian 100
+
+Babylon_R
+	legion: Mesopotamica
+	Babylon
+	seleucid
+	Syrians
+	209 36 211
+	mesopotamia
+	5
+	12
+	mesopotamian 100
+
+Birtha_R
+	legion: Mesopotamica
+	Birtha
+	seleucid
+	Syrians
+	53 123 50
+	mesopotamia
+	5
+	6
+	mesopotamian 100
+
+Chala_R
+	legion: Mesopotamica
+	Chala
+	seleucid
+	Syrians
+	102 101 36
+	mesopotamia
+	5
+	7
+	mesopotamian 100
+
+CharaxSpasinu_R
+	legion: Mesopotamica
+	CharaxSpasinu
+	seleucid
+	Syrians
+	164 4 32
+	mesopotamia, greek_colony
+	5
+	10
+	greek 40 mesopotamian 60
+
+Charmande_R
+	legion: Mesopotamica
+	Charmande
+	seleucid
+	Syrians
+	212 220 126
+	mesopotamia
+	5
+	5
+	mesopotamian 100
+
+Girsu_R
+	legion: Mesopotamica
+	Girsu
+	seleucid
+	Syrians
+	146 83 208
+	mesopotamia
+	5
+	7
+	mesopotamian 100
+
+Isiopolis_R
+	legion: Mesopotamica
+	Isiopolis
+	seleucid
+	Syrians
+	126 96 85
+	mesopotamia
+	5
+	4
+	mesopotamian 100
+
+Nippur_R
+	legion: Mesopotamica
+	Nippur
+	seleucid
+	Syrians
+	67 115 135
+	mesopotamia
+	5
+	8
+	mesopotamian 100
+
+Opis_R
+	legion: Mesopotamica
+	Opis
+	seleucid
+	Syrians
+	97 113 106
+	mesopotamia
+	5
+	9
+	mesopotamian 100
+
+Orkhoe_R
+	legion: Mesopotamica
+	Orkhoe
+	seleucid
+	Syrians
+	184 167 60
+	mesopotamia
+	5
+	9
+	mesopotamian 100
+
+Teredon_R
+	legion: Mesopotamica
+	Teredon
+	seleucid
+	Syrians
+	60 150 48
+	mesopotamia
+	5
+	3
+	mesopotamian 100
+
+
+; *********************************************************
+; *********************************************************
+; . Armenia
+
+Amida_R
+	legion: Armeniaca
+	Amida
+	armenia
+	Cappadocians
+	165 52 176
+	armenia_r
+	5
+	6
+	armenian 100
+
+Armenia
+	legion: Armeniaca
+	Artaxarta
+	armenia
+	Cappadocians
+	202 61 17
+	armenia_r
+	5
+	5
+	armenian 100
+
+Arsamosata_R
+	legion: Armeniaca
+	Arsamosata
+	armenia
+	Cappadocians
+	180 166 47
+	armenia_r
+	5
+	6
+	armenian 100
+
+Artageira_R
+	legion: Armeniaca
+	Artageira
+	armenia
+	Cappadocians
+	36 200 57
+	armenia_r
+	5
+	4
+	armenian 100
+
+Ashtishat_R
+	legion: Armeniaca
+	Ashtishat
+	armenia
+	Cappadocians
+	54 52 137
+	armenia_r
+	5
+	5
+	armenian 100
+
+Carcathiocerta_R
+	legion: Armeniaca
+	Carcathiocerta
+	armenia
+	Cappadocians
+	79 205 40
+	armenia_r
+	5
+	6
+	armenian 100
+
+Gorneae_R
+	legion: Armeniaca
+	Gorneae
+	armenia
+	Cappadocians
+	50 53 93
+	armenia_r
+	5
+	5
+	armenian 100
+
+Kamacha_R
+	legion: Armeniaca
+	Kamacha
+	armenia
+	Cappadocians
+	168 49 155
+	armenia_r
+	5
+	5
+	armenian 100
+
+Karin_R
+	legion: Armeniaca
+	Karin
+	armenia
+	Colchians
+	189 248 147
+	armenia_r
+	5
+	4
+	armenian 100
+
+Kepha_R
+	legion: Armeniaca
+	Kepha
+	armenia
+	Cappadocians
+	184 14 74
+	armenia_r
+	5
+	6
+	armenian 100
+
+Manavazkert_R
+	legion: Armeniaca
+	Manavazkert
+	armenia
+	Cappadocians
+	70 240 190
+	armenia_r
+	5
+	6
+	armenian 100
+
+Naxouana_R
+	legion: Armeniaca
+	Naxouana
+	armenia
+	Cappadocians
+	50 112 37
+	armenia_r
+	5
+	7
+	armenian 100
+
+Olane_R
+	legion: Armeniaca
+	Olane
+	armenia
+	Cappadocians
+	229 227 58
+	armenia_r
+	5
+	6
+	armenian 100
+
+Ptoua_R
+	legion: Armeniaca
+	Ptoua
+	armenia
+	Cappadocians
+	116 238 186
+	armenia_r
+	5
+	4
+	armenian 100
+
+Satala_R
+	legion: Armeniaca
+	Satala
+	armenia
+	Cappadocians
+	59 51 160
+	armenia_r
+	5
+	6
+	armenian 100
+
+Seltia_R
+	legion: Armeniaca
+	Seltia
+	armenia
+	Cappadocians
+	211 133 213
+	armenia_r
+	5
+	6
+	armenian 100
+
+Thospia_R
+	legion: Armeniaca
+	Thospia
+	armenia
+	Cappadocians
+	155 123 72
+	armenia_r
+	5
+	8
+	armenian 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Persia
+
+AlexandriaCarmania_R
+	legion: Parthica
+	AlexandriaCarmania
+	seleucid
+	Syrians
+	205 127 49
+	persia, greek_colony
+	5
+	5
+	greek 20 iranian 80
+
+Amol_R
+	legion: Parthica
+	Amol
+	seleucid
+	Syrians
+	109 119 181
+	persia
+	5
+	7
+	iranian 100
+
+Ange_R
+	legion: Parthica
+	Ange
+	seleucid
+	Syrians
+	40 213 84
+	persia
+	5
+	4
+	iranian 100
+
+AntiochiaPersis_R
+	legion: Parthica
+	AntiochiaPersis
+	seleucid
+	Syrians
+	224 83 75
+	persia, greek_colony
+	5
+	6
+	greek 20 iranian 80
+
+ApameaRagiana_R
+	legion: Parthica
+	ApameaRagiana
+	seleucid
+	Syrians
+	144 191 143
+	persia, greek_colony
+	5
+	4
+	greek 20 iranian 80
+
+Archiotis_R
+	legion: Parthica
+	Archiotis
+	seleucid
+	Medes
+	171 171 64
+	persia
+	6
+	5
+	iranian 100
+
+Artacana_R
+	legion: Parthica
+	Artacana
+	seleucid
+	Syrians
+	182 124 41
+	persia
+	5
+	4
+	iranian 100
+
+Aspadana_R
+	legion: Parthica
+	Aspadana
+	seleucid
+	Syrians
+	59 104 37
+	persia
+	5
+	8
+	iranian 100
+
+Assak_R
+	legion: Parthica
+	Assak
+	seleucid
+	Syrians
+	34 135 168
+	persia
+	5
+	4
+	iranian 100
+
+Bam_R
+	legion: Parthica
+	Bam
+	seleucid
+	Syrians
+	98 109 159
+	persia
+	5
+	6
+	iranian 100
+
+Denabaran_R
+	legion: Parthica
+	Denabaran
+	seleucid
+	Syrians
+	26 125 38
+	persia
+	5
+	6
+	iranian 100
+
+Elymais
+	legion: Parthica
+	Susa
+	seleucid
+	Elamites
+	72 58 177
+	persia
+	5
+	8
+	iranian 100
+
+Europus_R
+	legion: Parthica
+	Europus
+	seleucid
+	Syrians
+	230 215 43
+	persia
+	5
+	10
+	iranian 100
+
+Gabra_R
+	legion: Parthica
+	Gabra
+	seleucid
+	Syrians
+	61 129 79
+	persia
+	5
+	4
+	iranian 100
+
+Gauna_R
+	legion: Parthica
+	Gauna
+	seleucid
+	Syrians
+	131 155 137
+	persia
+	5
+	5
+	iranian 100
+
+Gurgan_R
+	legion: Parthica
+	Gurgan
+	seleucid
+	Syrians
+	207 118 147
+	persia
+	5
+	6
+	iranian 100
+
+Harmozeia_R
+	legion: Parthica
+	Harmozeia
+	seleucid
+	Syrians
+	87 148 71
+	persia
+	5
+	6
+	iranian 100
+
+Hecatompylos_R
+	legion: Parthica
+	Hecatompylos
+	seleucid
+	Syrians
+	145 89 129
+	persia, greek_colony
+	5
+	7
+	greek 20 iranian 80
+
+Issatis_R
+	legion: Parthica
+	Issatis
+	seleucid
+	Syrians
+	97 28 7
+	persia
+	5
+	6
+	iranian 100
+
+Kumandan_R
+	legion: Parthica
+	Kumandan
+	seleucid
+	Syrians
+	93 107 151
+	persia
+	5
+	5
+	iranian 100
+
+LaodiceaMedia_R
+	legion: Parthica
+	LaodiceaMedia
+	seleucid
+	Syrians
+	140 50 87
+	persia, greek_colony
+	5
+	6
+	greek 20 iranian 80
+
+Media
+	legion: Parthica
+	Arsakia
+	seleucid
+	Medes
+	58 167 177
+	persia
+	5
+	6
+	iranian 100
+
+NiceaNialia_R
+	legion: Parthica
+	NiceaNialia
+	seleucid
+	Syrians
+	224 212 92
+	persia
+	5
+	5
+	iranian 100
+
+Niguza_R
+	legion: Parthica
+	Niguza
+	seleucid
+	Syrians
+	49 98 54
+	persia
+	5
+	6
+	iranian 100
+
+Pantyene_R
+	legion: Parthica
+	Pantyene
+	seleucid
+	Syrians
+	183 48 185
+	persia
+	5
+	6
+	iranian 100
+
+Parbara_R
+	legion: Parthica
+	Parbara
+	seleucid
+	Syrians
+	26 94 6
+	persia
+	5
+	5
+	iranian 100
+
+Parodana_R
+	legion: Parthica
+	Parodana
+	seleucid
+	Syrians
+	200 77 53
+	persia
+	5
+	4
+	iranian 100
+
+Pasa_R
+	legion: Parthica
+	Pasa
+	seleucid
+	Syrians
+	198 213 44
+	persia
+	5
+	5
+	iranian 100
+
+Pasargadae_R
+	legion: Parthica
+	Pasargadae
+	seleucid
+	Syrians
+	107 36 104
+	persia
+	5
+	5
+	iranian 100
+
+Persepolis_R
+	legion: Parthica
+	Persepolis
+	seleucid
+	Syrians
+	58 202 13
+	persia
+	5
+	6
+	iranian 100
+
+Rapsa_R
+	legion: Parthica
+	Rapsa
+	seleucid
+	Syrians
+	197 157 48
+	persia
+	5
+	4
+	iranian 100
+
+Saura_R
+	legion: Parthica
+	Saura
+	seleucid
+	Syrians
+	188 159 133
+	persia
+	5
+	4
+	iranian 100
+
+SeleuciaHedyphon_R
+	legion: Parthica
+	SeleuciaHedyphon
+	seleucid
+	Syrians
+	231 200 31
+	persia, greek_colony
+	5
+	5
+	greek 20 iranian 80
+
+Semina_R
+	legion: Parthica
+	Semina
+	seleucid
+	Syrians
+	194 67 83
+	persia
+	5
+	5
+	iranian 100
+
+Sidone_R
+	legion: Parthica
+	Sidone
+	seleucid
+	Syrians
+	135 135 126
+	persia
+	5
+	2
+	iranian 100
+
+Siraf_R
+	legion: Parthica
+	Siraf
+	seleucid
+	Syrians
+	37 39 100
+	persia
+	5
+	6
+	iranian 100
+
+Syringis_R
+	legion: Parthica
+	Syringis
+	seleucid
+	Syrians
+	30 206 56
+	persia
+	5
+	6
+	iranian 100
+
+Tabai_R
+	legion: Parthica
+	Tabai
+	seleucid
+	Syrians
+	70 195 173
+	persia
+	5
+	4
+	iranian 100
+
+Tagai_R
+	legion: Parthica
+	Tagai
+	seleucid
+	Syrians
+	228 231 136
+	persia
+	5
+	4
+	iranian 100
+
+Taryana_R
+	legion: Parthica
+	Taryana
+	seleucid
+	Syrians
+	179 65 184
+	persia
+	5
+	5
+	iranian 100
+
+Tastache_R
+	legion: Parthica
+	Tastache
+	seleucid
+	Medes
+	197 90 92
+	persia
+	5
+	3
+	iranian 100
+
+Tribazina_R
+	legion: Parthica
+	Tribazina
+	seleucid
+	Syrians
+	166 63 194
+	persia
+	5
+	4
+	iranian 100
+
+Zadracarta_R
+	legion: Parthica
+	Zadracarta
+	seleucid
+	Syrians
+	92 80 22
+	persia
+	5
+	8
+	iranian 100
+	
+	
+; *********************************************************
+; *********************************************************
+; . Media
+
+Atra_R
+	legion: Parthica
+	Atra
+	atropatene
+	Medes
+	45 249 32
+	media
+	5
+	12
+	iranian 100
+	
+Gabris_R
+	legion: Parthica
+	Gabris
+	atropatene
+	Medes
+	168 81 34
+	media
+	5
+	7
+	iranian 100
+	
+GelonKome_R
+	legion: Parthica
+	GelonKome
+	atropatene
+	Medes
+	122 45 135
+	media
+	5
+	4
+	iranian 100
+	
+Kapouta_R
+	legion: Parthica
+	Kapouta
+	atropatene
+	Medes
+	232 90 76
+	media
+	5
+	6
+	iranian 100
+	
+Morunda_R
+	legion: Parthica
+	Morunda
+	atropatene
+	Medes
+	175 185 63
+	media
+	5
+	5
+	iranian 100
+	
+Aganzana_R
+	legion: Parthica
+	Aganzana
+	atropatene
+	Medes
+	132 62 132
+	media
+	5
+	5
+	iranian 100
+	
+Alinza_R
+	legion: Parthica
+	Alinza
+	atropatene
+	Medes
+	82 213 103
+	media
+	5
+	5
+	iranian 100
+	
+Atropatene
+	legion: Parthica
+	Phraaspa
+	atropatene
+	Medes
+	61 239 246
+	media
+	5
+	4
+	iranian 100
+	
+Cyropolis_R
+	legion: Parthica
+	Cyropolis
+	atropatene
+	Medes
+	68 25 25
+	media
+	5
+	7
+	iranian 100
+	
+Gazaca_R
+	legion: Parthica
+	Gazaca
+	atropatene
+	Medes
+	33 117 209
+	media
+	5
+	8
+	iranian 100
+	
+Oracana_R
+	legion: Parthica
+	Oracana
+	atropatene
+	Syrians
+	67 205 56
+	media
+	5
+	5
+	iranian 100
+	
+Ormi_R
+	legion: Parthica
+	Ormi
+	atropatene
+	Medes
+	164 91 166
+	media
+	5
+	5
+	iranian 100
+	
+	
+; *********************************************************
+; *********************************************************
+; . Ariana & Gedrosia
+
+AlexandriaArachosia_R
+	legion: Parthica
+	AlexandriaArachosia
+	seleucid
+	Syrians
+	45 53 216
+	aria, greek_colony
+	5
+	7
+	greek 20 iranian 80
+
+AlexandriaAriana_R
+	legion: Parthica
+	AlexandriaAriana
+	seleucid
+	Syrians
+	78 41 140
+	aria, greek_colony
+	5
+	8
+	greek 20 iranian 80
+
+AlexandriaCaucasus_R
+	legion: Parthica
+	AlexandriaCaucasus
+	seleucid
+	Medes
+	166 10 88
+	aria, greek_colony
+	5
+	6
+	greek 20 iranian 80
+
+AlexandriaOpiana_R
+	legion: Parthica
+	AlexandriaOpiana
+	seleucid
+	Syrians
+	146 98 78
+	aria, greek_colony
+	5
+	6
+	greek 20 iranian 80
+
+AlexandriaOrietai_R
+	legion: Parthica
+	AlexandriaOrietai
+	india
+	Medes
+	89 98 211
+	aria, greek_colony
+	5
+	6
+	greek 20 iranian 80
+
+AlexandriaProphthasia_R
+	legion: Parthica
+	AlexandriaProphthasia
+	seleucid
+	Syrians
+	139 140 41
+	aria, greek_colony
+	5
+	6
+	greek 20 iranian 80
+
+Arana_R
+	legion: Parthica
+	Arana
+	seleucid
+	Syrians
+	33 118 29
+	aria
+	5
+	3
+	iranian 100
+
+Artoarta_R
+	legion: Parthica
+	Artoarta
+	india
+	Medes
+	202 97 192
+	aria
+	5
+	5
+	iranian 100
+
+Bagisara_R
+	legion: Parthica
+	Bagisara
+	india
+	Medes
+	15 119 17
+	aria
+	5
+	4
+	iranian 100
+
+Bamiyan_R
+	legion: Parthica
+	Bamiyan
+	seleucid
+	Syrians
+	234 66 70
+	aria
+	5
+	3
+	iranian 100
+
+Bandara_R
+	legion: Parthica
+	Bandara
+	india
+	Medes
+	229 83 80
+	aria
+	5
+	5
+	iranian 100
+
+Barna_R
+	legion: Parthica
+	Barna
+	india
+	Medes
+	141 180 146
+	aria
+	5
+	3
+	iranian 100
+
+Cuni_R
+	legion: Parthica
+	Cuni
+	india
+	Medes
+	97 33 191
+	aria
+	5
+	4
+	iranian 100
+
+Fannazbur_R
+	legion: Parthica
+	Fannazbur
+	india
+	Medes
+	191 129 33
+	aria
+	5
+	6
+	iranian 100
+
+Gonaca_R
+	legion: Parthica
+	Gonaca
+	seleucid
+	Syrians
+	188 185 52
+	aria
+	5
+	4
+	iranian 100
+
+HeracleaAchais_R
+	legion: Parthica
+	HeracleaAchais
+	seleucid
+	Syrians
+	147 93 156
+	aria
+	5
+	5
+	iranian 100
+
+Iasonium_R
+	legion: Parthica
+	Iasonium
+	seleucid
+	Syrians
+	135 138 181
+	aria
+	5
+	4
+	iranian 100
+
+Kophen_R
+	legion: Parthica
+	Kophen
+	seleucid
+	Syrians
+	43 180 119
+	aria
+	5
+	5
+	iranian 100
+
+Min_R
+	legion: Parthica
+	Min
+	seleucid
+	Syrians
+	218 141 47
+	aria
+	5
+	4
+	iranian 100
+
+Neh_R
+	legion: Parthica
+	Neh
+	seleucid
+	Syrians
+	158 141 53
+	aria
+	5
+	4
+	iranian 100
+
+Paracanaca_R
+	legion: Parthica
+	Paracanaca
+	seleucid
+	Syrians
+	41 154 35
+	aria
+	5
+	4
+	iranian 100
+
+Pura_R
+	legion: Parthica
+	Pura
+	seleucid
+	Medes
+	90 13 87
+	aria
+	5
+	6
+	iranian 100
+
+Sabarz_R
+	legion: Parthica
+	Sabarz
+	seleucid
+	Medes
+	223 37 225
+	aria
+	5
+	3
+	iranian 100
+
+Sarakhs_R
+	legion: Parthica
+	Sarakhs
+	seleucid
+	Syrians
+	217 208 58
+	aria
+	5
+	6
+	iranian 100
+
+Sigal_R
+	legion: Parthica
+	Sigal
+	seleucid
+	Syrians
+	141 193 35
+	aria
+	5
+	5
+	iranian 100
+
+Soteira_R
+	legion: Parthica
+	Soteira
+	seleucid
+	Syrians
+	83 209 65
+	aria
+	5
+	3
+	iranian 100
+
+Susia_R
+	legion: Parthica
+	Susia
+	seleucid
+	Syrians
+	43 170 46
+	aria
+	5
+	6
+	iranian 100
+
+Tisa_R
+	legion: Parthica
+	Tisa
+	india
+	Medes
+	222 211 34
+	aria
+	5
+	3
+	iranian 100
+
+Zimana_R
+	legion: Parthica
+	Zimana
+	seleucid
+	Syrians
+	38 109 53
+	aria
+	5
+	4
+	iranian 100
+
+Zranka_R
+	legion: Parthica
+	Zranka
+	seleucid
+	Syrians
+	165 25 124
+	aria
+	5
+	5
+	iranian 100
+
+	
+	
+; *********************************************************
+; *********************************************************
+; . Bactria & Sogdiana
+
+Akhsikath_R
+	legion: Parthica
+	Akhsikath
+	ferghana
+	Saka
+	221 138 23
+	bactria
+	5
+	7
+	iranian 100
+
+AlexandriaEschate_R
+	legion: Parthica
+	AlexandriaEschate
+	bactria
+	Syrians
+	90 98 197
+	bactria, greek_colony
+	5
+	6
+	greek 40 iranian 60
+
+AlexandriaOxiana_R
+	legion: Parthica
+	AlexandriaOxiana
+	bactria
+	Syrians
+	207 148 71
+	bactria
+	5
+	5
+	iranian 100
+
+AntiochiaScythia_R
+	legion: Parthica
+	AntiochiaScythia
+	bactria
+	Saka
+	170 46 36
+	bactria, greek_colony
+	5
+	6
+	greek 20 iranian 80
+
+Bactra_R
+	legion: Parthica
+	Bactra
+	bactria
+	Syrians
+	173 86 22
+	bactria, greek_colony
+	5
+	12
+	greek 60 iranian 40
+
+Baharak_R
+	legion: Parthica
+	Baharak
+	ferghana
+	Medes
+	25 73 139
+	bactria
+	5
+	3
+	iranian 100
+
+Chach_R
+	legion: Parthica
+	Chach
+	agyrion
+	Saka
+	110 215 83
+	bactria
+	5
+	9
+	iranian 100
+
+Cyropolis_Sogdiana_R
+	legion: Parthica
+	Cyropolis_Sogdiana
+	bactria
+	Saka
+	127 120 88
+	bactria
+	5
+	5
+	iranian 100
+
+Drapsaka_R
+	legion: Parthica
+	Drapsaka
+	bactria
+	Syrians
+	170 167 104
+	bactria
+	5
+	7
+	iranian 100
+
+DrepsaMetropolis_R
+	legion: Parthica
+	DrepsaMetropolis
+	bactria
+	Syrians
+	221 87 209
+	bactria
+	5
+	5
+	iranian 100
+
+Ershi_R
+	legion: Parthica
+	Ershi
+	ferghana
+	Saka
+	50 135 59
+	bactria
+	5
+	7
+	iranian 100
+
+Eshkashem_R
+	legion: Parthica
+	Eshkashem
+	india
+	Medes
+	193 30 46
+	bactria
+	5
+	3
+	iranian 100
+
+Gazaba_R
+	legion: Parthica
+	Gazaba
+	bactria
+	Syrians
+	57 217 92
+	bactria
+	5
+	6
+	iranian 100
+
+Hukande_R
+	legion: Parthica
+	Hukande
+	ferghana
+	Saka
+	225 217 91
+	bactria
+	5
+	7
+	iranian 100
+
+Isfijab_R
+	legion: Parthica
+	Isfijab
+	agyrion
+	Saka
+	189 36 13
+	bactria
+	5
+	6
+	iranian 100
+
+Maracanda_R
+	legion: Parthica
+	Maracanda
+	bactria
+	Syrians
+	187 53 63
+	bactria
+	5
+	11
+	iranian 100
+
+Maracodra_R
+	legion: Parthica
+	Maracodra
+	bactria
+	Saka
+	128 30 151
+	bactria
+	5
+	6
+	iranian 100
+
+MaroukaCity_R
+	legion: Parthica
+	MaroukaCity
+	ferghana
+	Syrians
+	92 158 53
+	bactria
+	5
+	3
+	iranian 100
+
+Marouka_R
+	legion: Parthica
+	Marouka
+	bactria
+	Syrians
+	87 118 136
+	bactria
+	5
+	6
+	iranian 100
+
+Maruca_R
+	legion: Parthica
+	Maruca
+	bactria
+	Saka
+	202 194 46
+	bactria
+	5
+	6
+	iranian 100
+
+Mayamana_R
+	legion: Parthica
+	Mayamana
+	seleucid
+	Syrians
+	45 140 51
+	bactria
+	5
+	4
+	iranian 100
+
+MenapiaBactriane_R
+	legion: Parthica
+	MenapiaBactriane
+	bactria
+	Syrians
+	187 177 32
+	bactria
+	5
+	6
+	iranian 100
+
+Murjinon_R
+	legion: Parthica
+	Murjinon
+	ferghana
+	Saka
+	99 201 143
+	bactria
+	5
+	7
+	iranian 100
+
+Nakhshab_R
+	legion: Parthica
+	Nakhshab
+	bactria
+	Syrians
+	125 118 45
+	bactria
+	5
+	5
+	iranian 100
+
+Nautaca_R
+	legion: Parthica
+	Nautaca
+	bactria
+	Syrians
+	53 62 128
+	bactria
+	5
+	5
+	iranian 100
+
+Nur_R
+	legion: Parthica
+	Nur
+	chorasmia
+	Saka
+	164 160 220
+	bactria
+	5
+	5
+	iranian 100
+
+Parab_R
+	legion: Parthica
+	Parab
+	agyrion
+	Saka
+	56 80 87
+	bactria
+	5
+	6
+	iranian 100
+
+Phratrua_R
+	legion: Parthica
+	Phratrua
+	bactria
+	Syrians
+	102 155 85
+	bactria
+	5
+	6
+	iranian 100
+
+Poikalon_R
+	legion: Parthica
+	Poikalon
+	bactria
+	Syrians
+	210 216 16
+	bactria
+	5
+	5
+	iranian 100
+
+Shurabashat_R
+	legion: Parthica
+	Shurabashat
+	ferghana
+	Saka
+	182 77 214
+	bactria
+	5
+	6
+	iranian 100
+
+Tarmita_R
+	legion: Parthica
+	Tarmita
+	bactria
+	Syrians
+	130 72 135
+	bactria, greek_colony
+	5
+	7
+	greek 20 iranian 80
+
+Tribactra_R
+	legion: Parthica
+	Tribactra
+	bactria
+	Syrians
+	19 118 21
+	bactria
+	5
+	8
+	iranian 100
+
+Varakhsha_R
+	legion: Parthica
+	Varakhsha
+	chorasmia
+	Saka
+	184 116 31
+	bactria
+	5
+	6
+	iranian 100
+
+Zamm_R
+	legion: Parthica
+	Zamm
+	bactria
+	Syrians
+	188 139 202
+	bactria
+	5
+	4
+	iranian 100
+
+	
+	
+; *********************************************************
+; *********************************************************
+; . Chorasmia & Parthia
+
+Adraspa_R
+	legion: Parthica
+	Adraspa
+	parthia
+	Saka
+	33 43 169
+	chorasmia
+	5
+	4
+	iranian 100
+
+Alicodra_R
+	legion: Parthica
+	Alicodra
+	chorasmia
+	Saka
+	207 76 76
+	chorasmia
+	5
+	5
+	iranian 100
+
+AntiochiaMargiana_R
+	legion: Parthica
+	AntiochiaMargiana
+	seleucid
+	Syrians
+	163 88 68
+	chorasmia, greek_colony
+	5
+	9
+	greek 20 iranian 80
+
+ApasiacaeKome_R
+	legion: Parthica
+	ApasiacaeKome
+	massagetae
+	Sarmatians
+	198 21 80
+	chorasmia
+	5
+	3
+	iranian 100
+
+Apauarktike_R
+	legion: Parthica
+	Apauarktike
+	seleucid
+	Syrians
+	128 213 137
+	chorasmia
+	5
+	6
+	iranian 100
+
+Ariaca_R
+	legion: Parthica
+	Ariaca
+	chorasmia
+	Saka
+	228 42 103
+	chorasmia
+	5
+	5
+	iranian 100
+
+Aspabota_R
+	legion: Parthica
+	Aspabota
+	parthia
+	Saka
+	108 61 154
+	chorasmia
+	5
+	5
+	iranian 100
+
+Barange_R
+	legion: Parthica
+	Barange
+	parthia
+	Saka
+	223 189 68
+	chorasmia
+	5
+	4
+	iranian 100
+
+Cavaris_R
+	legion: Parthica
+	Cavaris
+	chorasmia
+	Saka
+	233 215 96
+	chorasmia
+	5
+	6
+	iranian 100
+
+Chatracharta_R
+	legion: Parthica
+	Chatracharta
+	seleucid
+	Syrians
+	18 113 119
+	chorasmia
+	5
+	6
+	iranian 100
+
+ComariKome_R
+	legion: Parthica
+	ComariKome
+	agyrion
+	Saka
+	172 119 244
+	chorasmia
+	5
+	3
+	iranian 100
+
+Davaba_R
+	legion: Parthica
+	Davaba
+	massagetae
+	Saka
+	244 222 75
+	chorasmia
+	5
+	4
+	iranian 100
+
+EresKala_R
+	legion: Parthica
+	EresKala
+	chorasmia
+	Saka
+	91 17 90
+	chorasmia
+	5
+	6
+	iranian 100
+
+Evusmi_R
+	legion: Parthica
+	Evusmi
+	chorasmia
+	Saka
+	203 96 208
+	chorasmia
+	5
+	7
+	iranian 100
+
+Khavrana_R
+	legion: Parthica
+	Khavrana
+	massagetae
+	Saka
+	120 183 138
+	chorasmia
+	5
+	5
+	iranian 100
+
+Nisa_R
+	legion: Parthica
+	Nisa
+	seleucid
+	Syrians
+	143 11 64
+	chorasmia
+	5
+	6
+	iranian 100
+
+Parau_R
+	legion: Parthica
+	Parau
+	parthia
+	Saka
+	58 153 60
+	chorasmia
+	5
+	5
+	iranian 100
+
+Roksanaki_R
+	legion: Parthica
+	Roksanaki
+	massagetae
+	Saka
+	212 113 41
+	chorasmia
+	5
+	5
+	iranian 100
+
+Sidak_R
+	legion: Parthica
+	Sidak
+	agyrion
+	Saka
+	221 198 40
+	chorasmia
+	5
+	4
+	iranian 100
+
+TokKala_R
+	legion: Parthica
+	TokKala
+	chorasmia
+	Saka
+	67 222 55
+	chorasmia
+	5
+	9
+	iranian 100
+
+Tribus_Sakae
+	legion: Parthica
+	Campus_Sakae
+	parthia
+	Saka
+	58 177 75
+	chorasmia
+	5
+	4
+	iranian 100
+
+Urgench_R
+	legion: Parthica
+	Urgench
+	chorasmia
+	Saka
+	24 26 109
+	chorasmia
+	5
+	10
+	iranian 100
+
+XanthioiKome_R
+	legion: Parthica
+	XanthioiKome
+	parthia
+	Saka
+	20 105 29
+	chorasmia
+	5
+	2
+	iranian 100
+
+	
+	
+; *********************************************************
+; *********************************************************
+; . Caucasia
+
+Colchis
+	legion: Apollinaris
+	Kotais
+	colchis
+	Colchians
+	199 31 143
+	caucasia
+	5
+	8
+	caucasian 100
+
+Archaeopolis_R
+	legion: Lazica
+	Archaeopolis
+	colchis
+	Colchians
+	239 227 69
+	caucasia
+	5
+	7
+	caucasian 100
+
+Dioscurias_R
+	legion: Lazica
+	Dioscurias
+	colchis
+	Colchians
+	160 171 38
+	caucasia, greek_colony
+	5
+	4
+	greek 40 caucasian 60
+
+Harmozica_R
+	legion: Lazica
+	Harmozica
+	iberia
+	Colchians
+	255 160 120
+	caucasia
+	5
+	6
+	caucasian 100
+
+Kaballa_R
+	legion: Lazica
+	Kaballa
+	iberia
+	Cappadocians
+	109 141 157
+	caucasia
+	5
+	5
+	caucasian 100
+
+Mtskheta_R
+	legion: Lazica
+	Mtskheta
+	iberia
+	Colchians
+	29 132 18
+	caucasia
+	5
+	6
+	caucasian 100
+
+Phasis_R
+	legion: Lazica
+	Phasis
+	colchis
+	Colchians
+	39 127 37
+	caucasia, greek_colony
+	5
+	6
+	greek 60 caucasian 40
+
+Pityus_R
+	legion: Lazica
+	Pityus
+	colchis
+	Colchians
+	108 74 120
+	caucasia, greek_colony
+	5
+	6
+	greek 40 caucasian 60
+
+Teleda_R
+	legion: Lazica
+	Teleda
+	iberia
+	Cappadocians
+	80 80 31
+	caucasia
+	5
+	5
+	caucasian 100
+
+Tsunda_R
+	legion: Lazica
+	Tsunda
+	iberia
+	Colchians
+	189 185 144
+	caucasia
+	5
+	3
+	caucasian 100
+	
+	
+; *********************************************************
+; *********************************************************
+; . Arran
+
+Arsarata_R
+	legion: Parthica
+	Arsarata
+	albania
+	Medes
+	33 117 132
+	arran
+	5
+	5
+	iranian 100
+	
+Parnes_R
+	legion: Parthica
+	Parnes
+	albania
+	Cappadocians
+	167 23 156
+	arran
+	5
+	6
+	iranian 100
+	
+Bagavan_R
+	legion: Parthica
+	Bagavan
+	albania
+	Medes
+	255 20 20
+	arran
+	5
+	9
+	iranian 100
+	
+Chadacha_R
+	legion: Parthica
+	Chadacha
+	albania
+	Medes
+	213 209 128
+	arran
+	5
+	6
+	iranian 100
+	
+Khabala_R
+	legion: Parthica
+	Khabala
+	albania
+	Medes
+	30 227 64
+	arran
+	5
+	10
+	iranian 100
+	
+Shaka_R
+	legion: Parthica
+	Shaka
+	albania
+	Cappadocians
+	42 47 198
+	arran
+	5
+	6
+	iranian 100
+	
+
+; *********************************************************
+; *********************************************************
+; . North Africa
+	
+Africa
+	legion: Augusta
+	Carthage
+	carthage
+	Poeni
+	202 191 17
+	north_africa
+	5
+	14
+	phoenician 100
+
+Aspis_R
+	legion: Africana
+	Aspis
+	carthage
+	Poeni
+	114 32 119
+	north_africa, phoenician_colony
+	5
+	9
+	phoenician 60 numidian 40
+
+Byzacium
+	legion: Africana
+	Thapsus
+	carthage
+	Poeni
+	31 202 17
+	north_africa, phoenician_colony
+	5
+	9
+	phoenician 60 numidian 40
+
+Cercinna_R
+	legion: Africana
+	Cercinna
+	carthage
+	Poeni
+	195 121 60
+	north_africa, phoenician_colony
+	5
+	5
+	phoenician 100
+
+Cossura_R
+	legion: Africana
+	Cossura
+	carthage
+	Poeni
+	117 185 67
+	north_africa, phoenician_colony
+	5
+	5
+	phoenician 100
+
+Gemmelle_R
+	legion: Africana
+	Gemmelle
+	gaetuli
+	Gaetuli
+	153 96 19
+	north_africa
+	5
+	5
+	numidian 100
+
+Hippo_R
+	legion: Africana
+	Hippo
+	carthage
+	Poeni
+	145 53 85
+	north_africa, phoenician_colony
+	5
+	9
+	phoenician 100
+
+Madauros_R
+	legion: Africana
+	Madauros
+	massylii
+	Gaetuli
+	148 160 21
+	north_africa
+	5
+	5
+	numidian 100
+
+Mascula_R
+	legion: Africana
+	Mascula
+	massylii
+	Gaetuli
+	43 113 54
+	north_africa
+	5
+	5
+	numidian 100
+
+NeapolisZeugitana_R
+	legion: Africana
+	NeapolisZeugitana
+	carthage
+	Poeni
+	196 133 190
+	north_africa, phoenician_colony
+	5
+	8
+	phoenician 60 numidian 40
+
+Numidia
+	legion: Africana
+	Cirta
+	numidia
+	Moors
+	17 83 202
+	north_africa
+	5
+	8
+	numidian 100
+
+Sahara
+	legion: Africana
+	Nepte
+	massylii
+	Gaetuli
+	41 86 232
+	north_africa
+	5
+	1
+	numidian 100
+
+Sicca_R
+	legion: Africana
+	Sicca
+	massylii
+	Gaetuli
+	40 40 132
+	north_africa
+	5
+	5
+	numidian 100
+
+Sufetula_R
+	legion: Africana
+	Sufetula
+	massylii
+	Gaetuli
+	164 83 8
+	north_africa
+	5
+	7
+	numidian 100
+
+Tacape_R
+	legion: Africana
+	Tacape
+	carthage
+	Gaetuli
+	239 120 238
+	north_africa, phoenician_colony
+	5
+	4
+	phoenician 20 numidian 80
+
+Taparura_R
+	legion: Africana
+	Taparura
+	carthage
+	Gaetuli
+	219 210 110
+	north_africa
+	5
+	5
+	numidian 100
+
+Tetrapyrgia_R
+	legion: Cyrenaica
+	Tetrapyrgia
+	cyrene
+	Libyans
+	192 53 53
+	cyrene
+	5
+	3
+	greek 100
+
+Thabraca_R
+	legion: Africana
+	Thabraca
+	carthage
+	Poeni
+	33 199 60
+	north_africa, phoenician_colony
+	5
+	6
+	phoenician 60 numidian 40
+
+ThapsusCity_R
+	legion: Africana
+	ThapsusCity
+	carthage
+	Gaetuli
+	213 65 87
+	north_africa, phoenician_colony
+	5
+	6
+	phoenician 40 numidian 60
+
+Theveste_R
+	legion: Africana
+	Theveste
+	massylii
+	Gaetuli
+	197 145 213
+	north_africa
+	5
+	7
+	numidian 100
+
+Thugga_R
+	legion: Africana
+	Thugga
+	massylii
+	Gaetuli
+	58 106 73
+	north_africa
+	5
+	7
+	numidian 100
+
+Thusuros_R
+	legion: Africana
+	Thusuros
+	gaetuli
+	Gaetuli
+	42 164 44
+	north_africa
+	5
+	3
+	numidian 100
+
+Tucrumuda_R
+	legion: Africana
+	Tucrumuda
+	gaetuli
+	Gaetuli
+	174 53 53
+	north_africa
+	5
+	4
+	numidian 100
+
+Utica_R
+	legion: Africana
+	Utica
+	carthage
+	Gaetuli
+	55 31 61
+	north_africa
+	5
+	9
+	phoenician 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Libya
+
+Tripolitania
+	legion: Flavia_Salutis
+	Lepcis_Magna
+	libya
+	Poeni
+	202 17 48
+	libya, phoenician_colony
+	5
+	5
+	phoenician 40 numidian 60
+
+Augila_R
+	legion: Cyrenaica
+	Augila
+	nasamones
+	Libyans
+	48 116 11
+	libya
+	5
+	3
+	numidian 100
+	
+Cufra_R
+	legion: Africana
+	Cufra
+	nasamones
+	Libyans
+	17 231 183
+	libya
+	5
+	3
+	numidian 100
+	
+Cydamus_R
+	legion: Africana
+	Cydamus
+	garamantes
+	Gaetuli
+	220 150 40
+	libya
+	5
+	4
+	numidian 100
+	
+Garama_R
+	legion: Africana
+	Garama
+	garamantes
+	Gaetuli
+	62 161 117
+	libya
+	5
+	6
+	numidian 100
+	
+Gigthis_R
+	legion: Africana
+	Gigthis
+	libya
+	Poeni
+	124 234 120
+	libya
+	5
+	5
+	numidian 100
+	
+Girba_R
+	legion: Africana
+	Girba
+	libya
+	Gaetuli
+	49 157 28
+	libya, phoenician_colony
+	5
+	5
+	phoenician 20 numidian 80
+	
+Macomades_R
+	legion: Africana
+	Macomades
+	nasamones
+	Poeni
+	41 144 102
+	libya, phoenician_colony
+	5
+	3
+	phoenician 20 numidian 80
+	
+Oea_R
+	legion: Africana
+	Oea
+	libya
+	Poeni
+	151 154 44
+	libya, phoenician_colony
+	5
+	5
+	phoenician 20 numidian 80
+	
+Sabae_R
+	legion: Africana
+	Sabae
+	garamantes
+	Gaetuli
+	218 47 80
+	libya
+	5
+	5
+	numidian 100
+	
+Sabratha_R
+	legion: Africana
+	Sabratha
+	libya
+	Poeni
+	61 91 19
+	libya, phoenician_colony
+	5
+	5
+	phoenician 20 numidian 80
+	
+Thenteos_R
+	legion: Africana
+	Thenteos
+	libya
+	Gaetuli
+	133 95 170
+	libya
+	5
+	3
+	numidian 100
+	
+Thubactis_R
+	legion: Africana
+	Thubactis
+	libya
+	Gaetuli
+	243 244 140
+	libya, phoenician_colony
+	5
+	5
+	phoenician 20 numidian 80
+	
+Uddita_R
+	legion: Africana
+	Uddita
+	nasamones
+	Gaetuli
+	74 17 88
+	libya
+	5
+	3
+	numidian 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Mauretania
+
+Mauretania
+	legion: Mauretanica
+	Tingi
+	carthage
+	Moors
+	202 126 17
+	mauretania, phoenician_colony
+	5
+	6
+	phoenician 40 numidian 60
+
+Agadir_R
+	legion: Mauretanica
+	Agadir
+	carthage
+	Moors
+	209 211 79
+	mauretania
+	5
+	8
+	numidian 100
+	
+Arambys_R
+	legion: Mauretanica
+	Arambys
+	carthage
+	Moors
+	117 23 161
+	mauretania, phoenician_colony
+	5
+	8
+	phoenician 10 numidian 90
+	
+Autolalae_R
+	legion: Mauretanica
+	Autolalae
+	mauri
+	Moors
+	205 98 148
+	mauretania
+	5
+	5
+	numidian 100
+	
+Banasa_R
+	legion: Mauretanica
+	Banasa
+	mauri
+	Moors
+	37 100 17
+	mauretania
+	5
+	6
+	numidian 100
+	
+Benta_R
+	legion: Mauretanica
+	Benta
+	mauri
+	Moors
+	97 103 160
+	mauretania
+	5
+	5
+	numidian 100
+	
+Dorath_R
+	legion: Mauretanica
+	Dorath
+	mauri
+	Moors
+	30 20 225
+	mauretania
+	5
+	6
+	numidian 100
+	
+Iarzitha_R
+	legion: Mauretanica
+	Iarzitha
+	mauri
+	Moors
+	138 38 75
+	mauretania
+	5
+	3
+	numidian 100
+	
+Lixus_R
+	legion: Mauretanica
+	Lixus
+	carthage
+	Moors
+	177 237 169
+	mauretania, phoenician_colony
+	5
+	8
+	phoenician 20 numidian 80
+	
+Magura_R
+	legion: Mauretanica
+	Magura
+	mauri
+	Moors
+	226 140 31
+	mauretania
+	5
+	3
+	numidian 100
+	
+Molochath_R
+	legion: Mauretanica
+	Molochath
+	mauri
+	Moors
+	179 21 21
+	mauretania
+	5
+	8
+	numidian 100
+	
+Mysocaras_R
+	legion: Mauretanica
+	Mysocaras
+	carthage
+	Poeni
+	222 90 216
+	mauretania
+	5
+	6
+	numidian 100
+	
+Rusadir_R
+	legion: Mauretanica
+	Rusadir
+	carthage
+	Poeni
+	38 145 81
+	mauretania, phoenician_colony
+	5
+	7
+	phoenician 20 numidian 80
+	
+Rusibis_R
+	legion: Mauretanica
+	Rusibis
+	carthage
+	Moors
+	59 218 52
+	mauretania, phoenician_colony
+	5
+	7
+	phoenician 20 numidian 80
+	
+Sala_R
+	legion: Mauretanica
+	Sala
+	carthage
+	Moors
+	139 145 38
+	mauretania, phoenician_colony
+	5
+	8
+	phoenician 20 numidian 80
+	
+Tamdoult_R
+	legion: Mauretanica
+	Tamdoult
+	mauri
+	Moors
+	58 145 38
+	mauretania
+	5
+	5
+	numidian 100
+	
+Taenia_R
+	legion: Mauretanica
+	Taenia
+	carthage
+	Poeni
+	195 218 43
+	mauretania
+	5
+	4
+	numidian 100
+	
+Tamusiga_R
+	legion: Mauretanica
+	Tamusiga
+	carthage
+	Poeni
+	207 200 46
+	mauretania
+	5
+	5
+	numidian 100
+	
+Thalubath_R
+	legion: Mauretanica
+	Thalubath
+	mauri
+	Moors
+	132 45 174
+	mauretania
+	5
+	8
+	numidian 100
+	
+Volubilis_R
+	legion: Mauretanica
+	Volubilis
+	mauri
+	Moors
+	231 54 71
+	mauretania
+	5
+	11
+	numidian 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Numidia
+
+Gaetulia
+	legion: Numidica
+	Dimmidi
+	gaetuli
+	Gaetuli
+	244 13 138
+	numidia
+	5
+	8
+	numidian 100
+
+Altava_R
+	legion: Numidica
+	Altava
+	numidia
+	Gaetuli
+	186 118 33
+	numidia
+	5
+	3
+	numidian 100
+	
+Auzia_R
+	legion: Numidica
+	Auzia
+	numidia
+	Gaetuli
+	177 38 38
+	numidia
+	5
+	7
+	numidian 100
+	
+Cartenna_R
+	legion: Numidica
+	Cartenna
+	carthage
+	Poeni
+	26 100 22
+	numidia
+	5
+	9
+	numidian 100
+	
+Icosium_R
+	legion: Numidica
+	Icosium
+	carthage
+	Poeni
+	78 183 155
+	numidia, phoenician_colony
+	5
+	8
+	phoenician 20 numidian 80
+	
+Igilgili_R
+	legion: Numidica
+	Igilgili
+	carthage
+	Poeni
+	209 170 14
+	numidia, phoenician_colony
+	5
+	6
+	phoenician 20 numidian 80
+	
+Iol_R
+	legion: Numidica
+	Iol
+	carthage
+	Poeni
+	227 152 37
+	numidia, phoenician_colony
+	5
+	9
+	phoenician 40 numidian 60
+
+Ifeyyey_R
+	legion: Numidica
+	Ifeyyey
+	gaetuli
+	Gaetuli
+	197 191 34
+	numidia
+	5
+	3
+	numidian 100
+	
+Mina_R
+	legion: Numidica
+	Mina
+	numidia
+	Gaetuli
+	50 33 135
+	numidia
+	5
+	5
+	numidian 100
+
+NigritaeCamp_R
+	legion: Numidica
+	NigritaeCamp
+	gaetuli
+	Gaetuli
+	103 74 234
+	numidia
+	5
+	2
+	numidian 100
+	
+OasisAghlan_R
+	legion: Numidica
+	OasisAghlan
+	gaetuli
+	Gaetuli
+	206 163 152
+	numidia
+	5
+	4
+	numidian 100
+	
+Quiza_R
+	legion: Numidica
+	Quiza
+	carthage
+	Gaetuli
+	207 63 85
+	numidia
+	5
+	6
+	numidian 100
+	
+Saldae_R
+	legion: Numidica
+	Saldae
+	carthage
+	Poeni
+	46 114 37
+	numidia
+	5
+	9
+	numidian 100
+	
+Siga_R
+	legion: Numidica
+	Siga
+	carthage
+	Poeni
+	243 245 52
+	numidia
+	5
+	7
+	numidian 100
+	
+Sitifis_R
+	legion: Numidica
+	Sitifis
+	numidia
+	Gaetuli
+	66 12 148
+	numidia
+	5
+	6
+	numidian 100
+	
+Tigit_R
+	legion: Numidica
+	Tigit
+	numidia
+	Gaetuli
+	123 60 133
+	numidia
+	5
+	3
+	numidian 100
+	
+Tingartia_R
+	legion: Numidica
+	Tingartia
+	numidia
+	Gaetuli
+	120 239 128
+	numidia
+	5
+	8
+	numidian 100
+	
+Zabi_R
+	legion: Numidica
+	Zabi
+	numidia
+	Gaetuli
+	186 171 135
+	numidia
+	5
+	8
+	numidian 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Cyrenaica
+
+Cyrenaica
+	legion: Cyrenaica
+	Cyrene
+	cyrene
+	Libyans
+	244 171 13
+	cyrene
+	5
+	7
+	greek 80 numidian 20
+
+Antipyrgos_R
+	legion: Cyrenaica
+	Antipyrgos
+	cyrene
+	Libyans
+	170 42 193
+	cyrene
+	5
+	3
+	greek 60 numidian 40
+	
+Automalax_R
+	legion: Cyrenaica
+	Automalax
+	cyrene
+	Poeni
+	202 65 234
+	cyrene
+	5
+	3
+	greek 20 numidian 80
+	
+Barce_R
+	legion: Cyrenaica
+	Barce
+	cyrene
+	Libyans
+	133 122 169
+	cyrene
+	5
+	5
+	greek 40 numidian 60
+
+Darnis_R
+	legion: Cyrenaica
+	Darnis
+	cyrene
+	Libyans
+	24 52 212
+	cyrene
+	5
+	5
+	greek 60 numidian 40
+
+Euesperides_R
+	legion: Cyrenaica
+	Euesperides
+	cyrene
+	Libyans
+	234 223 55
+	cyrene
+	5
+	5
+	greek 40 numidian 60
+
+
+
+; *********************************************************
+; *********************************************************
+; . Saharan Africa
+
+Abalessa_R
+	legion: Africarum
+	Abalessa
+	garamantes
+	Gaetuli
+	201 195 33
+	sahara
+	5
+	3
+	numidian 100
+
+Buata_R
+	legion: Africarum
+	Buata
+	garamantes
+	Gaetuli
+	182 179 106
+	sahara
+	5
+	3
+	numidian 100
+
+Byntha_R
+	legion: Africarum
+	Byntha
+	mauri
+	Gaetuli
+	206 136 25
+	sahara
+	5
+	3
+	numidian 100
+
+Cuphe_R
+	legion: Africarum
+	Cuphe
+	garamantes
+	Gaetuli
+	166 86 192
+	sahara
+	5
+	4
+	numidian 100
+
+Geva_R
+	legion: Africarum
+	Geva
+	garamantes
+	Gaetuli
+	164 119 180
+	sahara
+	5
+	3
+	numidian 100
+
+GiraMetropolis_R
+	legion: Africarum
+	GiraMetropolis
+	garamantes
+	Gaetuli
+	95 85 21
+	sahara
+	5
+	4
+	numidian 100
+
+Ischeri_R
+	legion: Africarum
+	Ischeri
+	garamantes
+	Gaetuli
+	162 153 12
+	sahara
+	5
+	3
+	numidian 100
+
+Lynxama_R
+	legion: Africarum
+	Lynxama
+	garamantes
+	Gaetuli
+	27 109 42
+	sahara
+	5
+	2
+	numidian 100
+
+Malachath_R
+	legion: Africarum
+	Malachath
+	garamantes
+	Gaetuli
+	53 105 39
+	sahara
+	5
+	4
+	numidian 100
+
+NigiraMetropolis_R
+	legion: Africarum
+	NigiraMetropolis
+	garamantes
+	Gaetuli
+	130 6 161
+	sahara
+	5
+	4
+	numidian 100
+
+Tagama_R
+	legion: Africarum
+	Tagama
+	garamantes
+	Gaetuli
+	18 57 13
+	sahara
+	5
+	3
+	numidian 100
+
+Thabudis_R
+	legion: Africarum
+	Thabudis
+	gaetuli
+	Gaetuli
+	206 53 32
+	sahara
+	5
+	3
+	numidian 100
+
+Thamondocana_R
+	legion: Africarum
+	Thamondocana
+	garamantes
+	Gaetuli
+	86 192 186
+	sahara
+	5
+	4
+	numidian 100
+
+Vellegia_R
+	legion: Africarum
+	Vellegia
+	garamantes
+	Gaetuli
+	55 218 35
+	sahara
+	5
+	3
+	numidian 100
+
+	
+; *********************************************************
+; *********************************************************
+; . Egypt
+
+Apollinopolis_R
+	legion: Aegyptia
+	Apollinopolis
+	egypt
+	Libyans
+	135 42 139
+	aegypt
+	5
+	7
+	egyptian 100
+
+ArsinoeClysma_R
+	legion: Aegyptia
+	ArsinoeClysma
+	egypt
+	Libyans
+	36 162 54
+	aegypt, greek_colony
+	5
+	3
+	greek 20 egyptian 80
+
+Athribis_R
+	legion: Aegyptia
+	Athribis
+	egypt
+	Libyans
+	211 211 92
+	aegypt
+	5
+	7
+	egyptian 100
+
+BerenicePanchrysos_R
+	legion: Aegyptia
+	BerenicePanchrysos
+	blemmyes
+	Libyans
+	238 24 220
+	aegypt, greek_colony
+	5
+	3
+	greek 20 egyptian 80
+
+BereniceTroglodytica_R
+	legion: Aegyptia
+	BereniceTroglodytica
+	egypt
+	Libyans
+	202 115 0
+	aegypt, greek_colony
+	5
+	8
+	greek 40 egyptian 60
+
+Crocodilopolis_R
+	legion: Aegyptia
+	Crocodilopolis
+	egypt
+	Libyans
+	129 165 221
+	aegypt
+	5
+	7
+	egyptian 100
+
+DiospolisMikra_R
+	legion: Aegyptia
+	DiospolisMikra
+	egypt
+	Libyans
+	79 188 69
+	aegypt
+	5
+	8
+	egyptian 100
+
+HeracleapolisMagna_R
+	legion: Aegyptia
+	HeracleapolisMagna
+	egypt
+	Libyans
+	238 45 225
+	aegypt
+	5
+	10
+	egyptian 100
+
+Hermopolis_R
+	legion: Aegyptia
+	Hermopolis
+	egypt
+	Libyans
+	189 169 88
+	aegypt
+	5
+	10
+	egyptian 100
+
+Hibis_R
+	legion: Aegyptia
+	Hibis
+	egypt
+	Libyans
+	212 96 39
+	aegypt
+	5
+	3
+	egyptian 100
+
+Libya
+	legion: Aegyptia
+	Siwa
+	egypt
+	Libyans
+	42 232 77
+	aegypt
+	5
+	2
+	egyptian 100
+
+Lycopolis_R
+	legion: Aegyptia
+	Lycopolis
+	egypt
+	Libyans
+	65 87 218
+	aegypt
+	5
+	7
+	egyptian 100
+
+Middle_Egypt
+	legion: Aegyptia
+	Memphis
+	egypt
+	Libyans
+	122 13 244
+	aegypt
+	5
+	10
+	egyptian 100
+
+MyosHormos_R
+	legion: Aegyptia
+	MyosHormos
+	egypt
+	Libyans
+	185 33 33
+	aegypt
+	5
+	6
+	egyptian 100
+
+Naucratis_R
+	legion: Aegyptia
+	Naucratis
+	egypt
+	Libyans
+	72 142 60
+	aegypt, greek_colony
+	5
+	11
+	greek 60 egyptian 40
+
+Nile_Delta
+	legion: Traiana
+	Alexandria
+	egypt
+	Libyans
+	244 13 214
+	aegypt, greek_colony
+	5
+	12
+	greek 60 egyptian 40
+
+Oxyrhynchus_R
+	legion: Aegyptia
+	Oxyrhynchus
+	egypt
+	Libyans
+	147 72 17
+	aegypt
+	5
+	10
+	egyptian 100
+
+Pachoras_R
+	legion: Aegyptia
+	Pachoras
+	kush
+	Libyans
+	80 79 13
+	aegypt
+	5
+	9
+	egyptian 100
+
+Paraetonium_R
+	legion: Aegyptia
+	Paraetonium
+	egypt
+	Libyans
+	162 163 51
+	aegypt
+	5
+	3
+	egyptian 100
+
+Parva_R
+	legion: Aegyptia
+	Parva
+	egypt
+	Libyans
+	36 99 52
+	aegypt
+	5
+	2
+	egyptian 100
+
+Pelusium_R
+	legion: Aegyptia
+	Pelusium
+	egypt
+	Libyans
+	157 158 48
+	aegypt
+	5
+	10
+	egyptian 100
+
+Philotera_R
+	legion: Aegyptia
+	Philotera
+	egypt
+	Libyans
+	42 105 61
+	aegypt, greek_colony
+	5
+	4
+	greek 20 egyptian 80
+
+Premis_R
+	legion: Aegyptia
+	Premis
+	kush
+	Libyans
+	167 160 111
+	aegypt
+	5
+	6
+	egyptian 100
+
+Pselchis_R
+	legion: Aegyptia
+	Pselchis
+	egypt
+	Libyans
+	113 132 169
+	aegypt
+	5
+	7
+	egyptian 100
+
+PtolemaisHermeiou_R
+	legion: Aegyptia
+	PtolemaisHermeiou
+	egypt
+	Libyans
+	169 106 159
+	aegypt, greek_colony
+	5
+	8
+	greek 40 egyptian 60
+
+Rhaithou_R
+	legion: Aegyptia
+	Rhaithou
+	egypt
+	Nabataeans
+	193 135 44
+	aegypt
+	5
+	1
+	egyptian 100
+
+Syene_R
+	legion: Aegyptia
+	Syene
+	egypt
+	Libyans
+	45 213 33
+	aegypt
+	5
+	8
+	egyptian 100
+
+Tanis_R
+	legion: Aegyptia
+	Tanis
+	egypt
+	Libyans
+	37 44 161
+	aegypt
+	5
+	11
+	egyptian 100
+
+Thebais
+	legion: Aegyptia
+	Thebes
+	egypt
+	Libyans
+	241 244 13
+	aegypt
+	5
+	8
+	egyptian 100
+
+Thmuis_R
+	legion: Aegyptia
+	Thmuis
+	egypt
+	Libyans
+	170 117 140
+	aegypt
+	5
+	11
+	egyptian 100
+
+	
+	
+; *********************************************************
+; *********************************************************
+; . East Africa / Ethiopia
+
+Adulis_R
+	legion: Africarum
+	Adulis
+	axum
+	Libyans
+	222 216 57
+	ethiopia
+	5
+	5
+	ethiopian 100
+
+Araba_R
+	legion: Africarum
+	Araba
+	kush
+	Libyans
+	192 196 74
+	nubia
+	5
+	4
+	nubian 100
+
+Arsinoe_R
+	legion: Africarum
+	Arsinoe
+	egypt
+	Libyans
+	159 170 68
+	ethiopia, greek_colony
+	5
+	5
+	greek 20 ethiopian 80
+
+AthagausKome_R
+	legion: Africarum
+	AthagausKome
+	axum
+	Libyans
+	229 159 49
+	ethiopia
+	5
+	3
+	ethiopian 100
+
+Aualites_R
+	legion: Africarum
+	Aualites
+	axum
+	Libyans
+	93 83 170
+	ethiopia
+	5
+	4
+	ethiopian 100
+
+Axum_R
+	legion: Africarum
+	Axum
+	axum
+	Libyans
+	70 61 182
+	ethiopia
+	5
+	8
+	ethiopian 100
+
+BlemmyeKome_R
+	legion: Africarum
+	BlemmyeKome
+	blemmyes
+	Libyans
+	98 214 77
+	nubia
+	5
+	2
+	nubian 100
+
+Daron_R
+	legion: Africarum
+	Daron
+	axum
+	Libyans
+	87 35 14
+	ethiopia
+	5
+	5
+	ethiopian 100
+
+Dongolo_R
+	legion: Africarum
+	Dongolo
+	axum
+	Libyans
+	167 152 73
+	ethiopia
+	5
+	4
+	ethiopian 100
+
+Eser_R
+	legion: Africarum
+	Eser
+	kush
+	Libyans
+	115 168 166
+	nubia
+	5
+	3
+	nubian 100
+
+Gey_R
+	legion: Africarum
+	Gey
+	axum
+	Libyans
+	176 43 76
+	ethiopia
+	5
+	3
+	ethiopian 100
+
+Hypaton_R
+	legion: Africarum
+	Hypaton
+	kush
+	Libyans
+	37 68 178
+	nubia
+	5
+	6
+	nubian 100
+
+KoloeAithiopia_R
+	legion: Africarum
+	KoloeAithiopia
+	axum
+	Libyans
+	35 150 40
+	ethiopia
+	5
+	5
+	ethiopian 100
+
+Koloe_R
+	legion: Africarum
+	Koloe
+	axum
+	Libyans
+	95 16 148
+	ethiopia
+	5
+	5
+	ethiopian 100
+
+MaiAdresha_R
+	legion: Africarum
+	MaiAdresha
+	axum
+	Libyans
+	181 103 218
+	ethiopia
+	5
+	4
+	ethiopian 100
+
+Malao_R
+	legion: Africarum
+	Malao
+	axum
+	Libyans
+	20 94 25
+	ethiopia
+	5
+	3
+	ethiopian 100
+
+Maste_R
+	legion: Africarum
+	Maste
+	kush
+	Libyans
+	21 108 17
+	nubia
+	5
+	5
+	nubian 100
+
+Meroe_R
+	legion: Africarum
+	Meroe
+	kush
+	Libyans
+	181 224 182
+	nubia
+	5
+	8
+	nubian 100
+
+Mondou_R
+	legion: Africarum
+	Mondou
+	axum
+	Libyans
+	191 111 49
+	ethiopia
+	5
+	2
+	ethiopian 100
+
+Morou_R
+	legion: Africarum
+	Morou
+	kush
+	Libyans
+	172 30 78
+	nubia
+	5
+	5
+	nubian 100
+
+Mosyllum_R
+	legion: Africarum
+	Mosyllum
+	axum
+	Libyans
+	157 151 96
+	ethiopia
+	5
+	3
+	ethiopian 100
+
+Napata_R
+	legion: Africarum
+	Napata
+	kush
+	Libyans
+	42 181 35
+	nubia
+	5
+	8
+	nubian 100
+
+Opone_R
+	legion: Africarum
+	Opone
+	axum
+	Libyans
+	211 153 61
+	ethiopia
+	5
+	3
+	ethiopian 100
+
+Paroa_R
+	legion: Africarum
+	Paroa
+	kush
+	Libyans
+	143 182 191
+	nubia
+	5
+	5
+	nubian 100
+
+Patinga_R
+	legion: Africarum
+	Patinga
+	kush
+	Libyans
+	217 107 77
+	nubia
+	5
+	8
+	nubian 100
+
+Primis_R
+	legion: Africarum
+	Primis
+	kush
+	Libyans
+	152 69 213
+	nubia
+	5
+	4
+	nubian 100
+
+PtolemaisTheron_R
+	legion: Africarum
+	PtolemaisTheron
+	egypt
+	Libyans
+	76 26 97
+	nubia, greek_colony
+	5
+	3
+	greek 20 nubian 80
+
+Roha_R
+	legion: Africarum
+	Roha
+	axum
+	Libyans
+	134 224 144
+	ethiopia
+	5
+	7
+	ethiopian 100
+
+Sabai_R
+	legion: Africarum
+	Sabai
+	saba
+	Nabataeans
+	138 94 231
+	ethiopia
+	5
+	4
+	arab 20 ethiopian 80
+
+Sacolche_R
+	legion: Africarum
+	Sacolche
+	kush
+	Libyans
+	136 53 175
+	nubia
+	5
+	3
+	nubian 100
+
+Scammos_R
+	legion: Africarum
+	Scammos
+	kush
+	Libyans
+	23 161 208
+	nubia
+	5
+	5
+	nubian 100
+
+Tamania_R
+	legion: Africarum
+	Tamania
+	kush
+	Libyans
+	223 192 13
+	nubia
+	5
+	5
+	nubian 100
+
+Yiha_R
+	legion: Africarum
+	Yiha
+	axum
+	Libyans
+	143 186 185
+	ethiopia
+	5
+	5
+	ethiopian 100
+
+	
+	
+; *********************************************************
+; *********************************************************
+; . Arabia
+	
+Abisama_R
+	legion: Arabica
+	Abisama
+	qataban
+	Nabataeans
+	49 69 153
+	arabia
+	5
+	3
+	arab 100
+
+Abyssa_R
+	legion: Arabica
+	Abyssa
+	hadhramaut
+	Nabataeans
+	24 207 174
+	arabia
+	5
+	5
+	arab 100
+
+Adane_R
+	legion: Arabica
+	Adane
+	qataban
+	Nabataeans
+	68 66 14
+	arabia
+	5
+	6
+	arab 100
+
+Aila_R
+	legion: Nabatae
+	Aila
+	nabataea
+	Nabataeans
+	48 205 193
+	arabia
+	5
+	6
+	arab 100
+
+Appa_R
+	legion: Arabica
+	Appa
+	mascat
+	Nabataeans
+	70 54 44
+	arabia
+	5
+	2
+	arab 100
+
+Arabia
+	legion: Arabica
+	Dumatha
+	qedar
+	Nabataeans
+	13 171 244
+	arabia
+	5
+	3
+	arab 100
+
+Ausara_R
+	legion: Arabica
+	Ausara
+	hadhramaut
+	Nabataeans
+	160 130 68
+	arabia
+	5
+	4
+	arab 100
+
+Badeo_R
+	legion: Arabica
+	Badeo
+	saba
+	Nabataeans
+	207 144 215
+	arabia
+	5
+	3
+	arab 100
+
+Cana_R
+	legion: Arabica
+	Cana
+	hadhramaut
+	Nabataeans
+	195 202 97
+	arabia
+	5
+	4
+	arab 100
+
+Charmutha_R
+	legion: Arabica
+	Charmutha
+	lihyan
+	Nabataeans
+	148 233 232
+	arabia
+	5
+	3
+	arab 100
+
+Gerrha_R
+	legion: Arabica
+	Gerrha
+	gerrha
+	Nabataeans
+	105 111 171
+	arabia
+	5
+	5
+	arab 100
+
+Hegra_R
+	legion: Arabica
+	Hegra
+	lihyan
+	Nabataeans
+	228 206 114
+	arabia
+	5
+	3
+	arab 100
+
+Inapha_R
+	legion: Arabica
+	Inapha
+	thamud
+	Nabataeans
+	28 113 145
+	arabia
+	5
+	3
+	arab 100
+
+Karna_R
+	legion: Arabica
+	Karna
+	minaea
+	Nabataeans
+	103 18 28
+	arabia
+	5
+	5
+	arab 100
+
+Kathara_R
+	legion: Arabica
+	Kathara
+	gerrha
+	Nabataeans
+	94 138 102
+	arabia
+	5
+	3
+	arab 100
+
+Khatt_R
+	legion: Arabica
+	Khatt
+	gerrha
+	Nabataeans
+	62 203 70
+	arabia
+	5
+	3
+	arab 100
+
+KryptosLimen_R
+	legion: Arabica
+	KryptosLimen
+	mascat
+	Nabataeans
+	169 96 52
+	arabia
+	5
+	4
+	arab 100
+
+LeukeKome_R
+	legion: Nabatae
+	LeukeKome
+	nabataea
+	Nabataeans
+	129 27 137
+	arabia
+	5
+	2
+	arab 100
+
+Makoraba_R
+	legion: Arabica
+	Makoraba
+	thamud
+	Nabataeans
+	179 30 149
+	arabia
+	5
+	4
+	arab 100
+
+Mariba_R
+	legion: Arabica
+	Mariba
+	saba
+	Nabataeans
+	176 204 11
+	arabia
+	5
+	5
+	arab 100
+
+Marma_R
+	legion: Arabica
+	Marma
+	minaea
+	Nabataeans
+	177 99 0
+	arabia
+	5
+	3
+	arab 100
+
+Muza_R
+	legion: Arabica
+	Muza
+	qataban
+	Nabataeans
+	27 71 21
+	arabia
+	5
+	3
+	arab 100
+
+Negram_R
+	legion: Arabica
+	Negram
+	minaea
+	Nabataeans
+	105 173 55
+	arabia
+	5
+	3
+	arab 100
+
+Omana_R
+	legion: Arabica
+	Omana
+	mascat
+	Nabataeans
+	178 162 135
+	arabia
+	5
+	5
+	arab 100
+
+Phoenicum_R
+	legion: Arabica
+	Phoenicum
+	lihyan
+	Nabataeans
+	69 218 82
+	arabia
+	5
+	3
+	arab 100
+
+Rhegma_R
+	legion: Arabica
+	Rhegma
+	mascat
+	Nabataeans
+	188 78 180
+	arabia
+	5
+	3
+	arab 100
+
+SabaiChattenia_R
+	legion: Arabica
+	SabaiChattenia
+	gerrha
+	Nabataeans
+	182 93 53
+	arabia
+	5
+	3
+	arab 100
+
+Sabatha_R
+	legion: Arabica
+	Sabatha
+	hadhramaut
+	Nabataeans
+	63 161 81
+	arabia
+	5
+	6
+	arab 100
+
+Sadasara_R
+	legion: Arabica
+	Sadasara
+	hadhramaut
+	Nabataeans
+	113 182 203
+	arabia
+	5
+	2
+	arab 100
+
+Salma_R
+	legion: Arabica
+	Salma
+	qedar
+	Nabataeans
+	210 215 17
+	arabia
+	5
+	3
+	arab 100
+
+Sanaa_R
+	legion: Arabica
+	Sanaa
+	saba
+	Nabataeans
+	69 241 211
+	arabia
+	5
+	6
+	arab 100
+
+Sapphar_R
+	legion: Arabica
+	Sapphar
+	qataban
+	Nabataeans
+	195 85 31
+	arabia
+	5
+	5
+	arab 100
+
+SeleuciaErythrea_R
+	legion: Arabica
+	SeleuciaErythrea
+	seleucid
+	Syrians
+	97 7 23
+	arabia, greek_colony
+	5
+	4
+	greek 20 arab 80
+
+Sinai
+	legion: Nabatae
+	Petra
+	nabataea
+	Nabataeans
+	35 244 13
+	arabia
+	5
+	4
+	arab 100
+
+Sohar_R
+	legion: Arabica
+	Sohar
+	mascat
+	Nabataeans
+	205 214 68
+	arabia
+	5
+	4
+	arab 100
+
+Tabawa_R
+	legion: Nabatae
+	Tabawa
+	nabataea
+	Nabataeans
+	136 126 64
+	arabia
+	5
+	5
+	arab 100
+
+Tamna_R
+	legion: Arabica
+	Tamna
+	qataban
+	Nabataeans
+	169 42 121
+	arabia
+	5
+	4
+	arab 100
+
+Tema_R
+	legion: Arabica
+	Tema
+	lihyan
+	Nabataeans
+	117 34 48
+	arabia
+	5
+	3
+	arab 100
+
+Thialemath_R
+	legion: Arabica
+	Thialemath
+	hadhramaut
+	Nabataeans
+	143 17 130
+	arabia
+	5
+	4
+	arab 100
+
+Thomala_R
+	legion: Arabica
+	Thomala
+	minaea
+	Nabataeans
+	128 45 138
+	arabia
+	5
+	2
+	arab 100
+
+Tylos_R
+	legion: Arabica
+	Tylos
+	gerrha
+	Nabataeans
+	107 80 28
+	arabia
+	5
+	2
+	arab 100
+
+Ubar_R
+	legion: Arabica
+	Ubar
+	hadhramaut
+	Nabataeans
+	47 134 59
+	arabia
+	5
+	3
+	arab 100
+
+Yathrib_R
+	legion: Arabica
+	Yathrib
+	thamud
+	Nabataeans
+	29 76 16
+	arabia
+	5
+	4
+	arab 100
+
+Zabram_R
+	legion: Arabica
+	Zabram
+	thamud
+	Nabataeans
+	72 223 108
+	arabia
+	5
+	3
+	arab 100
+	
+Eboda_R
+	legion: Nabatae
+	Eboda
+	nabataea
+	Nabataeans
+	207 210 81
+	arabia
+	5
+	3
+	arab 100
+	
+Tamrida_R
+	legion: Arabica
+	Tamrida
+	hadhramaut
+	Libyans
+	47 143 17
+	arabia
+	5
+	3
+	arab 100
+
+	
+	
+; *********************************************************
+; *********************************************************
+; . Taurica / Bosporus
+
+Bosphorus
+	legion: Bosphorana
+	Chersonesos
+	heraclea
+	Bosphorans
+	17 74 202
+	bosporus, greek_colony
+	5
+	8
+	greek 60 scythian 40
+	
+Maeotis
+	legion: Bosphorana
+	Tanais
+	bosporus
+	Maeotae
+	131 89 33
+	bosporus, greek_colony
+	5
+	9
+	greek 40 scythian 60
+
+Panticapaeum_R
+	legion: Bosphorana
+	Panticapaeum
+	bosporus
+	Sarmatians
+	45 187 26
+	bosporus, greek_colony
+	5
+	10
+	greek 80 scythian 20
+
+Theodosia_R
+	legion: Bosphorana
+	Theodosia
+	bosporus
+	Sarmatians
+	166 49 49
+	bosporus, greek_colony
+	5
+	7
+	greek 60 scythian 40
+
+Cercinitis_R
+	legion: Bosphorana
+	Cercinitis
+	heraclea
+	Sarmatians
+	118 142 173
+	bosporus, greek_colony
+	5
+	5
+	greek 40 scythian 60
+
+ScythianNeapolis_R
+	legion: Bosphorana
+	ScythianNeapolis
+	scythia
+	Sarmatians
+	96 18 122
+	bosporus
+	5
+	5
+	scythian 100
+
+ScythianPaleaopolis_R
+	legion: Bosphorana
+	ScythianPaleaopolis
+	scythia
+	Sarmatians
+	32 98 36
+	bosporus
+	5
+	5
+	scythian 100
+
+KalosLimen_R
+	legion: Bosphorana
+	KalosLimen
+	heraclea
+	Sarmatians
+	197 177 51
+	bosporus, greek_colony
+	5
+	4
+	greek 20 scythian 80
+
+Azara_R
+	legion: Bosphorana
+	Azara
+	bosporus
+	Sarmatians
+	164 148 38
+	bosporus
+	5
+	4
+	scythian 100
+	
+Carcina_R
+	legion: Bosphorana
+	Carcina
+	scythia
+	Sarmatians
+	153 71 165
+	bosporus
+	5
+	3
+	scythian 100
+
+Gorgippia_R
+	legion: Bosphorana
+	Gorgippia
+	bosporus
+	Sarmatians
+	29 116 20
+	bosporus, greek_colony
+	5
+	7
+	greek 60 scythian 40
+
+Hygres_R
+	legion: Bosphorana
+	Hygres
+	scythia
+	Sarmatians
+	214 203 136
+	bosporus
+	5
+	4
+	scythian 100
+
+Kremnoi_R
+	legion: Bosphorana
+	Kremnoi
+	scythia
+	Sarmatians
+	124 134 158
+	bosporus
+	5
+	4
+	scythian 100
+	
+Nikonion_R
+	legion: Bosphorana
+	Nikonion
+	cyprus
+	Sarmatians
+	26 52 142
+	bosporus, greek_colony
+	5
+	5
+	greek 40 scythian 60
+	
+Olbia_R
+	legion: Bosphorana
+	Olbia
+	cyprus
+	Sarmatians
+	89 160 57
+	bosporus, greek_colony
+	5
+	6
+	greek 60 scythian 40
+	
+Pataroue_R
+	legion: Bosphorana
+	Pataroue
+	bosporus
+	Sarmatians
+	59 30 181
+	bosporus
+	5
+	3
+	scythian 100
+	
+PalaiaAchaia_R
+	legion: Bosphorana
+	PalaiaAchaia
+	bosporus
+	Sarmatians
+	214 60 61
+	bosporus
+	5
+	2
+	scythian 100
+	
+Phanagoria_R
+	legion: Bosphorana
+	Phanagoria
+	bosporus
+	Sarmatians
+	122 221 200
+	bosporus, greek_colony
+	5
+	8
+	greek 80 scythian 20
+	
+Tracana_R
+	legion: Bosphorana
+	Tracana
+	scythia
+	Sarmatians
+	35 40 205
+	bosporus
+	5
+	3
+	scythian 100
+	
+Tyras_R
+	legion: Bosphorana
+	Tyras
+	cyprus
+	Sarmatians
+	176 50 194
+	bosporus, greek_colony
+	5
+	5
+	greek 60 scythian 40
+
+
+	
+	
+; *********************************************************
+; *********************************************************
+; . Sarmatia & Western Scythia
+
+Tribus_Alanni
+	legion: Scythica
+	Campus_Alanni
+	roxolani
+	Alans
+	177 170 58
+	scythia_r
+	5
+	3
+	scythian 100
+
+Tribus_Sarmatae
+	legion: Scythica
+	Campus_Sarmatae
+	sarmatians
+	Sarmatians
+	177 58 83
+	scythia_r
+	5
+	4
+	scythian 100
+
+Abunis_R
+	legion: Scythica
+	Abunis
+	siraces
+	Sarmatians
+	46 150 43
+	scythia_r
+	5
+	5
+	scythian 100
+
+Amadoca_R
+	legion: Scythica
+	Amadoca
+	scythia
+	Sarmatians
+	24 82 153
+	scythia_r
+	5
+	5
+	scythian 100
+
+AndrophagiCamp_R
+	legion: Scythica
+	AndrophagiCamp
+	sarmatians
+	Sarmatians
+	155 196 155
+	scythia_r
+	5
+	3
+	scythian 100
+
+Arsietaeum_R
+	legion: Scythica
+	Arsietaeum
+	bastarnae
+	Sarmatians
+	61 154 64
+	scythia_r
+	5
+	3
+	scythian 100
+
+BoudiniCamp_R
+	legion: Scythica
+	BoudiniCamp
+	sarmatians
+	Sarmatians
+	54 86 232
+	scythia_r
+	5
+	3
+	scythian 100
+
+Cariscus_R
+	legion: Scythica
+	Cariscus
+	slavs
+	Sarmatians
+	208 164 155
+	scythia_r
+	5
+	3
+	scythian 100
+
+CoraxiKome_R
+	legion: Scythica
+	CoraxiKome
+	roxolani
+	Sarmatians
+	21 65 228
+	scythia_r
+	5
+	3
+	scythian 100
+
+Corusia_R
+	legion: Scythica
+	Corusia
+	siraces
+	Sarmatians
+	5 35 151
+	scythia_r
+	5
+	4
+	scythian 100
+
+Costobocum_R
+	legion: Scythica
+	Costobocum
+	peucitans
+	Venedae
+	187 58 204
+	scythia_r
+	5
+	3
+	scythian 100
+
+DerbicesKome_R
+	legion: Scythica
+	DerbicesKome
+	thyssagetae
+	Sarmatians
+	187 69 41
+	scythia_r
+	5
+	3
+	scythian 100
+
+Gelonus_R
+	legion: Scythica
+	Gelonus
+	scythia
+	Sarmatians
+	107 102 49
+	scythia_r
+	5
+	3
+	scythian 100
+
+Gerrhos_R
+	legion: Scythica
+	Gerrhos
+	slavs
+	Sarmatians
+	212 221 23
+	scythia_r
+	5
+	4
+	scythian 100
+
+Helmia_R
+	legion: Scythica
+	Helmia
+	siraces
+	Sarmatians
+	200 219 26
+	scythia_r
+	5
+	5
+	scythian 100
+
+Hexopolis_R
+	legion: Scythica
+	Hexopolis
+	sarmatians
+	Sarmatians
+	134 150 221
+	scythia_r
+	5
+	4
+	scythian 100
+
+IaxamataeKome_R
+	legion: Scythica
+	IaxamataeKome
+	roxolani
+	Sarmatians
+	171 106 198
+	scythia_r
+	5
+	3
+	scythian 100
+
+IdraeCamp_R
+	legion: Scythica
+	IdraeCamp
+	scythia
+	Sarmatians
+	223 226 124
+	scythia_r
+	5
+	3
+	scythian 100
+
+IsondaeCamp_R
+	legion: Scythica
+	IsondaeCamp
+	albania
+	Sarmatians
+	194 161 114
+	scythia_r
+	5
+	5
+	scythian 100
+
+IyrkaeCamp_R
+	legion: Scythica
+	IyrkaeCamp
+	sarmatians
+	Sarmatians
+	174 32 162
+	scythia_r
+	5
+	4
+	scythian 100
+
+JazygesCamp_R
+	legion: Scythica
+	JazygesCamp
+	iazyges
+	Alans
+	135 197 119
+	scythia_r
+	5
+	3
+	scythian 100
+
+Leinum_R
+	legion: Scythica
+	Leinum
+	scythia
+	Sarmatians
+	200 53 79
+	scythia_r
+	5
+	3
+	scythian 100
+
+Msandar_R
+	legion: Scythica
+	Msandar
+	budini
+	Sarmatians
+	110 200 50
+	scythia_r
+	5
+	5
+	scythian 100
+
+Navaris_R
+	legion: Scythica
+	Navaris
+	siraces
+	Sarmatians
+	185 63 88
+	scythia_r
+	5
+	3
+	scythian 100
+
+Niossum_R
+	legion: Scythica
+	Niossum
+	scythia
+	Sarmatians
+	154 52 63
+	scythia_r
+	5
+	3
+	scythian 100
+
+Ojum_R
+	legion: Scythica
+	Ojum
+	scythia
+	Sarmatians
+	50 106 54
+	scythia_r
+	5
+	4
+	scythian 100
+
+OlondaeCamp_R
+	legion: Scythica
+	OlondaeCamp
+	roxolani
+	Sarmatians
+	30 111 104
+	scythia_r
+	5
+	3
+	scythian 100
+
+OphlonesCamp_R
+	legion: Scythica
+	OphlonesCamp
+	scythia
+	Sarmatians
+	24 43 212
+	scythia_r
+	5
+	3
+	scythian 100
+
+OudaeCamp_R
+	legion: Scythica
+	OudaeCamp
+	budini
+	Sarmatians
+	128 128 128
+	scythia_r
+	5
+	3
+	scythian 100
+
+PerierbidiCamp_R
+	legion: Scythica
+	PerierbidiCamp
+	sarmatians
+	Sarmatians
+	38 187 19
+	scythia_r
+	5
+	3
+	scythian 100
+
+PhtheirophagiKome_R
+	legion: Scythica
+	PhtheirophagiKome
+	roxolani
+	Sarmatians
+	185 126 9
+	scythia_r
+	5
+	3
+	scythian 100
+
+Pripet
+	legion: Scythica
+	Vicus_Venedae
+	slavs
+	Venedae
+	131 33 125
+	scythia_r
+	5
+	3
+	scythian 100
+
+SanaraiKome_R
+	legion: Scythica
+	SanaraiKome
+	dahae
+	Sarmatians
+	181 21 23
+	scythia_r
+	5
+	4
+	scythian 100
+
+Sanaraiopolis_R
+	legion: Scythica
+	Sanaraiopolis
+	dahae
+	Sarmatians
+	250 136 42
+	scythia_r
+	5
+	4
+	scythian 100
+
+Sarbacum_R
+	legion: Scythica
+	Sarbacum
+	scythia
+	Sarmatians
+	213 145 27
+	scythia_r
+	5
+	3
+	scythian 100
+
+Sarum_R
+	legion: Scythica
+	Sarum
+	scythia
+	Sarmatians
+	52 159 62
+	scythia_r
+	5
+	3
+	scythian 100
+
+ScymnitaeKome_R
+	legion: Scythica
+	ScymnitaeKome
+	roxolani
+	Sarmatians
+	214 232 64
+	scythia_r
+	5
+	3
+	scythian 100
+
+ScythianCamp_R
+	legion: Scythica
+	ScythianCamp
+	scythia
+	Sarmatians
+	142 37 156
+	scythia_r
+	5
+	3
+	scythian 100
+
+ScythianMetropolis_R
+	legion: Scythica
+	ScythianMetropolis
+	scythia
+	Sarmatians
+	35 230 64
+	scythia_r
+	5
+	4
+	scythian 100
+
+Scythia
+	legion: Scythica
+	Campus_Scythii
+	scythia
+	Roxolani
+	33 131 116
+	scythia_r
+	5
+	7
+	scythian 100
+
+Seraca_R
+	legion: Scythica
+	Seraca
+	siraces
+	Sarmatians
+	196 91 195
+	scythia_r
+	5
+	6
+	scythian 100
+
+SuraniKome_R
+	legion: Scythica
+	SuraniKome
+	budini
+	Sarmatians
+	42 48 147
+	scythia_r
+	5
+	3
+	scythian 100
+
+TaniataeCamp_R
+	legion: Scythica
+	TaniataeCamp
+	sarmatians
+	Sarmatians
+	138 63 160
+	scythia_r
+	5
+	3
+	scythian 100
+
+ThyssagetaeCamp_R
+	legion: Scythica
+	ThyssagetaeCamp
+	thyssagetae
+	Sarmatians
+	220 240 40
+	scythia_r
+	5
+	3
+	scythian 100
+
+Touschoiopolis_R
+	legion: Scythica
+	Touschoiopolis
+	dahae
+	Sarmatians
+	85 13 76
+	scythia_r
+	5
+	4
+	scythian 100
+
+UpperAorsiCamp_R
+	legion: Scythica
+	UpperAorsiCamp
+	roxolani
+	Sarmatians
+	43 100 82
+	scythia_r
+	5
+	3
+	scythian 100
+
+Uspe_R
+	legion: Scythica
+	Uspe
+	siraces
+	Sarmatians
+	124 145 180
+	scythia_r
+	5
+	6
+	scythian 100
+	
+GerriKome_R
+	legion: Scythica
+	GerriKome
+	albania
+	Sarmatians
+	220 119 42
+	scythia_r
+	5
+	5
+	iranian 40 scythian 60
+	
+Tzon_R
+	legion: Scythica
+	Tzon
+	albania
+	Medes
+	150 101 144
+	scythia_r
+	5
+	5
+	iranian 20 scythian 80
+
+	
+	
+; *********************************************************
+; *********************************************************
+; . Eastern Scythia
+	
+AbiaeKome_R
+	legion: Scythica
+	AbiaeKome
+	thyssagetae
+	Sarmatians
+	48 204 56
+	saka
+	5
+	3
+	saka 100
+
+AlanCamp_R
+	legion: Scythica
+	AlanCamp
+	massagetae
+	Alans
+	160 18 18
+	saka
+	5
+	3
+	saka 100
+
+Almatau_R
+	legion: Scythica
+	Almatau
+	saka
+	Alans
+	66 76 170
+	saka
+	5
+	5
+	saka 100
+
+ArggipaeiCamp_R
+	legion: Scythica
+	ArggipaeiCamp
+	saka
+	Alans
+	217 237 49
+	saka
+	5
+	3
+	saka 100
+
+AsianiKome_R
+	legion: Scythica
+	AsianiKome
+	saka
+	Sarmatians
+	69 207 63
+	saka
+	5
+	3
+	saka 100
+
+AspisiCamp_R
+	legion: Scythica
+	AspisiCamp
+	saka
+	Alans
+	179 177 116
+	saka
+	5
+	3
+	saka 100
+
+AugasiiKome_R
+	legion: Scythica
+	AugasiiKome
+	massagetae
+	Alans
+	193 182 56
+	saka
+	5
+	5
+	saka 100
+
+Auzacia_R
+	legion: Scythica
+	Auzacia
+	saka
+	Alans
+	193 123 130
+	saka
+	5
+	4
+	saka 100
+
+Balasagun_R
+	legion: Scythica
+	Balasagun
+	saka
+	Alans
+	147 129 4
+	saka
+	5
+	6
+	saka 100
+
+IastaeCamp_R
+	legion: Scythica
+	IastaeCamp
+	saka
+	Alans
+	155 204 186
+	saka
+	5
+	3
+	saka 100
+
+IssedonScythia_R
+	legion: Scythica
+	IssedonScythia
+	saka
+	Alans
+	142 86 121
+	saka
+	5
+	5
+	saka 100
+
+Issedon_R
+	legion: Scythica
+	Issedon
+	saka
+	Alans
+	219 131 214
+	saka
+	5
+	5
+	saka 100
+
+JiankunCamp_R
+	legion: Scythica
+	JiankunCamp
+	saka
+	Alans
+	167 48 150
+	saka
+	5
+	2
+	saka 100
+
+Kulja_R
+	legion: Scythica
+	Kulja
+	saka
+	Alans
+	118 138 94
+	saka
+	5
+	4
+	saka 100
+
+KyrgyzCamp_R
+	legion: Scythica
+	KyrgyzCamp
+	huns
+	Alans
+	230 78 61
+	saka
+	5
+	3
+	saka 100
+
+MagyarCamp_R
+	legion: Scythica
+	MagyarCamp
+	saka
+	Alans
+	75 63 144
+	saka
+	5
+	3
+	saka 100
+
+MassagetaeCamp_R
+	legion: Scythica
+	MassagetaeCamp
+	massagetae
+	Alans
+	59 54 74
+	saka
+	5
+	3
+	saka 100
+
+MateriCamp_R
+	legion: Scythica
+	MateriCamp
+	huns
+	Alans
+	143 59 22
+	saka
+	5
+	3
+	saka 100
+
+ModocaeKome_R
+	legion: Scythica
+	ModocaeKome
+	thyssagetae
+	Sarmatians
+	25 61 135
+	saka
+	5
+	3
+	saka 100
+
+SakaCamp_R
+	legion: Scythica
+	SakaCamp
+	saka
+	Alans
+	125 213 150
+	saka
+	5
+	3
+	saka 100
+
+SakaRaukaCamp_R
+	legion: Scythica
+	SakaRaukaCamp
+	saka
+	Alans
+	30 109 29
+	saka
+	5
+	4
+	saka 100
+
+SakamurundaCamp_R
+	legion: Scythica
+	SakamurundaCamp
+	saka
+	Alans
+	205 44 83
+	saka
+	5
+	3
+	saka 100
+
+SakatigraxaudaKome_R
+	legion: Scythica
+	SakatigraxaudaKome
+	saka
+	Sarmatians
+	220 235 77
+	saka
+	5
+	3
+	saka 100
+
+TektosakaKome_R
+	legion: Scythica
+	TektosakaKome
+	saka
+	Sarmatians
+	59 102 156
+	saka
+	5
+	4
+	saka 100
+
+Wutanzili_R
+	legion: Scythica
+	Wutanzili
+	saka
+	Medes
+	200 147 72
+	saka
+	5
+	2
+	saka 100
+
+	
+	
+; *********************************************************
+; *********************************************************
+; . Northern Forests
+
+AgathyrsiKome_R
+	legion: Barbaricorum
+	AgathyrsiKome
+	sarmatians
+	Sarmatians
+	158 31 32
+	amazonia
+	5
+	3
+	scythian 100
+
+ArimaspiCamp_R
+	legion: Barbaricorum
+	ArimaspiCamp
+	saka
+	Alans
+	186 119 39
+	amazonia
+	5
+	2
+	scythian 100
+
+Arimphaei_Camp_R
+	legion: Barbaricorum
+	Arimphaei_Camp
+	sarmatians
+	Sarmatians
+	46 118 51
+	amazonia
+	5
+	1
+	scythian 100
+
+Borusci_Camp_R
+	legion: Barbaricorum
+	Borusci_Camp
+	sarmatians
+	Sarmatians
+	239 200 31
+	amazonia
+	5
+	3
+	scythian 100
+
+Carbonium_R
+	legion: Barbaricorum
+	Carbonium
+	venedi
+	Sarmatians
+	207 124 222
+	amazonia
+	5
+	2
+	scythian 100
+
+ChaenidesKome_R
+	legion: Barbaricorum
+	ChaenidesKome
+	sarmatians
+	Sarmatians
+	113 103 171
+	amazonia
+	5
+	3
+	scythian 100
+
+GeviniKome_R
+	legion: Barbaricorum
+	GeviniKome
+	scythia
+	Sarmatians
+	66 166 77
+	amazonia
+	5
+	3
+	scythian 100
+
+HippopodesKome_R
+	legion: Barbaricorum
+	HippopodesKome
+	venedi
+	Sarmatians
+	123 116 33
+	amazonia
+	5
+	3
+	scythian 100
+
+Melanchlainopolis_R
+	legion: Barbaricorum
+	Melanchlainopolis
+	scythia
+	Sarmatians
+	89 30 117
+	amazonia
+	5
+	3
+	scythian 100
+
+NasciKome_R
+	legion: Barbaricorum
+	NasciKome
+	slavs
+	Sarmatians
+	126 29 37
+	amazonia
+	5
+	3
+	scythian 100
+
+Salium_R
+	legion: Barbaricorum
+	Salium
+	scythia
+	Sarmatians
+	190 105 46
+	amazonia
+	5
+	2
+	scythian 100
+
+Stavanium_R
+	legion: Barbaricorum
+	Stavanium
+	slavs
+	Sarmatians
+	218 175 69
+	amazonia
+	5
+	3
+	scythian 100
+
+	
+	
+; *********************************************************
+; *********************************************************
+; . Taklamakan / Tarim Basin
+
+Karadong_R
+	legion: Parthica
+	Karadong
+	kashgar
+	Medes
+	123 161 62
+	tarim
+	5
+	2
+	tocharian 100
+
+Karasahr_R
+	legion: Parthica
+	Karasahr
+	kucha
+	Medes
+	175 99 149
+	tarim
+	5
+	5
+	tocharian 100
+
+Kasia_R
+	legion: Parthica
+	Kasia
+	kashgar
+	Medes
+	197 192 39
+	tarim
+	5
+	5
+	tocharian 100
+
+Keladun_R
+	legion: Parthica
+	Keladun
+	kashgar
+	Medes
+	223 55 96
+	tarim
+	5
+	3
+	tocharian 100
+
+Khotan_R
+	legion: Parthica
+	Khotan
+	kashgar
+	Medes
+	149 104 109
+	tarim
+	5
+	5
+	tocharian 100
+
+Korla_R
+	legion: Parthica
+	Korla
+	kucha
+	Medes
+	183 40 47
+	tarim
+	5
+	4
+	tocharian 100
+
+Kroran_R
+	legion: Parthica
+	Kroran
+	aorsi
+	Medes
+	115 83 166
+	tarim
+	5
+	5
+	tocharian 100
+
+Kucha_R
+	legion: Parthica
+	Kucha
+	kucha
+	Medes
+	156 147 25
+	tarim
+	5
+	5
+	tocharian 100
+
+Kumo_R
+	legion: Parthica
+	Kumo
+	kucha
+	Medes
+	40 79 235
+	tarim
+	5
+	4
+	tocharian 100
+
+Luntai_R
+	legion: Parthica
+	Luntai
+	kucha
+	Medes
+	131 103 222
+	tarim
+	5
+	3
+	tocharian 100
+
+Miran_R
+	legion: Parthica
+	Miran
+	aorsi
+	Medes
+	23 132 123
+	tarim
+	5
+	4
+	tocharian 100
+
+Niya_R
+	legion: Parthica
+	Niya
+	aorsi
+	Medes
+	207 158 54
+	tarim
+	5
+	4
+	tocharian 100
+
+Palliana_R
+	legion: Parthica
+	Palliana
+	kucha
+	Medes
+	140 50 50
+	tarim
+	5
+	4
+	tocharian 100
+
+Pishan_R
+	legion: Parthica
+	Pishan
+	kashgar
+	Medes
+	168 228 160
+	tarim
+	5
+	3
+	tocharian 100
+
+Qarqan_R
+	legion: Parthica
+	Qarqan
+	aorsi
+	Medes
+	30 244 72
+	tarim
+	5
+	4
+	tocharian 100
+
+Suoju_R
+	legion: Parthica
+	Suoju
+	kashgar
+	Medes
+	188 121 18
+	tarim
+	5
+	3
+	tocharian 100
+
+Tashkurghan_R
+	legion: Parthica
+	Tashkurghan
+	kashgar
+	Medes
+	40 98 46
+	tarim
+	5
+	5
+	tocharian 100
+
+Tumxuk_R
+	legion: Parthica
+	Tumxuk
+	kashgar
+	Medes
+	25 194 40
+	tarim
+	5
+	4
+	tocharian 100
+
+Ush_R
+	legion: Parthica
+	Ush
+	kucha
+	Medes
+	104 54 131
+	tarim
+	5
+	3
+	tocharian 100
+
+Weili_R
+	legion: Parthica
+	Weili
+	kucha
+	Medes
+	156 221 155
+	tarim
+	5
+	3
+	tocharian 100
+
+Wensu_R
+	legion: Parthica
+	Wensu
+	kucha
+	Medes
+	50 113 57
+	tarim
+	5
+	3
+	tocharian 100
+
+Yarkand_R
+	legion: Parthica
+	Yarkand
+	kashgar
+	Medes
+	40 45 107
+	tarim
+	5
+	4
+	tocharian 100
+
+Yuni_R
+	legion: Parthica
+	Yuni
+	aorsi
+	Medes
+	189 86 26
+	tarim
+	5
+	3
+	tocharian 100
+
+
+	
+; *********************************************************
+; *********************************************************
+; . Gansu, Qaidam & Turfan
+
+Astana_R
+	legion: Parthica
+	Astana
+	saka
+	Medes
+	139 190 15
+	tarim
+	5
+	4
+	tocharian 100
+
+Cumuda_R
+	legion: Parthica
+	Cumuda
+	saka
+	Medes
+	111 57 60
+	tarim
+	5
+	5
+	tocharian 100
+
+Dunhuang_R
+	legion: Parthica
+	Dunhuang
+	aorsi
+	Medes
+	58 170 96
+	tarim
+	5
+	6
+	tocharian 100
+
+TuyuhunCamp_R
+	legion: Parthica
+	TuyuhunCamp
+	agathyrsi
+	Medes
+	99 32 119
+	tarim
+	5
+	4
+	tocharian 100
+
+WusunCamp_R
+	legion: Parthica
+	WusunCamp
+	aorsi
+	Medes
+	208 175 45
+	tarim
+	5
+	3
+	tocharian 100
+
+Yarkhoto_R
+	legion: Parthica
+	Yarkhoto
+	saka
+	Medes
+	162 42 181
+	tarim
+	5
+	5
+	tocharian 100
+
+YuezhiCamp_R
+	legion: Parthica
+	YuezhiCamp
+	aorsi
+	Medes
+	216 168 121
+	tarim
+	5
+	3
+	tocharian 100
+
+Yumen_R
+	legion: Parthica
+	Yumen
+	aorsi
+	Medes
+	103 122 218
+	tarim
+	5
+	5
+	tocharian 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Altai
+
+AshinaCamp_R
+	legion: Scythica
+	AshinaCamp
+	huns
+	Alans
+	198 68 202
+	altai
+	5
+	3
+	hunnic 100
+
+ChubeiXiongnuCamp_R
+	legion: Scythica
+	ChubeiXiongnuCamp
+	huns
+	Alans
+	68 43 218
+	altai
+	5
+	3
+	hunnic 100
+
+Damna_R
+	legion: Scythica
+	Damna
+	saka
+	Alans
+	227 150 81
+	altai
+	5
+	3
+	hunnic 100
+
+DinglingCamp_R
+	legion: Scythica
+	DinglingCamp
+	scythia
+	Alans
+	105 87 59
+	altai
+	5
+	3
+	hunnic 100
+
+GekunCamp_R
+	legion: Scythica
+	GekunCamp
+	huns
+	Alans
+	213 69 213
+	altai
+	5
+	3
+	hunnic 100
+
+Guqung_R
+	legion: Scythica
+	Guqung
+	saka
+	Medes
+	74 122 71
+	altai
+	5
+	5
+	hunnic 100
+
+HujieCamp_R
+	legion: Scythica
+	HujieCamp
+	huns
+	Medes
+	103 159 105
+	altai
+	5
+	4
+	hunnic 100
+
+HunyuCamp_R
+	legion: Scythica
+	HunyuCamp
+	huns
+	Alans
+	68 180 180
+	altai
+	5
+	3
+	hunnic 100
+
+Jumi_R
+	legion: Scythica
+	Jumi
+	saka
+	Medes
+	105 10 95
+	altai
+	5
+	4
+	hunnic 100
+
+JushiCamp_R
+	legion: Scythica
+	JushiCamp
+	huns
+	Alans
+	30 213 27
+	altai
+	5
+	3
+	hunnic 100
+
+LanXiongnuCamp_R
+	legion: Scythica
+	LanXiongnuCamp
+	huns
+	Alans
+	58 161 102
+	altai
+	5
+	3
+	hunnic 100
+
+Pulei_R
+	legion: Scythica
+	Pulei
+	saka
+	Medes
+	235 207 52
+	altai
+	5
+	3
+	hunnic 100
+
+QusheCamp_R
+	legion: Scythica
+	QusheCamp
+	huns
+	Alans
+	91 51 96
+	altai
+	5
+	3
+	hunnic 100
+
+SamoyedCamp_R
+	legion: Scythica
+	SamoyedCamp
+	huns
+	Alans
+	30 124 27
+	altai
+	5
+	3
+	hunnic 100
+
+TegregCamp_R
+	legion: Scythica
+	TegregCamp
+	huns
+	Alans
+	198 217 66
+	altai
+	5
+	3
+	hunnic 100
+
+Urabo_R
+	legion: Scythica
+	Urabo
+	saka
+	Medes
+	184 90 18
+	altai
+	5
+	5
+	hunnic 100
+
+Usu_R
+	legion: Scythica
+	Usu
+	saka
+	Medes
+	39 95 104
+	altai
+	5
+	5
+	hunnic 100
+
+XinliCamp_R
+	legion: Scythica
+	XinliCamp
+	huns
+	Alans
+	106 117 142
+	altai
+	5
+	4
+	hunnic 100
+
+XubuXiongnuCamp_R
+	legion: Scythica
+	XubuXiongnuCamp
+	huns
+	Alans
+	119 62 15
+	altai
+	5
+	3
+	hunnic 100
+
+	
+
+; *********************************************************
+; *********************************************************
+; . Himalayas
+
+Aiaka_R
+	legion: Parthica
+	Aiaka
+	agathyrsi
+	Medes
+	27 70 230
+	tibet
+	5
+	4
+	tibetan 100
+
+Askardu_R
+	legion: Parthica
+	Askardu
+	agathyrsi
+	Medes
+	191 145 193
+	tibet
+	5
+	3
+	tibetan 100
+
+ChangtangCamp_R
+	legion: Parthica
+	ChangtangCamp
+	agathyrsi
+	Medes
+	37 139 43
+	tibet
+	5
+	2
+	tibetan 100
+
+Gandharva_R
+	legion: Parthica
+	Gandharva
+	agathyrsi
+	Medes
+	201 221 53
+	tibet
+	5
+	2
+	tibetan 100
+
+Gyantse_R
+	legion: Parthica
+	Gyantse
+	agathyrsi
+	Medes
+	210 105 34
+	tibet
+	5
+	5
+	tibetan 100
+
+Jumla_R
+	legion: Parthica
+	Jumla
+	india
+	Medes
+	160 38 63
+	tibet
+	5
+	5
+	tibetan 100
+
+KadamCamp_R
+	legion: Parthica
+	KadamCamp
+	agathyrsi
+	Medes
+	28 162 174
+	tibet
+	5
+	3
+	tibetan 100
+
+KagyuCamp_R
+	legion: Parthica
+	KagyuCamp
+	agathyrsi
+	Medes
+	213 86 213
+	tibet
+	5
+	3
+	tibetan 100
+
+Kimpurusha_R
+	legion: Parthica
+	Kimpurusha
+	agathyrsi
+	Medes
+	19 226 19
+	tibet
+	5
+	4
+	tibetan 100
+
+Lhasa_R
+	legion: Parthica
+	Lhasa
+	agathyrsi
+	Medes
+	201 195 94
+	tibet
+	5
+	5
+	tibetan 100
+
+Loha_R
+	legion: Parthica
+	Loha
+	agathyrsi
+	Medes
+	132 28 54
+	tibet
+	5
+	3
+	tibetan 100
+
+Paro_R
+	legion: Parthica
+	Paro
+	agathyrsi
+	Medes
+	209 186 107
+	tibet
+	5
+	5
+	tibetan 100
+
+Rutog_R
+	legion: Parthica
+	Rutog
+	agathyrsi
+	Medes
+	105 27 137
+	tibet
+	5
+	4
+	tibetan 100
+
+Shigatse_R
+	legion: Parthica
+	Shigatse
+	agathyrsi
+	Medes
+	52 154 64
+	tibet
+	5
+	5
+	tibetan 100
+
+Skardu_R
+	legion: Parthica
+	Skardu
+	india
+	Medes
+	24 105 187
+	tibet
+	5
+	3
+	tibetan 100
+
+Srinagara_R
+	legion: Parthica
+	Srinagara
+	india
+	Medes
+	206 207 110
+	tibet
+	5
+	6
+	tibetan 100
+
+Tsetang_R
+	legion: Parthica
+	Tsetang
+	agathyrsi
+	Medes
+	77 183 193
+	tibet
+	5
+	5
+	tibetan 100
+
+	
+	
+; *********************************************************
+; *********************************************************
+; . Indus
+
+AlexandriaIndus_R
+	legion: Parthica
+	AlexandriaIndus
+	india
+	Medes
+	144 84 66
+	indus, greek_colony
+	5
+	9
+	greek 20 indian 80
+
+Amaktis_R
+	legion: Parthica
+	Amaktis
+	india
+	Medes
+	65 65 218
+	indus
+	5
+	6
+	indian 100
+
+Andrapana_R
+	legion: Parthica
+	Andrapana
+	india
+	Medes
+	215 30 55
+	indus
+	5
+	5
+	indian 100
+
+Arigaeum_R
+	legion: Parthica
+	Arigaeum
+	india
+	Medes
+	136 55 181
+	indus
+	5
+	3
+	indian 100
+
+Aristobathara_R
+	legion: Parthica
+	Aristobathara
+	india
+	Medes
+	188 187 10
+	indus
+	5
+	5
+	indian 100
+
+Aristobathra_R
+	legion: Parthica
+	Aristobathra
+	india
+	Medes
+	165 46 49
+	indus
+	5
+	10
+	indian 100
+
+Asigramma_R
+	legion: Parthica
+	Asigramma
+	india
+	Medes
+	45 110 47
+	indus
+	5
+	6
+	indian 100
+
+Azika_R
+	legion: Parthica
+	Azika
+	india
+	Medes
+	111 155 118
+	indus
+	5
+	6
+	indian 100
+
+Barbaricum_R
+	legion: Parthica
+	Barbaricum
+	india
+	Medes
+	79 52 108
+	indus
+	5
+	5
+	indian 100
+
+Bauterna_R
+	legion: Parthica
+	Bauterna
+	india
+	Medes
+	164 49 212
+	indus
+	5
+	4
+	indian 100
+
+Bucephala_R
+	legion: Parthica
+	Bucephala
+	india
+	Medes
+	196 52 235
+	indus, greek_colony
+	5
+	8
+	greek 20 indian 80
+
+Cottabara_R
+	legion: Parthica
+	Cottabara
+	india
+	Medes
+	129 243 99
+	indus
+	5
+	5
+	indian 100
+
+Daidala_R
+	legion: Parthica
+	Daidala
+	india
+	Medes
+	141 37 156
+	indus
+	5
+	6
+	indian 100
+
+Dyrta_R
+	legion: Parthica
+	Dyrta
+	india
+	Medes
+	58 186 54
+	indus
+	5
+	5
+	indian 100
+
+Kamigara_R
+	legion: Parthica
+	Kamigara
+	india
+	Medes
+	136 110 143
+	indus
+	5
+	8
+	indian 100
+
+Kurupura_R
+	legion: Parthica
+	Kurupura
+	india
+	Medes
+	152 153 41
+	indus
+	5
+	5
+	indian 100
+
+Labokla_R
+	legion: Parthica
+	Labokla
+	india
+	Medes
+	167 23 29
+	indus
+	5
+	8
+	indian 100
+
+Minnagara_R
+	legion: Parthica
+	Minnagara
+	india
+	Medes
+	83 97 166
+	indus
+	5
+	9
+	indian 100
+
+Mulasthana_R
+	legion: Parthica
+	Mulasthana
+	india
+	Medes
+	63 190 152
+	indus
+	5
+	7
+	indian 100
+
+Naagramma_R
+	legion: Parthica
+	Naagramma
+	india
+	Medes
+	255 252 108
+	indus
+	5
+	6
+	indian 100
+
+Nagahara_R
+	legion: Parthica
+	Nagahara
+	india
+	Medes
+	230 223 125
+	indus
+	5
+	6
+	indian 100
+
+Naustathmos_R
+	legion: Parthica
+	Naustathmos
+	india
+	Medes
+	135 174 109
+	indus
+	5
+	6
+	indian 100
+
+NicaeaIndus_R
+	legion: Parthica
+	NicaeaIndus
+	india
+	Medes
+	90 29 101
+	indus, greek_colony
+	5
+	7
+	greek 40 indian 60
+
+Panassa_R
+	legion: Parthica
+	Panassa
+	india
+	Medes
+	41 52 187
+	indus
+	5
+	5
+	indian 100
+
+Patala_R
+	legion: Parthica
+	Patala
+	india
+	Medes
+	193 116 35
+	indus
+	5
+	11
+	indian 100
+
+Prasthala_R
+	legion: Parthica
+	Prasthala
+	india
+	Medes
+	109 132 183
+	indus
+	5
+	7
+	indian 100
+
+Purushapura_R
+	legion: Parthica
+	Purushapura
+	india
+	Medes
+	50 108 199
+	indus
+	5
+	8
+	indian 100
+
+Pushkalavati_R
+	legion: Parthica
+	Pushkalavati
+	india
+	Medes
+	228 159 51
+	indus
+	5
+	9
+	indian 100
+
+Rajapura_R
+	legion: Parthica
+	Rajapura
+	india
+	Medes
+	62 178 64
+	indus
+	5
+	5
+	indian 100
+
+Sabana_R
+	legion: Parthica
+	Sabana
+	india
+	Medes
+	150 69 52
+	indus
+	5
+	4
+	indian 100
+
+Sagala_R
+	legion: Parthica
+	Sagala
+	india
+	Medes
+	191 126 130
+	indus
+	5
+	11
+	indian 100
+
+Shivipura_R
+	legion: Parthica
+	Shivipura
+	india
+	Medes
+	208 135 62
+	indus
+	5
+	6
+	indian 100
+
+Sibipura_R
+	legion: Parthica
+	Sibipura
+	india
+	Medes
+	69 142 35
+	indus
+	5
+	7
+	indian 100
+
+Sindomana_R
+	legion: Parthica
+	Sindomana
+	india
+	Medes
+	166 162 78
+	indus
+	5
+	8
+	indian 100
+
+Singhapura_R
+	legion: Parthica
+	Singhapura
+	india
+	Medes
+	94 223 108
+	indus
+	5
+	2
+	indian 100
+
+Taxila_R
+	legion: Parthica
+	Taxila
+	india
+	Medes
+	53 116 98
+	indus
+	5
+	12
+	indian 100
+
+Tiausa_R
+	legion: Parthica
+	Tiausa
+	india
+	Medes
+	161 169 96
+	indus
+	5
+	6
+	indian 100
+
+Trigarta_R
+	legion: Parthica
+	Trigarta
+	india
+	Medes
+	106 15 217
+	indus
+	5
+	5
+	indian 100
+
+Tulamba_R
+	legion: Parthica
+	Tulamba
+	india
+	Medes
+	203 201 105
+	indus
+	5
+	8
+	indian 100
+
+Uragapura_R
+	legion: Parthica
+	Uragapura
+	india
+	Medes
+	202 46 46
+	indus
+	5
+	5
+	indian 100
+
+Varnu_R
+	legion: Parthica
+	Varnu
+	india
+	Medes
+	62 22 146
+	indus
+	5
+	5
+	indian 100
+
+Xoana_R
+	legion: Parthica
+	Xoana
+	india
+	Medes
+	46 75 58
+	indus
+	5
+	6
+	indian 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Bengal
+
+Pragjyotishpura_R
+	legion: Parthica
+	Pragjyotishpura
+	india
+	Indians
+	40 107 50
+	india
+	5
+	7
+	indian 100
+
+Durjaya_R
+	legion: Parthica
+	Durjaya
+	india
+	Indians
+	203 74 71
+	india
+	5
+	6
+	indian 100
+
+Monyul_R
+	legion: Parthica
+	Monyul
+	india
+	Indians
+	53 53 99
+	india
+	5
+	6
+	indian 100
+
+Salariga_R
+	legion: Parthica
+	Salariga
+	india
+	Indians
+	195 214 141
+	india
+	5
+	6
+	indian 100
+
+Pundranagara_R
+	legion: Parthica
+	Pundranagara
+	india
+	Indians
+	36 43 246
+	india
+	5
+	7
+	indian 100
+
+Kelydna_R
+	legion: Parthica
+	Kelydna
+	india
+	Indians
+	228 221 46
+	india
+	5
+	6
+	indian 100
+
+Aganagara_R
+	legion: Parthica
+	Aganagara
+	india
+	Indians
+	68 119 66
+	india
+	5
+	6
+	indian 100
+
+Pertalis_R
+	legion: Parthica
+	Pertalis
+	india
+	Indians
+	132 84 186
+	india
+	5
+	6
+	indian 100
+
+Tamralipta_R
+	legion: Parthica
+	Tamralipta
+	india
+	Indians
+	193 69 124
+	india
+	5
+	8
+	indian 100
+
+Haritakivan_R
+	legion: Parthica
+	Haritakivan
+	india
+	Indians
+	233 219 130
+	india
+	5
+	5
+	indian 100
+
+Bamanghati_R
+	legion: Parthica
+	Bamanghati
+	kalinga
+	Indians
+	149 205 214
+	india
+	5
+	5
+	indian 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Ganges
+
+Sthanishvara_R
+	legion: Parthica
+	Sthanishvara
+	india
+	Indians
+	35 117 34
+	india
+	5
+	6
+	indian 100
+
+Dronanagari_R
+	legion: Parthica
+	Dronanagari
+	india
+	Indians
+	193 175 18
+	india
+	5
+	5
+	indian 100
+
+Khokhrakot_R
+	legion: Parthica
+	Khokhrakot
+	india
+	Indians
+	227 136 59
+	india
+	5
+	6
+	indian 100
+
+Hastinapura_R
+	legion: Parthica
+	Hastinapura
+	india
+	Indians
+	164 30 32
+	india
+	5
+	7
+	indian 100
+
+Mathura_R
+	legion: Parthica
+	Mathura
+	india
+	Indians
+	33 127 228
+	india
+	5
+	9
+	indian 100
+
+Ahichchhatra_R
+	legion: Parthica
+	Ahichchhatra
+	india
+	Indians
+	63 224 107
+	india
+	5
+	8
+	indian 100
+
+Kanyakubja_R
+	legion: Parthica
+	Kanyakubja
+	india
+	Indians
+	82 21 160
+	india
+	5
+	8
+	indian 100
+
+Karvirpur_R
+	legion: Parthica
+	Karvirpur
+	india
+	Indians
+	91 143 176
+	india
+	5
+	6
+	indian 100
+
+Kaushambi_R
+	legion: Parthica
+	Kaushambi
+	india
+	Indians
+	164 88 30
+	india
+	5
+	7
+	indian 100
+
+Varanasi_R
+	legion: Parthica
+	Varanasi
+	india
+	Indians
+	188 133 191
+	india
+	5
+	8
+	indian 100
+
+Saketa_R
+	legion: Parthica
+	Saketa
+	india
+	Indians
+	229 217 105
+	india
+	5
+	9
+	indian 100
+
+Sravasti_R
+	legion: Parthica
+	Sravasti
+	india
+	Indians
+	106 92 33
+	india
+	5
+	7
+	indian 100
+
+Kapilavastu_R
+	legion: Parthica
+	Kapilavastu
+	india
+	Indians
+	128 230 140
+	india
+	5
+	6
+	indian 100
+
+Kushinara_R
+	legion: Parthica
+	Kushinara
+	india
+	Indians
+	113 19 158
+	india
+	5
+	7
+	indian 100
+
+Devanapatana_R
+	legion: Parthica
+	Devanapatana
+	india
+	Indians
+	82 28 111
+	india
+	5
+	7
+	indian 100
+
+Rajagriha_R
+	legion: Parthica
+	Rajagriha
+	india
+	Indians
+	60 49 124
+	india
+	5
+	10
+	indian 100
+
+Champa_R
+	legion: Parthica
+	Champa
+	india
+	Indians
+	165 80 29
+	india
+	5
+	9
+	indian 100
+
+Vaishali_R
+	legion: Parthica
+	Vaishali
+	india
+	Indians
+	197 198 25
+	india
+	5
+	8
+	indian 100
+
+Mithila_R
+	legion: Parthica
+	Mithila
+	india
+	Indians
+	147 48 42
+	india
+	5
+	7
+	indian 100
+
+Pataliputra_R
+	legion: Parthica
+	Pataliputra
+	india
+	Indians
+	163 143 186
+	india
+	5
+	13
+	indian 100
+
+Saharsa_R
+	legion: Parthica
+	Saharsa
+	india
+	Indians
+	103 210 111
+	india
+	5
+	7
+	indian 100
+
+Naimisha_R
+	legion: Parthica
+	Naimisha
+	india
+	Indians
+	221 112 112
+	india
+	5
+	6
+	indian 100
+
+	
+
+; *********************************************************
+; *********************************************************
+; . Satpura-Vindhaya
+
+Viratanagara_R
+	legion: Parthica
+	Viratanagara
+	india
+	Indians
+	152 190 152
+	india
+	5
+	6
+	indian 100
+
+Mrittikavati_R
+	legion: Parthica
+	Mrittikavati
+	india
+	Indians
+	204 94 223
+	india
+	5
+	7
+	indian 100
+
+Kantipura_R
+	legion: Parthica
+	Kantipura
+	india
+	Indians
+	133 14 26
+	india
+	5
+	7
+	indian 100
+
+Padmavati_R
+	legion: Parthica
+	Padmavati
+	india
+	Indians
+	99 218 151
+	india
+	5
+	8
+	indian 100
+
+Erakaksa_R
+	legion: Parthica
+	Erakaksa
+	india
+	Indians
+	25 73 220
+	india
+	5
+	6
+	indian 100
+
+Pulindanagara_R
+	legion: Parthica
+	Pulindanagara
+	india
+	Indians
+	12 224 22
+	india
+	5
+	6
+	indian 100
+
+Suktimati_R
+	legion: Parthica
+	Suktimati
+	india
+	Indians
+	63 64 126
+	india
+	5
+	7
+	indian 100
+
+Tripuri_R
+	legion: Parthica
+	Tripuri
+	india
+	Indians
+	165 99 230
+	india
+	5
+	7
+	indian 100
+
+Vidisha_R
+	legion: Parthica
+	Vidisha
+	india
+	Indians
+	131 33 46
+	india
+	5
+	8
+	indian 100
+
+Mahishmati_R
+	legion: Parthica
+	Mahishmati
+	india
+	Indians
+	64 121 43
+	india
+	5
+	9
+	indian 100
+
+Ujjain_R
+	legion: Parthica
+	Ujjain
+	india
+	Indians
+	91 151 154
+	india
+	5
+	11
+	indian 100
+
+Dashapura_R
+	legion: Parthica
+	Dashapura
+	india
+	Indians
+	217 198 49
+	india
+	5
+	6
+	indian 100
+
+Madhyamika_R
+	legion: Parthica
+	Madhyamika
+	india
+	Indians
+	36 103 0
+	india
+	5
+	7
+	indian 100
+
+Pushkara_R
+	legion: Parthica
+	Pushkara
+	india
+	Indians
+	38 68 130
+	india
+	5
+	5
+	indian 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Gurjaratra
+
+Kanthi_R
+	legion: Parthica
+	Kanthi
+	india
+	Indians
+	75 157 75
+	india
+	5
+	4
+	indian 100
+
+Vamanasthali_R
+	legion: Parthica
+	Vamanasthali
+	india
+	Indians
+	231 227 73
+	india
+	5
+	6
+	indian 100
+
+Vallabhipura_R
+	legion: Parthica
+	Vallabhipura
+	india
+	Indians
+	164 55 76
+	india
+	5
+	7
+	indian 100
+
+Saudrabatva_R
+	legion: Parthica
+	Saudrabatva
+	india
+	Indians
+	161 163 107
+	india
+	5
+	5
+	indian 100
+
+Ajabpura_R
+	legion: Parthica
+	Ajabpura
+	india
+	Indians
+	129 31 138
+	india
+	5
+	6
+	indian 100
+
+Bharukaccha_R
+	legion: Parthica
+	Bharukaccha
+	india
+	Indians
+	187 111 28
+	india
+	5
+	8
+	indian 100
+
+Sopara_R
+	legion: Parthica
+	Sopara
+	india
+	Indians
+	73 239 188
+	india
+	5
+	8
+	indian 100
+
+
+
+; *********************************************************
+; *********************************************************
+; . Malabar Coast
+
+Mandagara_R
+	legion: Parthica
+	Mandagara
+	india
+	Indians
+	144 106 151
+	india
+	5
+	6
+	indian 100
+
+Govapuri_R
+	legion: Parthica
+	Govapuri
+	india
+	Indians
+	255 234 107
+	india
+	5
+	7
+	indian 100
+
+Olochoira_R
+	legion: Parthica
+	Olochoira
+	chera
+	Indians
+	109 32 149
+	india
+	5
+	7
+	indian 100
+
+Ezhimala_R
+	legion: Parthica
+	Ezhimala
+	chera
+	Indians
+	40 179 169
+	india
+	5
+	6
+	indian 100
+
+Vanchi_R
+	legion: Parthica
+	Vanchi
+	chera
+	Indians
+	199 115 11
+	india
+	5
+	8
+	indian 100
+
+Kuzhumur_R
+	legion: Parthica
+	Kuzhumur
+	chera
+	Indians
+	54 51 180
+	india
+	5
+	7
+	indian 100
+
+
+; *********************************************************
+; *********************************************************
+; . Deccan
+
+Navashikh_R
+	legion: Parthica
+	Navashikh
+	india
+	Indians
+	105 47 100
+	india
+	5
+	5
+	indian 100
+
+Junnar_R
+	legion: Parthica
+	Junnar
+	india
+	Indians
+	197 22 63
+	india
+	5
+	6
+	indian 100
+
+Pratishthana_R
+	legion: Parthica
+	Pratishthana
+	india
+	Indians
+	30 60 159
+	india
+	5
+	10
+	indian 100
+
+Vatsagulma_R
+	legion: Parthica
+	Vatsagulma
+	india
+	Indians
+	166 226 70
+	india
+	5
+	7
+	indian 100
+
+Kundinapuri_R
+	legion: Parthica
+	Kundinapuri
+	india
+	Indians
+	80 77 206
+	india
+	5
+	8
+	indian 100
+
+Nandivardhana_R
+	legion: Parthica
+	Nandivardhana
+	india
+	Indians
+	35 171 60
+	india
+	5
+	6
+	indian 100
+
+Bilaspura_R
+	legion: Parthica
+	Bilaspura
+	kalinga
+	Indians
+	44 49 213
+	india
+	5
+	5
+	indian 100
+
+Sripura_R
+	legion: Parthica
+	Sripura
+	kalinga
+	Indians
+	142 41 35
+	india
+	5
+	6
+	indian 100
+
+Asurgarh_R
+	legion: Parthica
+	Asurgarh
+	kalinga
+	Indians
+	153 140 7
+	india
+	5
+	5
+	indian 100
+
+Samapa_R
+	legion: Parthica
+	Samapa
+	kalinga
+	Indians
+	87 98 238
+	india
+	5
+	5
+	indian 100
+
+Pauni_R
+	legion: Parthica
+	Pauni
+	kalinga
+	Indians
+	158 65 122
+	india
+	5
+	8
+	indian 100
+
+Sabbinadu_R
+	legion: Parthica
+	Sabbinadu
+	india
+	Indians
+	30 105 52
+	india
+	5
+	6
+	indian 100
+
+Podanapura_R
+	legion: Parthica
+	Podanapura
+	india
+	Indians
+	140 84 45
+	india
+	5
+	6
+	indian 100
+
+Kondapur_R
+	legion: Parthica
+	Kondapur
+	india
+	Indians
+	47 138 206
+	india
+	5
+	6
+	indian 100
+
+Tagara_R
+	legion: Parthica
+	Tagara
+	india
+	Indians
+	255 151 255
+	india
+	5
+	8
+	indian 100
+
+Hippokoura_R
+	legion: Parthica
+	Hippokoura
+	india
+	Indians
+	145 123 57
+	india
+	5
+	6
+	indian 100
+
+Raichore_R
+	legion: Parthica
+	Raichore
+	india
+	Indians
+	97 109 138
+	india
+	5
+	7
+	indian 100
+
+Suvarnagiri_R
+	legion: Parthica
+	Suvarnagiri
+	india
+	Indians
+	26 91 36
+	india
+	5
+	6
+	indian 100
+
+Yerragudi_R
+	legion: Parthica
+	Yerragudi
+	india
+	Indians
+	116 26 65
+	india
+	5
+	7
+	indian 100
+
+Uccashringi_R
+	legion: Parthica
+	Uccashringi
+	india
+	Indians
+	126 216 138
+	india
+	5
+	5
+	indian 100
+
+Banavasi_R
+	legion: Parthica
+	Banavasi
+	india
+	Indians
+	235 60 67
+	india
+	5
+	6
+	indian 100
+
+Tagadur_R
+	legion: Parthica
+	Tagadur
+	athiyaman
+	Tamils
+	144 129 88
+	india
+	5
+	6
+	indian 100
+
+Mahishapura_R
+	legion: Parthica
+	Mahishapura
+	athiyaman
+	Indians
+	153 231 190
+	india
+	5
+	6
+	indian 100
+
+Kodumanam_R
+	legion: Parthica
+	Kodumanam
+	chera
+	Indians
+	38 109 42
+	india
+	5
+	7
+	indian 100
+
+
+; *********************************************************
+; *********************************************************
+; . Coromandel Coast
+
+Tosali_R
+	legion: Parthica
+	Tosali
+	kalinga
+	Indians
+	180 114 34
+	india
+	5
+	10
+	indian 100
+
+Jaugada_R
+	legion: Parthica
+	Jaugada
+	kalinga
+	Indians
+	229 41 89
+	india
+	5
+	7
+	indian 100
+
+Dantapura_R
+	legion: Parthica
+	Dantapura
+	kalinga
+	Indians
+	26 91 56
+	india
+	5
+	7
+	indian 100
+
+Pishtapura_R
+	legion: Parthica
+	Pishtapura
+	kalinga
+	Indians
+	139 139 84
+	india
+	5
+	8
+	indian 100
+
+Amaravathi_R
+	legion: Parthica
+	Amaravathi
+	india
+	Indians
+	32 42 127
+	india
+	5
+	10
+	indian 100
+
+Vengipuram_R
+	legion: Parthica
+	Vengipuram
+	india
+	Indians
+	143 113 166
+	india
+	5
+	8
+	indian 100
+
+Ongole_R
+	legion: Parthica
+	Ongole
+	india
+	Indians
+	120 104 59
+	india
+	5
+	6
+	indian 100
+
+Melange_R
+	legion: Parthica
+	Melange
+	india
+	Indians
+	67 136 32
+	india
+	5
+	6
+	indian 100
+
+Kanchi_R
+	legion: Parthica
+	Kanchi
+	chola
+	Indians
+	131 93 156
+	india
+	5
+	7
+	indian 100
+
+Uraiyur_R
+	legion: Parthica
+	Uraiyur
+	chola
+	Indians
+	189 51 21
+	india
+	5
+	9
+	indian 100
+
+Thiruvarur_R
+	legion: Parthica
+	Thiruvarur
+	chola
+	Indians
+	193 29 207
+	india
+	5
+	7
+	indian 100
+
+Madurai_R
+	legion: Parthica
+	Madurai
+	pandya
+	Indians
+	246 250 138
+	india
+	5
+	10
+	indian 100
+
+Aykudi_R
+	legion: Parthica
+	Aykudi
+	ay
+	Indians
+	200 123 36
+	india
+	5
+	6
+	indian 100
+
+
+; *********************************************************
+; *********************************************************
+; 11. Simhala
+
+Yalpanapattinam_R
+	legion: Parthica
+	Yalpanapattinam
+	anuradhapura
+	Sinhalas
+	152 78 158
+	sinhala
+	5
+	5
+	indian 100
+
+Anuradhapura_R
+	legion: Parthica
+	Anuradhapura
+	anuradhapura
+	Sinhalas
+	165 41 46
+	sinhala
+	5
+	8
+	indian 100
+
+Panduwasnuwara_R
+	legion: Parthica
+	Panduwasnuwara
+	anuradhapura
+	Sinhalas
+	97 216 99
+	sinhala
+	5
+	7
+	indian 100
+
+Dighavapi_R
+	legion: Parthica
+	Dighavapi
+	anuradhapura
+	Sinhalas
+	47 52 113
+	sinhala
+	5
+	6
+	indian 100
+
+Magampura_R
+	legion: Parthica
+	Magampura
+	anuradhapura
+	Sinhalas
+	176 167 39
+	sinhala
+	5
+	5
+	indian 100
+
+Polonnaruwa_R
+	legion: Parthica
+	Polonnaruwa
+	anuradhapura
+	Sinhalas
+	201 197 153
+	sinhala
+	5
+	6
+	indian 100
+
+Dedigama_R
+	legion: Parthica
+	Dedigama
+	anuradhapura
+	Sinhalas
+	197 60 190
+	sinhala
+	5
+	6
+	indian 100
+
+Gonakamaka_R
+	legion: Parthica
+	Gonakamaka
+	anuradhapura
+	Sinhalas
+	171 112 27
+	sinhala
+	5
+	6
+	indian 100
+
+Kory_R
+	legion: Parthica
+	Kory
+	anuradhapura
+	Sinhalas
+	144 220 143
+	sinhala
+	5
+	2
+	indian 100
+
+Odoka_R
+	legion: Parthica
+	Odoka
+	anuradhapura
+	Sinhalas
+	167 35 46
+	sinhala
+	5
+	6
+	indian 100
+
+Moduttu_R
+	legion: Parthica
+	Moduttu
+	anuradhapura
+	Sinhalas
+	38 155 50
+	sinhala
+	5
+	6
+	indian 100
+
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; *********************************************************
+; *********************************************************
+; . Other Indian Regions
+
+Arkaadu_R
+	legion: Parthica
+	Arkaadu
+	chola
+	Indians
+	22 35 100
+	india
+	5
+	5
+	indian 100
+
+Indraprastha_R
+	legion: Parthica
+	Indraprastha
+	india
+	Indians
+	36 29 109
+	india
+	5
+	7
+	indian 100
+
+Kalligeris_R
+	legion: Parthica
+	Kalligeris
+	athiyaman
+	Indians
+	56 36 162
+	india
+	5
+	5
+	indian 100
+
+Korkai_R
+	legion: Parthica
+	Korkai
+	pandya
+	Indians
+	27 188 127
+	india
+	5
+	6
+	indian 100
+
+Kumari_R
+	legion: Parthica
+	Kumari
+	ay
+	Indians
+	116 71 131
+	india
+	5
+	4
+	indian 100
+
+Toana_R
+	legion: Parthica
+	Toana
+	india
+	Indians
+	213 153 62
+	india
+	5
+	7
+	indian 100
+
+Podouke_R
+	legion: Parthica
+	Podouke
+	chola
+	Indians
+	191 177 49
+	india
+	5
+	7
+	indian 100
+
+Sisupalgarh_R
+	legion: Parthica
+	Sisupalgarh
+	kalinga
+	Indians
+	193 133 42
+	india
+	5
+	6
+	indian 100
+
+Narmadapura_R
+	legion: Parthica
+	Narmadapura
+	india
+	Indians
+	79 42 105
+	india
+	5
+	7
+	indian 100
+
+Sanakanikapura_R
+	legion: Parthica
+	Sanakanikapura
+	india
+	Indians
+	91 41 182
+	india
+	5
+	6
+	indian 100
+
+Savarapura_R
+	legion: Parthica
+	Savarapura
+	kalinga
+	Indians
+	182 202 21
+	india
+	5
+	6
+	indian 100
+
+Prakasha_R
+	legion: Parthica
+	Prakasha
+	india
+	Indians
+	27 52 222
+	india
+	5
+	7
+	indian 100
+
+Dvaravati_R
+	legion: Parthica
+	Dvaravati
+	india
+	Indians
+	28 132 41
+	india
+	5
+	6
+	indian 100
+
+Vindhyatavi_R
+	legion: Parthica
+	Vindhyatavi
+	kalinga
+	Indians
+	117 59 147
+	india
+	5
+	6
+	indian 100
+
+Vijayapuri_R
+	legion: Parthica
+	Vijayapuri
+	india
+	Indians
+	193 190 39
+	india
+	5
+	7
+	indian 100
+
+Davakapura_R
+	legion: Parthica
+	Davakapura
+	india
+	Indians
+	81 183 57
+	india
+	5
+	6
+	indian 100
+
+Bharhut_R
+	legion: Parthica
+	Bharhut
+	india
+	Indians
+	219 219 76
+	india
+	5
+	5
+	indian 100
+
+Nivas_R
+	legion: Parthica
+	Nivas
+	india
+	Indians
+	190 198 81
+	india
+	5
+	6
+	indian 100
+
+Nelcynda_R
+	legion: Parthica
+	Nelcynda
+	ay
+	Indians
+	96 214 94
+	india
+	5
+	6
+	indian 100
+
+Tondi_R
+	legion: Parthica
+	Tondi
+	chera
+	Indians
+	210 59 107
+	india
+	5
+	5
+	indian 100
+
+Karur_R
+	legion: Parthica
+	Karur
+	chera
+	Indians
+	171 165 86
+	india
+	5
+	6
+	indian 100
+
+Sannathi_R
+	legion: Parthica
+	Sannathi
+	india
+	Indians
+	122 204 83
+	india
+	5
+	6	
+	indian 100
+
+DevPatan_R
+	legion: Parthica
+	DevPatan
+	india
+	Indians
+	50 70 148
+	india
+	5
+	6
+	indian 100
+
+MinnagaraNammadus_R
+	legion: Parthica
+	MinnagaraNammadus
+	india
+	Indians
+	71 222 27
+	india
+	5
+	10
+	indian 100
+
+Tyrannosboas_R
+	legion: Parthica
+	Tyrannosboas
+	india
+	Indians
+	129 204 133
+	india
+	5
+	5
+	indian 100
+
+Karnasuvarna_R
+	legion: Parthica
+	Karnasuvarna
+	india
+	Indians
+	236 148 38
+	india
+	5
+	6
+	indian 100
+
+Sinhapura_R
+	legion: Parthica
+	Sinhapura
+	kalinga
+	Indians
+	50 203 64
+	india
+	5
+	7
+	indian 100
+
+Champapura_R
+	legion: Parthica
+	Champapura
+	kalinga
+	Indians
+	212 112 29
+	india
+	5
+	5
+	indian 100
+
+Sahastrarama_R
+	legion: Parthica
+	Sahastrarama
+	india
+	Indians
+	145 132 57
+	india
+	5
+	7
+	indian 100
+
+Kampilya_R
+	legion: Parthica
+	Kampilya
+	india
+	Indians
+	170 178 32
+	india
+	5
+	6
+	indian 100
+
+Kusapura_R
+	legion: Parthica
+	Kusapura
+	india
+	Indians
+	190 22 17
+	india
+	5
+	6
+	indian 100
+
+Mau_R
+	legion: Parthica
+	Mau
+	india
+	Indians
+	120 171 125
+	india
+	5
+	6
+	indian 100
+
+Rampurva_R
+	legion: Parthica
+	Rampurva
+	india
+	Indians
+	34 138 36
+	india
+	5
+	6
+	indian 100
+
+Lakshmanapura_R
+	legion: Parthica
+	Lakshmanapura
+	india
+	Indians
+	127 148 227
+	india
+	5
+	6
+	indian 100
+
+Deogarh_R
+	legion: Parthica
+	Deogarh
+	india
+	Indians
+	39 104 42
+	india
+	5
+	6	
+	indian 100
+
+Badnurpura_R
+	legion: Parthica
+	Badnurpura
+	india
+	Indians
+	173 81 181
+	india
+	5
+	6
+	indian 100
+
+Narsinghpura_R
+	legion: Parthica
+	Narsinghpura
+	india
+	Indians
+	174 166 40
+	india
+	5
+	6
+	indian 100
+
+Ropar_R
+	legion: Parthica
+	Ropar
+	india
+	Indians
+	191 113 190
+	india
+	5
+	6
+	indian 100
+
+Indupur_R
+	legion: Parthica
+	Indupur
+	kalinga
+	Indians
+	226 237 135
+	india
+	5
+	6
+	indian 100
+
+Chutia_R
+	legion: Parthica
+	Chutia
+	kalinga
+	Indians
+	175 42 186
+	india
+	5
+	4
+	indian 100
+
+Sippara_R
+	legion: Parthica
+	Sippara
+	kalinga
+	Indians
+	223 203 77
+	india
+	5
+	6
+	indian 100
+
+Sidhapura_R
+	legion: Parthica
+	Sidhapura
+	athiyaman
+	Indians
+	192 152 211
+	india
+	5
+	7
+	indian 100
+
+Athiralanagara_R
+	legion: Parthica
+	Athiralanagara
+	athiyaman
+	Indians
+	225 228 97
+	india
+	5
+	5
+	indian 100
+
+Souannagoura_R
+	legion: Parthica
+	Souannagoura
+	india
+	Indians
+	176 56 180
+	india
+	5
+	6
+	indian 100
+
+Korounkala_R
+	legion: Parthica
+	Korounkala
+	india
+	Indians
+	94 206 112
+	india
+	5
+	6
+	indian 100
+
+Tiagoura_R
+	legion: Parthica
+	Tiagoura
+	india
+	Indians
+	216 28 28
+	india
+	5
+	6
+	indian 100
+
+Pasikana_R
+	legion: Parthica
+	Pasikana
+	india
+	Indians
+	54 166 37
+	india
+	5
+	5
+	indian 100
+
+Dharphal_R
+	legion: Parthica
+	Dharphal
+	india
+	Indians
+	50 148 55
+	india
+	5
+	5
+	indian 100
+
+Katriyal_R
+	legion: Parthica
+	Katriyal
+	india
+	Indians
+	23 238 197
+	india
+	5
+	5
+	indian 100
+
+Kerauge_R
+	legion: Parthica
+	Kerauge
+	india
+	Indians
+	209 116 117
+	india
+	5
+	5
+	indian 100
+
+Pikendaka_R
+	legion: Parthica
+	Pikendaka
+	athiyaman
+	Indians
+	17 164 47
+	india
+	5
+	5
+	indian 100
+
+Pentapolis_R
+	legion: Parthica
+	Pentapolis
+	india
+	Indians
+	195 58 88
+	india
+	5
+	6
+	indian 100
+
+Alosygni_R
+	legion: Parthica
+	Alosygni
+	kalinga
+	Indians
+	231 191 22
+	india
+	5
+	6
+	indian 100
+
+Kottobara_R
+	legion: Parthica
+	Kottobara
+	kalinga
+	Indians
+	219 227 93
+	india
+	5
+	6
+	indian 100
+
+Peperine_R
+	legion: Parthica
+	Peperine
+	india
+	Indians
+	156 104 179
+	india
+	5
+	6
+	indian 100
+
+Bhokardan_R
+	legion: Parthica
+	Bhokardan
+	india
+	Indians
+	176 81 205
+	india
+	5
+	5
+	indian 100
+
+Kantakasola_R
+	legion: Parthica
+	Kantakasola
+	india
+	Indians
+	31 116 34
+	india
+	5
+	5
+	indian 100
+
+Thorax_R
+	legion: Parthica
+	Thorax
+	india
+	Indians
+	213 215 20
+	india
+	5
+	5
+	indian 100
+
+Nousaripa_R
+	legion: Parthica
+	Nousaripa
+	india
+	Indians
+	221 225 104
+	india
+	5
+	5
+	indian 100
+
+Bardaxema_R
+	legion: Parthica
+	Bardaxema
+	india
+	Indians
+	170 49 55
+	india
+	5
+	5
+	indian 100
+
+Kadapa_R
+	legion: Parthica
+	Kadapa
+	india
+	Indians
+	47 54 223
+	india
+	5
+	5
+	indian 100
+
+Kandanavolu_R
+	legion: Parthica
+	Kandanavolu
+	india
+	Indians
+	219 86 29
+	india
+	5
+	6
+	indian 100
+
+Vadgaon_R
+	legion: Parthica
+	Vadgaon
+	india
+	Indians
+	64 66 117
+	india
+	5
+	5
+	indian 100
+
+Kinnara_R
+	legion: Parthica
+	Kinnara
+	india
+	Indians
+	145 6 9
+	india
+	5
+	3
+	indian 100
+
+Lomasa_R
+	legion: Parthica
+	Lomasa
+	india
+	Indians
+	42 59 211
+	india
+	5
+	5
+	indian 100
+
+Ghatotkachapura_R
+	legion: Parthica
+	Ghatotkachapura
+	india
+	Indians
+	18 129 69
+	india
+	5
+	3
+	indian 100
+
+Kunindapura_R
+	legion: Parthica
+	Kunindapura
+	india
+	Indians
+	150 45 196
+	india
+	5
+	6
+	indian 100
+
+Tharupura_R
+	legion: Parthica
+	Tharupura
+	india
+	Indians
+	28 43 208
+	india
+	5
+	5
+	indian 100
+
+Nepalakaksha_R
+	legion: Parthica
+	Nepalakaksha
+	india
+	Indians
+	238 233 45
+	india
+	5
+	8
+	indian 100
+
+Devaprastha_R
+	legion: Parthica
+	Devaprastha
+	india
+	Indians
+	238 194 65
+	india
+	5
+	6
+	indian 100
+
+Sabara_R
+	legion: Parthica
+	Sabara
+	kalinga
+	Indians
+	43 180 66
+	india
+	5
+	6
+	indian 100
+
+Purulia_R
+	legion: Parthica
+	Purulia
+	india
+	Indians
+	35 125 38
+	india
+	5
+	6
+	indian 100
+
+Byzantion_R
+	legion: Parthica
+	Byzantion
+	india
+	Indians
+	197 51 34
+	india
+	5
+	5
+	indian 100
+
+Modogulla_R
+	legion: Parthica
+	Modogulla
+	india
+	Indians
+	203 194 88
+	india
+	5
+	6
+	indian 100
+
+Gamaliba_R
+	legion: Parthica
+	Gamaliba
+	india
+	Indians
+	113 50 110
+	india
+	5
+	5
+	indian 100
+
+Nagagoura_R
+	legion: Parthica
+	Nagagoura
+	india
+	Indians
+	212 144 96
+	india
+	5
+	6
+	indian 100
+
+Bhojakata_R
+	legion: Parthica
+	Bhojakata
+	india
+	Indians
+	139 150 207
+	india
+	5
+	6
+	indian 100
+
+Batanagra_R
+	legion: Parthica
+	Batanagra
+	india
+	Indians
+	181 55 65
+	india
+	5
+	6
+	indian 100
+
+Sambalaka_R
+	legion: Parthica
+	Sambalaka
+	india
+	Indians
+	66 161 62
+	india
+	5
+	6
+	indian 100
+
+Asinda_R
+	legion: Parthica
+	Asinda
+	india
+	Indians
+	215 155 127
+	india
+	5
+	6
+	indian 100
+
+Agrinagara_R
+	legion: Parthica
+	Agrinagara
+	india
+	Indians
+	48 141 60
+	india
+	5
+	6
+	indian 100
+
+Xerogerei_R
+	legion: Parthica
+	Xerogerei
+	india
+	Indians
+	193 118 98
+	india
+	5
+	6
+	indian 100
+
+Kartinaga_R
+	legion: Parthica
+	Kartinaga
+	india
+	Indians
+	30 39 210
+	india
+	5
+	6
+	indian 100
+
+Konta_R
+	legion: Parthica
+	Konta
+	india
+	Indians
+	53 200 87
+	india
+	5
+	7
+	indian 100
+
+Vetrakiya_R
+	legion: Parthica
+	Vetrakiya
+	india
+	Indians
+	179 114 199
+	india
+	5
+	7
+	indian 100
+
+Gaya_R
+	legion: Parthica
+	Gaya
+	india
+	Indians
+	105 217 95
+	india
+	5
+	7
+	indian 100
+
+Ozoana_R
+	legion: Parthica
+	Ozoana
+	india
+	Indians
+	219 63 63
+	india
+	5
+	5
+	indian 100
+
+Orthura_R
+	legion: Parthica
+	Orthura
+	chola
+	Indians
+	47 193 64
+	india
+	5
+	6
+	indian 100
+
+Avikudi_R
+	legion: Parthica
+	Avikudi
+	pandya
+	Indians
+	128 35 137
+	india
+	5
+	7
+	indian 100
+
+Kosamba_R
+	legion: Parthica
+	Kosamba
+	kalinga
+	Indians
+	208 229 41
+	india
+	5
+	6
+	indian 100
+
+Viduranagara_R
+	legion: Parthica
+	Viduranagara
+	india
+	Indians
+	209 228 46
+	india
+	5
+	6
+	indian 100
+
+Isila_R
+	legion: Parthica
+	Isila
+	india
+	Indians
+	113 51 134
+	india
+	5
+	6
+	indian 100
+
+Devipattinam_R
+	legion: Parthica
+	Devipattinam
+	pandya
+	Indians
+	56 160 51
+	india
+	5
+	6
+	indian 100
+
+Kurula_R
+	legion: Parthica
+	Kurula
+	chola
+	Indians
+	82 116 150
+	india
+	5
+	6
+	indian 100
+
+Mastanur_R
+	legion: Parthica
+	Mastanur
+	athiyaman
+	Indians
+	242 142 57
+	india
+	5
+	6
+	indian 100
+
+Than_R
+	legion: Parthica
+	Than
+	india
+	Indians
+	41 44 187
+	india
+	5
+	6
+	indian 100
+
+Drumkulya_R
+	legion: Parthica
+	Drumkulya
+	india
+	Indians
+	197 57 208
+	india
+	5
+	5
+	indian 100
+
+Adisdara_R
+	legion: Parthica
+	Adisdara
+	india
+	Indians
+	80 58 199
+	india
+	5
+	7
+	indian 100
+
+Sonnalage_R
+	legion: Parthica
+	Sonnalage
+	india
+	Indians
+	86 68 236
+	india
+	5
+	5
+	indian 100
+
+Hyperboria
+	legion: Scythica
+	Themiskyra
+	scythia
+	Amazons
+	58 89 177
+	amazonia
+	5
+	2
+	scythian 100
+
+TerraIncognita2_R
+	legion: Barbaricorum
+	TerraIncognita2
+	britons
+	Moors
+	104 91 124
+	britannia
+	5
+	2
+	brittonic 100
+
+TerraIncognita3_R
+	legion: Africarum
+	TerraIncognita3
+	egypt
+	Nabataeans
+	131 102 133
+	sahara
+	5
+	2
+	numidian 100
+
+
+; *********************************************************
+; *********************************************************
+; 56. Mundum Vincere
+; Number of Provinces: 7
+
+Veii_R
+	legion: Italica
+	Veii
+	romans_julii
+	Etruscans
+	255 238 188
+	etruria
+	5
+	7
+	etruscan 100
+
+Antium_R
+	legion: Italica
+	Antium
+	romans_julii
+	Latins
+	255 134 86
+	italy
+	5
+	6
+	italic 100
+
+Tarquinii_R
+	legion: Italica
+	Tarquinii
+	romans_julii
+	Etruscans
+	62 175 237
+	etruria
+	5
+	8
+	etruscan 100
+
+Nursia_R
+	legion: Italica
+	Nursia
+	romans_julii
+	Umbrians
+	255 93 81
+	italy
+	5
+	4
+	italic 100
+
+Reate_R
+	legion: Sabina
+	Reate
+	romans_julii
+	Umbrians
+	255 179 81
+	italy
+	5
+	5
+	italic 100
+
+Aiacium_R
+	legion: Sardinica
+	Aiacium
+	corsi
+	Beronicensis
+	142 168 255
+	corsica
+	5
+	4
+	nuragic 100
+
+Saena_R
+	legion: Italica
+	Saena
+	romans_julii
+	Etruscans
+	22 38 32
+	etruria
+	5
+	4
+	etruscan 100
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Arae_Philanorum_R
+	legion: Cyrenaica
+	Arae_Philanorum
+	numidia
+	Poeni
+	192 93 93
+	north_africa
+	5
+	3
+	numidian 90 greek 10
+
+Harawa_Psyllia_R
+	legion: Cyrenaica
+	Harawa_Psyllia
+	numidia
+	Poeni
+	152 85 85
+	north_africa
+	5
+	2
+	numidian 95 greek 5
+
+Iasinos_Pysllia_R
+	legion: Cyrenaica
+	Iasinos_Pysllia
+	numidia
+	Poeni
+	166 113 113
+	north_africa
+	5
+	2
+	numidian 98 greek 1 phoenician 1
+
+Pano_R
+	legion: Africarum
+	Pano
+	axum
+	Libyans
+	93 49 51
+	nubia
+	5
+	3
+	ethiopian 98 arab 2
+
+Seutheum_R
+	legion: Africarum
+	Seutheum
+	axum
+	Libyans
+	222 44 44
+	nubia
+	5
+	3
+	ethiopian 90 arab 10
+
+Pylamnus_Aethiopis_R
+	legion: Africarum
+	Pylamnus_Aethiopis
+	axum
+	Libyans
+	62 124 77
+	nubia
+	5
+	4
+	ethiopian 85 arab 10 mesopotamian 5
+
+Kynouria_R
+	legion: Macedonica
+	Kynouria
+	acarnania
+	Ionians
+	89 22 22
+	greece
+	5
+	4
+	greek 70 phoenician 30
+
+Latake_Psyllia_R
+	legion: Cyrenaica
+	Latake_Psyllia
+	numidia
+	Poeni
+	61 82 51
+	north_africa
+	5
+	3
+	numidian 90 greek 10
+
+Karoia_R
+	legion: Macedonica
+	Karoia
+	athens
+	Ionians
+	123 64 64
+	bosporus, greek_colony
+	5
+	9
+	greek 60 scythian 40
+
+Sitatrea_R
+	legion: Macedonica
+	Sitatrea
+	athens
+	Ionians
+	125 114 45
+	bosporus, greek_colony
+	5
+	9
+	greek 60 scythian 40
+
+Diridotis_R
+	legion: Parthica
+	Diridotis
+	seleucid
+	Syrians
+	83 188 78
+	mesopotamia
+	5
+	10
+	greek 5 mesopotamian 95
+
+Apphana_R
+	legion: Parthica
+	Apphana
+	seleucid
+	Syrians
+	31 76 29
+	mesopotamia
+	5
+	10
+	greek 3 mesopotamian 97
+
+Mycenae_R
+	legion: Macedonica
+	Mycenae
+	argos
+	Achaeans
+	159 83 83
+	greece
+	5
+	8
+	greek 100
+
+Mantinea_R
+	legion: Macedonica
+	Mantinea
+	arcadia
+	Achaeans
+	172 90 90
+	greece
+	5
+	8
+	greek 100
+
+Stymphalos_R
+	legion: Macedonica
+	Stymphalos
+	argos
+	Achaeans
+	180 176 176
+	greece
+	5
+	8
+	greek 100
+
+Sikyon_R
+	legion: Macedonica
+	Sikyon
+	achea
+	Achaeans
+	109 74 74
+	greece
+	5
+	8
+	greek 100
+
+Andros_R
+	legion: Macedonica
+	Andros
+	greek_cities
+	Ionians
+	140 63 63
+	greece
+	5
+	2
+	greek 100
+
+Skyros_R
+	legion: Macedonica
+	Skyros
+	macedon
+	Ionians
+	200 161 161
+	greece
+	5
+	2
+	greek 100
+
+Kos_R
+	legion: Macedonica
+	Kos
+	macedon
+	Ionians
+	182 23 23
+	greece
+	5
+	2
+	greek 100
+
+Melos_R
+	legion: Macedonica
+	Melos
+	melos
+	Ionians
+	190 221 174
+	greece
+	5
+	3
+	greek 100
+
+Troezen_R
+	legion: Macedonica
+	Troezen
+	troezen
+	Ionians
+	127 106 106
+	greece
+	5
+	3
+	greek 100
+
+Banderbeyla_R
+	legion: Africarum
+	Banderbeyla
+	axum
+	Libyans
+	96 148 117
+	nubia
+	5
+	3
+	ethiopian 100
+
+Sarapis_Dufar_R
+	legion: Arabica
+	Sarapis_Dufar
+	gerrha
+	Nabataeans
+	128 114 91
+	arabia
+	5
+	2
+	arab 90 mesopotamian 10
+
+Agathokleous_R
+	legion: Arabica
+	Agathokleous
+	gerrha
+	Nabataeans
+	84 67 44
+	arabia
+	5
+	2
+	arab 67 ethiopian 30 mesopotamian 3
+
+Astaepolis_Dufar_R
+	legion: Arabica
+	Astaepolis_Dufar
+	gerrha
+	Nabataeans
+	196 131 131
+	arabia
+	5
+	4
+	arab 90 mesopotamian 10
+
+Sesamos_R
+	legion: Asianae
+	Sesamos
+	paphlagonia
+	Anatolian_Generic
+	183 128 128
+	anatolia
+	5
+	8
+	anatolian 100
+
+Teion_R
+	legion: Asianae
+	Teion
+	teion
+	Anatolian_Generic
+	158 206 180
+	anatolia
+	5
+	8
+	anatolian 100
+
+Zarax_R
+	legion: Macedonica
+	Zarax
+	acarnania
+	Helots
+	69 48 45
+	greece
+	5
+	3
+	greek 90 phoenician 10
+
+Pylos_R
+	legion: Macedonica
+	Pylos
+	messene
+	Helots
+	100 25 131
+	greece
+	5
+	3
+	greek 99 phoenician 1
+
+Tainaron_R
+	legion: Macedonica
+	Tainaron
+	acarnania
+	Helots
+	207 112 112
+	greece
+	5
+	3
+	greek 90 phoenician 10
+
+Gyntheion_R
+	legion: Macedonica
+	Gyntheion
+	acarnania
+	Helots
+	109 51 51
+	greece
+	5
+	3
+	greek 95 phoenician 5
+
+Leuktra_R
+	legion: Macedonica
+	Leuktra
+	messene
+	Helots
+	103 83 93
+	greece
+	5
+	3
+	greek 80 phoenician 20
+
+Telos_R
+	legion: Macedonica
+	Telos
+	rhodes
+	Ionians
+	61 96 62
+	greece
+	5
+	3
+	greek 80 anatolian 20
+
+Lepreon_R
+	legion: Macedonica
+	Lepreon
+	messene
+	Helots
+	82 164 85
+	greece
+	5
+	3
+	greek 100
+
+Samothrake_R
+	legion: Macedonica
+	Samothrake
+	athens
+	Lesbians
+	75 42 42
+	thracia, greek_colony
+	5
+	3
+	thracian 70 anatolian 20 greek 10
+
+Peparethos_R
+	legion: Macedonica
+	Peparethos
+	athens
+	Ionians
+	147 51 99
+	greece
+	5
+	3
+	greek 98 thracian 2
+
+Karthaea_R
+	legion: Macedonica
+	Karthaea
+	athens
+	Ionians
+	133 79 106
+	greece
+	5
+	3
+	greek 100
+
+Kythnos_R
+	legion: Macedonica
+	Kythnos
+	athens
+	Ionians
+	65 65 34
+	greece
+	5
+	3
+	greek 100
+
+Syros_R
+	legion: Macedonica
+	Syros
+	athens
+	Ionians
+	91 91 60
+	greece
+	5
+	3
+	greek 100

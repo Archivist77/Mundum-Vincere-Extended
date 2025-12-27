@@ -1,0 +1,89 @@
+Changed colors, banners, and iconography of Boii, Persia, Magadha, Macedon
+Fixed arevaci having the wrong empty settlement banners
+Reverted colors banners, and iconography of all OG factions
+Renamed several regions to better fit the factions inhabiting them
+Changed interal names, colors, banners, and iconography of Batavi, Burgundii, Chatti, Gutones, Langobardi, Saxoni, Vandali
+Changed their agent textures
+Several changes to faction start positions
+Changes the internal names of all generic factions
+changed many faction's colors as well to be consistent with rome 2 colors
+Fixed textures for mercenary warhound, naked fanatics, german berserkers, barb archer, german warband
+Made mercenary spear warband traits same as regular german spear warband. Fixed their texture
+More backend organization
+Added ostrogoths, huns, roxolani, sarmatians, slavs
+Reorganized banners and logos
+Renamed some logos
+New rebel logos for germanic, nomad, iberian, arab factions
+Updated faction creators in descr_strat (in progress)
+Changed taulantii strat general models to greek
+Gave arab factions african peasant instead of eastern
+Saba uses BI general, captain, and admiral models
+Gave boii some units from BI, switch to gauls units
+Arab factions now use carthaginian lesser general
+Gave germans an archer warband
+Renamed internal banner names for brutii faction
+Fixed allied banners for vanilla factions
+Bithynia now use thracian names
+Changed internal names of some regions to avoid confusion
+Redid faction start maps
+Other bug fixes
+Removed some reduntant ui files
+Commented out an entry in the strat model db that was causing crashes
+Fixed a broken character name
+Fixed incorrect cultures for some Iberian factions
+Added additional trade bonus to roads, recruitment bonus for capitals
+Added experimental roman government building types
+Buffed hastati starting experience in capital regions
+Unified rome
+Fixed unified romans not having entries for agent textures
+Added variation units for unified rome EXCEPT CREWS
+Changed cosa to vetulonium and moved its position
+Moved Roman starting port in Etruria
+Swapped Hipponion for Neapolis
+Fixed Numidia not having access to Libyan Spearman
+Gave greek heavy peltast to generic greek factions
+Added some alexander units for macedon, regional and unique alex model variants, and a reform script
+Text file tweaks
+Hidden resource tweaks
+More quotes
+Allowed population cost balancing to be tweaked
+Changed unified rome logo, banners, symbols, and ship icons to be from Ganim's United Rome
+All roman factions have access to all gladiator types
+Added spear hastati, principes
+Added clipeus triarii variant
+Gave triarii a gladius as a secondary
+Added an automerge units script
+Added dagovax plague script
+Added historical event for earthquake at rhodes
+Added indian factions
+Added besieged & blockaded effects to cities and ports, and automerge scripts for AI
+Fixed invisible boats for numidian and indian factions
+More indian names
+Changed qidri to qedar
+Removed unified romans faction, replaced with julii
+Removed etruscan factions and frentani from database
+Made the iceni into catuvellauni, catuvellauni into damnonii
+Removed island regions
+Added Saena
+Made changes to some more region names
+Gave ancona to syracuse, cosentia to bruttii
+Made greek city names more greek
+Added 0AD soundtrack for several cultures
+Made indian elephant general the marian upgrade, horses are standard
+Fixed a model error, fixed dacian culture not having a short description for large fertility temple
+Added more optimized garrisons
+Fixed some invalid chunk strat banner errors
+
+
+
+FOR A SUBMOD
+Added some eduardo units
+Made allied cities recruit local units and direct recruit regular
+
+
+Removed several regions for stability reasons
+Changed location of hippokoura
+
+NUBIAN & INDIAN TEMPLES ARE STILL WIP
+MUST DO VOICES FOR NEW UNITS
+MUST REMOVE UNUSED TEXTURES

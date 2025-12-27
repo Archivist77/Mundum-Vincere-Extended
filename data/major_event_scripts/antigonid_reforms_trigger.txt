@@ -1,0 +1,8 @@
+script
+	if	I_TurnNumber >= 99
+		
+		return true
+	end_if
+	
+	return false
+end_script

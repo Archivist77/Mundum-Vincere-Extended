@@ -1,0 +1,59 @@
+script
+
+	declare_counter captured_carthaginian_cities				;;declare counters
+    set_counter captured_carthaginian_cities 0
+	
+	if not MajorEventActive "marian_reforms_rise"				;;if marian reforms hasn't been enacted
+		&& MajorEventActive "manipular_reforms"					;;manipular reforms have been enacted
+		
+																;;check every settlement owned by the 4 roman factions
+		for_each settlement in faction "romans_julii"
+            if  HasResource sardinia							;;if they have the right resource
+            ||  HasResource sicily
+            ||  HasResource sicily_greek
+                inc_counter captured_carthaginian_cities 1		;;increment the counter
+            end_if
+        end_for
+		
+		for_each settlement in faction "romans_brutii"
+            if  HasResource sardinia
+            ||  HasResource sicily
+            ||  HasResource sicily_greek
+                inc_counter captured_carthaginian_cities 1
+            end_if
+        end_for
+		
+		for_each settlement in faction "romans_scipii"
+            if  HasResource sardinia
+            ||  HasResource sicily
+            ||  HasResource sicily_greek
+                inc_counter captured_carthaginian_cities 1
+            end_if
+        end_for
+		
+		for_each settlement in faction "romans_senate"
+            if  HasResource sardinia
+            ||  HasResource sicily
+            ||  HasResource sicily_greek
+                inc_counter captured_carthaginian_cities 1
+            end_if
+        end_for
+		
+		if I_CompareCounter captured_carthaginian_cities >= 12	;;if the romans have this number of cities in those regions
+			return true 										;;trigger polybian reforms
+		end_if
+		
+	end_if
+
+	return false 												;;don't trigger polybian reforms
+	
+end_script
+
+;;script
+;;	if	I_TurnNumber >= 259
+;;		
+;;		return true
+;;	end_if
+;;
+;;	return false
+;;end_script

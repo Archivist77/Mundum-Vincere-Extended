@@ -1,0 +1,14 @@
+color:
+hsl color
+
+logo:
+x1 overlay
+x1 lch color
+x1 hard light, 20% opacity
+
+background:
++50 brightness, contrast
+
+gray:
+original background
+hide hard light layer

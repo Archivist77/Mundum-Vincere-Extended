@@ -1,0 +1,286 @@
+If an icon is too bright when not roll/select, you can reduce the brightness
+
+ENDED OFF AT CIMBRI DOING THEM ALPHABETICALLY 6/14/2025
+
+!!!!!MUST REDO!!!!!
+ardiaei
+delmatae
+elis
+heraclea
+volcae
+daesitiates
+vettones
+cessetani
+bellovaci?
+
+
+------DONE:
+anartes
+apuli
+atropatene
+bactria
+bastarnae
+cappadocia
+veneti
+cyprus
+albania
+galatia
+iberia
+palmyra
+paphlagonia
+chorasmia
+colchis
+heraclea
+sinope
+arcadia (troy)
+pylos (troy)
+acarnania (troy)
+ionia (arcadia)
+balari
+corsi
+epirus
+achea
+aetolia
+argos
+boetia
+corinth
+elis
+gortyn
+knossos
+kydonia
+melos
+rhodes
+thessaly
+paeonia
+bithynia
+byzantion
+triballi
+tylis
+ardiaei
+daorsi
+dardania
+delmatae
+breuci
+eravisci
+scordisci
+iazyges
+brigantes
+cantiaci
+corieltauvi
+demetae
+dumnonii
+belgae
+catuvellauni
+ebdani
+aedui
+allobroges
+bituriges
+cadurci
+carnutes
+cavari
+cenomanni (need to do grey)
+helvetii
+lemovices
+lexovii
+lingones
+mandubii
+namnetes
+osismii
+pictones
+redones
+ruteni
+santones
+turones
+unelli
+veneti_gaul
+vivisci
+volcae
+daesitiates
+vettones
+buridenses
+biephi
+kalinga
+aestii
+anglii
+buri
+catiaroi
+cantabri
+celtici
+cessetani
+cherusci
+cimbri
+bosporus/cimmeria
+atrebates
+bellovaci
+eburones
+mediomatrici
+morini
+parisii
+remi
+treverii
+nervii
+bastetani
+edetani
+illercavones
+illergetes
+oretani
+astures
+carpetani
+gallaeci
+vaccaei
+emporion
+ay
+athiyaman
+anuradhapura
+pandya
+chera
+chola
+
+------OVERLAY SETTINGS
+athiyaman (90 opacity for roll/select, 85 for normal, 80 for grey)
+anuradhapura (0/hidden for roll/select, 100 for normal/grey, double -90 saturation on both colors, LCH & overlay but not soft light)
+pandya (double -90 saturation for lch color, 80 opacity for grey)
+
+------HARD LIGHT SETTING
+default opacity 0 for grey logo
+
+---0 opacity
+athiyaman
+
+---20 opacity
+bactria
+albania (?)
+balari
+achea (hsl color, hsv 10, no hsv for grey)
+ebdani
+carnutes (0/hidden for grey)
+lingones (0/hidden for grey)
+mandubii (0/hidden for grey)
+pictones (0/hidden for grey)
+ruteni (0/hidden for grey)
+santones (10 for grey)
+senones (10 for grey)
+nori
+kalinga (10 for normal, 0/hidden for grey)
+catiaroi (0/hidden for normal/grey)
+edetani (10 for normal, 0/hidden for grey)
+
+---30 opacity
+
+---40 opacity
+apuli
+cappadocia
+galatia
+iberia
+palmyra (20 for grey)
+paphlagonia (20 for grey)
+pylos (20 for grey)
+acarnania (no soft light for grey)
+colchis (20 for grey)
+ionia
+corsi (no soft light for grey)
+epirus
+aetolia (20 for grey)
+boetia
+gortyn (20 for normal/grey)
+kydonia
+melos (20 for grey)
+rhodes (20 for grey)
+bithynia (20 for grey)
+triballi (20 for grey)
+tylis (20 for grey)
+daorsi (20 for grey)
+dardania
+eravisci (10 for grey)
+brigantes (20 for grey)
+cantiaci (20 for normal, 0/hidden for grey)
+corieltauvi (20 for grey)
+dumnonii (100 for grey)
+catuvellauni (60 for grey)
+cadurci (20 for grey)
+cavari
+cenomanni (20 for normal/grey)
+helvetii (20 for normal/grey)
+lemovices (20 for normal, 10 for grey)
+namnetes (20 for normal, 10 for grey)
+redones (lch color background)
+turones (20 for grey)
+veneti_gaul (20 for normal/grey)
+vivisci (20 for normal, 0/hidden for grey)
+biephi (20 for normal, 0/hidden for grey)
+anglii (20 for normal, 0/hidden for grey)
+buri (20 for normal, 0/hidden for grey)
+celtici (20 for normal, 10 for grey)
+cherusci (20 for normal, 40 for grey w/ multiply layer at 60 op.)
+bosporus/cimmeria (20 for normal/grey)
+mediomatrici (20 for normal/grey)
+morini (20 for normal, 0/hidden for grey)
+treverii (20 for normal, 40 for grey)
+carpetani (20 for normal, 0/hidden for grey)
+emporion (20 for normal, 0/hidden for grey)
+
+---50 opacity
+atropatene
+argos (hsl color, lch lightness 30)
+
+---60 opacity
+veneti (20 for grey)
+bastarnae (10 for grey)
+arcadia (10 for grey)
+byzantion (40 for normal, 20 for grey)
+scordisci (40 for normal/grey)
+iazyges (30 for normal/grey)
+belgae (40 for normal/grey)
+ardiaei (20 for normal, 0/hidden for grey)
+bituriges (40 for normal, 0/hidden for grey)
+lexovii (40 for normal, 20 for grey)
+aestii (40 for normal, 20 for grey)
+cantabri (40 for normal, 20 for grey)
+atrebates (20 for normal/grey)
+bellovaci (20 for normal, 10 for grey)
+eburones (40 for normal, 20 for grey)
+parisii (20 for normal/grey)
+remi (20 for normal, 20 for grey no soft light)
+astures (20 for normal, 0/hidden for grey)
+
+---80 opacity
+sinope (20 for grey)
+corinth (20 for grey)
+heraclea (40 for normal/grey)
+thessaly (40 for normal, 20 for grey)
+paeonia (40 for normal/grey)
+delmatae (40 for normal, 20 for grey)
+demetae (40 for normal, 20 for grey)
+aedui (40 for normal, 20 for grey)
+allobroges (40 for normal, 20 for grey)
+osismii (40 for normal, 20 for grey)
+segusiavi
+vocontii (40 for normal, 20 for grey)
+buridenses (40 for normal, 0/hidden for grey)
+cessetani (60 for normal, 100 for grey)
+cimbri (40 for normal, 20 for grey, no soft light)
+bastetani (40 for normal, 0/hidden for grey)
+illercavones (40 for normal, 0/hidden for grey)
+illergetes (40 for normal, 20 for grey)
+oretani (40 for normal, 0/hidden for grey)
+gallaeci (20 for normal, 0/hidden for grey)
+vaccaei (20 for normal/grey)
+ay (40 for normal, 0/hidden for grey no soft light)
+anuradhapura (40 for normal, 100 for grey)
+chera (40 for normal, 0/hidden for grey)
+chola (40 for normal, 0/hidden for grey, double -90 saturation for color)
+
+---90 opacity
+breuci (40 for normal, 0/hidden for grey)
+segusiavi (40 for normal, 20 for grey)
+unelli (40 for normal, 0/hidden for grey)
+nervii (50% soft light color, 40 for normal, 0/hidden for grey)
+pandya (20 for normal, 0/hidden for grey)
+
+---100 opacity
+anartes (20 for grey)
+cyprus (40 for grey)
+chorasmia
+elis (50 for normal/grey)
+knossos (50 for normal/grey)
+sequani (60 for normal, 0/hidden for grey)

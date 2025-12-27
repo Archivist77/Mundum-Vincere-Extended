@@ -1,0 +1,28 @@
+I'm working on a mod for Rome Total War Remastered, and as a part of that mod I'm trying to add more character names.
+I'll need your help creating surnames for characters out of certain tribe names, to add a layer of immersion to the game.
+I've researched lists of tribes (celtic, germanic, iberian, arabian, berber, dacian, thracian, scythian, etc) and written them down.
+Most of the names are currently in their plural form, which isn't what I want. What I need help with is "surnamifying" these tribes, as in add a suffix or alternate the names somehow.
+In a way that transforms it into an indicative surname that sounds natural and makes sense phonetically, linguistically, and historically.
+The suffixes must denote origin, belonging, descendance, lineage, or affiliation, and not be in the plural form, nor refer to a place, but from a tribe/people.
+For consistency, and since the setting is ancient times, I want you to use the Latin suffixes (-us, -ius, -icus, -aeus, -anus, etc).
+
+Wait for me to give you the lists of names and their associated culture, and I expect you to give me back the names changed as I requested.
+
+I want you to use these suffixes for each culture:
+Arabian suffixes: -an, -iyyah
+Baltic: -us, -ius, -icus, -aeus, -anus,
+Nubian/Ethiopian: -us, -ius, -icus, -aeus, -anus,
+Celtic suffixes: -ach, -ica, -in, -ios
+Dacian/Thracian: -us, -ius, -icus, -aeus, -anus,
+Germanic suffixes: -a, -az, -er, -ing
+Iberian suffixes: -ar, -in, -ka, -on
+Illyrian: -us, -ius, -icus, -aeus, -anus,
+Lusitanian: -ano, -ena, -isca
+Numidian/Berber suffixes: -en, -i, -in, -t
+Nuragic: -us, -ius, -icus, -aeus, -anus,
+Scythian/Nomadic: -us, -ius, -icus, -aeus, -anus
+
+
+The game takes place in antiquity, so I would prefer you to use more archaic naming conventions / suffixes.
+I want the naming convention to use suffixes associated with that specific culture (e.g. proto germanic for german tribes).
+However, if that's not possible, a romanized version will work (e.g. -us, -ius, -icus, -aeus, -anus, etc).

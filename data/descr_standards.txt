@@ -1,0 +1,95 @@
+;
+;	this file describes the appearance of the strategy map banners
+;
+
+file_scale			0.185f
+file_army_banner	data/banners/strat_flag.cas				; can't have spaces
+file_scale			1.0f
+file_navy_banner	data/banners/navy_banner.cas
+
+banner_star			0,       0.67969, 0.19141, 0.86719
+banner_button		0.19922, 0.67969, 0.38281, 0.86719
+banner_flag			0.58813, 0.01,    0.99,    0.99
+banner_sail			0.01,    0.01,    0.42,    0.41
+
+factions
+symbols				banners/symbols1.tga		; 0   1   2   3
+symbols				banners/symbols2.tga		; 4   5   6   7
+symbols				banners/symbols3.tga		; 8   9   10  11
+symbols				banners/symbols4.tga		; 12  13  14  15
+symbols				banners/symbols5.tga		; 16  17  18  19
+symbols				banners/symbols6.tga		; 20  21  22  23	(rebel factions)
+symbols				banners/symbols7.tga		; 24  25  26  27	(rebel factions)
+symbols				banners/symbols8.tga		; 28  29  30  31	(unused)
+symbols				banners/symbols9.tga		; 32  33  34  35
+symbols				banners/symbols10.tga		; 36  37  38  39
+symbols				banners/symbols11.tga		; 41  41  42  43
+symbols				banners/symbols12.tga		; 44  45  46  47
+symbols				banners/symbols13.tga		; 48  49  50  51
+symbols				banners/symbols14.tga		; 52  53  54  55	(rebel factions)
+symbols				banners/symbols15.tga		; 56  57  58  59
+symbols				banners/symbols16.tga		; 60  61  62  63
+symbols				banners/symbols17.tga		; 64  65  66  67
+symbols				banners/symbols18.tga		; 68  69  70  71
+symbols				banners/symbols19.tga		; 72  73  74  75
+symbols				banners/symbols20.tga		; 76  77  78  79
+symbols				banners/symbols21.tga		; 80  81  82  83
+symbols				banners/symbols22.tga		; 84  85  86  87
+symbols				banners/symbols23.tga		; 88  89  90  91
+symbols				banners/symbols24.tga		; 92  93  94  95
+symbols				banners/symbols25.tga		; 96  97  98  99
+symbols				banners/symbols26.tga		; 100 101 102 103
+symbols				banners/symbols27.tga		; 104 105 106 107
+symbols				banners/symbols28.tga		; 108 109 110 111
+symbols				banners/symbols29.tga		; 112 113 114 115
+symbols				banners/symbols30.tga		; 116 117 118 119
+symbols				banners/symbols31.tga		; 120 121 122 123
+symbols				banners/symbols32.tga		; 124 125 126 127
+symbols				banners/symbols33.tga		; 128 129 130 131
+symbols				banners/symbols34.tga		; 132 133 134 135
+symbols				banners/symbols35.tga		; 136 137 138 139
+symbols				banners/symbols36.tga		; 140 141 142 143
+symbols				banners/symbols37.tga		; 144 145 146 147
+symbols				banners/symbols38.tga		; 148 149 150 151
+symbols				banners/symbols39.tga		; 152 153 154 155
+symbols				banners/symbols40.tga		; 156 157 158 159
+symbols				banners/symbols41.tga		; 160 161 162 163
+symbols				banners/symbols42.tga		; 164 165 166 167
+symbols				banners/symbols43.tga		; 168 169 170 171
+symbols				banners/symbols44.tga		; 172 173 174 175
+symbols				banners/symbols45.tga		; 176 177 178 179
+symbols				banners/symbols46.tga		; 180 181 182 183
+symbols				banners/symbols47.tga		; 184 185 186 187
+symbols				banners/symbols48.tga		; 188 189 190 191
+symbols				banners/symbols49.tga		; 192 193 194 195
+symbols				banners/symbols50.tga		; 196 197 198 199
+symbols				banners/symbols51.tga		; 200 201 202 203
+symbols				banners/symbols52.tga		; 204 205 206 207
+symbols				banners/symbols53.tga		; 208 209 210 211
+symbols				banners/symbols54.tga		; 212 213 214 215
+symbols				banners/symbols55.tga		; 216 217 218 219
+symbols				banners/symbols56.tga		; 220 221 222 223
+symbols				banners/symbols57.tga		; 224 225 226 227
+symbols				banners/symbols58.tga		; 228 229 230 231
+symbols				banners/symbols59.tga		; 232 233 234 235
+symbols				banners/symbols60.tga		; 236 237 238 239
+symbols				banners/symbols61.tga		; 240 241 242 243
+symbols				banners/symbols62.tga		; 244 245 246 247
+symbols				banners/symbols63.tga		; 248 249 250 251
+symbols				banners/symbols64.tga		; 252 253 254 255
+symbols				banners/symbols65.tga		; 256 257 258 259
+symbols				banners/symbols66.tga		; 260 261 262 263
+symbols				banners/symbols67.tga		; 264 265 266 267
+symbols				banners/symbols68.tga		; 268 269 270 271
+symbols				banners/symbols69.tga		; 272 273 274 275
+symbols				banners/symbols70.tga		; 276 277 278 279
+symbols				banners/symbols71.tga		; 280 281 282 283
+symbols				banners/symbols72.tga		; 284 285 286 287
+symbols				banners/symbols73.tga		; 288 289 290 291
+symbols				banners/symbols74.tga		; 292 293 294 295
+symbols				banners/symbols75.tga		; 296 297 298 299
+symbols				banners/symbols76.tga		; 300 301 302 303
+symbols				banners/symbols77.tga		; 304 305 306 307
+symbols				banners/symbols78.tga		; 308 309 310 311
+symbols				banners/symbols79.tga		; 312 313 314 315
+symbols				banners/symbols80.tga		; 316 317 318 319

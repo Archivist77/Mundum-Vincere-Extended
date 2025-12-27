@@ -1,0 +1,107 @@
+
+; event			event_type
+; frequency		in years
+; winter		only occurs in winter 
+; summer		only occurs in summer
+; warning		provides a one year warning
+; position		position event can occur in strat coords [can specify multiple positions on consecutive lines]
+; region		region event can occur by region name [can specify multiple regions on consecutive lines]
+; climate		climate event can occur by climate name [can specify multiple climates on consecutive lines]
+; min_scale		minimum size for event
+; max_scale		maximum size for event
+
+event		earthquake
+frequency	3
+winter		false
+summer		false
+warning		false
+region		Numidia
+region		Campania
+region		Armenia
+region		Persis
+climate		rocky_desert
+climate		sandy_desert
+climate		semi_arid
+min_scale	3
+max_scale	10
+
+event		volcano
+frequency	39
+winter		false
+summer		false
+warning		false
+min_scale	5
+max_scale	8
+
+event		flood
+frequency	4
+winter		false
+summer		true
+warning		false
+region		Nervi
+region		Tribus_Chauci
+region		Nile_Delta
+region		Babylonia
+climate		swamp
+climate		temperate_grassland_fertile
+climate		temperate_forest_open
+min_scale	3
+max_scale	7
+
+event		storm
+frequency	4
+winter		false
+summer		false
+warning		false
+region		the sea
+climate		test_climate
+climate		temperate_grassland_fertile
+climate		temperate_forest_open
+min_scale	2
+max_scale	5
+
+event		horde
+frequency	12
+winter		false
+summer		false
+warning		false
+region		the sea
+climate		temperate_forest_open
+climate		temperate_forest_deep
+min_scale	2
+max_scale	5
+
+event		dustbowl
+frequency	12
+winter		false
+summer		false
+warning		false
+climate		sandy_desert
+min_scale	2
+max_scale	5
+
+event		locusts
+frequency	30
+winter		false
+summer		false
+warning		false
+climate		sandy_desert
+climate		rocky_desert
+climate		semi_arid
+min_scale	2
+max_scale	5
+
+event		plague
+frequency	7
+winter		false
+summer		false
+warning		false
+region		Judaea
+region		Cyrenaica
+region		Middle_Egypt
+region		Mesopotamia
+climate		sandy_desert
+climate		rocky_desert
+climate		semi_arid
+min_scale	2
+max_scale	10

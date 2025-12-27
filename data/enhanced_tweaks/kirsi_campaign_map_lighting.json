@@ -1,0 +1,64 @@
+{
+	"Campaign Map": [
+		{
+			"[CM] Light strength": [
+				0.9
+			]
+		},
+		{
+			"[CM] Ambient strength": [
+				0.9
+			]
+		},
+		{
+			"[CM] Albedo strength": [
+				1.0
+			]
+		},
+		{
+			"[CM] Normal strength": [
+				0.8
+			]
+		},
+		{
+			"[CM] AO Map strength": [
+				1.15
+			]
+		},
+	],
+	"SSAO": [
+		{
+			"[SSAO] Shadow Clamp": [
+				1
+			]
+		},
+		{
+			"[SSAO] Horizon Angle Threshold": [
+				0
+			]
+		},
+		{
+			"[SSAO] Detail Shadow Strength": [
+				10.5
+			]
+		},
+	],
+	"Color grading": [
+		{
+			"[CG] Color grading enabled": true
+		},
+		{
+			"[CG] Color grading strength": [
+				50
+			]
+		},
+		{
+			"[CG] Override the LUT": false
+		},
+		{
+			"[CG] LUT index": [
+				0
+			]
+		}
+	],
+}

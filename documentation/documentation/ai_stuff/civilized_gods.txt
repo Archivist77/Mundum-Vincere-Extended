@@ -1,0 +1,146 @@
+I'm going to need you to make building descriptions for shrines dedicated to certain gods for cultures in my mod for Rome Total War remastered.
+I want them to be made similar to the ones already in the base game.
+
+What I want you to do:
+From the examples, take into account their length, style, tense, and historicity
+Stay consistent with the examples, though small occasional deviances are permitted
+Use reputable online resources
+Use 3 sentences, no more and no less
+No more than 350 characters
+No less than 150 characters
+
+What I do NOT want you to do:
+Do not write in the past-tense as if looking back
+Do not refer to modern locations
+Do not make up false information
+Do not write descriptions as if writing them back to back (e.g. saying a god is a "god of war" in one description, and saying "another god of war" in the next)
+Do not copy the info in the parentheses next to the god's name word-for-word (e.g. saying a god is a "sky father god". make it sound natural, "God of the sky")
+Do not make descriptions for gods that I haven't asked for
+
+The biggest thing I want you to take out of this is that they need to be consistent with the base game, like the examples I'm about to show you.
+
+The following examples are for Greek and Roman factions:
+
+("This Shrine is dedicated to Ares, the Greek God of War. Ares is not an entirely heroic figure in the same way as the Roman Mars, but he is a god for winners in warfare. Sneaky and underhand are just as valid as heroic for Ares!"
+
+"This Shrine is dedicated to Demeter, the Olympian Goddess of Fertility and Grain. She is important in bringing both the harvest and the birth of all things. Worship of Demeter also takes in the hidden cult of the Eleusinian Mysteries."
+
+"This Shrine is dedicated to Hephaestus, the lame God of Metalworkers and Smiths. In this aspect he is celebrated for his weapon-making skills. These are considerable, and it is Hephaestus who made the arms and armour for all the great heroes, including the Shield of Achilles.
+
+"This Shrine is dedicated to Dionysus, the God of Wine, although his Cultists go far beyond merely drinking heavily in their celebration of his mysteries. Dionysus is a violent figure, and his followers tread a fine line between sanity, madness and death at times in their orgiastic rituals."
+
+"This Shrine is dedicated to Zeus, the God of the Sky, of Kings and the Fate of Nations. He is the All-seeing, the Lord of everything and a hugely powerful deity. Little escapes the attention of Zeus from his home on Mount Olympus, from the softest whisper to the clamour of battle. There is almost nothing in which he does not have a hand."
+
+"This Shrine is dedicated to Asklepios, the God of Medicine and of Healing. He is the son of Apollo and a worthy patron. It was traditional to sacrifice a cock to him in thanks for a cure - and to pay the doctor's fee! His daughter, Hygeia, is the Goddess of Health."
+
+"This Shrine is dedicated to Artemis, the Goddess of the Hunt. She is a strong willed, powerful goddess, able to fight for what she knows to be right."
+
+"This Shrine is dedicated to Athena, the Goddess of Wisdom, War and Craftsmen. She is also the patron of the city of Athens, the home of democracy. Athena not only gave humankind many of the crafts and skills needed to survive and prosper, she also sponsors many mighty warriors."
+
+"This Shrine is dedicated to Aphrodite, the Olympian Goddess of Beauty and Procreation. If it's rampant, naughty and she's the goddess of it! When she appears in mortal form Aphrodite sometimes has the misfortune to inspire obsessional love bordering on the completely mad!"
+
+"This Shrine is dedicated to Hermes, the messenger of the Gods and also the patron of trade and travellers. Hermes watches over all of those who go far away and have business with foreigners, making him an ideal patron for any city where trade is important."
+
+"This Shrine is dedicated to Nike, the winged Goddess of Victory. That a warlike people such as the Greeks should honour her is almost inevitable! She is the daughter of one of the giants, Pallas, and Styx. As 'Victory' she has Zelos (Rivalry), Kratos (Strength), and Bia (Force) as siblings."
+
+"This Shrine is dedicated to Herakles, the heroic demi-god and legendary founder of the Macedonia royal household. He is the son of Zeus and a mortal woman, Alcmene. His brave deeds - impossible for any other to carry out - make him an inspiration to all warriors. Pontus - as a successor kingdom to Alexander's empire - honours the Gods of Greece."
+
+"This Shrine is dedicated to Ceres, the Goddess of Grain and Fertility. She is an important figure in assuring that crops are sufficient to feed everyone. She is equated with the Greek deity Demeter, and worship of the two often overlaps."
+
+"This Shrine is dedicated to Vulcan, the Smith of the Gods, the God of Fire and the patron of mortal smiths. His workshops lie beneath the volcano at Etna. As might be expected weaponsmiths are much favoured by Vulcan."
+
+"This Shrine is dedicated to Bacchus, the God of Wine. He is a noisy and rowdy God at the best of times. At his worst, Bacchus is downright dangerous to those who aren't his followers! Drunken revelry may only be the start of a serious session of enjoying the wine that Bacchus provides!"
+
+"This Shrine is dedicated to Juno, the Queen of Heaven, and the wife and sister to Jupiter. She is the special protector of marriage and of women. She also has an aspect as a war goddess."
+
+"This Shrine is dedicated to Saturn, the elder god, the God of Time and father to Jupiter, Neptune and Pluto. He devoured all his other children, and was supplanted as leader of the gods by Jupiter."
+
+"This Shrine is dedicated to Jupiter, the Supreme God of Rome. He is the special protector of Rome, the lord of heaven and the bringer of light. Auguries are the way in which Jupiter communicates with the mortal world, and his priests are skilled in reading signs in the flight of birds, sacrifices and so forth."
+
+"This Shrine is dedicated to Neptune, the God of the Sea. He is seen as the special protector of sailors and those who gain a living from the deeps. He is often depicted as an elderly man astride a dolphin, although storms - his sea rages - can be terrible enough for a much younger person!"
+
+"This Shrine is dedicated to Mercury, the messenger of the Gods and also the patron of trade and travellers. Mercury watches over all of those who go far away and have business with foreigners, making him an ideal patron for any city where trade is important."
+
+"This Shrine is dedicated to Mars, the God of War, and therefore a popular deity amongst the warlike Romans. He is also the patron of husbandmen. Mars has a central place in the Roman way of war - even the training ground in Rome, the Campus Martia, is named in his honour."
+)
+
+
+Those are the examples. Here are the cultures and names of gods I want you to make descriptions for, as well as internet sources for you to find information about them.
+
+
+Source for etruscan dieties:
+https://en.wikipedia.org/wiki/List_of_Etruscan_mythological_figures
+
+Etruscan Culture:
+Laran (God of war and the underworld)
+Maris (God of fertility and agriculture)
+Uni (Goddess of the family and fertility)
+Sethlans (God of the forge and craftsmanship)
+Fufluns (God of wine and happiness)
+Tinia (God of the sky)
+Esplace (God of healing and medicine)
+Lur (God of prohecy and war)
+Aritimi (Goddess of the hunt and the wilderness)
+Nortia (Goddess of fate and chance)
+Suri (God of the sun and volcanoes)
+Menrva (Goddess of art and wisdom)
+Turan (Goddess of love and beauty)
+Nethuns (God of the sea and springs)
+Turms (God of trade and messages)
+Meanpe (God of victory)
+Hercle (Demi-god associated with strength and bravery)
+
+
+Source for greek gods:
+https://en.wikipedia.org/wiki/List_of_Greek_mythological_figures
+
+Greek Culture:
+Hera
+Sabazios
+Themis
+Apollo
+Poseidon
+Enyo
+
+
+Source for roman gods:
+https://en.wikipedia.org/wiki/List_of_Roman_deities
+
+Roman Culture:
+Bellona
+Vesta
+Minerva
+Diana
+Justitia
+Venus
+Victoria
+
+
+Source for Arabian gods:
+https://en.wikipedia.org/wiki/List_of_pre-Islamic_Arabian_deities
+https://www.britannica.com/topic/Arabian-religion/Pre-Islamic-deities
+
+Al-Lat (Goddess of War and Peace) (daughter of Allah)
+Al-Uqaysir (God of Agriculture)
+Atarsamain (God of the Morning Star)
+Qaynan (God of Smithcraft)
+Manaf (God of the Sun)
+Al-Kutbay (Nabataean God of Writing)
+Dushara (Nabataean God of the Sky, Mountains, Fertility, and Justice)
+Dhu-Samawi (God of the Sky) (rotector of camels)
+Dhu-Ghabat (God of the Forest)
+Manat (Goddess of Destiny and Death) (oldest daughter of Allah)
+Nuha (Goddess of the Sun) (in trinity with Ruda and Atarsamain)
+Ruda (God of the Moon) (in trinity with Nuha and Satarsamain)
+Al-Uzza (Goddess of Might, Protection, and Love) (daughter of Allah)
+Gad (God of Fortune)
+Hubal (God of Divinity and Victory)
+Al-Qaum (God of War and the Night) (guardian of caravans)
+Almaqah (God of the Moon and Irrigation)
+Athtart (Goddess of Love and Fertility) (in trinity with Shams and Wadd)
+Amm (God of the Moon and Weather)
+Basamum (God of Healing)
+Athtar (God of the Hunt)
+Shams (Goddess of the Sun) (in trinity with Athtart and Wadd)
+Wadd (God of the Moon) (in trinity with Athtart and Shams)
+Yaghuth (God of War)

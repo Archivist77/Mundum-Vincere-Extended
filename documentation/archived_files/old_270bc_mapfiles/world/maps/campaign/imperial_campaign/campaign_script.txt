@@ -1,0 +1,26 @@
+script
+
+monitor_event FactionTurnStart FactionIsLocal
+          and I_TurnNumber = 1
+
+	console_command become_protector seleucid greek_f_5
+	console_command become_protector seleucid east_f_4
+
+	console_command become_protector egypt greek_f_2
+
+	console_command become_protector macedon corinth
+	console_command become_protector macedon argos
+	console_command become_protector macedon greek_f_8
+
+	console_command become_protector romans_unified italic_f_2
+
+
+    terminate_monitor
+
+end_monitor
+
+while I_TurnNumber < 9999
+    suspend_unscripted_advice true
+end_while
+
+end_script

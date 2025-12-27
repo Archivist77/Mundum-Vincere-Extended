@@ -1,0 +1,1029 @@
+faction romans_julii
+model roman_peasant			 	40
+model roman_female_peasant  	60
+
+faction romans_brutii
+model roman_peasant				40
+model roman_female_peasant  	60
+
+faction romans_scipii
+model roman_peasant			 	40
+model roman_female_peasant  	60
+
+faction romans_senate
+model roman_peasant				40
+model roman_female_peasant  	60
+
+faction macedon
+model roman_peasant			 	40
+model greek_female_peasant  	60
+
+faction egypt
+model egyptian_male_peasant		40
+model egypt_female_peasant  	60
+
+faction seleucid
+model roman_peasant			 	40
+model greek_female_peasant  	60
+
+faction carthage
+model eastern_male_peasant		40
+model east_female_peasant   	60
+
+faction parthia
+model eastern_male_peasant		40
+model east_female_peasant   	60
+
+faction pontus
+model eastern_male_peasant		40
+model east_female_peasant   	60
+
+faction gauls
+model barb_male_peasant			40
+model barb_female_peasant   	60
+
+faction germans
+model barb_male_peasant			40
+model barb_female_peasant   	60
+
+faction britons
+model barb_male_peasant			40
+model barb_female_peasant   	60
+
+faction armenia
+model eastern_male_peasant		40
+model east_female_peasant   	60
+
+faction dacia
+model barb_male_peasant			40
+model barb_female_peasant   	60
+
+faction greek_cities
+model roman_peasant			 	40
+model greek_female_peasant  	60
+
+faction numidia
+model eastern_male_peasant		40
+model east_female_peasant   	60
+
+faction scythia
+model barb_male_peasant			40
+model barb_female_peasant  		60
+
+faction spain
+model roman_peasant				40
+model east_female_peasant   	60
+
+faction thrace
+model roman_peasant			 	40
+model greek_female_peasant		60
+
+faction alemanni
+model barb_male_peasant			40
+model barb_female_peasant  		60
+
+faction burgundii
+model barb_male_peasant			40
+model barb_female_peasant  		60
+
+faction franks
+model barb_male_peasant			40
+model barb_female_peasant  		60
+
+faction goths
+model barb_male_peasant			40
+model barb_female_peasant  		60
+
+faction huns
+model barb_male_peasant			40
+model barb_female_peasant 	 	60
+
+faction lombardi
+model barb_male_peasant			40
+model barb_female_peasant  		60
+
+faction ostrogoths
+model barb_male_peasant			40
+model barb_female_peasant  		60
+
+faction roxolani
+model barb_male_peasant			40
+model barb_female_peasant  		60
+
+faction sarmatians
+model barb_male_peasant			40
+model barb_female_peasant  		60
+
+faction saxons
+model barb_male_peasant			40
+model barb_female_peasant  		60
+
+faction slavs
+model barb_male_peasant			40
+model barb_female_peasant  		60
+
+faction vandals
+model barb_male_peasant			40
+model barb_female_peasant  		60
+
+faction persia
+model eastern_male_peasant		40
+model east_female_peasant  		60
+
+faction persis
+model eastern_male_peasant		40
+model east_female_peasant  		60
+
+faction gerrha
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction hadhramaut
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction lihyan
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction mascat
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction minaea
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction nabataea
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction saba
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction thamud
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction qataban
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction qedar
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction axum
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction blemmyes
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction kush
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction albania
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction atropatene
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction bithynia
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction cappadocia
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction colchis
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction iberia
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction palmyra
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction chorasmia
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction paphlagonia
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction allobroges
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction boii
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction cenomanni
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction carni
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction insubres
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction leponti
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction ligures
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction senones
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction raeti
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction aedui
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction cavari
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction bituriges
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction cadurci
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction carnutes
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction eravisci
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction galatia
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction helvetii
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction lemovices
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction lexovii
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction mandubii
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction namnetes
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction nori
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction osismii
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction pictones
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction lingones
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction redones
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction ruteni
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction santones
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction scordisci
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction sequani
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction elusates
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction tarbelli
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction triballi
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction segusiavi
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction turones
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction unelli
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction veneti_gaul
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction vindelici
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction vivisci
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction vocontii
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction volcae
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction atrebates
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction belgae
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction bellovaci
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction eburones
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction mediomatrici
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction morini
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction parisii
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction remi
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction suessiones
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction treverii
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction nervii
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction aestii
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction venedi
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction anartes
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction harii
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction cherusci
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction cimbri
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction frisii
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction helisii
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction helveconae
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction heruli
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction marcomanni
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction nemetes
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction quadi
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction rugii
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction vangiones
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction anglii
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction buri
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction chamavi
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction suiones
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction nahanarvali
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction varini
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction chauci
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction fosi
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction juti
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction bructeri
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction sugambri
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction tencteri
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction ubii
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction hermunduri
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction brigantes
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction caledonia
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction cantiaci
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction corieltauvi
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction eblani
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction demetae
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction dumnonii
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction catuvellauni
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction veneti
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction messapians
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction histri
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction gaetuli
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction garamantes
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction libya
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction massylii
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction mauri
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction nasamones
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction india
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction chola
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction chera
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction pandya
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction anuradhapura
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction ay
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction athiyaman
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction kalinga
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction astures
+model roman_peasant				40
+model east_female_peasant		60
+
+faction bastetani
+model roman_peasant				40
+model east_female_peasant		60
+
+faction cantabri
+model roman_peasant				40
+model east_female_peasant		60
+
+faction carpetani
+model roman_peasant				40
+model east_female_peasant		60
+
+faction celtici
+model roman_peasant				40
+model east_female_peasant		60
+
+faction cessetani
+model roman_peasant				40
+model east_female_peasant		60
+
+faction edetani
+model roman_peasant				40
+model east_female_peasant		60
+
+faction gallaeci
+model roman_peasant				40
+model east_female_peasant		60
+
+faction ilercavones
+model roman_peasant				40
+model east_female_peasant		60
+
+faction ilergetes
+model roman_peasant				40
+model east_female_peasant		60
+
+faction celtiberia
+model roman_peasant				40
+model east_female_peasant		60
+
+faction oretani
+model roman_peasant				40
+model east_female_peasant		60
+
+faction turdetani
+model roman_peasant				40
+model east_female_peasant		60
+
+faction vaccaei
+model roman_peasant				40
+model east_female_peasant		60
+
+faction vascones
+model roman_peasant				40
+model east_female_peasant		60
+
+faction vettones
+model roman_peasant				40
+model east_female_peasant		60
+
+faction balari
+model roman_peasant				40
+model east_female_peasant		60
+
+faction corsi
+model roman_peasant				40
+model east_female_peasant		60
+
+faction iolei
+model roman_peasant				40
+model east_female_peasant		60
+
+faction epirus
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction athens
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction aetolia
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction boetia
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction elis
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction byzantion
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction emporion
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction knossos
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction massalia
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction rhodes
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction syracuse
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction achea
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction agyrion
+model eastern_male_peasant		40
+model east_female_peasant   	60
+
+faction akragas
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction argos
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction corinth
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction italiotes
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction gortyn
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction kydonia
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction melos
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction taras
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction thessaly
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction cyrene
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction cyprus
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction neapolis
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction sinope
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction messene
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction teion
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction pergamon
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction bosporus
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction arcadia
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction bactria
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction heraclea
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction acarnania
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction troezen
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction ardiaei
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction bastarnae
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction bessi
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction caeni
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction krobyzi
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction apuli
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction biephi
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction buridenses
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction peucitans
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction daunians
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction breuci
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction daorsi
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction delmatae
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction iazyges
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction agathyrsi
+model eastern_male_peasant		40
+model east_female_peasant   	60
+
+faction aorsi
+model eastern_male_peasant		40
+model east_female_peasant   	60
+
+faction budini
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction dahae
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction massagetae
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction siraces
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction saka
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction thyssagetae
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction tylis
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction dardania
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction illyria
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction paeonia
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction daesitiates
+model barb_male_peasant			40
+model barb_female_peasant		60
+
+faction etruscans
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction brutii
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction lucani
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction paeligni
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction picentes
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction sabines
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction samnites
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction umbri
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction volsci
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction mamertines
+model roman_peasant				40
+model greek_female_peasant		60
+
+faction ferghana
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction kashgar
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction kucha
+model eastern_male_peasant		40
+model east_female_peasant		60
+
+faction slave
+model roman_peasant				40
+model roman_female_peasant		60
+
+

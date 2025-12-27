@@ -1,0 +1,149 @@
+{
+	"Battle Camera": [
+		{
+			"[BCam] Lateral speed": [
+				3.0
+			]
+		},
+		{
+			"[BCam] Vertical speed": [
+				0.3
+			]
+		},
+		{
+			"[BCam] Rotate speed": [
+				1
+			]
+		},
+		{
+			"[BCam] Height speed modifier": [
+				50
+			]
+		},
+		{
+			"[BCam] Minimum height": [
+				1.25
+			]
+		},
+		{
+			"[BCam] Tactical map height": [
+				2500
+			]
+		},
+		{
+			"[BCam] Maximum tactical map height": [
+				2500
+			]
+		},
+		{
+			"[BCam] Minimum pitch": [
+				0.01
+			]
+		},
+		{
+			"[BCam] Maximum pitch": [
+				2.5
+			]
+		},
+		{
+			"[BCam] Minimum focus height": [
+				0.75
+			]
+		},
+		{
+			"[BCam] Maximum focus height": [
+				2500
+			]
+		},
+		{
+			"[BCam] Minimum focus pitch": [
+				0.01
+			]
+		},
+		{
+			"[BCam] Maximum focus pitch": [
+				2.5
+			]
+		},
+		{
+			"[BCam] Minimum user speed modifier": [
+				0.2
+			]
+		},
+		{
+			"[BCam] Maximum user speed modifier": [
+				3
+			]
+		},
+		{
+			"[BCam] User speed modifier step": [
+				0.02
+			]
+		},
+		{
+			"[BCam] Tactical map threshold": [
+				100
+			]
+		},
+		{
+			"[BCam] Tactical map rate limit": [
+				180
+			]
+		},
+		{
+			"[BCam] Tactical map timeout": [
+				3
+			]
+		},
+		{
+			"[BCam] Tactical map enter pivot": [
+				2500
+			]
+		},
+		{
+			"[BCam] Tactical map exit pivot": [
+				2500
+			]
+		},
+		{
+			"[BCam] Tactical map exit pitch": [
+				25
+			]
+		},
+		{
+			"[BCam] Min height step width": [
+				2
+			]
+		},
+		{
+			"[BCam] Min height step subsamples": [
+				1
+			]
+		},
+		{
+			"[BCam] Min height disc radius": [
+				1.9
+			]
+		},
+		{
+			"[BCam] Notches to max normal height": [
+				21
+			]
+		},
+		{
+			"[BCam] Notches to Max Tactical height": [
+				14
+			]
+		},
+		{
+			"[BCam] Notches to Max Tactical height": [
+				14
+			]
+		},
+		{
+			"[BCam] Zoom Camera Max Speed": [
+				900
+			]
+		}
+	]
+}

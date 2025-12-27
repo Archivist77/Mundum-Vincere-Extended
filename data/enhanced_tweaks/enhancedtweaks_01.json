@@ -1,0 +1,219 @@
+{
+	"Campaign Map": [
+		{
+			"[CM] Light strength": [
+				1.1
+			]
+		},
+		{
+			"[CM] Ambient strength": [
+				0.5
+			]
+		}
+	],
+	"Campaign Map Extents": [
+		{
+			"[CME] Extents Strength (Day)": [
+				0.5
+			]
+		},
+		{
+			"[CME] Extents Strength (Night)": [
+				0.3
+			]
+		},
+		{
+			"[CME] Movement extent colour": [
+				0.5588236,
+				1,
+				0
+			]
+		},
+		{
+			"[CME] Movement extent opacity": [
+				-1
+			]
+		},
+		{
+			"[CME] ZoC extent colour": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"[CME] ZoC extent opacity": [
+				0
+			]
+		},
+		{
+			"[CME] Ambush extent colour": [
+				0.242353,
+				0.412,
+				0
+			]
+		},
+		{
+			"[CME] Ambush extent opacity": [
+				0
+			]
+		},
+		{
+			"[CME] Enemy movement extent colour": [
+				1,
+				0.6176471,
+				0
+			]
+		},
+		{
+			"[CME] Enemy movement extent opacity": [
+				-1
+			]
+		}
+	],
+	"Campaign Map Tags": [
+		{
+			"[CMT]Dark Background Opacity": [
+				216
+			]
+		},
+		{
+			"[CMT]Gradient Opacity": [
+				254
+			]
+		},
+		{
+			"[CMT]Neutral Colour": [
+				0.9705882,
+				0.8744038,
+				0.6470588
+			]
+		},
+		{
+			"[CMT]Ally Colour": [
+				0.6076125,
+				0.8,
+				0.2549019
+			]
+		},
+		{
+			"[CMT]Enemy Colour": [
+				0.8627451,
+				0.3865934,
+				0.1268743
+			]
+		},
+		{
+			"[CMT]Ally of Ally Colour": [
+				0.6853133,
+				0.9019608,
+				0.8509849
+			]
+		},
+		{
+			"[CMT]Ally of Enemy Colour": [
+				0.8196079,
+				0.6117647,
+				0.6
+			]
+		},
+		{
+			"[CMT]Icons Opacity": [
+				254
+			]
+		},
+		{
+			"[CMT]Font Opacity": [
+				254
+			]
+		},
+		{
+			"[CMT]Font Colour": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"[CMT]Font Colour on Dark background": [
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"[CMT]Font Colour for Region names": [
+				0.1323529,
+				0.1323516,
+				0.1323516
+			]
+		}
+	],
+	"Color grading": [
+		{
+			"[CG] Color grading enabled": true
+		},
+		{
+			"[CG] Color grading strength": [
+				20
+			]
+		}
+	],
+	"Water": [
+		{
+			"[Sea] Shallow extinction color": [
+				0.894,
+				0.7981176,
+				0.568
+			]
+		},
+		{
+			"[Sea] Shallow extinction strength": [
+				2
+			]
+		},
+		{
+			"[Sea] Deep extinction color": [
+				0.8872549,
+				0.6743956,
+				0.330546
+			]
+		},
+		{
+			"[Sea] Deep extinction strength": [
+				8
+			]
+		},
+		{
+			"[Sea] Min/Max depth range": [
+				0.5,
+				20
+			]
+		},
+		{
+			"[Sea] Sky reflection strength": [
+				0.5
+			]
+		},
+		{
+			"[Sea] Specular strength": [
+				0.2
+			]
+		},
+		{
+			"[Sea] Ambient strength": [
+				0.22
+			]
+		},
+		{
+			"[Sea] Shallow fresnel strength": [
+				0.7
+			]
+		},
+		{
+			"[Sea] Deep fresnel strength": [
+				0.4
+			]
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"Additional Grunge Particles": [
+		{
+			"[AG] Additional Grunge Animation speed (fps)": [
+				24
+			]
+		},
+		{
+			"[AG] Additional Grunge Size Multiplier": [
+				1.05
+			]
+		},
+		{
+			"[AG] Additional Grunge Momentum Multiplier": [
+				1
+			]
+		}
+	],
+	"Unit": [
+		{
+			"[U] Mud Color": [
+				0.137,
+				0.094,
+				0.055
+			]
+		},
+		{
+			"[U] Additional Grunge Color": [
+				0.4,
+				0.03921569,
+				0.01960784
+			]
+		},
+		{
+			"[U] Additional Grunge Roughness": [
+				0.35
+			]
+		},
+		{
+			"[U] Additional Grunge Cutoff": [
+				0.475
+			]
+		}
+	]
+}

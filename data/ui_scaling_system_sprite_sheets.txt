@@ -1,0 +1,46 @@
+; ################################################################################
+; shared
+; ################################################################################
+
+data/menu/border_feralhd_24pix_alpha.tga
+data/menu/border_feralhd_dropdown_16pix_alpha.tga
+data/menu/border_feralhd_highlight_16pix_alpha.tga
+data/menu/border_feralhd_info_32pix_alpha.tga
+data/menu/border_feralhd_tooltip_128pix_alpha.tga
+data/menu/border_feralhd_txtinput_32pix_alpha.tga
+data/menu/cursor_alpha.tga
+data/menu/cursor.tga
+data/menu/feral_buttons_composite.tga
+data/menu/feral_slider_composite.tga
+data/menu/TEXTURES/FE_FERAL_HD0.TGA
+data/menu/TEXTURES/FE_FERAL_HD1.TGA
+
+
+; ################################################################################
+; rome
+; ################################################################################
+
+data/ui/roman/interface/battle_new_0.tga
+data/ui/roman/interface/battle_new_1.tga
+data/ui/roman/interface/battle_new_2.tga
+data/ui/roman/interface/battle_new_extruded_0.tga
+data/ui/roman/interface/editor_shared01.tga
+data/ui/roman/interface/shared_new_0.tga
+data/ui/roman/interface/shared_new_1.tga
+data/ui/roman/interface/shared_new_2.tga
+data/ui/roman/interface/shared_new_3.tga
+data/ui/roman/interface/shared_new_extruded_0.tga
+data/ui/roman/interface/shared_new_extruded_1.tga
+data/ui/roman/interface/shared_new_extruded_2.tga
+data/ui/roman/interface/strat_new_0.tga
+data/ui/roman/interface/strat_new_1.tga
+data/ui/roman/interface/strat_new_2.tga
+data/ui/roman/interface/strat_new_3.tga
+data/ui/roman/interface/strat_new_extruded_0.tga
+data/menu/TEXTURES/FERAL_BANNERS.tga
+data/menu/textures/fe_feral_hd0.tga
+data/menu/textures/fe_feral_hd1.tga
+data/menu/textures/menu_marble_frame.tga
+data/menu/border_feralhd_tooltip_128pix_alpha.tga
+data/menu/border_feralhd_info_32pix_alpha.tga
+data/menu/border_feralhd_txtinput_32pix_alpha.tga

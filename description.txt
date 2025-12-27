@@ -1,0 +1,93 @@
+[h1]Mundum Vincere Extended v0.01[/h1]
+
+[img]https://i.imgur.com/83dwoqI.png[/img]
+
+[b]This mod will always WIP![/b]
+
+[img]https://i.imgur.com/83dwoqI.png[/img]
+
+[b]This mod isn’t based off total historicity and has Vanilla, Historical, Fantastical, Mythological, A-historical content. 😲[/b]
+
+[u][b]Make sure you always delete the old mod folder and reinstall the mod every major update or at least make sure Rome Remastered is set to auto-update on steam.[/b][/u]
+
+[h1]In Windows Task Manager>"Details" area right click Set Total War: Rome Remastered Application Priority to "High"[/h1]
+
+[h1]Use Pictured In-Game Settings 🔥[/h1]
+
+[h1]Use Pictured Launcher Settings 🗣️[/h1]
+
+[h1]Even Bigger Eurasia Map, And Other Private Maps Are Not Playable Yet Likely Will Require An " External Tool" Due To Size Hardcodes😉[/h1]
+
+[img]https://i.imgur.com/83dwoqI.png[/img]
+
+[h1]Important![/h1]
+Mod is made to be played on [u][b]English[/b][/u] version of the game with [u][b]unit variation ON[/b][/u], and [u][b]Vibrant color scheme OFF.[/b][/u]
+
+[u][b]This mod is an extreme total overhaul for Rome Remastered, featuring Kirsi's Bigger Map, a few new large and small maps, new units, new character names, and nearly 307 new starting factions, 20 of them playable.[/b][/u]
+
+[img]https://i.imgur.com/83dwoqI.png[/img]
+
+[list]
+[*][b]Scripted Content & Events[/b] – Experience a wide array of dynamic, historical, alternate history, and mythological challenges.  
+[*][b]Survival & Crisis Management[/b] – Endure revolts, hordes, civil unrest, and the rise of emergent, remnant, and re-emergent nations and movements.  
+[*][b]Scripted Playthrough Recommendations[/b] – A event will fire for playable factions giving several goal recommendations and ideas on your playthrough and where you can end.
+[*][b]Administration & Building Systems[/b] – Develop and maintain your empire through deeper governance mechanics.
+[*][b]Renegade and Revolting Factions[/b] – Experience the rise of new factions and the rare scripted fall of old ones, with a focus on revolts and rebellions
+[*][b]Gigantic Building System[/b] – Conditional paths for a large swath of buildings that can be used for military, economic, social, agricultural, religious, etc. purposes 
+[*][b]Vassal System via Buildings[/b] – Develop and grant independence to new factions to prolong the campaign or in a pinch to save your empire financially (Play Tall)
+[/list]
+
+[img]https://i.imgur.com/83dwoqI.png[/img]
+
+[h1]Credit List[/h1]
+AI Battle Formations 7.0 by Sinuhet
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2857630157]Enhanced Sounds[/url] by Ganim
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2818425162]Ganim's UI[/url] by Ganim (slightly modified to allow advice)
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3068854272]Even Bigger Map[/url] by Kirsi (modified with a few additional regions)
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2471724790]Original Loading Screens[/url] by Ganim
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2930968353]Danymok's Ptolemaic Egypt[/url] by Danymok22
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2799858239]Danymok's Rosters Expanded[/url] by Danymok22
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2597862038]Imperial Truth - Name List Extension[/url] by Corythus
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2739515556]Tale of Antiquity[/url] by EduardoSousa, TheHolyPope, and others
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2487698001]RTR: Imperium Surrectum 0.67[/url] by RTR:IS Team, Ahowl, Swagger, NakedSpur, AmyClaraRose, Moscaflaca , Apple
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3019789188]Barbarian Empires: Open Beta 2[/url] by Lanjane, Chaz, Skynet Bunker, LucicusPapiriusCursor, and others  
+[url=https://steamcommunity.com/workshop/filedetails/?id=2856497654]Imperator Rome: Terra Indomita[/url] by T.I Team, contributors and World's Smuggiest Detective  
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3263242994]Dark UI 2.0[/url] by Dementive  
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2866202220]Scourge of God[/url] by LyreCryer  
+[url=https://github.com/donkeyProgramming/TheAssetEditor]AssetEditor[/url] by donkeyProgramming
+[url=https://github.com/donkeyProgramming/TheAssetEditor]RustedPackFileManager[/url] by Frodo45127
+[url=https://github.com/Dagovax/RTW.CampaignTools]RTW Campaign Tools[/url] by Sirrianus Dagovax
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3560346885]Celts Remastered: Assets[/url] by Vlady the Impaler
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3567436339]Anniversary Germania: Remastered[/url] by Vlady the Impaler
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3565631890]LEGENDARY EMPIRES HD: PERSIA[/url] by Izuru Alexandros RÆ, Garettich
+[url=https://steamcommunity.com/workshop/filedetails/?id=3108254297]LEGENDARY EMPIRES HD: GREECE[/url] by Izuru Alexandros RÆ, Ness, Garretich
+[url=https://steamcommunity.com/workshop/filedetails/?id=3360426140]LEGENDARY EMPIRES HD: GREECE 2[/url] by Izuru Alexandros RÆ, Ness, The Bananaborn 🍌, [RÆ]_CthulhuSevero.
+[url=https://steamcommunity.com/workshop/filedetails/?id=2876335362]LEGENDARY EMPIRES HD: ROME by Izuru Alexandros RÆ, Ness, [RÆ]_CthulhuSevero., Garretich, Summary, Benjin
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3130992822]ChadMacedonians - Macedon HD overhaul for DEI[/url] by The Bananaborn 🍌
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=926246791]Ado's Units of Troy - UPDATED 30/06/2021[/url] by Ado
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2448788091]Bronze Age: Reborn[/url] by Snowlet, and other contributors  
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2618149514]Apotheosis: The Hellenistic Age[/url] by rickinator9, Elmz, Grathalas, super7700
+new music by Tyler Cunningham
+Eurasia map materials and basis by U700P (me), Suppanut, Kirsi, and Mister_Kroeber
+
+[img]https://i.imgur.com/83dwoqI.png[/img]
+
+[h1]Respect, Love and Credits to the legendary Gfront55 for base Mundum Vincere🫡[/h1]
+
+[h1]Respect, Love and Credits to the legendary Danymok22 for his Vanilla units🫡[/h1]
+
+[img]https://i.imgur.com/83dwoqI.png[/img]
+
+[h1]Credits to Europa Barbarorum for ONLY the main theme following 6 asset limit[/h1]
+
+[img]https://i.imgur.com/83dwoqI.png[/img]
+
+[b]If you want to communicate tell me here:[/b]
+
+[url=https://discord.gg/bfAqzzXAY8][img]https://i.imgur.com/tyneWEI.png[/img][/url]
+
+[url=https://discord.gg/bfAqzzXAY8][b]Join the MVE Discord, My Mod Corner![/b][/url]
+
+[b]If you want to get tons of custom made/modded TWRR content tailored for you for a low price:[/b]
+
+https://www.fiverr.com/s/zWq20qo

@@ -1,0 +1,2980 @@
+Britannia_Inferior
+	Eburacum
+Britannia_Superior
+	Londinium
+Tribus_Silurii
+	Deva
+Alauna_R
+	Alauna
+Arnemetiae_R
+	Arnemetiae
+Boderium_R
+	Boderium
+Calleva_R
+	Calleva
+Camulodunum_R
+	Camulodunum
+Carbantorigum_R
+	Carbantorigum
+Corinion_R
+	Corinion
+Cornoviorum_R
+	Cornoviorum
+Decantarum_R
+	Decantarum
+Devana_R
+	Devana
+Dumna_R
+	Dumna
+Dumnoniorum_R
+	Dumnoniorum
+Durotrigorum_R
+	Durotrigorum
+Durovernum_R
+	Durovernum
+Durovigutum_R
+	Durovigutum
+Eydin_R
+	Eydin
+Galacum_R
+	Galacum
+Hebudum_R
+	Hebudum
+Isca_R
+	Isca
+Lindum_R
+	Lindum
+LindumCorieltavia_R
+	LindumCorieltavia
+Luguvalium_R
+	Luguvalium
+Mona_R
+	Mona
+Monaoeda_R
+	Monaoeda
+Moridunum_R
+	Moridunum
+Noviomagus_Reginorum_R
+	Noviomagus_Reginorum
+Orcades_R
+	Orcades
+Orrea_R
+	Orrea
+Ratae_R
+	Ratae
+Ratostabius_R
+	Ratostabius
+Rauatonium_R
+	Rauatonium
+Rigodonum_R
+	Rigodonum
+SalinaeCornovia_R
+	SalinaeCornovia
+Seguntium_R
+	Seguntium
+Sorviodunum_R
+	Sorviodunum
+Tarvodubron_R
+	Tarvodubron
+Tuesis_R
+	Tuesis
+Venta_Icenorum_R
+	Venta_Icenorum
+Hibernia
+	Tara
+Dunum_R
+	Dunum
+Hibernis_R
+	Hibernis
+Laberus_R
+	Laberus
+Macolicum_R
+	Macolicum
+Magnata_R
+	Magnata
+Manapia_R
+	Manapia
+Regia_R
+	Regia
+Rhaeba_R
+	Rhaeba
+Atuatuca_R
+	Atuatuca
+Bagacum_R
+	Bagacum
+Belgica
+	Samarobriva
+Durocotorum_R
+	Durocotorum
+Lutetia_Parisia_R
+	Lutetia_Parisia
+Menapium_R
+	Menapium
+Nemetacum_R
+	Nemetacum
+Nervium_R
+	Nervium
+Rotomagus_R
+	Rotomagus
+Viromanduorum_R
+	Viromanduorum
+Agatha_R
+	Agatha
+Agedincum_R
+	Agedincum
+Ambiacum_R
+	Ambiacum
+Andecavium_R
+	Andecavium
+Andematunnum_R
+	Andematunnum
+Aquitania
+	Lemonum
+Argentomagus_R
+	Argentomagus
+Armorica
+	Condate_Redonum
+Artiaca_R
+	Artiaca
+Austricum_R
+	Austricum
+Avaricum_R
+	Avaricum
+Bibracte_R
+	Bibracte
+Brenodurum_R
+	Brenodurum
+Brocomagus_R
+	Brocomagus
+Cabillonum_R
+	Cabillonum
+Cadurcium_R
+	Cadurcium
+Cenabum_R
+	Cenabum
+Central_Gaul
+	Alesia
+Condevincum_R
+	Condevincum
+Corsiolitum_R
+	Corsiolitum
+Cossium_R
+	Cossium
+Crociatonum_R
+	Crociatonum
+Cularo_R
+	Cularo
+Darioritum_R
+	Darioritum
+Devona_R
+	Devona
+Durotincum_R
+	Durotincum
+Eburodunum_R
+	Eburodunum
+Eburomagus_R
+	Eburomagus
+Geneva_R
+	Geneva
+Gergovia_R
+	Gergovia
+Glanum_R
+	Glanum
+Ingena_R
+	Ingena
+Lugdinensis
+	Lugdunum
+LugdunumConvenarum_R
+	LugdunumConvenarum
+Maroventum_R
+	Maroventum
+MediolanumAulercorum_R
+	MediolanumAulercorum
+Mediolanum_Santonum_R
+	Mediolanum_Santonum
+Mediomatricorum_R
+	Mediomatricorum
+Narbonensis
+	Narbo_Martius
+Nasium_R
+	Nasium
+Nemasus_R
+	Nemasus
+NicaeaLiguria_R
+	NicaeaLiguria
+Noviodunum_R
+	Noviodunum
+NoviomagusVasatia_R
+	NoviomagusVasatia
+Noviomagus_Lexoviorum_R
+	Noviomagus_Lexoviorum
+Octodurus_R
+	Octodurus
+OlbiaLigystike_R
+	OlbiaLigystike
+Ruessium_R
+	Ruessium
+Segodunum_R
+	Segodunum
+Segustero_R
+	Segustero
+Suidinum_R
+	Suidinum
+Tarba_R
+	Tarba
+Tarbellium_R
+	Tarbellium
+Tolosa_R
+	Tolosa
+Transalpine_Gaul
+	Massilia
+Uxisame_R
+	Uxisame
+Valentia_R
+	Valentia
+Verodunum_R
+	Verodunum
+Vesontio_R
+	Vesontio
+Vesunna_R
+	Vesunna
+Vienna_R
+	Vienna
+Vorgium_R
+	Vorgium
+Boihaemum
+	Lovosice
+Boiodurum_R
+	Boiodurum
+Cambodunum_R
+	Cambodunum
+Casurgis_R
+	Casurgis
+Catenatium_R
+	Catenatium
+Coridorgis_R
+	Coridorgis
+Curia_R
+	Curia
+Furgisatis_R
+	Furgisatis
+Isarcium_R
+	Isarcium
+Lentia_R
+	Lentia
+Mediolanium_Racataea_R
+	Mediolanium_Racataea
+Meliodunum_R
+	Meliodunum
+Mogentiana_R
+	Mogentiana
+Noreia_R
+	Noreia
+Noricum
+	Iuvavum
+Poedicum_R
+	Poedicum
+Redintuinum_R
+	Redintuinum
+Rucinatium_R
+	Rucinatium
+Scarbantia_R
+	Scarbantia
+Setuacotum_R
+	Setuacotum
+Singone_R
+	Singone
+Sorviodurum_R
+	Sorviodurum
+Strevinta_R
+	Strevinta
+Tarodunum_R
+	Tarodunum
+Teurnia_R
+	Teurnia
+Tridentum_R
+	Tridentum
+Turicum_R
+	Turicum
+Veldidena_R
+	Veldidena
+Vindobona_R
+	Vindobona
+Volcaeum_R
+	Volcaeum
+Agri_Decumates
+	Mogontiacum
+Alisus_R
+	Alisus
+Arctaunum_R
+	Arctaunum
+Aregelia_R
+	Aregelia
+Arsicua_R
+	Arsicua
+Arsonium_R
+	Arsonium
+Asanca_R
+	Asanca
+Ascaucalis_R
+	Ascaucalis
+Asciburgium_R
+	Asciburgium
+Avionium_R
+	Avionium
+BatavodurumCity_R
+	BatavodurumCity
+Bergium_R
+	Bergium
+Bicurgium_R
+	Bicurgium
+Borbetomagus_R
+	Borbetomagus
+Budorigum_R
+	Budorigum
+Budoris_R
+	Budoris
+Calisia_R
+	Calisia
+Canduum_R
+	Canduum
+CarrodunumHercynia_R
+	CarrodunumHercynia
+Carrodunum_R
+	Carrodunum
+Chasuarium_R
+	Chasuarium
+Cheruscium_R
+	Cheruscium
+Cistuia_R
+	Cistuia
+Coenoenum_R
+	Coenoenum
+Colancorum_R
+	Colancorum
+Dandutium_R
+	Dandutium
+Eburum_R
+	Eburum
+Fabiranum_R
+	Fabiranum
+Firaesum_R
+	Firaesum
+Frisium_R
+	Frisium
+Germania_Inferior
+	Batavodurum
+Germania_Superior
+	Trier
+Gravionarium_R
+	Gravionarium
+Gutonium_R
+	Gutonium
+Hegetmatia_R
+	Hegetmatia
+Helisium_R
+	Helisium
+Hirrium_R
+	Hirrium
+Laciburgium_R
+	Laciburgium
+Leucaristus_R
+	Leucaristus
+Leufana_R
+	Leufana
+Limisdunum_R
+	Limisdunum
+Locus_Gothi
+	Vicus_Gothi
+LugdunumMenapia_R
+	LugdunumMenapia
+Lugidunum_R
+	Lugidunum
+Manimium_R
+	Manimium
+Marionis_R
+	Marionis
+Marobudum_R
+	Marobudum
+Mattium_R
+	Mattium
+MediolaniumMarsia_R
+	MediolaniumMarsia
+Mersovium_R
+	Mersovium
+Munitium_R
+	Munitium
+Navalia_R
+	Navalia
+Phleum_R
+	Phleum
+Regnum_Marcomannii
+	Vicus_Marcomannii
+RugiumBastarnia_R
+	RugiumBastarnia
+Scurgum_R
+	Scurgum
+Segodunum_Triboccia_R
+	Segodunum_Triboccia
+Sesudata_R
+	Sesudata
+Setidava_R
+	Setidava
+Setovia_R
+	Setovia
+Siatutanda_R
+	Siatutanda
+Stereontium_R
+	Stereontium
+Tecelia_R
+	Tecelia
+Treva_R
+	Treva
+Tribus_Chattii
+	Damme
+TropaeaDrusi_R
+	TropaeaDrusi
+Tulifurdum_R
+	Tulifurdum
+Tulisurgium_R
+	Tulisurgium
+Viritium_R
+	Viritium
+Virunum_R
+	Virunum
+Arochium_R
+	Arochium
+Augandzium_R
+	Augandzium
+Bergioum_R
+	Bergioum
+Burgundium_R
+	Burgundium
+Castrum_Gautorum_R
+	Castrum_Gautorum
+Chaedinium_R
+	Chaedinium
+Chalium_R
+	Chalium
+Cimbrium_R
+	Cimbrium
+Daucionum_R
+	Daucionum
+Eudosium_R
+	Eudosium
+Favonium_R
+	Favonium
+Finnium_R
+	Finnium
+Finnaithaeum_R
+	Finnaithaeum
+Fundusium_R
+	Fundusium
+Gautum_R
+	Gautum
+Hillevionum_R
+	Hillevionum
+Levonium_R
+	Levonium
+Nuithonium_R
+	Nuithonium
+Ranium_R
+	Ranium
+Rugium_R
+	Rugium
+Suardonium_R
+	Suardonium
+Suionium_R
+	Suionium
+Teutonium_R
+	Teutonium
+Tribus_Saxones
+	Bordesholm
+Vagautium_R
+	Vagautium
+Igyllionium_R
+	Igyllionium
+SavariKome_R
+	SavariKome
+AcibiKome_R
+	AcibiKome
+OssiKome_R
+	OssiKome
+Galindium_R
+	Galindium
+Sudinium_R
+	Sudinium
+Soulonium_R
+	Soulonium
+Sargenai_R
+	Sargenai
+Venedium_R
+	Venedium
+Locus_Gepidae
+	Domus_Dulcis_Domus
+Veltaeum_R
+	Veltaeum
+Firrium_R
+	Firrium
+Aestium_R
+	Aestium
+Osium_R
+	Osium
+Careotaeum_R
+	Careotaeum
+Tiuri_R
+	Tiuri
+GepidaeKome_R
+	GepidaeKome
+BulanesKome_R
+	BulanesKome
+Abdera_R
+	Abdera
+AkraLeuke_R
+	AkraLeuke
+Aracillum_R
+	Aracillum
+Arse_R
+	Arse
+Baetica
+	Corduba
+Baria_R
+	Baria
+Barkeno_R
+	Barkeno
+Basti_R
+	Basti
+Bracara_R
+	Bracara
+Brachile_R
+	Brachile
+Brigantium_R
+	Brigantium
+Carcuvium_R
+	Carcuvium
+Carteia_R
+	Carteia
+Castulo_R
+	Castulo
+Cauca_R
+	Cauca
+Celsa_R
+	Celsa
+Celtiberia
+	Numantia
+Complutum_R
+	Complutum
+Conimbriga_R
+	Conimbriga
+Dertosa_R
+	Dertosa
+Ebora_R
+	Ebora
+Egovarrium_R
+	Egovarrium
+Emporium_R
+	Emporium
+Ercavica_R
+	Ercavica
+Gadir_R
+	Gadir
+Gallaecia
+	Asturica
+Hellenibriga_R
+	Hellenibriga
+Helmantica_R
+	Helmantica
+Hemeroskopeion_R
+	Hemeroskopeion
+Hispalis_R
+	Hispalis
+Hispania
+	Carthago_Nova
+Ilerda_R
+	Ilerda
+Iliberri_R
+	Iliberri
+Ilorci_R
+	Ilorci
+Ilurcis_R
+	Ilurcis
+Iulipa_R
+	Iulipa
+Kelin_R
+	Kelin
+Libisosa_R
+	Libisosa
+Lusitania
+	Scallabis
+Malaca_R
+	Malaca
+Meidubriga_R
+	Meidubriga
+MirobrigaTurdulia_R
+	MirobrigaTurdulia
+Mirobriga_R
+	Mirobriga
+Moron_R
+	Moron
+Nemetobriga_R
+	Nemetobriga
+Noega_R
+	Noega
+Ocelodurum_R
+	Ocelodurum
+Onoba_R
+	Onoba
+Ossonoba_R
+	Ossonoba
+Oxthraca_R
+	Oxthraca
+Pallantia_R
+	Pallantia
+Pompelo_R
+	Pompelo
+Saiti_R
+	Saiti
+Salduba_R
+	Salduba
+Segida_R
+	Segida
+Segobriga_R
+	Segobriga
+Taraconenis
+	Osca
+Tarraco_R
+	Tarraco
+Termes_R
+	Termes
+Toletum_R
+	Toletum
+Turboleta_R
+	Turboleta
+Turgalium_R
+	Turgalium
+Urso_R
+	Urso
+Virovesca_R
+	Virovesca
+Baliares
+	Palma
+Ebusus_R
+	Ebusus
+Mago_R
+	Mago
+Acragas_R
+	Acragas
+Apua_R
+	Apua
+Apulia
+	Tarentum
+AriminumCity_R
+	AriminumCity
+Arpi_R
+	Arpi
+Asculum_R
+	Asculum
+Atria_R
+	Atria
+Bagiennium_R
+	Bagiennium
+Barium_R
+	Barium
+Bovianum_R
+	Bovianum
+Brixia_R
+	Brixia
+Brundisium_R
+	Brundisium
+Bruttium
+	Croton
+Camarina_R
+	Camarina
+Campania
+	Capua
+Catana_R
+	Catana
+Cisalpine_Gaul
+	Mediolanium
+Corfinium_R
+	Corfinium
+Cosa_R
+	Cosa
+Cosentia_R
+	Cosentia
+Cremona_R
+	Cremona
+Dertona_R
+	Dertona
+Enna_R
+	Enna
+Eryx_R
+	Eryx
+Etruria
+	Arretium
+Felsina_R
+	Felsina
+Fregellae_R
+	Fregellae
+Heraclea_R
+	Heraclea
+Hipponion_R
+	Hipponion
+Histonium_R
+	Histonium
+Iguvium_R
+	Iguvium
+Ilva_R
+	Ilva
+Ingaunum_R
+	Ingaunum
+Latium
+	Rome
+Liguria
+	Segesta
+Lipara_R
+	Lipara
+Locri_R
+	Locri
+Maleventum_R
+	Maleventum
+Melita_R
+	Melita
+Novaria_R
+	Novaria
+Opitergium_R
+	Opitergium
+Panormus_R
+	Panormus
+Parma_R
+	Parma
+Pisae_R
+	Pisae
+Poseidonia_R
+	Poseidonia
+Potentia_R
+	Potentia
+Rhegium_R
+	Rhegium
+Sicilia_Graecus
+	Syracuse
+Sicilia_Poeni
+	Lilybaeum
+Sicilia_Romanus
+	Messana
+Taurasia_R
+	Taurasia
+Tergeste_R
+	Tergeste
+Thurii_R
+	Thurii
+Umbria
+	Ariminum
+Venetia
+	Patavium
+Venusia_R
+	Venusia
+Volaterrae_R
+	Volaterrae
+Volsinii_R
+	Volsinii
+Aleria_R
+	Aleria
+OlbiaSardinica_R
+	OlbiaSardinica
+Macopsissa_R
+	Macopsissa
+Sardinia
+	Caralis
+Sulci_R
+	Sulci
+Tharros_R
+	Tharros
+Uselis_R
+	Uselis
+Aegium_R
+	Aegium
+Aetolia
+	Thermon
+Ambracia_R
+	Ambracia
+Amphipolis_R
+	Amphipolis
+ArgosOrestikon_R
+	ArgosOrestikon
+Argos_R
+	Argos
+Attica
+	Athens
+Cassandreia_R
+	Cassandreia
+Chalcis_R
+	Chalcis
+Chios_R
+	Chios
+Corcyra_R
+	Corcyra
+Crete
+	Kydonia
+Demetrias_R
+	Demetrias
+Dion_R
+	Dion
+Elis_R
+	Elis
+Epidamnus_R
+	Epidamnus
+Epirus
+	Apollonia
+Gortyna_R
+	Gortyna
+Hephaistia_R
+	Hephaistia
+HeracleaLyncestis_R
+	HeracleaLyncestis
+Heraclea_Sintike_R
+	Heraclea_Sintike
+Imbros_R
+	Imbros
+Itanos_R
+	Itanos
+Knossos_R
+	Knossos
+Kos_R
+	Kos
+Kythera_R
+	Kythera
+Laconia
+	Sparta
+Lamia_R
+	Lamia
+Leucas_R
+	Leucas
+Lykhnidos_R
+	Lykhnidos
+Macedonia
+	Thessalonica
+Maroneia_R
+	Maroneia
+Megalopolis_R
+	Megalopolis
+Messene_R
+	Messene
+Mytilene_R
+	Mytilene
+Naxos_R
+	Naxos
+Orchomenus_R
+	Orchomenus
+Paionia
+	Bylazora
+Passaron_R
+	Passaron
+Pella_R
+	Pella
+Peloponnesus
+	Corinth
+Phoenice_R
+	Phoenice
+Potidaion_R
+	Potidaion
+Rhodos
+	Rhodes
+Same_R
+	Same
+Samos_R
+	Samos
+Scupi_R
+	Scupi
+Stobi_R
+	Stobi
+Stratos_R
+	Stratos
+Thasos_R
+	Thasos
+ThebesBoeotia_R
+	ThebesBoeotia
+Thessalia
+	Larissa
+Tricca_R
+	Tricca
+Zakynthos_R
+	Zakynthos
+Anduaetium_R
+	Anduaetium
+AraBona_R
+	AraBona
+Argedava_R
+	Argedava
+Argidava_R
+	Argidava
+Bormanum_R
+	Bormanum
+Buridava_R
+	Buridava
+Candanum_R
+	Candanum
+Carsidava_R
+	Carsidava
+Cornacum_R
+	Cornacum
+Dacia
+	Porrolissum
+Drobeta_R
+	Drobeta
+Macrodava_R
+	Macrodava
+Maetonium_R
+	Maetonium
+Malva_R
+	Malva
+Napoca_R
+	Napoca
+Nentidava_R
+	Nentidava
+Osiorum_R
+	Osiorum
+Pannonia
+	Aquincum
+Parienna_R
+	Parienna
+Partiskon_R
+	Partiskon
+Patridava_R
+	Patridava
+Petrodava_R
+	Petrodava
+Polondava_R
+	Polondava
+Porolissum_R
+	Porolissum
+Ramidava_R
+	Ramidava
+Rucconium_R
+	Rucconium
+Sangidava_R
+	Sangidava
+Sarmizegetusa_R
+	Sarmizegetusa
+Sirmium_R
+	Sirmium
+Sopianis_R
+	Sopianis
+Tribus_Getae
+	Campus_Getae
+Tribus_Iazyges
+	Campus_Iazyges
+Tricciana_R
+	Tricciana
+Trissum_R
+	Trissum
+Zargidava_R
+	Zargidava
+Ziridava_R
+	Ziridava
+Zurobara_R
+	Zurobara
+Apsarus_R
+	Apsarus
+Arsa_R
+	Arsa
+Capedunum_R
+	Capedunum
+Dalmatia
+	Salona
+Daorson_R
+	Daorson
+Delminium_R
+	Delminium
+Emona_R
+	Emona
+HedumOppidum_R
+	HedumOppidum
+Iader_R
+	Iader
+Illyria
+	Segestica
+Issa_R
+	Issa
+Nesactium_R
+	Nesactium
+Pharos_R
+	Pharos
+Pirustaiopolis_R
+	Pirustaiopolis
+Poetovium_R
+	Poetovium
+Raetinium_R
+	Raetinium
+Rhizon_R
+	Rhizon
+Salinae_R
+	Salinae
+Scodra_R
+	Scodra
+Senia_R
+	Senia
+Serbinum_R
+	Serbinum
+Serota_R
+	Serota
+SetoviaDelmatia_R
+	SetoviaDelmatia
+Singidunum_R
+	Singidunum
+Ulpiana_R
+	Ulpiana
+Ainos_R
+	Ainos
+ApolloniaPontica_R
+	ApolloniaPontica
+Arubium_R
+	Arubium
+Beroe_R
+	Beroe
+Bizye_R
+	Bizye
+Callatis_R
+	Callatis
+Dunonia_R
+	Dunonia
+Durostorum_R
+	Durostorum
+Giridava_R
+	Giridava
+Helis_R
+	Helis
+Hyperpericum_R
+	Hyperpericum
+Istros_R
+	Istros
+Kabyle_R
+	Kabyle
+Kypsela_R
+	Kypsela
+Lysimachia_R
+	Lysimachia
+Mesembria_R
+	Mesembria
+Montanesium_R
+	Montanesium
+Naissus_R
+	Naissus
+Obulensiopolis_R
+	Obulensiopolis
+Odessus_R
+	Odessus
+Odryssa_R
+	Odryssa
+Pautalia_R
+	Pautalia
+Perinthus_R
+	Perinthus
+Philippopolis_R
+	Philippopolis
+Propontis
+	Byzantium
+Serdica_R
+	Serdica
+Seuthopolis_R
+	Seuthopolis
+Thrace
+	Tylis
+Abydos_R
+	Abydos
+Adana_R
+	Adana
+Adramyttium_R
+	Adramyttium
+AlexandriaTroas_R
+	AlexandriaTroas
+Amaseia_R
+	Amaseia
+Amastris_R
+	Amastris
+Amathous_R
+	Amathous
+Amisus_R
+	Amisus
+Anazarbus_R
+	Anazarbus
+Anemourion_R
+	Anemourion
+Antiochia_Taurus_R
+	Antiochia_Taurus
+ApameaMaeandrum_R
+	ApameaMaeandrum
+Ariarathia_R
+	Ariarathia
+Bithynia
+	Nicomedia
+Bithynium_R
+	Bithynium
+Cappadocia
+	Mazaka
+Chalcedon_R
+	Chalcedon
+Cibyra_R
+	Cibyra
+Cilicia
+	Tarsus
+Cius_R
+	Cius
+ComanaPontica_R
+	ComanaPontica
+Comana_R
+	Comana
+Coracesium_R
+	Coracesium
+Cotyaeum_R
+	Cotyaeum
+Cotyora_R
+	Cotyora
+Cyme_R
+	Cyme
+Cyprus
+	Salamis
+Cyzicus_R
+	Cyzicus
+Dascylium_R
+	Dascylium
+Dasteira_R
+	Dasteira
+Docimium_R
+	Docimium
+Dorylaeum_R
+	Dorylaeum
+Eccobriga_R
+	Eccobriga
+Ephesus_R
+	Ephesus
+Erythrae_R
+	Erythrae
+Galatia
+	Ancyra
+Gangra_R
+	Gangra
+Garsaura_R
+	Garsaura
+Gaziura_R
+	Gaziura
+HeracleaPontica_R
+	HeracleaPontica
+Iconium_R
+	Iconium
+Ionia
+	Sardis
+Isaura_R
+	Isaura
+Karana_R
+	Karana
+Kaunos_R
+	Kaunos
+Knidos_R
+	Knidos
+Koloussa_R
+	Koloussa
+LaodiceaLycus_R
+	LaodiceaLycus
+Laranda_R
+	Laranda
+Limyra_R
+	Limyra
+Lycia
+	Halicarnasus
+Melitene_R
+	Melitene
+Miletus_R
+	Miletus
+Mlaundus_R
+	Mlaundus
+NeaPaphos_R
+	NeaPaphos
+Nicaea_R
+	Nicaea
+Parnassos_R
+	Parnassos
+Patara_R
+	Patara
+Peium_R
+	Peium
+Perge_R
+	Perge
+Pessinus_R
+	Pessinus
+Philomelion_R
+	Philomelion
+Phrygia
+	Pergamum
+Pimolisa_R
+	Pimolisa
+Pontus
+	Sinope
+Sagalassos_R
+	Sagalassos
+Samosata_R
+	Samosata
+SeleuciaCalycadnum_R
+	SeleuciaCalycadnum
+Side_R
+	Side
+Smyrna_R
+	Smyrna
+Soloi_R
+	Soloi
+Stratonicea_R
+	Stratonicea
+Tavium_R
+	Tavium
+Tios_R
+	Tios
+Trapezus_R
+	Trapezus
+Tyana_R
+	Tyana
+AntiochiaArabis_R
+	AntiochiaArabis
+ApameaOrontes_R
+	ApameaOrontes
+ApameaZeugma_R
+	ApameaZeugma
+Araban_R
+	Araban
+Arados_R
+	Arados
+Arethusa_R
+	Arethusa
+Beroia_R
+	Beroia
+Byblos_R
+	Byblos
+Characmoba_R
+	Characmoba
+Coele_Syria
+	Damascus
+Eboda_R
+	Eboda
+Edessa_R
+	Edessa
+Gadara_R
+	Gadara
+Gaza_R
+	Gaza
+Heliopolis_R
+	Heliopolis
+Hierapolis_R
+	Hierapolis
+Ioppe_R
+	Ioppe
+Judaea
+	Jerusalem
+Laodicea_R
+	Laodicea
+Nabataea
+	Bostra
+Nikephorion_R
+	Nikephorion
+Paneas_R
+	Paneas
+Philadelphia_R
+	Philadelphia
+Phoenicia
+	Sidon
+Ptolemais_R
+	Ptolemais
+Regnum_Palmyrae
+	Palmyra
+Rhinokolura_R
+	Rhinokolura
+SeleuciaPieria_R
+	SeleuciaPieria
+Syria
+	Antioch
+Tripolis_R
+	Tripolis
+Tyre_R
+	Tyre
+AntiochiaSittacene_R
+	AntiochiaSittacene
+ApameaSittacene_R
+	ApameaSittacene
+Arbela_R
+	Arbela
+Arrapha_R
+	Arrapha
+Artemita_R
+	Artemita
+Assyria
+	Hatra
+Babylon_R
+	Babylon
+Babylonia
+	Seleucia
+Birtha_R
+	Birtha
+Chala_R
+	Chala
+CharaxSpasinu_R
+	CharaxSpasinu
+Charmande_R
+	Charmande
+Dura_R
+	Dura
+Girsu_R
+	Girsu
+Gorbatha_R
+	Gorbatha
+Isiopolis_R
+	Isiopolis
+Nineveh_R
+	Nineveh
+Nippur_R
+	Nippur
+Nisibis_R
+	Nisibis
+Opis_R
+	Opis
+Orkhoe_R
+	Orkhoe
+Sareisa_R
+	Sareisa
+Teredon_R
+	Teredon
+Amida_R
+	Amida
+Armenia
+	Artaxarta
+Arsamosata_R
+	Arsamosata
+Arsarata_R
+	Arsarata
+Artageira_R
+	Artageira
+Ashtishat_R
+	Ashtishat
+Atra_R
+	Atra
+Carcathiocerta_R
+	Carcathiocerta
+Gabris_R
+	Gabris
+GelonKome_R
+	GelonKome
+Gorneae_R
+	Gorneae
+Kamacha_R
+	Kamacha
+Kapouta_R
+	Kapouta
+Karin_R
+	Karin
+Kepha_R
+	Kepha
+Manavazkert_R
+	Manavazkert
+Morunda_R
+	Morunda
+Naxouana_R
+	Naxouana
+Olane_R
+	Olane
+Parnes_R
+	Parnes
+Ptoua_R
+	Ptoua
+Satala_R
+	Satala
+Seltia_R
+	Seltia
+Thospia_R
+	Thospia
+Aganzana_R
+	Aganzana
+AlexandriaCarmania_R
+	AlexandriaCarmania
+Alinza_R
+	Alinza
+Amol_R
+	Amol
+Ange_R
+	Ange
+AntiochiaPersis_R
+	AntiochiaPersis
+ApameaRagiana_R
+	ApameaRagiana
+Arakia_R
+	Arakia
+Archiotis_R
+	Archiotis
+Artacana_R
+	Artacana
+Aspadana_R
+	Aspadana
+Assak_R
+	Assak
+Atropatene
+	Phraaspa
+Bam_R
+	Bam
+Cyropolis_R
+	Cyropolis
+Denabaran_R
+	Denabaran
+Elymais
+	Susa
+Europus_R
+	Europus
+Gabra_R
+	Gabra
+Gauna_R
+	Gauna
+Gazaca_R
+	Gazaca
+Gurgan_R
+	Gurgan
+Harmozeia_R
+	Harmozeia
+Hecatompylos_R
+	Hecatompylos
+Issatis_R
+	Issatis
+Kamtina_R
+	Kamtina
+Kumandan_R
+	Kumandan
+LaodiceaMedia_R
+	LaodiceaMedia
+Media
+	Arsakia
+NiceaNialia_R
+	NiceaNialia
+Niguza_R
+	Niguza
+Oracana_R
+	Oracana
+Ormi_R
+	Ormi
+Pantyene_R
+	Pantyene
+Parbara_R
+	Parbara
+Parodana_R
+	Parodana
+Pasa_R
+	Pasa
+Pasargadae_R
+	Pasargadae
+Persepolis_R
+	Persepolis
+Rapsa_R
+	Rapsa
+Saura_R
+	Saura
+SeleuciaHedyphon_R
+	SeleuciaHedyphon
+Semina_R
+	Semina
+Sidone_R
+	Sidone
+Siraf_R
+	Siraf
+Syringis_R
+	Syringis
+Tabai_R
+	Tabai
+Tagai_R
+	Tagai
+Taryana_R
+	Taryana
+Tastache_R
+	Tastache
+Tribazina_R
+	Tribazina
+Zadracarta_R
+	Zadracarta
+AlexandriaArachosia_R
+	AlexandriaArachosia
+AlexandriaAriana_R
+	AlexandriaAriana
+AlexandriaCaucasus_R
+	AlexandriaCaucasus
+AlexandriaOpiana_R
+	AlexandriaOpiana
+AlexandriaOrietai_R
+	AlexandriaOrietai
+AlexandriaProphthasia_R
+	AlexandriaProphthasia
+Arana_R
+	Arana
+Artoarta_R
+	Artoarta
+Bagisara_R
+	Bagisara
+Bamiyan_R
+	Bamiyan
+Bandara_R
+	Bandara
+Barna_R
+	Barna
+Cuni_R
+	Cuni
+Fannazbur_R
+	Fannazbur
+Gonaca_R
+	Gonaca
+HeracleaAchais_R
+	HeracleaAchais
+Iasonium_R
+	Iasonium
+Kophen_R
+	Kophen
+Min_R
+	Min
+Neh_R
+	Neh
+Paracanaca_R
+	Paracanaca
+Pura_R
+	Pura
+Sabarz_R
+	Sabarz
+Sarakhs_R
+	Sarakhs
+Sigal_R
+	Sigal
+Soteira_R
+	Soteira
+Susia_R
+	Susia
+Tisa_R
+	Tisa
+Zimana_R
+	Zimana
+Zranka_R
+	Zranka
+Akhsikath_R
+	Akhsikath
+AlexandriaEschate_R
+	AlexandriaEschate
+AlexandriaOxiana_R
+	AlexandriaOxiana
+AntiochiaScythia_R
+	AntiochiaScythia
+Bactra_R
+	Bactra
+Baharak_R
+	Baharak
+Chach_R
+	Chach
+Cyropolis_Sogdiana_R
+	Cyropolis_Sogdiana
+Drapsaka_R
+	Drapsaka
+DrepsaMetropolis_R
+	DrepsaMetropolis
+Ershi_R
+	Ershi
+Eshkashem_R
+	Eshkashem
+Gazaba_R
+	Gazaba
+Hukande_R
+	Hukande
+Isfijab_R
+	Isfijab
+Maracanda_R
+	Maracanda
+Maracodra_R
+	Maracodra
+MaroukaCity_R
+	MaroukaCity
+Marouka_R
+	Marouka
+Maruca_R
+	Maruca
+Mayamana_R
+	Mayamana
+MenapiaBactriane_R
+	MenapiaBactriane
+Murjinon_R
+	Murjinon
+Nakhshab_R
+	Nakhshab
+Nautaca_R
+	Nautaca
+Nur_R
+	Nur
+Parab_R
+	Parab
+Phratrua_R
+	Phratrua
+Poikalon_R
+	Poikalon
+Shurabashat_R
+	Shurabashat
+Tarmita_R
+	Tarmita
+Tribactra_R
+	Tribactra
+Varakhsha_R
+	Varakhsha
+Zamm_R
+	Zamm
+Adraspa_R
+	Adraspa
+Alicodra_R
+	Alicodra
+AntiochiaMargiana_R
+	AntiochiaMargiana
+ApasiacaeKome_R
+	ApasiacaeKome
+Apauarktike_R
+	Apauarktike
+Ariaca_R
+	Ariaca
+Aspabota_R
+	Aspabota
+Barange_R
+	Barange
+Cavaris_R
+	Cavaris
+Chatracharta_R
+	Chatracharta
+ComariKome_R
+	ComariKome
+Davaba_R
+	Davaba
+EresKala_R
+	EresKala
+Evusmi_R
+	Evusmi
+Khavrana_R
+	Khavrana
+Nisa_R
+	Nisa
+Parau_R
+	Parau
+Roksanaki_R
+	Roksanaki
+Sidak_R
+	Sidak
+TokKala_R
+	TokKala
+Tribus_Sakae
+	Campus_Sakae
+Urgench_R
+	Urgench
+XanthioiKome_R
+	XanthioiKome
+Archaeopolis_R
+	Archaeopolis
+Bagavan_R
+	Bagavan
+Chadacha_R
+	Chadacha
+Colchis
+	Kotais
+Dioscurias_R
+	Dioscurias
+GerriKome_R
+	GerriKome
+Harmozica_R
+	Harmozica
+Kaballa_R
+	Kaballa
+Khabala_R
+	Khabala
+Mtskheta_R
+	Mtskheta
+Phasis_R
+	Phasis
+Pityus_R
+	Pityus
+Shaka_R
+	Shaka
+Teleda_R
+	Teleda
+Tsunda_R
+	Tsunda
+Tzon_R
+	Tzon
+Africa
+	Carthage
+Agadir_R
+	Agadir
+Altava_R
+	Altava
+Antipyrgos_R
+	Antipyrgos
+Arambys_R
+	Arambys
+Aspis_R
+	Aspis
+Augila_R
+	Augila
+Autolalae_R
+	Autolalae
+Automalax_R
+	Automalax
+Auzia_R
+	Auzia
+Banasa_R
+	Banasa
+Barce_R
+	Barce
+Benta_R
+	Benta
+Byzacium
+	Thapsus
+Cartenna_R
+	Cartenna
+Cercinna_R
+	Cercinna
+Cossura_R
+	Cossura
+Cufra_R
+	Cufra
+Cydamus_R
+	Cydamus
+Cyrenaica
+	Cyrene
+Darnis_R
+	Darnis
+Dorath_R
+	Dorath
+Euesperides_R
+	Euesperides
+Gaetulia
+	Dimmidi
+Garama_R
+	Garama
+Gemmelle_R
+	Gemmelle
+Gigthis_R
+	Gigthis
+Girba_R
+	Girba
+Hippo_R
+	Hippo
+Iarzitha_R
+	Iarzitha
+Icosium_R
+	Icosium
+Ifeyyey_R
+	Ifeyyey
+Igilgili_R
+	Igilgili
+Iol_R
+	Iol
+Lixus_R
+	Lixus
+Macomades_R
+	Macomades
+Madauros_R
+	Madauros
+Magura_R
+	Magura
+Mascula_R
+	Mascula
+Mauretania
+	Tingi
+Mina_R
+	Mina
+Molochath_R
+	Molochath
+Mysocaras_R
+	Mysocaras
+NeapolisZeugitana_R
+	NeapolisZeugitana
+NigritaeCamp_R
+	NigritaeCamp
+Numidia
+	Cirta
+OasisAghlan_R
+	OasisAghlan
+Oea_R
+	Oea
+Quiza_R
+	Quiza
+Rusadir_R
+	Rusadir
+Rusibis_R
+	Rusibis
+Sabae_R
+	Sabae
+Sabratha_R
+	Sabratha
+Sahara
+	Nepte
+Sala_R
+	Sala
+Saldae_R
+	Saldae
+Sicca_R
+	Sicca
+Siga_R
+	Siga
+Sitifis_R
+	Sitifis
+Sufetula_R
+	Sufetula
+Tacape_R
+	Tacape
+Taenia_R
+	Taenia
+Tamdoult_R
+	Tamdoult
+Tamusiga_R
+	Tamusiga
+Taparura_R
+	Taparura
+Tetrapyrgia_R
+	Tetrapyrgia
+Thabraca_R
+	Thabraca
+Thalubath_R
+	Thalubath
+ThapsusCity_R
+	ThapsusCity
+Thenteos_R
+	Thenteos
+Theveste_R
+	Theveste
+Thubactis_R
+	Thubactis
+Thugga_R
+	Thugga
+Thusuros_R
+	Thusuros
+Tigit_R
+	Tigit
+Tingartia_R
+	Tingartia
+Tripolitania
+	Lepcis_Magna
+Tucrumuda_R
+	Tucrumuda
+Uddita_R
+	Uddita
+Utica_R
+	Utica
+Volubilis_R
+	Volubilis
+Zabi_R
+	Zabi
+Abalessa_R
+	Abalessa
+Buata_R
+	Buata
+Byntha_R
+	Byntha
+Cuphe_R
+	Cuphe
+Geva_R
+	Geva
+GiraMetropolis_R
+	GiraMetropolis
+Ischeri_R
+	Ischeri
+Lynxama_R
+	Lynxama
+Malachath_R
+	Malachath
+NigiraMetropolis_R
+	NigiraMetropolis
+Tagama_R
+	Tagama
+Thabudis_R
+	Thabudis
+Thamondocana_R
+	Thamondocana
+Vellegia_R
+	Vellegia
+Apollinopolis_R
+	Apollinopolis
+ArsinoeClysma_R
+	ArsinoeClysma
+Athribis_R
+	Athribis
+BerenicePanchrysos_R
+	BerenicePanchrysos
+BereniceTroglodytica_R
+	BereniceTroglodytica
+Crocodilopolis_R
+	Crocodilopolis
+DiospolisMikra_R
+	DiospolisMikra
+HeracleapolisMagna_R
+	HeracleapolisMagna
+Hermopolis_R
+	Hermopolis
+Hibis_R
+	Hibis
+Libya
+	Siwa
+Lycopolis_R
+	Lycopolis
+Middle_Egypt
+	Memphis
+MyosHormos_R
+	MyosHormos
+Naucratis_R
+	Naucratis
+Nile_Delta
+	Alexandria
+Oxyrhynchus_R
+	Oxyrhynchus
+Pachoras_R
+	Pachoras
+Paraetonium_R
+	Paraetonium
+Parva_R
+	Parva
+Pelusium_R
+	Pelusium
+Philotera_R
+	Philotera
+Premis_R
+	Premis
+Pselchis_R
+	Pselchis
+PtolemaisHermeiou_R
+	PtolemaisHermeiou
+Rhaithou_R
+	Rhaithou
+Syene_R
+	Syene
+Tanis_R
+	Tanis
+Thebais
+	Thebes
+Thmuis_R
+	Thmuis
+Adulis_R
+	Adulis
+Araba_R
+	Araba
+Arsinoe_R
+	Arsinoe
+AthagausKome_R
+	AthagausKome
+Aualites_R
+	Aualites
+Axum_R
+	Axum
+BlemmyeKome_R
+	BlemmyeKome
+Daron_R
+	Daron
+Dongolo_R
+	Dongolo
+Eser_R
+	Eser
+Gey_R
+	Gey
+Hypaton_R
+	Hypaton
+KoloeAithiopia_R
+	KoloeAithiopia
+Koloe_R
+	Koloe
+MaiAdresha_R
+	MaiAdresha
+Malao_R
+	Malao
+Maste_R
+	Maste
+Meroe_R
+	Meroe
+Mondou_R
+	Mondou
+Morou_R
+	Morou
+Mosyllum_R
+	Mosyllum
+Napata_R
+	Napata
+Opone_R
+	Opone
+Paroa_R
+	Paroa
+Patinga_R
+	Patinga
+Primis_R
+	Primis
+PtolemaisTheron_R
+	PtolemaisTheron
+Roha_R
+	Roha
+Sabai_R
+	Sabai
+Sacolche_R
+	Sacolche
+Scammos_R
+	Scammos
+Tamania_R
+	Tamania
+Tamrida_R
+	Tamrida
+Yiha_R
+	Yiha
+Abisama_R
+	Abisama
+Abyssa_R
+	Abyssa
+Adane_R
+	Adane
+Aila_R
+	Aila
+Appa_R
+	Appa
+Arabia
+	Dumatha
+Ausara_R
+	Ausara
+Badeo_R
+	Badeo
+Cana_R
+	Cana
+Charmutha_R
+	Charmutha
+Gerrha_R
+	Gerrha
+Hegra_R
+	Hegra
+Hierakon_R
+	Hierakon
+Inapha_R
+	Inapha
+Karna_R
+	Karna
+Kathara_R
+	Kathara
+Khatt_R
+	Khatt
+KryptosLimen_R
+	KryptosLimen
+LeukeKome_R
+	LeukeKome
+Makoraba_R
+	Makoraba
+Mariba_R
+	Mariba
+Marma_R
+	Marma
+Muza_R
+	Muza
+Negram_R
+	Negram
+Omana_R
+	Omana
+Phoenicum_R
+	Phoenicum
+Rhegma_R
+	Rhegma
+SabaiChattenia_R
+	SabaiChattenia
+Sabatha_R
+	Sabatha
+Sadasara_R
+	Sadasara
+Salma_R
+	Salma
+Sanaa_R
+	Sanaa
+Sapphar_R
+	Sapphar
+Sarapis_R
+	Sarapis
+SeleuciaErythrea_R
+	SeleuciaErythrea
+Sinai
+	Petra
+Sohar_R
+	Sohar
+Tabawa_R
+	Tabawa
+Tamna_R
+	Tamna
+Tema_R
+	Tema
+Thialemath_R
+	Thialemath
+Thomala_R
+	Thomala
+Tylos_R
+	Tylos
+Ubar_R
+	Ubar
+Yathrib_R
+	Yathrib
+Zabram_R
+	Zabram
+Panticapaeum_R
+	Panticapaeum
+Theodosia_R
+	Theodosia
+Cercinitis_R
+	Cercinitis
+ScythianNeapolis_R
+	ScythianNeapolis
+Bosphorus
+	Chersonesos
+ScythianPaleaopolis_R
+	ScythianPaleaopolis
+KalosLimen_R
+	KalosLimen
+Abunis_R
+	Abunis
+Amadoca_R
+	Amadoca
+AndrophagiCamp_R
+	AndrophagiCamp
+Arsietaeum_R
+	Arsietaeum
+Azara_R
+	Azara
+BoudiniCamp_R
+	BoudiniCamp
+Carcina_R
+	Carcina
+Cariscus_R
+	Cariscus
+Clepidava_R
+	Clepidava
+CoraxiKome_R
+	CoraxiKome
+Corusia_R
+	Corusia
+Costobocum_R
+	Costobocum
+DerbicesKome_R
+	DerbicesKome
+Eractum_R
+	Eractum
+Gelonus_R
+	Gelonus
+Gerrhos_R
+	Gerrhos
+Gorgippia_R
+	Gorgippia
+Helmia_R
+	Helmia
+Hexopolis_R
+	Hexopolis
+Hygres_R
+	Hygres
+IaxamataeKome_R
+	IaxamataeKome
+IdraeCamp_R
+	IdraeCamp
+IsondaeCamp_R
+	IsondaeCamp
+IyrkaeCamp_R
+	IyrkaeCamp
+JazygesCamp_R
+	JazygesCamp
+Kremnoi_R
+	Kremnoi
+Leinum_R
+	Leinum
+Maeotis
+	Tanais
+Msandar_R
+	Msandar
+Navaris_R
+	Navaris
+Nikonion_R
+	Nikonion
+Niossum_R
+	Niossum
+Ojum_R
+	Ojum
+Olbia_R
+	Olbia
+OlondaeCamp_R
+	OlondaeCamp
+Ophioussa_R
+	Ophioussa
+OphlonesCamp_R
+	OphlonesCamp
+OudaeCamp_R
+	OudaeCamp
+PalaiaAchaia_R
+	PalaiaAchaia
+Pataroue_R
+	Pataroue
+PerierbidiCamp_R
+	PerierbidiCamp
+Petridava_R
+	Petridava
+Phanagoria_R
+	Phanagoria
+PhtheirophagiKome_R
+	PhtheirophagiKome
+Pripet
+	Vicus_Venedae
+SanaraiKome_R
+	SanaraiKome
+Sanaraiopolis_R
+	Sanaraiopolis
+Sarbacum_R
+	Sarbacum
+Sarum_R
+	Sarum
+ScymnitaeKome_R
+	ScymnitaeKome
+ScythianCamp_R
+	ScythianCamp
+ScythianMetropolis_R
+	ScythianMetropolis
+Scythia
+	Campus_Scythii
+Seraca_R
+	Seraca
+SuraniKome_R
+	SuraniKome
+TaniataeCamp_R
+	TaniataeCamp
+ThyssagetaeCamp_R
+	ThyssagetaeCamp
+Touschoiopolis_R
+	Touschoiopolis
+Tracana_R
+	Tracana
+Tribus_Alanni
+	Campus_Alanni
+Tribus_Sarmatae
+	Campus_Sarmatae
+Tyras_R
+	Tyras
+UpperAorsiCamp_R
+	UpperAorsiCamp
+Uspe_R
+	Uspe
+Vibantavarium_R
+	Vibantavarium
+AbiaeKome_R
+	AbiaeKome
+AlanCamp_R
+	AlanCamp
+Almatau_R
+	Almatau
+ArggipaeiCamp_R
+	ArggipaeiCamp
+AsianiKome_R
+	AsianiKome
+AspisiCamp_R
+	AspisiCamp
+AugasiiKome_R
+	AugasiiKome
+Auzacia_R
+	Auzacia
+Balasagun_R
+	Balasagun
+IastaeCamp_R
+	IastaeCamp
+IssedonScythia_R
+	IssedonScythia
+Issedon_R
+	Issedon
+JiankunCamp_R
+	JiankunCamp
+Kulja_R
+	Kulja
+KyrgyzCamp_R
+	KyrgyzCamp
+MagyarCamp_R
+	MagyarCamp
+MassagetaeCamp_R
+	MassagetaeCamp
+MateriCamp_R
+	MateriCamp
+ModocaeKome_R
+	ModocaeKome
+SakaCamp_R
+	SakaCamp
+SakaRaukaCamp_R
+	SakaRaukaCamp
+SakamurundaCamp_R
+	SakamurundaCamp
+SakatigraxaudaKome_R
+	SakatigraxaudaKome
+TektosakaKome_R
+	TektosakaKome
+Wutanzili_R
+	Wutanzili
+AgathyrsiKome_R
+	AgathyrsiKome
+ArimaspiCamp_R
+	ArimaspiCamp
+Arimphaei_Camp_R
+	Arimphaei_Camp
+Borusci_Camp_R
+	Borusci_Camp
+Carbonium_R
+	Carbonium
+ChaenidesKome_R
+	ChaenidesKome
+GeviniKome_R
+	GeviniKome
+HippopodesKome_R
+	HippopodesKome
+Melanchlainopolis_R
+	Melanchlainopolis
+NasciKome_R
+	NasciKome
+Salium_R
+	Salium
+Stavanium_R
+	Stavanium
+Karadong_R
+	Karadong
+Karasahr_R
+	Karasahr
+Kasia_R
+	Kasia
+Keladun_R
+	Keladun
+Khotan_R
+	Khotan
+Korla_R
+	Korla
+Kroran_R
+	Kroran
+Kucha_R
+	Kucha
+Kumo_R
+	Kumo
+Luntai_R
+	Luntai
+Miran_R
+	Miran
+Niya_R
+	Niya
+Palliana_R
+	Palliana
+Pishan_R
+	Pishan
+Qarqan_R
+	Qarqan
+Suoju_R
+	Suoju
+Tashkurghan_R
+	Tashkurghan
+Tumxuk_R
+	Tumxuk
+Ush_R
+	Ush
+Weili_R
+	Weili
+Wensu_R
+	Wensu
+Yarkand_R
+	Yarkand
+Yuni_R
+	Yuni
+Astana_R
+	Astana
+Cumuda_R
+	Cumuda
+Dunhuang_R
+	Dunhuang
+TuyuhunCamp_R
+	TuyuhunCamp
+WusunCamp_R
+	WusunCamp
+Yarkhoto_R
+	Yarkhoto
+YuezhiCamp_R
+	YuezhiCamp
+Yumen_R
+	Yumen
+AshinaCamp_R
+	AshinaCamp
+ChubeiXiongnuCamp_R
+	ChubeiXiongnuCamp
+Damna_R
+	Damna
+DinglingCamp_R
+	DinglingCamp
+GekunCamp_R
+	GekunCamp
+Guqung_R
+	Guqung
+HujieCamp_R
+	HujieCamp
+HunyuCamp_R
+	HunyuCamp
+Jumi_R
+	Jumi
+JushiCamp_R
+	JushiCamp
+LanXiongnuCamp_R
+	LanXiongnuCamp
+Pulei_R
+	Pulei
+QusheCamp_R
+	QusheCamp
+SamoyedCamp_R
+	SamoyedCamp
+TegregCamp_R
+	TegregCamp
+Urabo_R
+	Urabo
+Usu_R
+	Usu
+XinliCamp_R
+	XinliCamp
+XubuXiongnuCamp_R
+	XubuXiongnuCamp
+Aiaka_R
+	Aiaka
+Askardu_R
+	Askardu
+ChangtangCamp_R
+	ChangtangCamp
+Gandharva_R
+	Gandharva
+Gyantse_R
+	Gyantse
+Jumla_R
+	Jumla
+KadamCamp_R
+	KadamCamp
+KagyuCamp_R
+	KagyuCamp
+Kimpurusha_R
+	Kimpurusha
+Lhasa_R
+	Lhasa
+Loha_R
+	Loha
+Paro_R
+	Paro
+Rutog_R
+	Rutog
+Shigatse_R
+	Shigatse
+Skardu_R
+	Skardu
+Srinagara_R
+	Srinagara
+Tsetang_R
+	Tsetang
+AlexandriaIndus_R
+	AlexandriaIndus
+Amaktis_R
+	Amaktis
+Andrapana_R
+	Andrapana
+Arigaeum_R
+	Arigaeum
+Aristobathara_R
+	Aristobathara
+Aristobathra_R
+	Aristobathra
+Asigramma_R
+	Asigramma
+Azika_R
+	Azika
+Barbaricum_R
+	Barbaricum
+Bauterna_R
+	Bauterna
+Bucephala_R
+	Bucephala
+Cottabara_R
+	Cottabara
+Daidala_R
+	Daidala
+Dyrta_R
+	Dyrta
+Kamigara_R
+	Kamigara
+Kurupura_R
+	Kurupura
+Labokla_R
+	Labokla
+Minnagara_R
+	Minnagara
+Mulasthana_R
+	Mulasthana
+Naagramma_R
+	Naagramma
+Nagahara_R
+	Nagahara
+Naustathmos_R
+	Naustathmos
+NicaeaIndus_R
+	NicaeaIndus
+Panassa_R
+	Panassa
+Patala_R
+	Patala
+Prasthala_R
+	Prasthala
+Purushapura_R
+	Purushapura
+Pushkalavati_R
+	Pushkalavati
+Rajapura_R
+	Rajapura
+Sabana_R
+	Sabana
+Sagala_R
+	Sagala
+Shivipura_R
+	Shivipura
+Sibipura_R
+	Sibipura
+Sindomana_R
+	Sindomana
+Singhapura_R
+	Singhapura
+Taxila_R
+	Taxila
+Tiausa_R
+	Tiausa
+Trigarta_R
+	Trigarta
+Tulamba_R
+	Tulamba
+Uragapura_R
+	Uragapura
+Varnu_R
+	Varnu
+Xoana_R
+	Xoana
+Pragjyotishpura_R
+	Pragjyotishpura
+Durjaya_R
+	Durjaya
+Monyul_R
+	Monyul
+Salariga_R
+	Salariga
+Pundranagara_R
+	Pundranagara
+Kelydna_R
+	Kelydna
+Aganagara_R
+	Aganagara
+Pertalis_R
+	Pertalis
+Tamralipta_R
+	Tamralipta
+Haritakivan_R
+	Haritakivan
+Bamanghati_R
+	Bamanghati
+Sthanishvara_R
+	Sthanishvara
+Dronanagari_R
+	Dronanagari
+Khokhrakot_R
+	Khokhrakot
+Hastinapura_R
+	Hastinapura
+Mathura_R
+	Mathura
+Ahichchhatra_R
+	Ahichchhatra
+Kanyakubja_R
+	Kanyakubja
+Karvirpur_R
+	Karvirpur
+Kaushambi_R
+	Kaushambi
+Varanasi_R
+	Varanasi
+Saketa_R
+	Saketa
+Sravasti_R
+	Sravasti
+Kapilavastu_R
+	Kapilavastu
+Kushinara_R
+	Kushinara
+Devanapatana_R
+	Devanapatana
+Rajagriha_R
+	Rajagriha
+Champa_R
+	Champa
+Vaishali_R
+	Vaishali
+Mithila_R
+	Mithila
+Pataliputra_R
+	Pataliputra
+Saharsa_R
+	Saharsa
+Naimisha_R
+	Naimisha
+Viratanagara_R
+	Viratanagara
+Mrittikavati_R
+	Mrittikavati
+Kantipura_R
+	Kantipura
+Padmavati_R
+	Padmavati
+Erakaksa_R
+	Erakaksa
+Pulindanagara_R
+	Pulindanagara
+Suktimati_R
+	Suktimati
+Tripuri_R
+	Tripuri
+Vidisha_R
+	Vidisha
+Mahishmati_R
+	Mahishmati
+Ujjain_R
+	Ujjain
+Dashapura_R
+	Dashapura
+Madhyamika_R
+	Madhyamika
+Pushkara_R
+	Pushkara
+Kanthi_R
+	Kanthi
+Vamanasthali_R
+	Vamanasthali
+Vallabhipura_R
+	Vallabhipura
+Saudrabatva_R
+	Saudrabatva
+Ajabpura_R
+	Ajabpura
+Bharukaccha_R
+	Bharukaccha
+Sopara_R
+	Sopara
+Mandagara_R
+	Mandagara
+Govapuri_R
+	Govapuri
+Olochoira_R
+	Olochoira
+Ezhimala_R
+	Ezhimala
+Vanchi_R
+	Vanchi
+Kuzhumur_R
+	Kuzhumur
+Navashikh_R
+	Navashikh
+Junnar_R
+	Junnar
+Pratishthana_R
+	Pratishthana
+Vatsagulma_R
+	Vatsagulma
+Kundinapuri_R
+	Kundinapuri
+Nandivardhana_R
+	Nandivardhana
+Bilaspura_R
+	Bilaspura
+Sripura_R
+	Sripura
+Asurgarh_R
+	Asurgarh
+Samapa_R
+	Samapa
+Pauni_R
+	Pauni
+Sabbinadu_R
+	Sabbinadu
+Podanapura_R
+	Podanapura
+Kondapur_R
+	Kondapur
+Tagara_R
+	Tagara
+Hippokoura_R
+	Hippokoura
+Raichore_R
+	Raichore
+Suvarnagiri_R
+	Suvarnagiri
+Yerragudi_R
+	Yerragudi
+Uccashringi_R
+	Uccashringi
+Banavasi_R
+	Banavasi
+Tagadur_R
+	Tagadur
+Mahishapura_R
+	Mahishapura
+Kodumanam_R
+	Kodumanam
+Tosali_R
+	Tosali
+Jaugada_R
+	Jaugada
+Dantapura_R
+	Dantapura
+Pishtapura_R
+	Pishtapura
+Amaravathi_R
+	Amaravathi
+Vengipuram_R
+	Vengipuram
+Ongole_R
+	Ongole
+Melange_R
+	Melange
+Kanchi_R
+	Kanchi
+Uraiyur_R
+	Uraiyur
+Thiruvarur_R
+	Thiruvarur
+Madurai_R
+	Madurai
+Aykudi_R
+	Aykudi
+Yalpanapattinam_R
+	Yalpanapattinam
+Anuradhapura_R
+	Anuradhapura
+Panduwasnuwara_R
+	Panduwasnuwara
+Dighavapi_R
+	Dighavapi
+Magampura_R
+	Magampura
+Arkaadu_R
+	Arkaadu
+Dedigama_R
+	Dedigama
+Gonakamaka_R
+	Gonakamaka
+Indraprastha_R
+	Indraprastha
+Kalligeris_R
+	Kalligeris
+Korkai_R
+	Korkai
+Kory_R
+	Kory
+Kumari_R
+	Kumari
+Toana_R
+	Toana
+Podouke_R
+	Podouke
+Sisupalgarh_R
+	Sisupalgarh
+Narmadapura_R
+	Narmadapura
+Sanakanikapura_R
+	Sanakanikapura
+Savarapura_R
+	Savarapura
+Prakasha_R
+	Prakasha
+Dvaravati_R
+	Dvaravati
+Vindhyatavi_R
+	Vindhyatavi
+Vijayapuri_R
+	Vijayapuri
+Davakapura_R
+	Davakapura
+Bharhut_R
+	Bharhut
+Nivas_R
+	Nivas
+Nelcynda_R
+	Nelcynda
+Tondi_R
+	Tondi
+Karur_R
+	Karur
+Polonnaruwa_R
+	Polonnaruwa
+Sannathi_R
+	Sannathi
+DevPatan_R
+	DevPatan
+MinnagaraNammadus_R
+	MinnagaraNammadus
+Tyrannosboas_R
+	Tyrannosboas
+Karnasuvarna_R
+	Karnasuvarna
+Sinhapura_R
+	Sinhapura
+Champapura_R
+	Champapura
+Sahastrarama_R
+	Sahastrarama
+Kampilya_R
+	Kampilya
+Kusapura_R
+	Kusapura
+Mau_R
+	Mau
+Rampurva_R
+	Rampurva
+Lakshmanapura_R
+	Lakshmanapura
+Deogarh_R
+	Deogarh
+Badnurpura_R
+	Badnurpura
+Narsinghpura_R
+	Narsinghpura
+Ropar_R
+	Ropar
+Indupur_R
+	Indupur
+Chutia_R
+	Chutia
+Sippara_R
+	Sippara
+Sidhapura_R
+	Sidhapura
+Athiralanagara_R
+	Athiralanagara
+Souannagoura_R
+	Souannagoura
+Korounkala_R
+	Korounkala
+Tiagoura_R
+	Tiagoura
+Pasikana_R
+	Pasikana
+Dharphal_R
+	Dharphal
+Katriyal_R
+	Katriyal
+Kerauge_R
+	Kerauge
+Pikendaka_R
+	Pikendaka
+Pentapolis_R
+	Pentapolis
+Alosygni_R
+	Alosygni
+Kottobara_R
+	Kottobara
+Peperine_R
+	Peperine
+Bhokardan_R
+	Bhokardan
+Kantakasola_R
+	Kantakasola
+Thorax_R
+	Thorax
+Nousaripa_R
+	Nousaripa
+Bardaxema_R
+	Bardaxema
+Kadapa_R
+	Kadapa
+Kandanavolu_R
+	Kandanavolu
+Vadgaon_R
+	Vadgaon
+Kinnara_R
+	Kinnara
+Lomasa_R
+	Lomasa
+Ghatotkachapura_R
+	Ghatotkachapura
+Kunindapura_R
+	Kunindapura
+Tharupura_R
+	Tharupura
+Nepalakaksha_R
+	Nepalakaksha
+Devaprastha_R
+	Devaprastha
+Sabara_R
+	Sabara
+Purulia_R
+	Purulia
+Byzantion_R
+	Byzantion
+Modogulla_R
+	Modogulla
+Gamaliba_R
+	Gamaliba
+Nagagoura_R
+	Nagagoura
+Bhojakata_R
+	Bhojakata
+Batanagra_R
+	Batanagra
+Sambalaka_R
+	Sambalaka
+Asinda_R
+	Asinda
+Agrinagara_R
+	Agrinagara
+Xerogerei_R
+	Xerogerei
+Kartinaga_R
+	Kartinaga
+Konta_R
+	Konta
+Vetrakiya_R
+	Vetrakiya
+Gaya_R
+	Gaya
+Ozoana_R
+	Ozoana
+Orthura_R
+	Orthura
+Odoka_R
+	Odoka
+Moduttu_R
+	Moduttu
+Avikudi_R
+	Avikudi
+Kosamba_R
+	Kosamba
+Viduranagara_R
+	Viduranagara
+Isila_R
+	Isila
+Devipattinam_R
+	Devipattinam
+Kurula_R
+	Kurula
+Mastanur_R
+	Mastanur
+Than_R
+	Than
+Drumkulya_R
+	Drumkulya
+Adisdara_R
+	Adisdara
+Sonnalage_R
+	Sonnalage
+Hyperboria
+	Themiskyra
+TerraIncognita2_R
+	TerraIncognita2
+TerraIncognita3_R
+	TerraIncognita3
+Veii_R
+	Veii
+Antium_R
+	Antium
+Tarquinii_R
+	Tarquinii
+Nursia_R
+	Nursia
+Reate_R
+	Reate
+Aiacium_R
+	Aiacium

@@ -1,0 +1,9 @@
+; file - a coastline model
+; file generated via IWTE
+
+file data/terrain/campaign/base/coastline/coastline.cas
+file data/terrain/campaign/base/coastline/coastline_1.cas
+file data/terrain/campaign/base/coastline/coastline_2.cas
+file data/terrain/campaign/base/coastline/coastline_3.cas
+file data/terrain/campaign/base/coastline/coastline_4.cas
+file data/terrain/campaign/base/coastline/coastline_5.cas

@@ -1,0 +1,103 @@
+------Unused logos------:
+--Attila--:
+Hispania
+Oriens
+Votadini Separatists (inverted color)
+Bastarnae
+Bretons 
+Sassanid satrap logos
+Anatolia
+Arabian Separatists
+Budini logo
+Dani Separatists
+Bretons
+
+--Bronze--:
+Salamis
+Tiryns
+Meliboa
+Minyes
+Phlegra
+Tlawa
+Methynma
+Tereia
+Aenos
+Apsynthoi
+Ascanian
+Bisaltae
+Bithyni
+Bottiaeans
+Cicones
+Edonia
+Mysia
+Thrakes
+Thyni
+Ithaca
+Curetes
+Pylos						(give to messene)
+Sumur
+Teleboans
+Lelegia 					(fish only)
+Pelasgiotes
+
+
+
+------Planned factions------:
+--Levant
+Arados						(phoenician aleph)
+
+--Italy
+Marrucini
+
+--Greece
+Ionian League					(rome 2 logo, switch arcadia to korkyra logo)
+
+--Eastern
+Ferghana					(rome 2 baktria logo)
+Arachosia					(rome 2 logo)
+Gedrosia					(rome 2 logo)
+
+--Nomadic
+Alani						(rome 2 logo)
+
+--Other
+Lesser Armenia
+Sophene
+
+--Dacia
+Saldenses					(attila logo, italia)
+Carpi
+
+--Thrace
+Nipsaei
+Dii
+
+--Gallic
+Veragri 					(rome 2 logo, hernici, switch dardani to troy logo)
+
+--Illyrian
+Iapodes						(attila, illyricum logo)
+
+--Anatolian
+Isaura
+
+
+--satrapies (replace persia logo)
+amyrgia
+arabia
+arachosia
+aria
+assyria
+babylonia
+bactria (satrap)
+drangiana
+egypt (satrap)
+ethiopia
+gandara
+gedrosia
+hyrcania (maybe not)
+libya (satrap)
+lydia
+parthia (maybe not since already faction)
+sogdia
+susia

@@ -1,0 +1,7 @@
+Set the pikes y scale to 0.525 OR 0.5175 whichever is closest
+Raise the entire set up by z 0.01 (dont do this otherwise itll be out of line with others)
+Don't forget to rotate spear if needed
+
+FOR GREEK PIKEMEN
+spear Y scale 0.5175
+Rotate it so that the tip is at an angle, facing more inward. See vanilla macedon pikemen for example

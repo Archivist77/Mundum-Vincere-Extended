@@ -1,0 +1,271 @@
+I'm going to need you to make building descriptions for shrines dedicated to certain gods for cultures in my mod for rome total war remastered.
+I want them to be made similar to the ones already in the base game.
+
+What I want you to do:
+From the examples, take into account their length, style, tense, and historicity
+Use 3, up to 4 sentences if needed
+For Roman and Greek Gods, follow to the Roman and Greek examples (like how the capitalize God of Blank)
+For barbarian gods (iberian, gallic, germanic, dacian, brittonic, illyrian, iapygen, nomad) follow the barbarian examples
+Like the examples you will see, start each description with "This Shrine is dedicated to _____, the _____ god/goddess of _____"
+
+
+What I do NOT want you to do:
+Do not write in the past-tense as if looking back
+Do not refer to modern locations
+Do not try to force a link between a certain god and the temple function (temples are just called "Shrine to <Godname>". If it's a lesser known god, just keep it concise)
+Do not make duplicate descriptions for the same God used by different cultures
+Do not make descriptions for gods marked (ingame) as those already have descriptions
+Do not make up false information, though you do have a little bit of creative freedom if it works
+Do not say the god is the god of (temple function)
+Do not refer to the specific temple bonus
+
+
+
+The biggest thing I want you to take out of this is that they need to be consistent with the base game, like the examples I'm about to show you.
+
+The following examples are for barbarian factions:
+
+("This Shrine is dedicated to Teutatis, the Gallic war god. All peoples need to be inspired in times of war, and he sets a fine example for warriors."
+
+"This Shrine is dedicated to Epona, the Gallic goddess of horses and horsemanship, and a patron of all cavalrymen. She watches over the training of warriors."
+
+"This Shrine is dedicated to Abnoba, the Gallic goddess of the hunt. Hers is a bloody cult, well-suited to a warlike people."
+
+"This Shrine is dedicated to Esus, the Gallic god of rogues in one of his many aspects. Human sacrifices to Esus are hanged and then skewered before death. Esus is often shown as a woodcutter, a quiet image for such a potentially violent god."
+
+"This Shrine is dedicated to Hebeleyzis, the Dacian Sky and Thunder God, in his aspect of inspiring warriors in battle. Hebeleyzis is a particularly belligerent at striking down enemies, making him a worthy god for a fighting people."
+
+"This Shrine is dedicated to Bendis, the Dacian Goddess of in her aspect as a mother figure who supervises at births. Bendis in this aspect is a great comfort to farmers and all those concerned with living things."
+
+"This Shrine is dedicated to Zalmoxis, the Dacian Divine Defender of the People, here in an underworld aspect of forging weapons for his followers. Thus he helps bring them victory over their enemies."
+
+"This Shrine is dedicated to Frejya, the German goddess of fertility and prosperity. She is often seen as the most beautiful of all the Gods. Frejya is also considered to be the bride of all fallen heroes."
+
+"This Shrine is dedicated to Woden, the All-Father of the Germans' Gods. He is the source of all wisdom and magic in the world. Woden is often depicted a wanderer, an old man in search of knowledge but he also has a part to play as a warlike god of death."
+
+"This Shrine is dedicated to Donar, the German Thunder God. He is an angry god, vengeful and strong. He also has an almost insatiable appetite, and is one of the few to have ever beaten the giants in eating and drinking contests!"
+
+"This Shrine is dedicated to Papay, the Scythian All-Father, the eldest of the Gods. As a patriarch, he is also a lawgiver."
+
+"This Shrine is dedicated to Api, the Scythian Earth Mother, and the mother of the Gods. She is celebrated as a sexual being as much as a fertility goddess."
+
+"This Shrine is dedicated to Kolaksay, the demi-god and hero who founded the Scythian nation. He also seized the three golden treasures of a plough, a bowl and poleaxe from the sky."
+
+"This Shrine is dedicated to Brigantia, the British tribal Goddess of the Brigantes, one of the important tribal kingdoms. She is a goddess of war, healing and water. Brigantia also has some responsibilities for prosperity and fertility among her people."
+
+"This Shrine is dedicated to Britannia, the British deified personification of their homeland. She brings riches to her devoted followers."
+
+"This Shrine is dedicated to Andrasta, the 'Invincible One', the British goddess of War and patron of the Iceni tribe. Human sacrifices to Andrasta are not unknown.")
+
+
+The following examples are for Greek and Roman factions:
+
+("This Shrine is dedicated to Ares, the Greek God of War. Ares is not an entirely heroic figure in the same way as the Roman Mars, but he is a god for winners in warfare. Sneaky and underhand are just as valid as heroic for Ares!"
+
+"This Shrine is dedicated to Demeter, the Olympian Goddess of Fertility and Grain. She is important in bringing both the harvest and the birth of all things. Worship of Demeter also takes in the hidden cult of the Eleusinian Mysteries."
+
+"This Shrine is dedicated to Hephaestus, the lame God of Metalworkers and Smiths. In this aspect he is celebrated for his weapon-making skills. These are considerable, and it is Hephaestus who made the arms and armour for all the great heroes, including the Shield of Achilles.
+
+"This Shrine is dedicated to Dionysus, the God of Wine, although his Cultists go far beyond merely drinking heavily in their celebration of his mysteries. Dionysus is a violent figure, and his followers tread a fine line between sanity, madness and death at times in their orgiastic rituals."
+
+"This Shrine is dedicated to Zeus, the God of the Sky, of Kings and the Fate of Nations. He is the All-seeing, the Lord of everything and a hugely powerful deity. Little escapes the attention of Zeus from his home on Mount Olympus, from the softest whisper to the clamour of battle. There is almost nothing in which he does not have a hand."
+
+"This Shrine is dedicated to Asklepios, the God of Medicine and of Healing. He is the son of Apollo and a worthy patron. It was traditional to sacrifice a cock to him in thanks for a cure - and to pay the doctor's fee! His daughter, Hygeia, is the Goddess of Health.
+
+"This Shrine is dedicated to Artemis, the Goddess of the Hunt. She is a strong willed, powerful goddess, able to fight for what she knows to be right. 
+
+"This Shrine is dedicated to Athena, the Goddess of Wisdom, War and Craftsmen. She is also the patron of the city of Athens, the home of democracy. Athena not only gave humankind many of the crafts and skills needed to survive and prosper, she also sponsors many mighty warriors.
+
+"This Shrine is dedicated to Aphrodite, the Olympian Goddess of Beauty and Procreation. If it's rampant, naughty and she's the goddess of it! When she appears in mortal form Aphrodite sometimes has the misfortune to inspire obsessional love bordering on the completely mad!"
+
+"This Shrine is dedicated to Hermes, the messenger of the Gods and also the patron of trade and travellers. Hermes watches over all of those who go far away and have business with foreigners, making him an ideal patron for any city where trade is important."
+
+"This Shrine is dedicated to Nike, the winged Goddess of Victory. That a warlike people such as the Greeks should honour her is almost inevitable! She is the daughter of one of the giants, Pallas, and Styx. As 'Victory' she has Zelos (Rivalry), Kratos (Strength), and Bia (Force) as siblings."
+
+"This Shrine is dedicated to Herakles, the heroic demi-god and legendary founder of the Macedonia royal household. He is the son of Zeus and a mortal woman, Alcmene. His brave deeds - impossible for any other to carry out - make him an inspiration to all warriors. Pontus - as a successor kingdom to Alexander's empire - honours the Gods of Greece."
+
+"This Shrine is dedicated to Ceres, the Goddess of Grain and Fertility. She is an important figure in assuring that crops are sufficient to feed everyone. She is equated with the Greek deity Demeter, and worship of the two often overlaps."
+
+"This Shrine is dedicated to Vulcan, the Smith of the Gods, the God of Fire and the patron of mortal smiths. His workshops lie beneath the volcano at Etna. As might be expected weaponsmiths are much favoured by Vulcan."
+
+"This Shrine is dedicated to Bacchus, the God of Wine. He is a noisy and rowdy God at the best of times. At his worst, Bacchus is downright dangerous to those who aren't his followers! Drunken revelry may only be the start of a serious session of enjoying the wine that Bacchus provides!"
+
+"This Shrine is dedicated to Juno, the Queen of Heaven, and the wife and sister to Jupiter. She is the special protector of marriage and of women. She also has an aspect as a war goddess."
+
+"This Shrine is dedicated to Saturn, the elder god, the God of Time and father to Jupiter, Neptune and Pluto. He devoured all his other children, and was supplanted as leader of the gods by Jupiter."
+
+"This Shrine is dedicated to Jupiter, the Supreme God of Rome. He is the special protector of Rome, the lord of heaven and the bringer of light. Auguries are the way in which Jupiter communicates with the mortal world, and his priests are skilled in reading signs in the flight of birds, sacrifices and so forth."
+
+"This Shrine is dedicated to Neptune, the God of the Sea. He is seen as the special protector of sailors and those who gain a living from the deeps. He is often depicted as an elderly man astride a dolphin, although storms - his sea rages - can be terrible enough for a much younger person!"
+
+"This Shrine is dedicated to Mercury, the messenger of the Gods and also the patron of trade and travellers. Mercury watches over all of those who go far away and have business with foreigners, making him an ideal patron for any city where trade is important."
+
+"This Shrine is dedicated to Mars, the God of War, and therefore a popular deity amongst the warlike Romans. He is also the patron of husbandmen. Mars has a central place in the Roman way of war - even the training ground in Rome, the Campus Martia, is named in his honour.")
+
+
+
+Okay, those were all the examples. I need descriptions for the following cultures, with sources for you to get the information about the gods:
+
+Source for gallic and brittonic dieties:
+https://en.wikipedia.org/wiki/List_of_Celtic_deities
+
+Gallic Culture:
+Cicolluis (war god)
+Sucellus (agriculture / wine god)
+Rosmerta (fertility / abundance goddess)
+Gobannus (smith god)
+Cernunnos (wildlife god)
+Sulevia (governance goddess)
+Belenus (healing god)
+Grannus (healing / solar god)
+Taranis (thunder god)
+Divona (spring / river goddess)
+Cissonius (trade / traveller protector god)
+Segomo (war god)
+Atepomarus (healing / horse god)
+Cathubodua (war goddess)
+Loucetios (war god)
+
+Brittonic Culture:
+Belatucadros (war god)
+Coventina (well / spring  goddess)
+Maponus (youth god)
+Nodens (healing god)
+Vinotonus (wilderness god)
+Vellaunus (leadership god)
+Tamesis (river Tamesis (Thames) god)
+Cocidius (war god)
+Verostonos (war god)
+
+Source for dacian/thracian dieties:
+https://en.wikipedia.org/wiki/Thracian_religion
+https://darkestheart666.wordpress.com/gods-and-goddesses-of-the-dacians/
+
+Dacian Culture:
+Pleistoros (thracian war god)
+Zibelthiurdos (thracian lightning / rain god)
+Derzelas (dacian/thracian underworld / health god)
+Semele (mother of Dionysus)
+Silenus (companion / tutor to Dionysus)
+Kotys (thracian war god)
+Heros (thracian horseman god)
+Kandaon (thracian war god)
+
+Source for germanic dieties:
+https://en.wikipedia.org/wiki/List_of_Germanic_deities
+
+Germanic Culture:
+Baduhenna (war goddess)
+Tiw (single combtat / law god)
+Freyr (fertility / prosperity / harvest god)
+Volund (legendary master blacksmith)
+Nerthus (ceremonial wagon procession goddess)
+Tuisto (legendary divine ancestor of the germanic peoples)
+Eir (medical goddess)
+Skadi (hunting / winter / mountain goddess)
+Baldr (hero / prince god / son of Woden)
+Forseti (justice / reconciliation god)
+Hoder (blind son of odin)
+Frigg (marriage / prophecy goddess / wife of Woden)
+Njord (seafaring / wind god)
+Hermod (war god)
+Hariasa (war goddess)
+
+Sources for iberian gods:
+https://en.wikipedia.org/wiki/Lusitanian_mythology
+https://en.wikipedia.org/wiki/List_of_Lusitanian_deities
+
+Iberian Culture:
+Bandua (war / communal protection god)
+Cosus (army / war god)
+Ataegina (underworld / agriculture cycle goddess)
+Nabia (river / lake / water goddess)
+Aetio (god of fire, blacksmiths, crafts)
+Bormanicus (Celtic healing spring god)
+Munidis (wisdom goddess)
+Endovelicus (vegetation / afterlife / health god)
+Erbina (hunt / wilderness goddess)
+Ilurbeda (Iberian goddess guide of mountains, mines and roads)
+Arentio (water / health / prosperity god, often accompanied by goddess Arentia)
+Quangeio (spiritual rebirth god, takes form of dog)
+Oipaengia (beauty / fertility goddess)
+Lugus (trade / prosperity god)
+Cariocecus (war god)
+Iccona (horse goddess)
+Trebaruna (victory / domestic goddess)
+Neto (war god)
+
+Sources for illyrian, iapygen gods:
+https://en.wikipedia.org/wiki/Illyrian_religion#Legends
+https://damirnadivanu.com/2018/07/13/illyrian-gods-and-goddesses/
+https://forum.paradoxplaza.com/forum/threads/illyrian-pantheon.1377735/
+
+Illyrian culture:
+Medaurus (guardian of Rhizon, war god)
+Perendi	(sky / thunder god)
+Vidasus (countryside / agriculture / forestry god)
+Anzotica (Liburnian fertility / love goddes)
+Enji (fire god)
+Dualos (Paeonian wine / intoxication god)
+Histria (goddess of the land of Histria)
+Sentona (fertility / agriculture goddess)
+Melosocus (unknown function, likely war god)
+Thana (hunting / forestry goddes)
+Andinus (Dardanian vegetation / soil fertility god)
+Tadenus (god with similar function to apollo)
+Dracon & Dracanea (pair of serpentine gods)
+Prende (fertility / beauty / love goddess)
+Bindus (Iapodian sea god)
+Redon (traveller and sailor protector god)
+Deipaturos (sky father god)
+Armatus (war god)
+
+Iapygen Culture:
+Damatura (agriculture goddes akin to demeter)
+Venas (fertility / love goddes, like venus)
+Lahona (fertility / love goddes, like aphrodite)
+Zis (sky father god)
+Podalirius (greek god worshipped by Iapygens for oracles)
+Menzanas (horse god)
+Taotor (tribe / community god)
+
+Source for nomad gods:
+https://en.wikipedia.org/wiki/Scythian_religion
+
+Nomad Culture (Scythian/Sarmatian):
+Goetosyrus
+Artimpasa
+Tabiti
+Borysthenes
+Targitaos
+Thagimasadas
+Derceto (the snake-legged goddes, name taken from greek equivalent)
+Verethragna (the unnamed scythian Ares, name taken from Zoroastrian equivalent)
+
+Source for nuragic gods:
+https://en.wikipedia.org/wiki/Nuragic_civilization
+
+Nuragic Culture:
+Sardus
+Iolaos
+Mamai (Mamai is mother in Sardinian, as the nuragic mother goddes' name is unknown)
+Aristeus
+Babai
+Norax
+
+Greek Culture:
+Hera
+Sabazios
+Themis
+Apollo
+Poseidon
+Enyo
+
+Roman Culture:
+Bellona
+Vesta
+Minerva
+Diana
+Justitia
+Venus
+Victoria
