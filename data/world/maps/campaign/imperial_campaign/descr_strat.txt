@@ -10624,15 +10624,15 @@ relative 	Ptolemy Lysimachides, 	Iphigenia,		LysimachusC Lysimachides,	Epigonus 
 
 ;-------------- 4$d - Seleucid Empire ---------------
 faction	seleucid, balanced_stalin
-denari	-4000
+denari	33995
 ;--------- 4$d.a - Syria ----------
 settlement
 {
-	level city
+	level huge_city
 	region Syria
 
 	year_founded 0
-	population 5000
+	population 13990
 	plan_set default_set
 	faction_creator seleucid
 	building
@@ -10641,15 +10641,23 @@ settlement
 	}
 	building
 	{
-		type core_building governors_palace
+		type core_building proconsuls_palace
 	}
 	building
 	{
-		type defenses stone_wall
+		type defenses epic_stone_wall
 	}
 	building
 	{
-		type barracks muster_field
+		type barracks city_barracks
+	}
+	building
+	{
+		type caravans silk_rd
+	}
+	building
+	{
+		type market trader
 	}
 	building
 	{
@@ -10657,7 +10665,31 @@ settlement
 	}
 	building
 	{
-		type hinterland_roads roads
+		type temple_of_alexander temple_of_alexander_pantheon
+	}
+	building
+	{
+		type temple_of_violence temple_of_violence_pantheon
+	}
+	building
+	{
+		type temple_of_victory temple_of_victory_pantheon
+	}
+	building
+	{
+		type temple_of_trade temple_of_trade_pantheon
+	}
+	building
+	{
+		type temple_of_religion temple_of_religion_capital
+	}
+	building
+	{
+		type hinterland_farms farms+4
+	}
+	building
+	{
+		type hinterland_roads highways
 	}
 }
 settlement
@@ -10666,10 +10698,20 @@ settlement
 	region ApameaOrontes_R
 
 	year_founded 0
-	population 2000
+	population 2100
 	plan_set default_set
 	faction_creator seleucid
 	garrisoned_army
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	building
@@ -10695,6 +10737,14 @@ settlement
 	plan_set default_set
 	faction_creator seleucid
 	garrisoned_army
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	building
@@ -10720,10 +10770,19 @@ settlement
 	region SeleuciaPieria_R
 
 	year_founded 0
-	population 2200
+	population 2400
 	plan_set default_set
 	faction_creator seleucid
 	garrisoned_army
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0	
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	building
 	{
@@ -10756,6 +10815,12 @@ settlement
 	plan_set default_set
 	faction_creator seleucid
 	garrisoned_army
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	building
 	{
@@ -10802,6 +10867,14 @@ settlement
 	plan_set default_set
 	faction_creator seleucid
 	garrisoned_army
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1		
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1	
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	building
 	{
@@ -10831,6 +10904,15 @@ settlement
 	faction_creator seleucid
 	garrisoned_army
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1		
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1	
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	building
 	{
 		type hinterland_greek_klerouchia greek_klerouchia
@@ -10854,10 +10936,19 @@ settlement
 	region Samosata_R		;;;;; Nymphaios
 
 	year_founded 0
-	population 900
+	population 800
 	plan_set default_set
 	faction_creator seleucid
 	garrisoned_army
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1		
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1	
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	building
 	{
@@ -10882,6 +10973,24 @@ settlement
 	plan_set default_set
 	faction_creator seleucid
 	garrisoned_army
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1		
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1	
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1		
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1	
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	building
 	{
@@ -10931,10 +11040,19 @@ settlement
 	region Nikephorion_R
 
 	year_founded 0
-	population 800
+	population 760
 	plan_set default_set
 	faction_creator seleucid
 	garrisoned_army
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1		
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1	
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	building
 	{
@@ -10962,6 +11080,15 @@ settlement
 	faction_creator seleucid
 	garrisoned_army
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1		
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1	
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 4 armour 0 weapon_lvl 2
 	building
 	{
 		type hinterland_greek_katoikia greek_katoikia
@@ -10981,13 +11108,26 @@ settlement
 	region Assyria
 
 	year_founded 0
-	population 1200
+	population 1500
 	plan_set default_set
 	faction_creator seleucid
 	garrisoned_army
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	unit	greek peasant		exp 0 armour 0 weapon_lvl 0
 	unit	greek peasant		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1		
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 3 armour 0 weapon_lvl 1	
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 5 armour 1 weapon_lvl 2
+	unit	greek hoplite militia		exp 5 armour 1 weapon_lvl 2
+	unit	greek hoplite militia		exp 5 armour 1 weapon_lvl 2
+	unit	greek hoplite militia		exp 5 armour 1 weapon_lvl 2
+	unit	greek hoplite militia		exp 5 armour 1 weapon_lvl 2
+	unit	greek hoplite militia		exp 5 armour 0 weapon_lvl 2
 	building
 	{
 		type hinterland_greek_klerouchia greek_klerouchia
@@ -11020,6 +11160,11 @@ settlement
 	faction_creator seleucid
 	garrisoned_army
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 5 armour 1 weapon_lvl 2
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 5 armour 1 weapon_lvl 2
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 5 armour 1 weapon_lvl 2
 	building
 	{
 		type hinterland_greek_katoikia greek_katoikia
@@ -11048,6 +11193,10 @@ settlement
 	faction_creator seleucid
 	garrisoned_army
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 5 armour 1 weapon_lvl 2
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 5 armour 1 weapon_lvl 2
 	building
 	{
 		type hinterland_greek_katoikia greek_katoikia
@@ -11145,6 +11294,8 @@ settlement
 	garrisoned_army
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	building
 	{
 		type hinterland_greek_klerouchia greek_klerouchia
@@ -11174,6 +11325,10 @@ settlement
 	garrisoned_army
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 5 armour 1 weapon_lvl 2
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 5 armour 1 weapon_lvl 2
 	building
 	{
 		type hinterland_greek_klerouchia greek_klerouchia
@@ -11198,6 +11353,10 @@ settlement
 	faction_creator seleucid
 	garrisoned_army
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 1
 	building
 	{
 		type hinterland_greek_phrourion greek_phrourion
@@ -11215,11 +11374,11 @@ settlement
 ;--------- 4$d.c - Mesopotamia ----------
 settlement
 {
-	level large_town
+	level huge_city
 	region Babylonia
 
 	year_founded 0
-	population 4000
+	population 9600
 	plan_set default_set
 	faction_creator seleucid
 	building
@@ -11228,23 +11387,56 @@ settlement
 	}
 	building
 	{
-		type core_building governors_villa
+		type core_building proconsuls_palace
 	}
 	building
 	{
-		type missiles practice_field
+		type defenses epic_stone_wall
 	}
 	building
 	{
-		type defenses stone_wall
+		type barracks city_barracks
 	}
 	building
 	{
-		type hinterland_farms farms
+		type caravans silk_rd
 	}
 	building
 	{
-		type hinterland_roads roads
+		type market trader
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type temple_of_alexander temple_of_alexander_pantheon
+	}
+	building
+	{
+		type temple_of_violence temple_of_violence_pantheon
+	}
+	building
+	{
+		type temple_of_victory temple_of_victory_pantheon
+	}
+	building
+	{
+		type temple_of_trade temple_of_trade_pantheon
+	}
+	building
+	{
+		type temple_of_one_god temple_of_one_god_large_temple
+		creator persis
+	}
+	building
+	{
+		type hinterland_farms farms+4
+	}
+	building
+	{
+		type hinterland_roads highways
 	}
 }
 settlement
@@ -11253,12 +11445,26 @@ settlement
 	region Babylon_R
 
 	year_founded 0
-	population 2500
+	population 2910
 	plan_set default_set
 	faction_creator seleucid
 	garrisoned_army
+	unit	greek hoplite militia		exp 9 armour 2 weapon_lvl 3
+	unit	greek hoplite militia		exp 9 armour 2 weapon_lvl 3
+	unit	greek hoplite militia		exp 9 armour 2 weapon_lvl 3
+	unit	greek hoplite militia		exp 9 armour 2 weapon_lvl 3
+	unit	greek hoplite militia		exp 9 armour 2 weapon_lvl 3
+	unit	greek hoplite militia		exp 9 armour 2 weapon_lvl 3
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 5 armour 1 weapon_lvl 2
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 5 armour 1 weapon_lvl 2
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 5 armour 1 weapon_lvl 2
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 5 armour 1 weapon_lvl 2
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 5 armour 1 weapon_lvl 2
 	building
 	{
 		type hinterland_greek_polis greek_polis
@@ -11282,11 +11488,14 @@ settlement
 	region AntiochiaSittacene_R
 
 	year_founded 0
-	population 1500
+	population 1600
 	plan_set default_set
 	faction_creator seleucid
 	garrisoned_army
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 9 armour 2 weapon_lvl 3
+	unit	greek hoplite militia		exp 9 armour 2 weapon_lvl 3
+	unit	greek hoplite militia		exp 9 armour 2 weapon_lvl 3
 	building
 	{
 		type hinterland_greek_klerouchia greek_klerouchia
@@ -12508,6 +12717,8 @@ settlement
 	garrisoned_army
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	building
 	{
 		type hinterland_greek_katoikia greek_katoikia
@@ -12531,6 +12742,9 @@ settlement
 	plan_set default_set
 	faction_creator seleucid
 	garrisoned_army
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	building
 	{
@@ -12556,6 +12770,10 @@ settlement
 	faction_creator seleucid
 	garrisoned_army
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 1
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	building
 	{
 		type hinterland_greek_phrourion greek_phrourion
@@ -12575,10 +12793,13 @@ settlement
 	region AntiochiaPersis_R
 
 	year_founded 0
-	population 1200
+	population 1100
 	plan_set default_set
 	faction_creator seleucid
 	garrisoned_army
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	building
 	{
@@ -12647,10 +12868,12 @@ settlement
 	region SeleuciaHedyphon_R
 
 	year_founded 0
-	population 1200
+	population 1100
 	plan_set default_set
 	faction_creator seleucid
 	garrisoned_army
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	building
 	{
@@ -12675,6 +12898,8 @@ settlement
 	plan_set default_set
 	faction_creator seleucid
 	garrisoned_army
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	building
 	{
@@ -12821,6 +13046,9 @@ settlement
 	faction_creator seleucid
 	garrisoned_army
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	building
 	{
 		type hinterland_greek_klerouchia greek_klerouchia
@@ -12840,7 +13068,7 @@ settlement
 	region Parbara_R		;;;;; Vishpauzatis
 
 	year_founded 0
-	population 1000
+	population 950
 	plan_set default_set
 	faction_creator seleucid
 	building
@@ -12862,7 +13090,7 @@ settlement
 	region Ange_R
 
 	year_founded 0
-	population 900
+	population 800
 	plan_set default_set
 	faction_creator seleucid
 	garrisoned_army
@@ -12938,6 +13166,10 @@ settlement
 	plan_set default_set
 	faction_creator seleucid
 	garrisoned_army
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	building
 	{
@@ -13259,6 +13491,10 @@ settlement
 	plan_set default_set
 	faction_creator seleucid
 	garrisoned_army
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	building
@@ -13674,6 +13910,8 @@ settlement
 	garrisoned_army
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	building
 	{
 		type hinterland_greek_katoikia greek_katoikia
@@ -13697,6 +13935,10 @@ settlement
 	plan_set default_set
 	faction_creator seleucid
 	garrisoned_army
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	building
 	{
@@ -13746,12 +13988,24 @@ settlement
 ;--------- 4$d/a Historical Characters ----------
 ;	Antioch
 character	AntiochusB Seleucides, named character, leader, age 52, , x 453, y 280, portrait_index 028 ;;or 165?
-traits GoodCommander 2 , NaturalMilitarySkill 1 , PublicFaith 2 , GoodAdministrator 2
-ancillaries heroic_saviour
+traits GoodCommander 5 , NaturalMilitarySkill 4 , Warlord 4 , PublicFaith 2 , GoodAdministrator 4
+ancillaries heroic_saviour, shieldbearer
 army
-unit		greek general's guard cavalry early	exp 1 armour 0 weapon_lvl 0
+unit		greek general's guard cavalry early	exp 9 armour 3 weapon_lvl 3
+unit		greek general's guard cavalry early	exp 9 armour 3 weapon_lvl 3
+unit		greek general's guard cavalry early	exp 9 armour 3 weapon_lvl 3
 unit		greek cavalry					exp 1 armour 0 weapon_lvl 0
 unit		greek cavalry					exp 1 armour 0 weapon_lvl 0
+unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
+unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
+unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
+unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
+unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
+unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
+unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
+unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
+unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
+unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
 unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
 unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
 unit		greek cavalry					exp 0 armour 0 weapon_lvl 0
@@ -13759,7 +14013,7 @@ unit		greek peltast					exp 0 armour 0 weapon_lvl 0
 
 ;	Seleucia
 character	SeleucusB Seleucides, named character, heir, age 18, , x 537, y 254
-traits Aesthetic 2 , GoodAdministrator 2 , Intelligent 3 , Embezzler 1
+traits Aesthetic 2 , GoodAdministrator 4 , Intelligent 3 , Embezzler 1, NaturalMilitarySkill 4 , Warlord 4 , GoodInfantryGeneral 2 , GoodCommander 4
 ancillaries exotic_slave, biographer
 army
 unit		greek general's guard cavalry early	exp 1 armour 0 weapon_lvl 0
@@ -13772,7 +14026,7 @@ unit		greek peltast					exp 0 armour 0 weapon_lvl 0
 
 ;	Ephesus
 character	Achaeus Seleucides, named character, age 50, , x 365, y 290
-traits GoodAdministrator 2 , Intelligent 1
+traits GoodAdministrator 4 , Intelligent 1
 ancillaries desert_scout
 army
 unit		greek general's guard cavalry early	exp 1 armour 0 weapon_lvl 0
@@ -13782,8 +14036,8 @@ unit		greek peasant					exp 0 armour 0 weapon_lvl 0
 
 ;	Smyrna
 character	Alexander Seleucides, named character, age 29, , x 363, y 296
-traits Intelligent 2 , Energetic 1
-ancillaries mentor
+traits Intelligent 2 , Energetic 1, GoodCommander 3
+ancillaries mentor, shieldbearer
 army
 unit		greek general's guard cavalry early	exp 1 armour 0 weapon_lvl 0
 unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
@@ -13791,8 +14045,8 @@ unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
 
 ;	Laodicea Lycus
 character	Andromachus Seleucides, named character, age 16, , x 382, y 291
-traits GoodAdministrator 1, Intelligent 1
-ancillaries mentor
+traits GoodAdministrator 4, Intelligent 1, Warlord 4, GoodCommander 5
+ancillaries mentor, bodyguard
 army
 unit		greek general's guard cavalry early	exp 1 armour 0 weapon_lvl 0
 unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
@@ -13800,7 +14054,7 @@ unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
 
 ;	Ecbatana
 character	Alexander Molides, named character, age 22, , x 574, y 280
-traits GoodCommander 1, GoodAdministrator 1
+traits GoodCommander 5, GoodAdministrator 4, Warlord 4, GoodBuilder 2
 army
 unit		greek general's guard cavalry early	exp 1 armour 0 weapon_lvl 0
 unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
@@ -13809,7 +14063,7 @@ unit		greek peltast					exp 0 armour 0 weapon_lvl 0
 
 ;	Tarsus
 character	Alexander Lysimachides, named character, age 18, , x 438, y 287
-traits GoodCommander 1, GoodAdministrator 1
+traits GoodCommander 4, GoodAdministrator 2
 army
 unit		greek general's guard cavalry early	exp 1 armour 0 weapon_lvl 0
 unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
@@ -13852,7 +14106,7 @@ unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
 ;--------- 4$d/a2 Made-up Characters ----------
 ;	Sardis
 character	Lysias Assandrides, named character, age 25, , x 371, y 299 
-traits GoodCommander 2, GoodAdministrator 2
+traits GoodCommander 5, GoodAdministrator 2
 army
 unit		greek general's guard cavalry early	exp 1 armour 0 weapon_lvl 0
 unit		greek cavalry					exp 1 armour 0 weapon_lvl 0
@@ -13863,18 +14117,28 @@ unit		greek peltast					exp 1 armour 0 weapon_lvl 0
 ;--------- 4$d/b Generals ----------
 ;	Maroneia
 character	Adaeus Mydides, named character, age 53, , x 344, y 326
-traits GoodAdministrator 1, Intelligent 1
+traits GoodAdministrator 3, Intelligent 1
 ancillaries poet
 army
 unit		greek general's guard cavalry early	exp 1 armour 0 weapon_lvl 0
+unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
+unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
 unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
 unit		greek peltast					exp 0 armour 0 weapon_lvl 0
 
 ;	outside Maroneia
 character	Pylaemenes Mydides, named character, age 24, , x 345, y 327
-traits GoodCommander 1, GoodAdministrator 1
+traits GoodCommander 5, GoodAdministrator 3, Warlord 4 , NaturalMilitarySkill 3
 army
 unit		greek general's guard cavalry early	exp 1 armour 0 weapon_lvl 0
+unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
+unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
+unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
+unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
+unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
+unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
+unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
+unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
 unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
 unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
 
@@ -13883,6 +14147,14 @@ unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
 ;	Propontus
 character	Euthydemus, admiral, age 20, , x 362, y 323
 army
+unit		naval biremes				exp 0 armour 0 weapon_lvl 0
+unit		naval biremes				exp 0 armour 0 weapon_lvl 0
+unit		naval biremes				exp 0 armour 0 weapon_lvl 0
+unit		naval biremes				exp 0 armour 0 weapon_lvl 0
+unit		naval biremes				exp 0 armour 0 weapon_lvl 0
+unit		naval biremes				exp 0 armour 0 weapon_lvl 0
+unit		naval biremes				exp 0 armour 0 weapon_lvl 0
+unit		naval biremes				exp 0 armour 0 weapon_lvl 0
 unit		naval biremes				exp 0 armour 0 weapon_lvl 0
 unit		naval biremes				exp 0 armour 0 weapon_lvl 0
 
@@ -45767,14 +46039,14 @@ relative 	Isho Tsenpo, 	Droza,		Motsun Tsenpo,		end
 
 ;-------------- Persis ---------------
 faction	persis, eastern
-denari	9750
+denari	9492
 settlement
 {
 	level huge_city
 	region Persepolis_R
 
 	year_founded 0
-	population 8110
+	population 8711
 	plan_set default_set
 	faction_creator persis
 	building
@@ -45813,10 +46085,19 @@ settlement
 	region Gabra_R
 
 	year_founded 0
-	population 600
+	population 500
 	plan_set default_set
 	faction_creator persis
 	garrisoned_army
+	unit	east infantry		exp 5 armour 1 weapon_lvl 0
+	unit	east infantry		exp 5 armour 0 weapon_lvl 0
+	unit	east infantry		exp 0 armour 0 weapon_lvl 0
+	unit	east infantry		exp 0 armour 0 weapon_lvl 0
+	unit	east infantry		exp 0 armour 0 weapon_lvl 0
+	unit	east infantry		exp 0 armour 0 weapon_lvl 0
+	unit	east infantry		exp 0 armour 0 weapon_lvl 0
+	unit	east infantry		exp 0 armour 0 weapon_lvl 0
+	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
@@ -45896,10 +46177,15 @@ settlement
 	region Pantyene_R
 
 	year_founded 0
-	population 800
+	population 900
 	plan_set default_set
 	faction_creator persis
 	garrisoned_army
+	unit	east infantry		exp 3 armour 0 weapon_lvl 1
+	unit	east infantry		exp 3 armour 0 weapon_lvl 0
+	unit	east infantry		exp 3 armour 0 weapon_lvl 0
+	unit	east infantry		exp 3 armour 0 weapon_lvl 0
+	unit	east infantry		exp 3 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
@@ -45930,6 +46216,9 @@ settlement
 	plan_set default_set
 	faction_creator persis
 	garrisoned_army
+	unit	east infantry		exp 3 armour 0 weapon_lvl 0
+	unit	east infantry		exp 3 armour 0 weapon_lvl 0
+	unit	east infantry		exp 3 armour 0 weapon_lvl 0
 	unit	east infantry		exp 3 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
@@ -45992,7 +46281,7 @@ settlement
 	region Pasa_R
 
 	year_founded 0
-	population 1000
+	population 900
 	plan_set default_set
 	faction_creator persis
 	garrisoned_army
@@ -46064,7 +46353,7 @@ settlement
 	region Siraf_R		;;;;; Ausinza
 
 	year_founded 0
-	population 1500
+	population 1300
 	plan_set default_set
 	faction_creator persis
 	garrisoned_army
@@ -46138,25 +46427,26 @@ settlement
 
 ;	Persepolis_R
 character	Mukaporis Bendva, named character, leader, age 37, , x 625, y 230
-traits GoodCommander 5, GoodAdministrator 3, Warlord 4
+traits GoodCommander 5, GoodAdministrator 4, Warlord 4
 army
-unit		east generals cavalry early		exp 6 armour 3 weapon_lvl 3
+unit		east generals cavalry early		exp 8 armour 3 weapon_lvl 3
 unit		east generals cavalry early		exp 6 armour 2 weapon_lvl 3
 unit		east infantry				exp 5 armour 0 weapon_lvl 1
 unit		east infantry				exp 3 armour 0 weapon_lvl 0
 unit		east infantry				exp 3 armour 0 weapon_lvl 0
 unit		east infantry				exp 3 armour 0 weapon_lvl 0
-unit		east infantry				exp 1 armour 0 weapon_lvl 0
-unit		east infantry				exp 1 armour 0 weapon_lvl 0
+unit		east infantry				exp 2 armour 0 weapon_lvl 0
+unit		east infantry				exp 2 armour 0 weapon_lvl 0
+unit		east infantry				exp 2 armour 0 weapon_lvl 0
+unit		east infantry				exp 2 armour 0 weapon_lvl 0
+unit		east infantry				exp 2 armour 0 weapon_lvl 0
 unit		east infantry				exp 0 armour 0 weapon_lvl 0
 unit		east infantry				exp 0 armour 0 weapon_lvl 0
 unit		east infantry				exp 0 armour 0 weapon_lvl 0
 unit		east infantry				exp 0 armour 0 weapon_lvl 0
 unit		east infantry				exp 0 armour 0 weapon_lvl 0
-unit		east infantry				exp 0 armour 0 weapon_lvl 0
-unit		east infantry				exp 0 armour 0 weapon_lvl 0
-unit		east archer					exp 0 armour 0 weapon_lvl 0
-unit		east archer					exp 0 armour 0 weapon_lvl 0
+unit		east archer					exp 4 armour 0 weapon_lvl 1
+unit		east archer					exp 4 armour 0 weapon_lvl 1
 
 character_record		Arxa, 	female, command 0, influence 0, management 0, subterfuge 0, age 37, alive, never_a_leader
 character_record		Dataphernes Bendva, 	male, command 5, influence 5, management 8, subterfuge 0, age 15, alive, never_a_leader
@@ -46240,7 +46530,7 @@ denari	5000
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 faction	slave, balanced_smith
-denari	-999999999
+denari	-1999999999
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;             SETTLEMENTS                ;;;;;

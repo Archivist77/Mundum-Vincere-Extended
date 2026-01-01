@@ -9335,7 +9335,7 @@ building temple_of_religion
 				
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 24
+				taxable_income_bonus bonus 26
 				
 				;;;;;;;;;;;;;;;;;;;;   passive cultural conversions   ;;;;;;;;;;;;;;;;;;;;
 
@@ -9492,7 +9492,7 @@ building temple_of_religion
 			}
 
 			construction 62
-			cost 140000
+			cost 150000
 			settlement_min huge_city
 			upgrades
 			{
@@ -9506,7 +9506,7 @@ building temple_of_religion
 
 			capability
 			{
-				taxable_income_bonus bonus -56550 requires factions { slave, }
+				taxable_income_bonus bonus -19956550 requires factions { slave, }
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 				recruit "barb druids gaul"  0
@@ -9539,7 +9539,7 @@ building temple_of_religion
 				
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 64
+				taxable_income_bonus bonus 129
 				
 				;;;;;;;;;;;;;;;;;;;;   passive cultural conversions   ;;;;;;;;;;;;;;;;;;;;
 
@@ -9616,7 +9616,7 @@ building temple_of_battle
 	icon religion
 	levels temple_of_battle_shrine temple_of_battle_temple temple_of_battle_large_temple temple_of_battle_awesome_temple temple_of_battle_pantheon 
 	{
-		temple_of_battle_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nuragic, arab, caucasian, carthaginian, numidian, etruscan, greek, thracian, paeonian, roman, } and no_other_temple 
+		temple_of_battle_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nuragic, arab, caucasian, carthaginian, numidian, etruscan, greek, thracian, paeonian, roman, } ; and no_other_temple 
 		{
 			;;conditions under which the AI will destroy this building
 			ai_destruction_hint requires not factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nuragic, arab, caucasian, carthaginian, numidian, etruscan, greek, thracian, paeonian, roman, }
@@ -10013,7 +10013,7 @@ building temple_of_battleforge
 	icon religion
 	levels temple_of_battleforge_shrine temple_of_battleforge_temple temple_of_battleforge_large_temple temple_of_battleforge_awesome_temple temple_of_battleforge_pantheon
 	{
-		temple_of_battleforge_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nuragic, armenia, } and no_other_temple 
+		temple_of_battleforge_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nuragic, armenia, } ; and no_other_temple 
 		{
 			;;conditions under which the AI will destroy this building
 			ai_destruction_hint requires not factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nuragic, armenia, }
@@ -10417,7 +10417,7 @@ building temple_of_farming
 	icon religion
 	levels temple_of_farming_shrine temple_of_farming_temple temple_of_farming_large_temple temple_of_farming_awesome_temple temple_of_farming_pantheon 
 	{
-		temple_of_farming_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nomad, nuragic, arab, caucasian, carthaginian, numidian, etruscan, greek, thracian, paeonian, roman, egypt, } and no_other_temple 
+		temple_of_farming_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nomad, nuragic, arab, caucasian, carthaginian, numidian, etruscan, greek, thracian, paeonian, roman, egypt, } ; and no_other_temple 
 		{
 			;;conditions under which the AI will destroy this building
 			ai_destruction_hint requires not factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nomad, nuragic, arab, caucasian, carthaginian, numidian, etruscan, greek, thracian, paeonian, roman, egypt, }
@@ -10809,7 +10809,7 @@ building temple_of_fertility
 	icon religion
 	levels temple_of_fertility_shrine temple_of_fertility_temple temple_of_fertility_large_temple temple_of_fertility_awesome_temple temple_of_fertility_pantheon 
 	{
-		temple_of_fertility_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nomad, arab, caucasian, carthaginian, numidian, egyptian, etruscan, greek, thracian, paeonian, roman,  } and no_other_temple 
+		temple_of_fertility_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nomad, arab, caucasian, carthaginian, numidian, egyptian, etruscan, greek, thracian, paeonian, roman,  } ; and no_other_temple 
 		{
 			;;conditions under which the AI will destroy this building
 			ai_destruction_hint requires not factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nomad, arab, caucasian, carthaginian, numidian, egyptian, etruscan, greek, thracian, paeonian, roman,  }
@@ -11216,7 +11216,7 @@ building temple_of_forge
 	icon religion
 	levels temple_of_forge_shrine temple_of_forge_temple temple_of_forge_large_temple temple_of_forge_awesome_temple temple_of_forge_pantheon 
 	{
-		temple_of_forge_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, arab, carthaginian, etruscan, greek, thracian, paeonian, roman, iberia, } and no_other_temple 
+		temple_of_forge_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, arab, carthaginian, etruscan, greek, thracian, paeonian, roman, iberia, } ; and no_other_temple 
 		{
 			;;conditions under which the AI will destroy this building
 			ai_destruction_hint requires not factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, arab, carthaginian, etruscan, greek, thracian, paeonian, roman, iberia, }
@@ -11616,7 +11616,7 @@ building temple_of_fun
 	icon religion
 	levels temple_of_fun_shrine temple_of_fun_temple temple_of_fun_large_temple temple_of_fun_awesome_temple temple_of_fun_pantheon 
 	{
-		temple_of_fun_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nuragic, arab, caucasian, carthaginian, numidian, egyptian, etruscan, greek, thracian, paeonian, roman, } and no_other_temple 
+		temple_of_fun_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nuragic, arab, caucasian, carthaginian, numidian, egyptian, etruscan, greek, thracian, paeonian, roman, } ; and no_other_temple 
 		{
 			;;conditions under which the AI will destroy this building
 			ai_destruction_hint requires not factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nuragic, arab, caucasian, carthaginian, numidian, egyptian, etruscan, greek, thracian, paeonian, roman, }
@@ -12003,7 +12003,7 @@ building temple_of_governors
 	icon religion
 	levels temple_of_governors_shrine temple_of_governors_temple temple_of_governors_large_temple temple_of_governors_awesome_temple temple_of_governors_pantheon 
 	{
-		temple_of_governors_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nomad, arab, caucasian, carthaginian, numidian, etruscan, greek, thracian, paeonian, roman, egypt, pontus, } and no_other_temple 
+		temple_of_governors_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nomad, arab, caucasian, carthaginian, numidian, etruscan, greek, thracian, paeonian, roman, egypt, pontus, } ; and no_other_temple 
 		{
 			;;conditions under which the AI will destroy this building
 			ai_destruction_hint requires not factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nomad, arab, caucasian, carthaginian, numidian, etruscan, greek, thracian, paeonian, roman, egypt, pontus, }
@@ -12396,7 +12396,7 @@ building temple_of_healing
 	icon religion
 	levels temple_of_healing_shrine temple_of_healing_temple temple_of_healing_large_temple temple_of_healing_awesome_temple temple_of_healing_pantheon 
 	{
-		temple_of_healing_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nomad, nuragic, arab, caucasian, carthaginian, numidian, egyptian, etruscan, greek, thracian, paeonian, roman, } and no_other_temple 
+		temple_of_healing_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nomad, nuragic, arab, caucasian, carthaginian, numidian, egyptian, etruscan, greek, thracian, paeonian, roman, } ; and no_other_temple 
 		{
 			;;conditions under which the AI will destroy this building
 			ai_destruction_hint requires not factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nomad, nuragic, arab, caucasian, carthaginian, numidian, egyptian, etruscan, greek, thracian, paeonian, roman, }
@@ -12794,7 +12794,7 @@ building temple_of_horse
 	icon religion
 	levels temple_of_horse_shrine temple_of_horse_temple temple_of_horse_large_temple temple_of_horse_awesome_temple temple_of_horse_pantheon 
 	{
-		temple_of_horse_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, arab, etruscan, greek, thracian, paeonian, roman, iberia, } and no_other_temple 
+		temple_of_horse_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, arab, etruscan, greek, thracian, paeonian, roman, iberia, } ; and no_other_temple 
 		{
 			;;conditions under which the AI will destroy this building
 			ai_destruction_hint requires not factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, arab, etruscan, greek, thracian, paeonian, roman, iberia, }
@@ -13193,7 +13193,7 @@ building temple_of_hunting
 	icon religion
 	levels temple_of_hunting_shrine temple_of_hunting_temple temple_of_hunting_large_temple temple_of_hunting_awesome_temple temple_of_hunting_pantheon 
 	{
-		temple_of_hunting_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nomad, arab, caucasian, carthaginian, numidian, etruscan, greek, thracian, paeonian, roman, egypt, } and no_other_temple 
+		temple_of_hunting_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nomad, arab, caucasian, carthaginian, numidian, etruscan, greek, thracian, paeonian, roman, egypt, } ; and no_other_temple 
 		{
 			;;conditions under which the AI will destroy this building
 			ai_destruction_hint requires not factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nomad, arab, caucasian, carthaginian, numidian, etruscan, greek, thracian, paeonian, roman, egypt, }
@@ -13588,7 +13588,7 @@ building temple_of_justice
 	icon religion
 	levels temple_of_justice_shrine temple_of_justice_temple temple_of_justice_large_temple temple_of_justice_awesome_temple temple_of_justice_pantheon 
 	{
-		temple_of_justice_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, arab, caucasian, carthaginian, numidian, egyptian, etruscan, greek, thracian, paeonian, roman, } and no_other_temple 
+		temple_of_justice_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, arab, caucasian, carthaginian, numidian, egyptian, etruscan, greek, thracian, paeonian, roman, } ; and no_other_temple 
 		{
 			;;conditions under which the AI will destroy this building
 			ai_destruction_hint requires not factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, arab, caucasian, carthaginian, numidian, egyptian, etruscan, greek, thracian, paeonian, roman, }
@@ -13997,7 +13997,7 @@ building temple_of_law
 	icon religion
 	levels temple_of_law_shrine temple_of_law_temple temple_of_law_large_temple temple_of_law_awesome_temple temple_of_law_pantheon 
 	{
-		temple_of_law_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nomad, arab, caucasian, carthaginian, numidian, egyptian, etruscan, greek, thracian, paeonian, roman, } and no_other_temple 
+		temple_of_law_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nomad, arab, caucasian, carthaginian, numidian, egyptian, etruscan, greek, thracian, paeonian, roman, } ; and no_other_temple 
 		{
 			;;conditions under which the AI will destroy this building
 			ai_destruction_hint requires not factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nomad, arab, caucasian, carthaginian, numidian, egyptian, etruscan, greek, thracian, paeonian, roman, }
@@ -14392,7 +14392,7 @@ building temple_of_leadership
 	icon religion
 	levels temple_of_leadership_shrine temple_of_leadership_temple temple_of_leadership_large_temple temple_of_leadership_awesome_temple temple_of_leadership_pantheon 
 	{
-		temple_of_leadership_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, arab, caucasian, carthaginian, numidian, etruscan, greek, thracian, paeonian, roman, colchis, } and no_other_temple 
+		temple_of_leadership_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, arab, caucasian, carthaginian, numidian, etruscan, greek, thracian, paeonian, roman, colchis, } ; and no_other_temple 
 		{
 			;;conditions under which the AI will destroy this building
 			ai_destruction_hint requires not factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, arab, caucasian, carthaginian, numidian, etruscan, greek, thracian, paeonian, roman, colchis, }
@@ -14788,7 +14788,7 @@ building temple_of_love
 	icon religion
 	levels temple_of_love_shrine temple_of_love_temple temple_of_love_large_temple temple_of_love_awesome_temple temple_of_love_pantheon 
 	{
-		temple_of_love_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nomad, arab, caucasian, carthaginian, numidian, etruscan, greek, thracian, paeonian, roman, colchis, pontus, } and no_other_temple 
+		temple_of_love_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nomad, arab, caucasian, carthaginian, numidian, etruscan, greek, thracian, paeonian, roman, colchis, pontus, } ; and no_other_temple 
 		{
 			;;conditions under which the AI will destroy this building
 			ai_destruction_hint requires not factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nomad, arab, caucasian, carthaginian, numidian, etruscan, greek, thracian, paeonian, roman, colchis, pontus, }
@@ -15191,7 +15191,7 @@ building temple_of_naval
 	icon religion
 	levels temple_of_naval_shrine temple_of_naval_temple temple_of_naval_large_temple temple_of_naval_awesome_temple temple_of_naval_pantheon 
 	{
-		temple_of_naval_shrine requires factions { anatolian, baltic, germanic, illyrian, nomad, carthaginian, numidian, etruscan, greek, thracian, paeonian, roman, armenia, } and no_other_temple  and building_present_min_level port_buildings port
+		temple_of_naval_shrine requires factions { anatolian, baltic, germanic, illyrian, nomad, carthaginian, numidian, etruscan, greek, thracian, paeonian, roman, armenia, } ; and no_other_temple  and building_present_min_level port_buildings port
 		{
 			;;conditions under which the AI will destroy this building
 			ai_destruction_hint requires not factions { anatolian, baltic, germanic, illyrian, nomad, carthaginian, numidian, etruscan, greek, thracian, paeonian, roman, armenia, }
@@ -15580,7 +15580,7 @@ building temple_of_one_god
 	icon religion
 	levels temple_of_one_god_shrine temple_of_one_god_temple temple_of_one_god_large_temple temple_of_one_god_awesome_temple temple_of_one_god_pantheon 
 	{
-		temple_of_one_god_shrine requires factions { anatolian, parthia, persis, } and no_other_temple 
+		temple_of_one_god_shrine requires factions { anatolian, parthia, persis, } ; and no_other_temple 
 		{
 			;;conditions under which the AI will destroy this building
 			ai_destruction_hint requires not factions { anatolian, parthia, }
@@ -15970,7 +15970,7 @@ building temple_of_trade
 	icon religion
 	levels temple_of_trade_shrine temple_of_trade_temple temple_of_trade_large_temple temple_of_trade_awesome_temple temple_of_trade_pantheon 
 	{
-		temple_of_trade_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nomad, nuragic, arab, caucasian, carthaginian, numidian, etruscan, greek, thracian, paeonian, roman, colchis, } and no_other_temple 
+		temple_of_trade_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nomad, nuragic, arab, caucasian, carthaginian, numidian, etruscan, greek, thracian, paeonian, roman, colchis, } ; and no_other_temple 
 		{
 			;;conditions under which the AI will destroy this building
 			ai_destruction_hint requires not factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nomad, nuragic, arab, caucasian, carthaginian, numidian, etruscan, greek, thracian, paeonian, roman, colchis, }
@@ -16381,7 +16381,7 @@ building temple_of_victory
 	icon religion
 	levels temple_of_victory_shrine temple_of_victory_temple temple_of_victory_large_temple temple_of_victory_awesome_temple temple_of_victory_pantheon 
 	{
-		temple_of_victory_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, arab, caucasian, carthaginian, numidian, etruscan, greek, thracian, paeonian, roman, colchis, } and no_other_temple 
+		temple_of_victory_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, arab, caucasian, carthaginian, numidian, etruscan, greek, thracian, paeonian, roman, colchis, } ; and no_other_temple 
 		{
 			;;conditions under which the AI will destroy this building
 			ai_destruction_hint requires not factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, arab, caucasian, carthaginian, numidian, etruscan, greek, thracian, paeonian, roman, colchis, }
@@ -16785,7 +16785,7 @@ building temple_of_violence
 	icon religion
 	levels temple_of_violence_shrine temple_of_violence_temple temple_of_violence_large_temple temple_of_violence_awesome_temple temple_of_violence_pantheon 
 	{
-		temple_of_violence_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nomad, arab, caucasian, carthaginian, numidian, etruscan, greek, thracian, paeonian, roman, egypt, pontus, } and no_other_temple 
+		temple_of_violence_shrine requires factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nomad, arab, caucasian, carthaginian, numidian, etruscan, greek, thracian, paeonian, roman, egypt, pontus, } ; and no_other_temple 
 		{
 			;;conditions under which the AI will destroy this building
 			ai_destruction_hint requires not factions { anatolian, barbarian, baltic, brittonic, dacian, germanic, iberian, illyrian, nomad, arab, caucasian, carthaginian, numidian, etruscan, greek, thracian, paeonian, roman, egypt, pontus, }
@@ -17098,7 +17098,7 @@ building temple_of_violence
 
 			capability
 			{
-				taxable_income_bonus bonus -56550 requires factions { slave, }
+				taxable_income_bonus bonus -76550 requires factions { slave, }
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
@@ -17182,7 +17182,7 @@ building temple_of_viking
 	icon religion
 	levels temple_of_viking_shrine temple_of_viking_temple temple_of_viking_large_temple 
 	{
-		temple_of_viking_shrine requires factions { anatolian, barbarian, baltic, brittonic, iberian, germanic, } and no_other_temple 
+		temple_of_viking_shrine requires factions { anatolian, barbarian, baltic, brittonic, iberian, germanic, } ; and no_other_temple 
 		{
 			;;conditions under which the AI will destroy this building
 			ai_destruction_hint requires not factions { anatolian, barbarian, baltic, brittonic, iberian, germanic, }
@@ -17423,7 +17423,7 @@ building temple_of_horse_2
 	icon religion
 	levels temple_of_horse_2_shrine temple_of_horse_2_temple temple_of_horse_2_large_temple 
 	{
-		temple_of_horse_2_shrine requires factions { anatolian, barbarian, baltic, dacian, iberian, nomad, } and no_other_temple 
+		temple_of_horse_2_shrine requires factions { anatolian, barbarian, baltic, dacian, iberian, nomad, } ; and no_other_temple 
 		{
 			;;conditions under which the AI will destroy this building
 			ai_destruction_hint requires not factions { anatolian, barbarian, baltic, dacian, iberian, nomad, }
@@ -17668,7 +17668,7 @@ building temple_of_alexander
 	icon religion
 	levels temple_of_alexander_shrine temple_of_alexander_temple temple_of_alexander_large_temple temple_of_alexander_awesome_temple temple_of_alexander_pantheon 
 	{
-		temple_of_alexander_shrine requires factions { anatolian, egypt, macedon, seleucid, } and no_other_temple 
+		temple_of_alexander_shrine requires factions { anatolian, egypt, macedon, seleucid, } ; and no_other_temple 
 		{
 			;;conditions under which the AI will destroy this building
 			ai_destruction_hint requires not factions { egypt, macedon, seleucid, }
@@ -18043,7 +18043,7 @@ building temple_of_alexander
 				taxable_income_bonus bonus -30 requires size10
 			}
 			construction  10 
-			cost  25600 
+			cost  29600 
 			settlement_min huge_city
 			upgrades
 			{

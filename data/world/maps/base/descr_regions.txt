@@ -8205,7 +8205,7 @@ ApameaRagiana_R
 Archiotis_R
 	legion: Parthica
 	Archiotis
-	seleucid
+	persis
 	Medes
 	171 171 64
 	persia
@@ -8216,7 +8216,7 @@ Archiotis_R
 Artacana_R
 	legion: Parthica
 	Artacana
-	seleucid
+	persis
 	Syrians
 	182 124 41
 	persia
@@ -8293,7 +8293,7 @@ Europus_R
 Gabra_R
 	legion: Parthica
 	Gabra
-	seleucid
+	persis
 	Syrians
 	61 129 79
 	persia
@@ -8326,7 +8326,7 @@ Gurgan_R
 Harmozeia_R
 	legion: Parthica
 	Harmozeia
-	seleucid
+	persis
 	Syrians
 	87 148 71
 	persia
@@ -8414,7 +8414,7 @@ Niguza_R
 Pantyene_R
 	legion: Parthica
 	Pantyene
-	seleucid
+	persis
 	Syrians
 	183 48 185
 	persia
@@ -8436,7 +8436,7 @@ Parbara_R
 Parodana_R
 	legion: Parthica
 	Parodana
-	seleucid
+	persis
 	Syrians
 	200 77 53
 	persia
@@ -8447,7 +8447,7 @@ Parodana_R
 Pasa_R
 	legion: Parthica
 	Pasa
-	seleucid
+	persis
 	Syrians
 	198 213 44
 	persia
@@ -8458,7 +8458,7 @@ Pasa_R
 Pasargadae_R
 	legion: Parthica
 	Pasargadae
-	seleucid
+	persis
 	Syrians
 	107 36 104
 	persia
@@ -8469,7 +8469,7 @@ Pasargadae_R
 Persepolis_R
 	legion: Parthica
 	Persepolis
-	seleucid
+	persis
 	Syrians
 	58 202 13
 	persia
@@ -8524,7 +8524,7 @@ Semina_R
 Sidone_R
 	legion: Parthica
 	Sidone
-	seleucid
+	persis
 	Syrians
 	135 135 126
 	persia
@@ -8535,7 +8535,7 @@ Sidone_R
 Siraf_R
 	legion: Parthica
 	Siraf
-	seleucid
+	persis
 	Syrians
 	37 39 100
 	persia
