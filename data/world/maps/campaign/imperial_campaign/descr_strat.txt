@@ -22454,7 +22454,7 @@ settlement
 	region Peium_R
 
 	year_founded 0
-	population 800
+	population 600
 	plan_set default_set
 	faction_creator galatia
 	building
