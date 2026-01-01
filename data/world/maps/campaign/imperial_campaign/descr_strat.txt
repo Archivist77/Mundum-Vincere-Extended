@@ -22291,7 +22291,7 @@ character	Gaizka Lobetani, named character, age 34, , x 81, y 300
 traits NaturalMilitarySkill 1 , Energetic 1 , Bloodthirsty 1
 ancillaries beastmaster
 army
-unit		carthaginian general's cavalry celtiberian early	exp 1 armour 0 weapon_lvl 0
+unit		carthaginian general's cavalry celtiberian early	exp 2 armour 0 weapon_lvl 0
 unit		iberian guerilla fighters				exp 0 armour 0 weapon_lvl 0
 unit		carthaginian city militia				exp 0 armour 0 weapon_lvl 0
 unit		spanish scutarii				exp 0 armour 0 weapon_lvl 0
