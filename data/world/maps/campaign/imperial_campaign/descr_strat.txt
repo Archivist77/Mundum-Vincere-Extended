@@ -11261,30 +11261,6 @@ settlement
 settlement
 {
 	level town
-	region Dura_R
-
-	year_founded 0
-	population 1200
-	plan_set default_set
-	faction_creator seleucid
-	garrisoned_army
-	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
-	building
-	{
-		type hinterland_greek_klerouchia greek_klerouchia
-	}
-	building
-	{
-		type core_building governors_house
-	}
-	building
-	{
-		type defenses wooden_pallisade
-	}
-}
-settlement
-{
-	level town
 	region Nisibis_R		;;;;; Antiochia Mygdonia
 
 	year_founded 0
@@ -27771,6 +27747,123 @@ settlement
 	}
 }
 
+settlement
+{
+	level town
+	region AlexandriaCaucasus_R
+
+	year_founded 0
+	population 1200
+	plan_set default_set
+	faction_creator bactria
+	garrisoned_army
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 2
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 2
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 2
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 2
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 2
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 2
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 0
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 0
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 0
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 0
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 0
+	unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
+	unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
+	unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
+	unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
+	unit		greek cavalry					exp 0 armour 0 weapon_lvl 0
+	unit		greek cavalry					exp 0 armour 0 weapon_lvl 0
+	unit		greek cavalry					exp 0 armour 0 weapon_lvl 0
+	unit		greek cavalry					exp 0 armour 0 weapon_lvl 0
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+}
+
+settlement
+{
+	level town
+	region Arigaeum_R
+
+	year_founded 0
+	population 800
+	plan_set default_set
+	faction_creator bactria
+	garrisoned_army
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 2
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 2
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 2
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 2
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 2
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 2
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 0
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 0
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 0
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 0
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 0
+	unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
+	unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
+	unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
+	unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
+	unit		greek cavalry					exp 0 armour 0 weapon_lvl 0
+	unit		greek cavalry					exp 0 armour 0 weapon_lvl 0
+	unit		greek cavalry					exp 0 armour 0 weapon_lvl 0
+	unit		greek cavalry					exp 0 armour 0 weapon_lvl 0
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+}
+
+settlement
+{
+	level town
+	region Nagahara_R
+
+	year_founded 0
+	population 500
+	plan_set default_set
+	faction_creator bactria
+	garrisoned_army
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 2
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 2
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 2
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 2
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 2
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 2
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 0
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 0
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 0
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 0
+	unit		greek levy pikemen				exp 8 armour 1 weapon_lvl 0
+	unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
+	unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
+	unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
+	unit		greek hoplite militia			exp 0 armour 0 weapon_lvl 0
+	unit		greek cavalry					exp 0 armour 0 weapon_lvl 0
+	unit		greek cavalry					exp 0 armour 0 weapon_lvl 0
+	unit		greek cavalry					exp 0 armour 0 weapon_lvl 0
+	unit		greek cavalry					exp 0 armour 0 weapon_lvl 0
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+}
+
 ;---------- Historical Characters ----------
 ;	Bactra
 character	Diodotus Diodotides, named character, leader, age 63, , x 746, y 336, portrait_index 036 ;;?
@@ -28719,14 +28812,14 @@ relative 	Pharnavaz Pharnavazishvili, 	Asina,		Saurmag Pharnavazishvili,		end
 
 
 faction	palmyra, eastern_passive
-denari	6000
+denari	10000
 settlement
 {
 	level large_town
 	region Regnum_Palmyrae
 
 	year_founded 0
-	population 1800
+	population 2910
 	plan_set default_set
 	faction_creator palmyra
 	building
@@ -28747,17 +28840,56 @@ settlement
 	}
 }
 
+settlement
+{
+	level town
+	region Dura_R
+
+	year_founded 0
+	population 1070
+	plan_set default_set
+	faction_creator palmyra
+	garrisoned_army
+	unit		east infantry				exp 7 armour 1 weapon_lvl 2
+	unit		east infantry				exp 7 armour 1 weapon_lvl 2
+	unit		east infantry				exp 7 armour 1 weapon_lvl 2
+	unit		east infantry				exp 2 armour 1 weapon_lvl 2
+	unit		east infantry				exp 2 armour 1 weapon_lvl 2
+	unit		east infantry				exp 2 armour 1 weapon_lvl 2
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+}
+
 ;	Palmyra
 character	Gaumata Odaenathus, named character, leader, age 40, , x 476, y 263
-traits GoodCommander 2, GoodAdministrator 2
+traits GoodCommander 5, GoodAdministrator 4, Warlord 4, NaturalMilitarySkill 3, GoodDefender 2, GoodInfantryGeneral 2, GoodAttacker 2
+ancillaries shieldbearer, bodyguard, mentor
 army
-unit		east generals cavalry early		exp 1 armour 0 weapon_lvl 0
-unit		east infantry				exp 0 armour 0 weapon_lvl 0
-unit		east infantry				exp 0 armour 0 weapon_lvl 0
+unit		east generals cavalry early		exp 9 armour 3 weapon_lvl 3
+unit		east generals cavalry early		exp 9 armour 2 weapon_lvl 3
+unit		east generals cavalry early		exp 9 armour 2 weapon_lvl 3
+unit		east infantry				exp 7 armour 1 weapon_lvl 2
+unit		east infantry				exp 2 armour 1 weapon_lvl 2
+unit		east infantry				exp 2 armour 1 weapon_lvl 2
+unit		east infantry				exp 2 armour 1 weapon_lvl 2
+unit		east infantry				exp 2 armour 1 weapon_lvl 2
+unit		east infantry				exp 2 armour 1 weapon_lvl 2
+unit		east infantry				exp 2 armour 1 weapon_lvl 2
+unit		east infantry				exp 2 armour 1 weapon_lvl 2
+unit		east infantry				exp 2 armour 1 weapon_lvl 2
+unit		east infantry				exp 2 armour 1 weapon_lvl 2
+unit		east infantry				exp 2 armour 1 weapon_lvl 2
+unit		east infantry				exp 2 armour 1 weapon_lvl 2
 unit		east infantry				exp 0 armour 0 weapon_lvl 0
 unit		east infantry				exp 0 armour 0 weapon_lvl 0
 unit		east archer					exp 0 armour 0 weapon_lvl 0
-unit		east archer					exp 0 armour 0 weapon_lvl 0
+unit		east archer					exp 9 armour 0 weapon_lvl 3
 
 character_record		Arxa, 	female, command 0, influence 0, management 0, subterfuge 0, age 38, alive, never_a_leader
 character_record		Zabbai Odaenathus, 	male, command 0, influence 0, management 0, subterfuge 0, age 15, alive, never_a_leader
@@ -40579,24 +40711,6 @@ settlement
 settlement
 {
 	level town
-	region Narmadapura_R
-
-	year_founded 0
-	population 1200
-	plan_set default_set
-	faction_creator india
-	building
-	{
-		type core_building governors_house
-	}
-	building
-	{
-		type defenses wooden_pallisade
-	}
-}
-settlement
-{
-	level town
 	region Saudrabatva_R
 
 	year_founded 0
@@ -40984,24 +41098,6 @@ settlement
 {
 	level town
 	region Asigramma_R
-
-	year_founded 0
-	population 1000
-	plan_set default_set
-	faction_creator india
-	building
-	{
-		type core_building governors_house
-	}
-	building
-	{
-		type defenses wooden_pallisade
-	}
-}
-settlement
-{
-	level town
-	region Viduranagara_R
 
 	year_founded 0
 	population 1000
@@ -41933,24 +42029,6 @@ settlement
 settlement
 {
 	level town
-	region Nagahara_R
-
-	year_founded 0
-	population 1100
-	plan_set default_set
-	faction_creator india
-	building
-	{
-		type core_building governors_house
-	}
-	building
-	{
-		type defenses wooden_pallisade
-	}
-}
-settlement
-{
-	level town
 	region Dyrta_R
 
 	year_founded 0
@@ -41988,24 +42066,6 @@ settlement
 {
 	level town
 	region Uragapura_R
-
-	year_founded 0
-	population 800
-	plan_set default_set
-	faction_creator india
-	building
-	{
-		type core_building governors_house
-	}
-	building
-	{
-		type defenses wooden_pallisade
-	}
-}
-settlement
-{
-	level town
-	region Arigaeum_R
 
 	year_founded 0
 	population 800
@@ -42136,26 +42196,7 @@ settlement
 		creator macedon
 	}
 }
-settlement
-{
-	level town
-	region AlexandriaCaucasus_R
 
-	year_founded 0
-	population 1200
-	plan_set default_set
-	faction_creator seleucid
-	building
-	{
-		type core_building governors_house
-		creator macedon
-	}
-	building
-	{
-		type defenses wooden_pallisade
-		creator macedon
-	}
-}
 
 ;	Pataliputra
 character	Bindusara Maurya, named character, leader, age 51, , x 951, y 253
@@ -42224,14 +42265,6 @@ unit		Indian Light Cavalry			exp 0 armour 0 weapon_lvl 0
 unit		Indian Spearmen				exp 0 armour 0 weapon_lvl 0
 unit		Indian Javelin Men			exp 0 armour 0 weapon_lvl 0
 
-;	Alexandria Caucasus
-character	Ambhi, general, age 20, , x 772, y 320
-army
-unit		Indian Spearmen				exp 0 armour 0 weapon_lvl 0
-unit		Indian Spearmen				exp 0 armour 0 weapon_lvl 0
-unit		Indian Javelin Men			exp 0 armour 0 weapon_lvl 0
-unit		Indian Javelin Men			exp 0 armour 0 weapon_lvl 0
-
 ;	outside Pataliputra
 character	Rakshas, diplomat, age 26, , x 952, y 251
 traits GoodDiplomat 2
@@ -42281,18 +42314,8 @@ character	Ambhi, general, age 20, , x 821, y 301
 army
 unit		Indian Spearmen				exp 0 armour 0 weapon_lvl 0
 
-;	Arigaeum
-character	Ambhi, general, age 20, , x 794, y 322
-army
-unit		Indian Spearmen				exp 0 armour 0 weapon_lvl 0
-
 ;	Uragapura
 character	Ambhi, general, age 20, , x 811, y 321
-army
-unit		Indian Spearmen				exp 0 armour 0 weapon_lvl 0
-
-;	Nagarahara
-character	Ambhi, general, age 20, , x 785, y 315
 army
 unit		Indian Spearmen				exp 0 armour 0 weapon_lvl 0
 
@@ -42572,11 +42595,6 @@ character	Taharqa, general, age 20, , x 872, y 193
 army
 unit		Indian Spearmen				exp 0 armour 0 weapon_lvl 0
 
-;	Narmadapura
-character	Taharqa, general, age 20, , x 881, y 198
-army
-unit		Indian Spearmen				exp 0 armour 0 weapon_lvl 0
-
 ;	Saudrabatva
 character	Taharqa, general, age 20, , x 833, y 209
 army
@@ -42734,11 +42752,6 @@ unit		Indian Spearmen				exp 0 armour 0 weapon_lvl 0
 
 ;	Isila
 character	Taharqa, general, age 20, , x 899, y 117
-army
-unit		Indian Spearmen				exp 0 armour 0 weapon_lvl 0
-
-;	Viduranagara
-character	Taharqa, general, age 20, , x 898, y 151
 army
 unit		Indian Spearmen				exp 0 armour 0 weapon_lvl 0
 
@@ -46699,6 +46712,60 @@ settlement
 settlement
 {
 	level town
+	region Narmadapura_R
+
+	year_founded 0
+	population 400
+	plan_set default_set
+	faction_creator india
+	garrisoned_army
+	unit	east infantry		exp 0 armour 0 weapon_lvl 0
+	unit	east infantry		exp 0 armour 0 weapon_lvl 0
+	unit	east infantry		exp 0 armour 0 weapon_lvl 0
+	unit	east infantry		exp 0 armour 0 weapon_lvl 0
+	unit	east infantry		exp 0 armour 0 weapon_lvl 0
+	unit	east infantry		exp 0 armour 0 weapon_lvl 0
+	unit	east infantry		exp 0 armour 0 weapon_lvl 0
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+}
+
+settlement
+{
+	level town
+	region Viduranagara_R
+
+	year_founded 0
+	population 400
+	plan_set default_set
+	faction_creator india
+	garrisoned_army
+	unit	east infantry		exp 0 armour 0 weapon_lvl 0
+	unit	east infantry		exp 0 armour 0 weapon_lvl 0
+	unit	east infantry		exp 0 armour 0 weapon_lvl 0
+	unit	east infantry		exp 0 armour 0 weapon_lvl 0
+	unit	east infantry		exp 0 armour 0 weapon_lvl 0
+	unit	east infantry		exp 0 armour 0 weapon_lvl 0
+	unit	east infantry		exp 0 armour 0 weapon_lvl 0
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+}
+
+settlement
+{
+	level town
 	region Pano_R
 
 	year_founded 0
@@ -46776,7 +46843,7 @@ settlement
 	region Astaepolis_Dufar_R
 
 	year_founded 0
-	population 380
+	population 340
 	plan_set default_set
 	faction_creator gerrha
 	garrisoned_army

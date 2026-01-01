@@ -7518,7 +7518,7 @@ Syria
 	syria, greek_colony
 	5
 	9
-	greek 80 assyrian 20
+	greek 2 assyrian 88
 	
 Coele_Syria
 	legion: Phoenicea
@@ -7551,7 +7551,7 @@ ApameaOrontes_R
 	syria, greek_colony
 	5
 	8
-	greek 40 assyrian 60
+	assyrian 95 greek 5
 	
 ApameaZeugma_R
 	legion: Syriaca
@@ -7562,8 +7562,8 @@ ApameaZeugma_R
 	syria, greek_colony
 	5
 	6
-	greek 20 assyrian 80
-	
+	assyrian 99 greek 1
+
 Arethusa_R
 	legion: Syriaca
 	Arethusa
@@ -7584,8 +7584,8 @@ Beroia_R
 	syria
 	5
 	6
-	greek 20 assyrian 80
-	
+	assyrian 99 greek 1
+
 Edessa_R
 	legion: Syriaca
 	Edessa
@@ -7595,7 +7595,7 @@ Edessa_R
 	syria, greek_colony
 	5
 	8
-	greek 40 assyrian 60
+	assyrian 95 greek 5
 
 Hierapolis_R
 	legion: Syriaca
@@ -7617,7 +7617,7 @@ Laodicea_R
 	syria, greek_colony
 	5
 	8
-	greek 40 assyrian 60
+	assyrian 95 greek 5
 	
 Nikephorion_R
 	legion: Syriaca
@@ -7650,19 +7650,19 @@ SeleuciaPieria_R
 	syria, greek_colony
 	5
 	9
-	greek 60 assyrian 40
+	greek 1 assyrian 99
 	
 Dura_R
 	legion: Syriaca
 	Dura
-	seleucid
+	palmyra
 	Syrians
 	30 46 74
-	syria, greek_colony
+	syria
 	5
 	5
-	greek 20 assyrian 80
-	
+	assyrian 100
+
 Heliopolis_R
 	legion: Chalcidica
 	Heliopolis
@@ -7754,7 +7754,7 @@ Nisibis_R
 	assyria, greek_colony
 	5
 	6
-	greek 40 assyrian 60
+	assyrian 95 greek 5
 
 Sareisa_R
 	legion: Assyriaca
@@ -14219,13 +14219,13 @@ Andrapana_R
 Arigaeum_R
 	legion: Parthica
 	Arigaeum
-	india
+	bactria
 	Medes
 	136 55 181
 	indus
 	5
 	3
-	indian 100
+	greek 30 iranian 60 tocharian 5 indian 5
 
 Aristobathara_R
 	legion: Parthica
@@ -14406,13 +14406,13 @@ Naagramma_R
 Nagahara_R
 	legion: Parthica
 	Nagahara
-	india
+	bactria
 	Medes
 	230 223 125
 	indus
 	5
 	6
-	indian 100
+	greek 40 iranian 30 indian 30
 
 Naustathmos_R
 	legion: Parthica
