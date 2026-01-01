@@ -17364,7 +17364,7 @@ Astaepolis_Dufar_R
 	arabia
 	5
 	4
-	arab 90 mesopotamian 10
+	arab 70 mesopotamian 30
 
 Sesamos_R
 	legion: Asianae
