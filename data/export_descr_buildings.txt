@@ -11198,7 +11198,7 @@ building temple_of_fertility
 				taxable_income_bonus bonus -30 requires size10
 			}
 			construction  10 
-			cost  25600 
+			cost  27600 
 			settlement_min huge_city
 			upgrades
 			{
