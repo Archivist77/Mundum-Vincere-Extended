@@ -46463,7 +46463,7 @@ denari	6000
 
 faction	sabines, greek_passive
 dead_until_resurrected
-denari	6000
+denari	5000
 
 faction	samnites, greek_passive
 dead_until_resurrected
@@ -46487,7 +46487,7 @@ denari	5000
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 faction	slave, balanced_smith
-denari	-2999999999
+denari	-1999999999
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;             SETTLEMENTS                ;;;;;
@@ -46502,7 +46502,7 @@ settlement
 	region Artoarta_R
 
 	year_founded 0
-	population 550
+	population 500
 	plan_set default_set
 	faction_creator india
 	building
