@@ -46069,7 +46069,7 @@ settlement
 	region Parodana_R
 
 	year_founded 0
-	population 1200
+	population 800
 	plan_set default_set
 	faction_creator persis
 	garrisoned_army
@@ -46110,13 +46110,6 @@ settlement
 	faction_creator persis
 	garrisoned_army
 	unit	east infantry		exp 3 armour 0 weapon_lvl 0
-	unit	east infantry		exp 3 armour 0 weapon_lvl 0
-	unit	east infantry		exp 3 armour 0 weapon_lvl 0
-	unit	east infantry		exp 3 armour 0 weapon_lvl 0
-	unit	east infantry		exp 3 armour 0 weapon_lvl 0
-	unit	east infantry		exp 3 armour 0 weapon_lvl 0
-	unit	east infantry		exp 3 armour 0 weapon_lvl 0
-	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
@@ -46209,14 +46202,14 @@ relative 	Mukaporis Bendva, 	Arxa,		Dataphernes Bendva,	    Niphates Bendva,	end
 
 ;-------------- Gedrosia ---------------
 faction	gedrosia, eastern_passive
-denari	5092
+denari	4072
 settlement
 {
 	level town
 	region Tisa_R
 
 	year_founded 0
-	population 740
+	population 300
 	plan_set default_set
 	faction_creator gedrosia
 	building
@@ -46234,7 +46227,7 @@ settlement
 	region Barna_R
 
 	year_founded 0
-	population 400
+	population 300
 	plan_set default_set
 	faction_creator gedrosia
 	garrisoned_army
