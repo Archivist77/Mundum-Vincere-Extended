@@ -31630,7 +31630,7 @@ settlement
 	region Epomanduodurum_R
 
 	year_founded 0
-	population 600
+	population 500
 	plan_set default_set
 	faction_creator sequani
 	building
@@ -41146,24 +41146,6 @@ settlement
 settlement
 {
 	level town
-	region Kondapur_R
-
-	year_founded 0
-	population 1000
-	plan_set default_set
-	faction_creator india
-	building
-	{
-		type core_building governors_house
-	}
-	building
-	{
-		type defenses wooden_pallisade
-	}
-}
-settlement
-{
-	level town
 	region Tiagoura_R
 
 	year_founded 0
@@ -42602,11 +42584,6 @@ unit		Indian Spearmen				exp 0 armour 0 weapon_lvl 0
 character	Taharqa, general, age 20, , x 889, y 173
 army
 unit		Indian Spearmen				exp 0 armour 0 weapon_lvl 0
-
-;	Kondapur
-character	Taharqa, general, age 20, , x 907, y 149
-army
-unit		Indian Spearmen				exp 0 armour 0 weapon_lvl 1
 
 ;	Souannagoura
 character	Taharqa, general, age 20, , x 984, y 260
@@ -46908,7 +46885,7 @@ settlement
 	region Seutheum_R
 
 	year_founded 0
-	population 355
+	population 300
 	plan_set default_set
 	faction_creator axum
 	garrisoned_army
@@ -46969,7 +46946,7 @@ settlement
 	region Podanapura_R
 
 	year_founded 0
-	population 310
+	population 300
 	plan_set default_set
 	faction_creator india
 	garrisoned_army
@@ -46977,6 +46954,27 @@ settlement
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+}
+
+settlement
+{
+	level town
+	region Kondapur_R
+
+	year_founded 0
+	population 300
+	plan_set default_set
+	faction_creator india
+	building
+	garrisoned_army
+	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	{
 		type core_building governors_house
 	}

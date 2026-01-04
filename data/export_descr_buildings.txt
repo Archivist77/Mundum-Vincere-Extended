@@ -4530,7 +4530,7 @@ building hinterland_roman_colonia
 				extra_recruitment_points bonus 3
 				extra_construction_points bonus 3
 				population_growth_bonus bonus 5
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				
 				religious_belief roman 4 requires roman_faction
 			}
@@ -4798,7 +4798,7 @@ building defenses
 				
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -3 requires size1
 				taxable_income_bonus bonus -3 requires size2
 				taxable_income_bonus bonus -6 requires size3
@@ -4835,7 +4835,7 @@ building defenses
 				
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -5 requires size1
 				taxable_income_bonus bonus -5 requires size2
 				taxable_income_bonus bonus -10 requires size3
@@ -4872,7 +4872,7 @@ building defenses
 				
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -7 requires size1
 				taxable_income_bonus bonus -7 requires size2
 				taxable_income_bonus bonus -14 requires size3
@@ -5006,7 +5006,7 @@ building barracks
 				;;stats
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -1 requires size1
 				taxable_income_bonus bonus -1 requires size2
 				taxable_income_bonus bonus -2 requires size3
@@ -5168,7 +5168,7 @@ building barracks
 				;;stats
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -2 requires size1
 				taxable_income_bonus bonus -2 requires size2
 				taxable_income_bonus bonus -4 requires size3
@@ -5402,7 +5402,7 @@ building barracks
 				;;stats
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -3 requires size1
 				taxable_income_bonus bonus -3 requires size2
 				taxable_income_bonus bonus -6 requires size3
@@ -5682,7 +5682,7 @@ building barracks
 				;;stats
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -4 requires size1
 				taxable_income_bonus bonus -4 requires size2
 				taxable_income_bonus bonus -8 requires size3
@@ -5969,7 +5969,7 @@ building barracks
 				;;stats
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -5 requires size1
 				taxable_income_bonus bonus -5 requires size2
 				taxable_income_bonus bonus -10 requires size3
@@ -6103,7 +6103,7 @@ building equestrian
 				;;stats
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -2 requires size1
 				taxable_income_bonus bonus -2 requires size2
 				taxable_income_bonus bonus -4 requires size3
@@ -6280,7 +6280,7 @@ building equestrian
 				;;stats
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -3 requires size1
 				taxable_income_bonus bonus -3 requires size2
 				taxable_income_bonus bonus -6 requires size3
@@ -6499,7 +6499,7 @@ building equestrian
 				
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -4 requires size1
 				taxable_income_bonus bonus -4 requires size2
 				taxable_income_bonus bonus -8 requires size3
@@ -6741,7 +6741,7 @@ building equestrian
 				
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -5 requires size1
 				taxable_income_bonus bonus -5 requires size2
 				taxable_income_bonus bonus -10 requires size3
@@ -6854,7 +6854,7 @@ building missiles
 				;;stats
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -2 requires size1
 				taxable_income_bonus bonus -2 requires size2
 				taxable_income_bonus bonus -4 requires size3
@@ -6997,7 +6997,7 @@ building missiles
 				;;stats
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -3 requires size1
 				taxable_income_bonus bonus -3 requires size2
 				taxable_income_bonus bonus -6 requires size3
@@ -7178,7 +7178,7 @@ building missiles
 				;;stats
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -4 requires size1
 				taxable_income_bonus bonus -4 requires size2
 				taxable_income_bonus bonus -8 requires size3
@@ -7373,7 +7373,7 @@ building missiles
 				;;stats
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -5 requires size1
 				taxable_income_bonus bonus -5 requires size2
 				taxable_income_bonus bonus -10 requires size3
@@ -7597,7 +7597,7 @@ building smith
 				
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -2 requires size1
 				taxable_income_bonus bonus -2 requires size2
 				taxable_income_bonus bonus -4 requires size3
@@ -7651,7 +7651,7 @@ building smith
 				
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -3 requires size1
 				taxable_income_bonus bonus -3 requires size2
 				taxable_income_bonus bonus -6 requires size3
@@ -7705,7 +7705,7 @@ building smith
 				
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -4 requires size1
 				taxable_income_bonus bonus -4 requires size2
 				taxable_income_bonus bonus -8 requires size3
@@ -7771,7 +7771,7 @@ building port_buildings
 				
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				trade_base_income_bonus bonus 2 requires not blockaded
 				
 				taxable_income_bonus bonus -5 requires size1
@@ -7833,7 +7833,7 @@ building port_buildings
 				
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				trade_base_income_bonus bonus 4 requires not blockaded
 				
 				taxable_income_bonus bonus -10 requires size1
@@ -7909,7 +7909,7 @@ building port_buildings
 				
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				trade_base_income_bonus bonus 6 requires not blockaded
 				
 				taxable_income_bonus bonus -15 requires size1
@@ -7957,7 +7957,7 @@ building health
 				
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -1 requires size1
 				taxable_income_bonus bonus -1 requires size2
 				taxable_income_bonus bonus -2 requires size3
@@ -7989,7 +7989,7 @@ building health
 
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -2 requires size1
 				taxable_income_bonus bonus -2 requires size2
 				taxable_income_bonus bonus -4 requires size3
@@ -8021,7 +8021,7 @@ building health
 
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -3 requires size1
 				taxable_income_bonus bonus -3 requires size2
 				taxable_income_bonus bonus -6 requires size3
@@ -8053,7 +8053,7 @@ building health
 
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -4 requires size1
 				taxable_income_bonus bonus -4 requires size2
 				taxable_income_bonus bonus -8 requires size3
@@ -8379,7 +8379,7 @@ building academic
 				
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -2 requires size1
 				taxable_income_bonus bonus -2 requires size2
 				taxable_income_bonus bonus -4 requires size3
@@ -8413,7 +8413,7 @@ building academic
 				
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -3 requires size1
 				taxable_income_bonus bonus -3 requires size2
 				taxable_income_bonus bonus -6 requires size3
@@ -8447,7 +8447,7 @@ building academic
 				
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -4 requires size1
 				taxable_income_bonus bonus -4 requires size2
 				taxable_income_bonus bonus -8 requires size3
@@ -8498,7 +8498,7 @@ building amphitheatres
 				
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -5 requires size1
 				taxable_income_bonus bonus -5 requires size2
 				taxable_income_bonus bonus -6 requires size3
@@ -8536,7 +8536,7 @@ building amphitheatres
 				
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -10 requires size1
 				taxable_income_bonus bonus -10 requires size2
 				taxable_income_bonus bonus -12 requires size3
@@ -8575,7 +8575,7 @@ building amphitheatres
 				
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -15 requires size1
 				taxable_income_bonus bonus -15 requires size2
 				taxable_income_bonus bonus -18 requires size3
@@ -8617,7 +8617,7 @@ building theatres
 				
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -5 requires size1
 				taxable_income_bonus bonus -5 requires size2
 				taxable_income_bonus bonus -6 requires size3
@@ -8650,7 +8650,7 @@ building theatres
 				
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -10 requires size1
 				taxable_income_bonus bonus -10 requires size2
 				taxable_income_bonus bonus -12 requires size3
@@ -8683,7 +8683,7 @@ building theatres
 				
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -15 requires size1
 				taxable_income_bonus bonus -15 requires size2
 				taxable_income_bonus bonus -18 requires size3
@@ -8730,7 +8730,7 @@ building despotic_law
 				
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -5 requires size1
 				taxable_income_bonus bonus -5 requires size2
 				taxable_income_bonus bonus -6 requires size3
@@ -8763,7 +8763,7 @@ building despotic_law
 				
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -10 requires size1
 				taxable_income_bonus bonus -10 requires size2
 				taxable_income_bonus bonus -12 requires size3
@@ -8796,7 +8796,7 @@ building despotic_law
 				
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -15 requires size1
 				taxable_income_bonus bonus -15 requires size2
 				taxable_income_bonus bonus -18 requires size3
@@ -8912,7 +8912,7 @@ building taverns
 				
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -5 requires size1
 				taxable_income_bonus bonus -5 requires size2
 				taxable_income_bonus bonus -6 requires size3
@@ -8949,7 +8949,7 @@ building taverns
 				
 				;;;;;building rework;;;;;
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				taxable_income_bonus bonus -10 requires size1
 				taxable_income_bonus bonus -10 requires size2
 				taxable_income_bonus bonus -12 requires size3
@@ -9727,7 +9727,7 @@ building temple_of_battle
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 1
 				
 				;;;;;building rework;;;;;
@@ -9804,7 +9804,7 @@ building temple_of_battle
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb naked fanatics dacian"  0
 				happiness_bonus bonus 2
 				recruits_morale_bonus bonus 1
@@ -9883,7 +9883,7 @@ building temple_of_battle
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb naked fanatics dacian"  1
 				happiness_bonus bonus 3
 				recruits_morale_bonus bonus 2
@@ -9961,7 +9961,7 @@ building temple_of_battle
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb naked fanatics dacian"  1
 				
 				happiness_bonus bonus 4
@@ -10040,7 +10040,7 @@ building temple_of_battle
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb naked fanatics dacian"  1
 				
 				happiness_bonus bonus 8
@@ -10129,7 +10129,7 @@ building temple_of_battleforge
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 1
 				recruits_exp_bonus bonus 1
 				
@@ -10206,7 +10206,7 @@ building temple_of_battleforge
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb naked fanatics gauls"  0
 				happiness_bonus bonus 2
 				weapon_simple bonus 1
@@ -10285,7 +10285,7 @@ building temple_of_battleforge
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb naked fanatics gauls"  1
 				recruit "hounds of culann"  0
 				happiness_bonus bonus 3
@@ -10365,7 +10365,7 @@ building temple_of_battleforge
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb naked fanatics gauls"  1
 				recruit "hounds of culann"  0
 				happiness_bonus bonus 4
@@ -10446,7 +10446,7 @@ building temple_of_battleforge
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb naked fanatics gauls"  1
 				recruit "hounds of culann"  0
 				happiness_bonus bonus 5
@@ -10538,7 +10538,7 @@ building temple_of_farming
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 1
 				farming_level bonus 1
 				
@@ -10615,7 +10615,7 @@ building temple_of_farming
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 2
 				farming_level bonus 2
 				
@@ -10692,7 +10692,7 @@ building temple_of_farming
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 3
 				farming_level bonus 3
 				
@@ -10769,7 +10769,7 @@ building temple_of_farming
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 4
 				farming_level bonus 4
 				
@@ -10846,7 +10846,7 @@ building temple_of_farming
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 5
 				farming_level bonus 5
 				law_bonus bonus 2
@@ -10935,7 +10935,7 @@ building temple_of_fertility
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb screeching women german"  0
 				happiness_bonus bonus 1
 				population_growth_bonus bonus 1
@@ -11013,7 +11013,7 @@ building temple_of_fertility
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb screeching women german"  0
 				recruit "barb bow maidens"  0
 				
@@ -11093,7 +11093,7 @@ building temple_of_fertility
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb screeching women german"  0
 				recruit "barb bow maidens"  0
 				
@@ -11173,7 +11173,7 @@ building temple_of_fertility
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb screeching women german"  0
 				recruit "barb bow maidens"  0
 				recruit "vestal guard"  0	requires not hidden_resource rome
@@ -11254,7 +11254,7 @@ building temple_of_fertility
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb screeching women german"  0
 				recruit "barb bow maidens"  0
 				recruit "vestal guard"  0	requires not hidden_resource rome
@@ -11347,7 +11347,7 @@ building temple_of_forge
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 1
 				weapon_simple bonus 1
 				
@@ -11424,7 +11424,7 @@ building temple_of_forge
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 2
 				weapon_simple bonus 1
 				weapon_bladed bonus 1
@@ -11502,7 +11502,7 @@ building temple_of_forge
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 3
 				weapon_simple bonus 1
 				weapon_bladed bonus 1
@@ -11581,7 +11581,7 @@ building temple_of_forge
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 4
 				weapon_simple bonus 1
 				weapon_bladed bonus 1
@@ -11661,7 +11661,7 @@ building temple_of_forge
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 5
 				weapon_simple bonus 1
 				weapon_bladed bonus 1
@@ -11752,7 +11752,7 @@ building temple_of_fun
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 2
 				
 				;;;;;building rework;;;;;
@@ -11828,7 +11828,7 @@ building temple_of_fun
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 4
 				
 				;;;;;building rework;;;;;
@@ -11904,7 +11904,7 @@ building temple_of_fun
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 6
 				
 				;;;;;building rework;;;;;
@@ -11980,7 +11980,7 @@ building temple_of_fun
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 8
 				
 				;;;;;building rework;;;;;
@@ -12056,7 +12056,7 @@ building temple_of_fun
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 10
 				population_growth_bonus bonus 2
 				law_bonus bonus 2
@@ -12144,7 +12144,7 @@ building temple_of_governors
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 1
 				law_bonus bonus 1
 				
@@ -12221,7 +12221,7 @@ building temple_of_governors
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 2
 				law_bonus bonus 2
 				
@@ -12298,7 +12298,7 @@ building temple_of_governors
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 3
 				law_bonus bonus 3
 				
@@ -12375,7 +12375,7 @@ building temple_of_governors
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 4
 				law_bonus bonus 4
 				
@@ -12452,7 +12452,7 @@ building temple_of_governors
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 5
 				law_bonus bonus 5
 				farming_level bonus 2
@@ -12542,7 +12542,7 @@ building temple_of_healing
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 1
 				population_health_bonus bonus 1
 				
@@ -12619,7 +12619,7 @@ building temple_of_healing
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 2
 				population_health_bonus bonus 2
 				
@@ -12696,7 +12696,7 @@ building temple_of_healing
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb druids briton"  0
 				recruit "barb druidic warriors"  0
 				happiness_bonus bonus 3
@@ -12775,7 +12775,7 @@ building temple_of_healing
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb druids briton"  0
 				recruit "barb druidic warriors"  0
 				happiness_bonus bonus 4
@@ -12854,7 +12854,7 @@ building temple_of_healing
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb druids briton"  0
 				recruit "barb druidic warriors"  0
 				happiness_bonus bonus 5
@@ -12945,7 +12945,7 @@ building temple_of_horse
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 1
 				recruits_exp_bonus bonus 1
 				
@@ -13022,7 +13022,7 @@ building temple_of_horse
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 2
 				recruits_exp_bonus bonus 2
 				
@@ -13099,7 +13099,7 @@ building temple_of_horse
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "iberian lancers"  0
 				recruit "barb champion cavalry gaul"  0
 				recruit "iberian noble cavalry"  0
@@ -13179,7 +13179,7 @@ building temple_of_horse
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "iberian lancers"  0
 				recruit "barb champion cavalry gaul"  0
 				recruit "iberian noble cavalry"  0
@@ -13259,7 +13259,7 @@ building temple_of_horse
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "iberian lancers"  0
 				recruit "barb champion cavalry gaul"  0
 				recruit "iberian noble cavalry"  0
@@ -13349,7 +13349,7 @@ building temple_of_hunting
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 1
 				weapon_missile bonus 1
 				
@@ -13426,7 +13426,7 @@ building temple_of_hunting
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 2
 				weapon_missile bonus 2
 				
@@ -13503,7 +13503,7 @@ building temple_of_hunting
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "celtic berserker"  0
 				happiness_bonus bonus 3
 				weapon_missile bonus 3
@@ -13581,7 +13581,7 @@ building temple_of_hunting
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "celtic berserker"  0
 				happiness_bonus bonus 5
 				weapon_missile bonus 3
@@ -13659,7 +13659,7 @@ building temple_of_hunting
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "celtic berserker"  0
 				happiness_bonus bonus 5
 				weapon_missile bonus 3
@@ -13749,7 +13749,7 @@ building temple_of_justice
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 1
 				law_bonus bonus 1
 				
@@ -13826,7 +13826,7 @@ building temple_of_justice
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb naked fanatics spain"  0
 				happiness_bonus bonus 2
 				law_bonus bonus 2
@@ -13904,7 +13904,7 @@ building temple_of_justice
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb druids gaul"  0
 				recruit "barb naked fanatics spain"  1
 				recruit "spanish bull warriors"  0
@@ -13985,7 +13985,7 @@ building temple_of_justice
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb druids gaul"  0
 				recruit "barb naked fanatics spain"  1
 				recruit "spanish bull warriors"  0
@@ -14068,7 +14068,7 @@ building temple_of_justice
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb druids gaul"  0
 				recruit "barb naked fanatics spain"  1
 				recruit "spanish bull warriors"  0
@@ -14163,7 +14163,7 @@ building temple_of_law
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 1
 				law_bonus bonus 1
 				
@@ -14240,7 +14240,7 @@ building temple_of_law
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 2
 				law_bonus bonus 2
 				
@@ -14317,7 +14317,7 @@ building temple_of_law
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 3
 				law_bonus bonus 3
 				
@@ -14394,7 +14394,7 @@ building temple_of_law
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "roman arcani"  0
 				happiness_bonus bonus 4
 				law_bonus bonus 4
@@ -14563,7 +14563,7 @@ building temple_of_leadership
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 1
 				law_bonus bonus 1
 				
@@ -14640,7 +14640,7 @@ building temple_of_leadership
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 2
 				law_bonus bonus 2
 				
@@ -14718,7 +14718,7 @@ building temple_of_leadership
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 3
 				law_bonus bonus 3
 				
@@ -14795,7 +14795,7 @@ building temple_of_leadership
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "roman arcani"  0
 				happiness_bonus bonus 4
 				law_bonus bonus 4
@@ -14874,7 +14874,7 @@ building temple_of_leadership
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 98
+				taxable_income_bonus bonus 88
 				recruit "roman arcani"  0
 				happiness_bonus bonus 7
 				law_bonus bonus 8
@@ -14964,7 +14964,7 @@ building temple_of_love
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 1
 				population_growth_bonus bonus 1
 				
@@ -15041,7 +15041,7 @@ building temple_of_love
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb head hunting maidens scythian"  0
 				happiness_bonus bonus 2
 				population_growth_bonus bonus 2
@@ -15119,7 +15119,7 @@ building temple_of_love
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb head hunting maidens scythian"  0
 				recruit "barb scythian noblewomen scythian"  0
 				recruit "barb saka noblewomen saka"  0
@@ -15199,7 +15199,7 @@ building temple_of_love
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb head hunting maidens scythian"  0
 				recruit "barb scythian noblewomen scythian"  0
 				recruit "barb saka noblewomen saka"  0
@@ -15279,7 +15279,7 @@ building temple_of_love
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb head hunting maidens scythian"  0
 				recruit "barb scythian noblewomen scythian"  0
 				recruit "barb saka noblewomen saka"  0
@@ -15372,7 +15372,7 @@ building temple_of_naval
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 1
 				
 				;;;;;building rework;;;;;
@@ -15448,7 +15448,7 @@ building temple_of_naval
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 2
 				
 				;;;;;building rework;;;;;
@@ -15524,7 +15524,7 @@ building temple_of_naval
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 3
 				
 				;;;;;building rework;;;;;
@@ -15600,7 +15600,7 @@ building temple_of_naval
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 4
 				
 				;;;;;building rework;;;;;
@@ -15676,7 +15676,7 @@ building temple_of_naval
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 5
 				law_bonus bonus 2
 				weapon_simple bonus 1
@@ -15766,7 +15766,7 @@ building temple_of_one_god
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 1
 				law_bonus bonus 1
 				
@@ -15843,7 +15843,7 @@ building temple_of_one_god
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 2
 				law_bonus bonus 2
 				
@@ -15920,7 +15920,7 @@ building temple_of_one_god
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 3
 				law_bonus bonus 3
 				
@@ -15997,7 +15997,7 @@ building temple_of_one_god
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 4
 				law_bonus bonus 4
 				
@@ -16074,7 +16074,7 @@ building temple_of_one_god
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 5
 				law_bonus bonus 5
 				
@@ -16161,7 +16161,7 @@ building temple_of_trade
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb screeching women barbarian"  0
 				
 				happiness_bonus bonus 1
@@ -16240,7 +16240,7 @@ building temple_of_trade
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb screeching women barbarian"  0
 				
 				happiness_bonus bonus 2
@@ -16319,7 +16319,7 @@ building temple_of_trade
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb screeching women barbarian"  0
 				recruit "briton axe maidens"  0
 				recruit "caledonian axe maidens"  0
@@ -16401,7 +16401,7 @@ building temple_of_trade
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb screeching women barbarian"  0
 				recruit "briton axe maidens"  0
 				recruit "caledonian axe maidens"  0
@@ -16483,7 +16483,7 @@ building temple_of_trade
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb screeching women barbarian"  0
 				recruit "briton axe maidens"  0
 				recruit "caledonian axe maidens"  0
@@ -16577,7 +16577,7 @@ building temple_of_victory
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "warband woad briton"  0
 				happiness_bonus bonus 1
 				
@@ -16654,7 +16654,7 @@ building temple_of_victory
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "warband woad briton"  0
 				recruit "warband hurler briton"  0
 				happiness_bonus bonus 2
@@ -16733,7 +16733,7 @@ building temple_of_victory
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "warband woad briton"  1
 				recruit "warband hurler briton"  1
 				recruit "celtic berserker"  0
@@ -16813,7 +16813,7 @@ building temple_of_victory
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "warband woad briton"  1
 				recruit "warband hurler briton"  1
 				recruit "celtic berserker"  0
@@ -16893,7 +16893,7 @@ building temple_of_victory
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "warband woad briton"  1
 				recruit "warband hurler briton"  1
 				recruit "celtic berserker"  0
@@ -16986,7 +16986,7 @@ building temple_of_violence
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 1
 				
 				;;;;;building rework;;;;;
@@ -17062,7 +17062,7 @@ building temple_of_violence
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 2
 				recruits_exp_bonus bonus 1
 				
@@ -17139,7 +17139,7 @@ building temple_of_violence
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb berserker german"  0
 				happiness_bonus bonus 3
 				recruits_exp_bonus bonus 2
@@ -17217,7 +17217,7 @@ building temple_of_violence
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb berserker german"  0
 				recruit "roman arcani"  0
 				happiness_bonus bonus 4
@@ -17296,7 +17296,7 @@ building temple_of_violence
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb berserker german"  0
 				recruit "roman arcani"  0
 				happiness_bonus bonus 5
@@ -17388,7 +17388,7 @@ building temple_of_viking
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 1
 				recruits_exp_bonus bonus 1
 				
@@ -17465,7 +17465,7 @@ building temple_of_viking
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb naked fanatics german"  0
 				happiness_bonus bonus 2
 				recruits_exp_bonus bonus 2
@@ -17543,7 +17543,7 @@ building temple_of_viking
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				recruit "barb naked fanatics german"  0
 				recruit "barb gothic cavalry german"  0
 				happiness_bonus bonus 3
@@ -17632,7 +17632,7 @@ building temple_of_horse_2
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 1
 				recruits_exp_bonus bonus 1
 				
@@ -17709,7 +17709,7 @@ building temple_of_horse_2
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 2
 				recruits_exp_bonus bonus 2
 				
@@ -17786,7 +17786,7 @@ building temple_of_horse_2
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				happiness_bonus bonus 3
 				recruits_exp_bonus bonus 3
 				
@@ -17880,7 +17880,7 @@ building temple_of_alexander
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				law_bonus bonus 1
 				recruits_exp_bonus bonus 2
 				
@@ -17957,7 +17957,7 @@ building temple_of_alexander
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				law_bonus bonus 2
 				recruits_exp_bonus bonus 3
 				
@@ -18034,7 +18034,7 @@ building temple_of_alexander
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				law_bonus bonus 3
 				recruits_exp_bonus bonus 4
 				
@@ -18111,7 +18111,7 @@ building temple_of_alexander
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				law_bonus bonus 4
 				recruits_exp_bonus bonus 4
 				recruits_morale_bonus bonus 1
@@ -18189,7 +18189,7 @@ building temple_of_alexander
 				taxable_income_bonus bonus 6
 				trade_base_income_bonus bonus 1
 
-				taxable_income_bonus bonus 9
+				taxable_income_bonus bonus 8
 				law_bonus bonus 5
 				recruits_exp_bonus bonus 4
 				recruits_morale_bonus bonus 2
