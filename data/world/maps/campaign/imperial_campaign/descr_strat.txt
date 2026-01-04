@@ -41164,24 +41164,6 @@ settlement
 settlement
 {
 	level town
-	region Korounkala_R
-
-	year_founded 0
-	population 1000
-	plan_set default_set
-	faction_creator india
-	building
-	{
-		type core_building governors_house
-	}
-	building
-	{
-		type defenses wooden_pallisade
-	}
-}
-settlement
-{
-	level town
 	region Souannagoura_R
 
 	year_founded 0
@@ -42587,11 +42569,6 @@ unit		Indian Spearmen				exp 0 armour 0 weapon_lvl 0
 
 ;	Souannagoura
 character	Taharqa, general, age 20, , x 984, y 260
-army
-unit		Indian Spearmen				exp 0 armour 0 weapon_lvl 0
-
-;	Korounkala
-character	Taharqa, general, age 20, , x 921, y 155
 army
 unit		Indian Spearmen				exp 0 armour 0 weapon_lvl 0
 
@@ -46760,7 +46737,7 @@ settlement
 	region Nur_R
 
 	year_founded 0
-	population 590
+	population 400
 	plan_set default_set
 	faction_creator chorasmia
 	building
@@ -46778,7 +46755,7 @@ settlement
 	region MaroukaCity_R
 
 	year_founded 0
-	population 420
+	population 300
 	plan_set default_set
 	faction_creator ferghana
 	building
@@ -46796,9 +46773,29 @@ settlement
 	region Kandanavolu_R
 
 	year_founded 0
-	population 400
+	population 300
 	plan_set default_set
 	faction_creator india
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+}
+settlement
+{
+	level town
+	region Korounkala_R
+
+	year_founded 0
+	population 300
+	plan_set default_set
+	faction_creator india
+	garrisoned_army
+	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	building
 	{
 		type core_building governors_house
@@ -46814,7 +46811,7 @@ settlement
 	region Banderbeyla_R
 
 	year_founded 0
-	population 400
+	population 300
 	plan_set default_set
 	faction_creator axum
 	garrisoned_army
@@ -46842,7 +46839,7 @@ settlement
 	region Xerogerei_R
 
 	year_founded 0
-	population 390
+	population 300
 	plan_set default_set
 	faction_creator india
 	garrisoned_army
@@ -46899,7 +46896,7 @@ settlement
 	region Narmadapura_R
 
 	year_founded 0
-	population 340
+	population 300
 	plan_set default_set
 	faction_creator india
 	garrisoned_army
@@ -46950,9 +46947,9 @@ settlement
 	population 300
 	plan_set default_set
 	faction_creator india
-	building
 	garrisoned_army
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
+	building
 	{
 		type core_building governors_house
 	}
@@ -46968,12 +46965,10 @@ settlement
 	region Viduranagara_R
 
 	year_founded 0
-	population 350
+	population 300
 	plan_set default_set
 	faction_creator india
 	garrisoned_army
-	unit	east infantry		exp 0 armour 0 weapon_lvl 0
-	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
@@ -46994,13 +46989,10 @@ settlement
 	region Nivas_R
 
 	year_founded 0
-	population 303
+	population 300
 	plan_set default_set
 	faction_creator india
 	garrisoned_army
-	unit	east infantry		exp 0 armour 0 weapon_lvl 0
-	unit	east infantry		exp 0 armour 0 weapon_lvl 0
-	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
@@ -47115,7 +47107,7 @@ settlement
 	region Astaepolis_Dufar_R
 
 	year_founded 0
-	population 340
+	population 300
 	plan_set default_set
 	faction_creator gerrha
 	garrisoned_army
@@ -47150,15 +47142,10 @@ settlement
 	region Sarapis_Dufar_R
 
 	year_founded 0
-	population 350
+	population 300
 	plan_set default_set
 	faction_creator gerrha
 	garrisoned_army
-	unit	east infantry		exp 0 armour 0 weapon_lvl 0
-	unit	east infantry		exp 0 armour 0 weapon_lvl 0
-	unit	east infantry		exp 0 armour 0 weapon_lvl 0
-	unit	east infantry		exp 0 armour 0 weapon_lvl 0
-	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
@@ -47183,13 +47170,10 @@ settlement
 	region Agathokleous_R
 
 	year_founded 0
-	population 302
+	population 300
 	plan_set default_set
 	faction_creator gerrha
 	garrisoned_army
-	unit	east infantry		exp 0 armour 0 weapon_lvl 0
-	unit	east infantry		exp 0 armour 0 weapon_lvl 0
-	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
@@ -47216,7 +47200,7 @@ settlement
 	region Agrinagara_R
 
 	year_founded 0
-	population 380
+	population 300
 	plan_set default_set
 	faction_creator india
 	garrisoned_army
@@ -47242,7 +47226,7 @@ settlement
 	region Padmavati_R
 
 	year_founded 0
-	population 400
+	population 300
 	plan_set default_set
 	faction_creator india
 	garrisoned_army
