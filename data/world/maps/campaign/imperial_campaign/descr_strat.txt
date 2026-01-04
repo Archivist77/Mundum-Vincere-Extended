@@ -46408,7 +46408,7 @@ settlement
 	region Dayya_R
 
 	year_founded 0
-	population 1095
+	population 300
 	plan_set default_set
 	faction_creator antiochea_taocene
 	building
@@ -46417,23 +46417,11 @@ settlement
 	}
 	building
 	{
-		type core_building governors_villa
-	}
-	building
-	{
-		type barracks militia_barracks
-	}
-	building
-	{
-		type equestrian stables
+		type core_building governors_house
 	}
 	building
 	{
 		type defenses wooden_pallisade
-	}
-	building
-	{
-		type hinterland_roads roads
 	}
 }
 settlement
