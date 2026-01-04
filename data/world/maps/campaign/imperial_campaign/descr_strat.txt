@@ -46465,12 +46465,13 @@ settlement
 	region Bushahr_R
 
 	year_founded 0
-	population 305
+	population 300
 	plan_set default_set
 	faction_creator antiochea_taocene
 	garrisoned_army
 	unit	greek medium cavalry	exp 8 armour 2 weapon_lvl 3
 	unit	greek medium cavalry	exp 8 armour 2 weapon_lvl 3
+	unit	greek medium cavalry	exp 8 armour 2 weapon_lvl 3
 	unit	greek hoplite		exp 5 armour 2 weapon_lvl 3
 	unit	greek hoplite		exp 5 armour 2 weapon_lvl 3
 	unit	greek hoplite		exp 5 armour 2 weapon_lvl 3
@@ -46480,6 +46481,9 @@ settlement
 	unit	east infantry		exp 3 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
+	unit	east infantry		exp 0 armour 0 weapon_lvl 0
+	unit	east infantry		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
@@ -46504,10 +46508,11 @@ settlement
 	region Fariyah_R
 
 	year_founded 0
-	population 510
+	population 320
 	plan_set default_set
 	faction_creator antiochea_taocene
 	garrisoned_army
+	unit	greek medium cavalry	exp 8 armour 2 weapon_lvl 3
 	unit	greek medium cavalry	exp 8 armour 2 weapon_lvl 3
 	unit	greek hoplite		exp 5 armour 2 weapon_lvl 3
 	unit	greek hoplite		exp 5 armour 2 weapon_lvl 3
@@ -46516,7 +46521,10 @@ settlement
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
-	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
+	unit	east infantry		exp 0 armour 0 weapon_lvl 0
+	unit	east infantry		exp 0 armour 0 weapon_lvl 0
+	unit	east infantry		exp 0 armour 0 weapon_lvl 0
+	unit	greek hoplite militia		exp 1 armour 0 weapon_lvl 0
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
@@ -46553,13 +46561,14 @@ settlement
 	unit	east infantry		exp 2 armour 0 weapon_lvl 0
 	unit	east infantry		exp 2 armour 0 weapon_lvl 0
 	unit	east infantry		exp 2 armour 0 weapon_lvl 0
+	unit	east infantry		exp 2 armour 0 weapon_lvl 0
 	unit	east infantry		exp 1 armour 0 weapon_lvl 0
 	unit	east infantry		exp 1 armour 0 weapon_lvl 0
 	unit	east infantry		exp 1 armour 0 weapon_lvl 0
 	unit	east infantry		exp 1 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
-	unit	east infantry		exp 0 armour 0 weapon_lvl 0
+	unit	greek medium cavalry	exp 8 armour 2 weapon_lvl 3
 	unit	greek hoplite militia		exp 0 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
@@ -46630,6 +46639,7 @@ unit		greek general's guard cavalry early		exp 9 armour 3 weapon_lvl 3
 unit		greek general's guard cavalry early		exp 9 armour 3 weapon_lvl 3
 unit		greek general's guard cavalry early		exp 9 armour 3 weapon_lvl 3
 unit		greek medium cavalry		exp 8 armour 2 weapon_lvl 3
+unit		greek medium cavalry		exp 8 armour 2 weapon_lvl 3
 unit		greek hoplite		exp 5 armour 2 weapon_lvl 3
 unit		taoceneian irregulars		exp 9 armour 2 weapon_lvl 2
 unit		taoceneian irregulars		exp 8 armour 1 weapon_lvl 2
@@ -46648,7 +46658,7 @@ unit		east archer		exp 8 armour 1 weapon_lvl 3
 
 character_record		Arxa, 	female, command 0, influence 0, management 0, subterfuge 0, age 36, alive, never_a_leader
 character_record		Herakles of Epardus, 	male, command 9, influence 9, management 9, subterfuge 9, age 15, alive, never_a_leader
-character_record		Synges of Epardus, 	male, command 0, influence 4, management 3, subterfuge 1, age 14, alive, never_a_leader
+character_record		Synges of Epardus, 	male, command 0, influence 5, management 3, subterfuge 1, age 14, alive, never_a_leader
 
 relative 	Adamanthaleus of Epardus, 	Arxa,		Herakles of Epardus,	    Synges of Epardus,	end
 
@@ -46663,7 +46673,7 @@ relative 	Adamanthaleus of Epardus, 	Arxa,		Herakles of Epardus,	    Synges of E
 
 faction	corinth, greek_passive
 dead_until_resurrected
-denari	-19000
+denari	-29000
 ;;character	Oenomaus Bacchides, named character, leader, age 38, , x 227, y 202 ;;coords outdated
 ;;traits GoodCommander 2, GoodAdministrator 2
 ;;army
@@ -46678,7 +46688,7 @@ denari	-19000
 
 faction	neapolis, greek_passive
 dead_until_resurrected
-denari	2000
+denari	-2000
 
 faction	thessaly, greek_passive
 dead_until_resurrected
@@ -47008,7 +47018,7 @@ settlement
 	region Nivas_R
 
 	year_founded 0
-	population 400
+	population 303
 	plan_set default_set
 	faction_creator india
 	garrisoned_army
@@ -47034,7 +47044,7 @@ settlement
 	region Pano_R
 
 	year_founded 0
-	population 380
+	population 300
 	plan_set default_set
 	faction_creator axum
 	garrisoned_army
@@ -47095,11 +47105,10 @@ settlement
 	region Pylamnus_Aethiopis_R
 
 	year_founded 0
-	population 315
+	population 300
 	plan_set default_set
 	faction_creator axum
 	garrisoned_army
-	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
 	unit	east infantry		exp 0 armour 0 weapon_lvl 0
